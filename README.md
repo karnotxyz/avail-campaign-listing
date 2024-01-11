@@ -29,4 +29,4 @@ format to listing.json.
 1. Checkout from the main branch
 2. Create a PR with the name "✨ Adding <app_chain_name>"
 
-Checkout this sample [PR]().
+Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/1).
