@@ -6,12 +6,12 @@ format to listing.json.
 
 ```json
 {
-    "name": "my_app_chain",
-    "logo": "https://placehold.co/400x400",
-    "rpc_url": "https://rpc.myappchain.xyz",
-    "explorer_url": "https://explorer.myappchain.xyz",
-    "metrics_endpoint": "https://metrics.myappchain.xyz",
-    "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "my_app_chain",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "https://explorer.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
 }
 ```
 
@@ -19,10 +19,9 @@ format to listing.json.
 
 1. `name`: The name of your app chain.
 2. `logo`: A image link for the logo of your app chain
-3. `rpc_url`: A public endpoint for app chain to make RPC calls (port 9944 by default)
+3. `rpc_url`: A public endpoint for your app chain to make RPC calls (port 9944 by default)
 4. `explorer_url`: A public endpoint where your app chain explorer is visible
-5. `metrics_endpoint`: A public endpoint for your prometheus metrics ((port 9615 by default))
-
+5. `metrics_endpoint`: A public endpoint for your prometheus metrics (port 9615 by default)
 
 ## PR instructions
 
