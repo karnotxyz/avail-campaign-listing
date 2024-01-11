@@ -15,10 +15,18 @@ format to listing.json.
 }
 ```
 
-## Guide
+## Details
 
 1. `name`: The name of your app chain.
 2. `logo`: A image link for the logo of your app chain
 3. `rpc_url`: A public endpoint for app chain to make RPC calls (port 9944 by default)
 4. `explorer_url`: A public endpoint where your app chain explorer is visible
 5. `metrics_endpoint`: A public endpoint for your prometheus metrics ((port 9615 by default))
+
+
+## PR instructions
+
+1. Checkout from the main branch
+2. Create a PR with the name "✨ Adding <app_chain_name>"
+
+Checkout this sample [PR]().
