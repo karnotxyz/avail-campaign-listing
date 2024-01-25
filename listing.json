@@ -1,1 +1,8 @@
-[]
+{
+  "name": "validator247",
+  "logo": "https://example.com/logo.png",
+  "rpc_url": "https://rpc.validator247.com",
+  "explorer_url": "https://explorer.validator247.com",
+  "metrics_endpoint": "https://metrics.validator247.com",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
