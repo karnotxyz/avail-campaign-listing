@@ -1,0 +1,8 @@
+{
+  "name": "SRKNNODE",
+  "logo": "https://github.com/CoinHuntersTR/Avail-Full-Node/assets/111747226/5bb58c09-1476-4331-bf83-e38f0622218c",
+  "rpc_url": "http://65.21.150.237:9944",
+  "explorer_url": "http://65.21.150.237:4000",
+  "metrics_endpoint": "http://65.21.150.237:9615",
+  "id": "12D3KooWFAjQuESZyM2NPp4coRDtkrvH8X3RN2MyMrDxHarTwzUK"
+}
