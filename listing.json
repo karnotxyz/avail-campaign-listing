@@ -1,8 +1,8 @@
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.mychain.xyz",
-  "explorer_url": "https://explorer.mychain.xyz",
-  "metrics_endpoint": "https://metrics.mychain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "ennezeta",
+  "logo": "https://i.pinimg.com/736x/69/64/7e/69647eb4e83a374433831f3771202458.jpg",
+  "rpc_url": "http://135.181.202.253:9944/",
+  "explorer_url": "http://135.181.202.253:4000/",
+  "metrics_endpoint": "http://135.181.202.253:9615/",
+  "id": "12D3KooWBqmD1f6V31DSjSzNEgYkEzous7vN8TgDQsUMz6LMjG5m"
 }
