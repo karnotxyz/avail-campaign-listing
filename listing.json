@@ -1,1 +1,10 @@
-[]
+[
+{
+  "name": "Echo",
+  "logo": "https://ipfs.io/ipfs/QmXKL5wpMt6vwzx8WrMqtAweqyo4ee9xKYNk2Vuy52zqrn",
+  "rpc_url": "http://103.99.115.16:9944",
+  "explorer_url": "http://103.99.115.16:4000",
+  "metrics_endpoint": "http://103.99.115.16:9615",
+  "id": "080570D6-5FC0-4200-9E26-D4CC0AF6A700"
+}
+]
