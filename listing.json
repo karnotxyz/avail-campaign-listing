@@ -1,1 +1,8 @@
-[]
+{
+    "name": "iamshaho",
+    "logo": "https://raw.githubusercontent.com/TheShaho/Eigen/main/logo.png",
+    "rpc_url": "http://82.115.20.168:9944",
+    "explorer_url": "http://82.115.20.168:4000",
+    "metrics_endpoint": "http://82.115.20.168:9615",
+    "id": "fbc018e1-1e77-49bd-99d0-444ad248ef59"
+  }
