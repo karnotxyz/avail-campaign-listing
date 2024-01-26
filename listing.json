@@ -1,1 +1,8 @@
-[]
+{
+  "name": "hoody",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://rpc.hoody.nyarr.click",
+  "explorer_url": "https://explorer.hoody.nyarr.click",
+  "metrics_endpoint": "https://metrics.hoody.nyarr.click",
+  "id": "aee4d3d5-e644-4e8c-a45b-a315de61dabe"
+}
