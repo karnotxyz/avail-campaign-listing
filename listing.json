@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "emremet",
+    "logo": "https://i.imgur.com/w4hjP0f.jpg",
+    "rpc_url": "https://139.177.205.196:9944",
+    "explorer_url": "https://139.177.205.196:4000",
+    "metrics_endpoint": "https://139.177.205.196:9615",
+    "id": "7367aaee-efa5-4a16-984e-96bcf9bf1e12"
+  }
+]
