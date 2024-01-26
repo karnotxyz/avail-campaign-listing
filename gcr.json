@@ -1,0 +1,10 @@
+[
+  {
+    "name": "gcr",
+    "logo": "https://i.ibb.co/jMsFJPV/gcr-5069493-1.jpg",
+    "rpc_url": "http://144.91.79.52:9944",
+    "explorer_url": "http://144.91.79.52:4000",
+    "metrics_endpoint": "http://144.91.79.52:9615",
+    "id": "d3c84ba3-8518-40f5-8412-d1c176d9ce11"
+  }
+]
