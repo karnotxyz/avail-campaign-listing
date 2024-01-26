@@ -1,1 +1,8 @@
-[]
+{
+  "name": "vikanren",
+  "logo": "https://r.resimlink.com/dlqFRP.png",
+  "rpc_url": "http://20.15.105.134:9944",
+  "explorer_url": "http://20.15.105.134:4000",
+  "metrics_endpoint": "http://20.15.105.134:9615",
+  "id": "0"
+}
