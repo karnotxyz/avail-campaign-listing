@@ -1,10 +1,10 @@
 [
   {
-    "name": "my_app_chain",
-    "logo": "https://placehold.co/400x400",
-    "rpc_url": "https://rpc.myappchain.xyz",
-    "explorer_url": "https://explorer.myappchain.xyz",
-    "metrics_endpoint": "https://metrics.myappchain.xyz",
+    "name": "MooseAppChain",
+    "logo": "https://ibb.co/HFR8NJH",
+    "rpc_url": "http://84.247.164.205:9944/",
+    "explorer_url": "http://84.247.164.205:4000/",
+    "metrics_endpoint": "http://84.247.164.205:9615/",
     "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
   }
 ]
