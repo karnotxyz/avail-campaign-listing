@@ -1,0 +1,8 @@
+{
+  "name": "mrteesoft",
+  "logo": "https://placehold.co/600x400/orange/white,"
+  "rpc_url": "http://192.168.0.103:9944/",
+  "explorer_url": "http://192.168.0.103:4000/",
+  "metrics_endpoint": "http://192.168.0.103:9615/",
+  "id": "88ea4992-a2d8-4162-8bf7-87df34a1acc3"
+}
