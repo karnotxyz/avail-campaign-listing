@@ -1,1 +1,8 @@
-[]
+{
+    "name": "prodbygog",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106862644/299819672-8fbcc4d0-798a-497b-a8c3-48f9a2a88a21.png",
+    "rpc_url": "http://194.163.175.194:9944",
+    "explorer_url": "http://194.163.175.194:4000",
+    "metrics_endpoint": "http://194.163.175.194:9615",
+    "id": "6087f33e-9cc2-4fdb-b5c7-e18af778cc55"
+  }
