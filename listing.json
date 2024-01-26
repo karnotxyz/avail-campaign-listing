@@ -4,7 +4,7 @@
     "logo": "https://placehold.co/400x400",
     "rpc_url": "http://13.233.147.212:9944",
     "explorer_url": "http://13.233.147.212:4000",
-    "metrics_endpoint": "http://13.233.147.212:9615",
+    "metrics_endpoint": "http://13.233.147.212:9615/metrics",
     "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
   }
 ]
