@@ -1,10 +1,8 @@
 {
   "name": "vinhhathacha",
-  "logo": "https://ecosystem.kynraze.com/kynraze.png",
-     "rpc_url": "http://185.194.216.61:9944",
-    "explorer_url": "http://185.194.216.61:4000",
-    "metrics_endpoint": "http://185.194.216.61:9615",
+  "logo": "http://185.194.216.61:9944",
+  "rpc_url": "http://185.194.216.61:4000",
+  "explorer_url": "https://explorer-madara.kynraze.com",
+  "metrics_endpoint": "http://185.194.216.61:9615"
   "id": "63bf7877-1a02-45a8-a4ec-16d676c03712"
 }
-
- 
