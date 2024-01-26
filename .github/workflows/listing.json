@@ -1,0 +1,8 @@
+{
+  "name": "narutoruna",
+  "logo": "https://add.pics/images/2024/01/26/narutoruna.png",
+  "rpc_url": "http://160.248.2.227:9944/",
+  "explorer_url": "http://160.248.2.227:4000/",
+  "metrics_endpoint": "http://160.248.2.227:9615/",
+  "id": "441dfb03-b5a7-40d7-af6e-6c3097258940"
+}
