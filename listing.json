@@ -1,8 +1,8 @@
 {
   "name": "vikanren",
   "logo": "https://r.resimlink.com/dlqFRP.png",
-  "rpc_url": "http://20.15.105.134:9944",
-  "explorer_url": "http://20.15.105.134:4000",
-  "metrics_endpoint": "http://20.15.105.134:9615",
+  "rpc_url": "http://vikanren.xyz:9944",
+  "explorer_url": "http://vikanren.xyz:4000",
+  "metrics_endpoint": "http://vikanren.xyz:9615",
   "id": "ff08d88a-72b6-4305-b21b-49e6712f43e9"
 }
