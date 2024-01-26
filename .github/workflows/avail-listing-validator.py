@@ -1,4 +1,6 @@
 import json
+import uuid
+
 import requests
 import sys
 
@@ -29,6 +31,12 @@ def check_required_keys(obj):
         if key not in obj:
             print(f"Error: The JSON file does not contain a {key} field.")
             sys.exit(1)
+        if key == "id":
+            try:
+                val = uuid.UUID(obj[key])
+            except Exception:
+                print(f"Error: KEY provided {key} is not a valid UUID.")
+                sys.exit(1)
 
 
 def check_url_status_code(obj):
@@ -67,10 +75,12 @@ def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
     RPC_URLS = []
     METRICS_URLS = []
     EXPLORER_URLS = []
+    IDS = []
     for entry in main_json:
         RPC_URLS.append(entry["rpc_url"])
         METRICS_URLS.append(entry["metrics_endpoint"])
         EXPLORER_URLS.append(entry["explorer_url"])
+        IDS.append(entry["id"])
 
     if latest_entry["rpc_url"] in RPC_URLS:
         print(f"Error: The RPC URL {latest_entry['rpc_url']} is already present in the JSON file.")
@@ -81,6 +91,9 @@ def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
     if latest_entry["explorer_url"] in EXPLORER_URLS:
         print(f"Error: The Explorer URL {latest_entry['explorer_url']} is already present in the JSON file.")
         sys.exit(1)
+    if latest_entry["id"] in IDS:
+        print(f"Error: The ID {latest_entry['id']} is already present in the JSON file.")
+        sys.exit(1)
 
 
 if __name__ == '__main__':
@@ -90,4 +103,3 @@ if __name__ == '__main__':
     check_url_status_code(obj=latest_entry)
     data = download_json_file(JSON_URL)
     check_duplicate_urls_in_latest_entry(data, latest_entry)
-
