@@ -1,1 +1,8 @@
-[]
+{
+  "name": "sorai",
+  "logo": "https://i.ibb.co/zHLcGr1/sorai-6389457-1.png",
+  "rpc_url": "http://216.98.13.170:9944",
+  "explorer_url": "http://216.98.13.170:4000",
+  "metrics_endpoint": "http://216.98.13.170:9615",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
