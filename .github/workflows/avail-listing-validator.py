@@ -42,7 +42,7 @@ def check_required_keys(obj):
 def check_url_status_code(obj):
     try:
         if "rpc_url" in obj:
-            response = requests.head(obj["rpc_url"] + "/health")
+            response = requests.get(obj["rpc_url"] + "/health")
             if response.status_code != 200:
                 print(f"Error: The RPC URL {obj['rpc_url']} is not accessible.")
                 sys.exit(1)
@@ -51,7 +51,7 @@ def check_url_status_code(obj):
             sys.exit(1)
 
         if "explorer_url" in obj:
-            response = requests.head(obj["explorer_url"])
+            response = requests.get(obj["explorer_url"])
             if response.status_code != 200:
                 print(f"Error: The Explorer URL {obj['explorer_url']} is not accessible.")
                 sys.exit(1)
@@ -60,7 +60,7 @@ def check_url_status_code(obj):
             sys.exit(1)
 
         if "metrics_endpoint" in obj:
-            response = requests.head(obj["metrics_endpoint"] + "/metrics")
+            response = requests.get(obj["metrics_endpoint"] + "/metrics")
             if response.status_code != 200:
                 print(f"Error: The Metrics URL {obj['metrics_endpoint']} is not accessible.")
                 sys.exit(1)
