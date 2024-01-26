@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "mmuatt",
+    "logo": "https://i.imgur.com/FSnniB7.png",
+    "rpc_url": "http://49.12.237.60:9944/",
+    "explorer_url": "http://49.12.237.60:4000/",
+    "metrics_endpoint": "http://49.12.237.60:9615/",
+    "id": "8a4e1bdc-7dd9-4f8f-9a3d-dc75642e3be4"
+  }
+]
