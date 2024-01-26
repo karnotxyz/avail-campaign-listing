@@ -1,1 +1,8 @@
-[]
+{
+  "name": "chiricato",
+  "logo": "https://i.im.ge/2024/01/26/buMVIT.chiricato.png",
+  "rpc_url": "http://173.212.248.41:9944/",
+  "explorer_url": "http://173.212.248.41:4000/",
+  "metrics_endpoint": "http://173.212.248.41:9615/",
+  "id": "95e34619-1953-4655-8843-cf107330cbc2"
+}
