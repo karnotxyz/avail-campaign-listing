@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "“punq”",
+    "logo": "https://im.ge/i/bTBV0L",
+    "rpc_url": "http://65.108.129.239:9944/",
+    "explorer_url": "http://65.108.129.239:4000",
+    "metrics_endpoint": "http://65.108.129.239:9615/",
+    "id": "12D3KooWPzkLwnPRxKd9qNq9mo7mWGMZBuaFGTKLZZ2GwkmiBkoz"
+  }
+]
