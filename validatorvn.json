@@ -1,0 +1,8 @@
+{
+  "name": "validatorvn",
+  "logo": "https://ibb.co/XbzB77h",
+  "rpc_url": "http://95.217.203.60:9944",
+  "explorer_url": "http://95.217.203.60:4000",
+  "metrics_endpoint": "http://95.217.203.60:9615",
+  "id": "086ab56c-4117-4a15-8670-338e0c85b377"
+}
