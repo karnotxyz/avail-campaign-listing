@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "XNode",
+    "logo": "https://xnode.tech/images/xnode-logo.svg",
+    "rpc_url": "https://rpc.xnode.tech",
+    "explorer_url": "https://explorer.xnode.tech",
+    "metrics_endpoint": "https://metrics.xnode.tech",
+    "id": "ce88cac5-a464-43a5-9ea7-312a8de1e179"
+  }
+]
