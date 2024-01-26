@@ -1,4 +1,5 @@
- {
+[
+  {
     "name": "MooseAppChain",
     "logo": "https://ibb.co/HFR8NJH",
     "rpc_url": "http://84.247.164.205:9944",
@@ -6,3 +7,4 @@
     "metrics_endpoint": "http://84.247.164.205:9615",
     "id": "33ac6bb6-9a63-43fa-9070-97309c136a4d"
   }
+] 
