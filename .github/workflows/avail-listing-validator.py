@@ -69,6 +69,7 @@ def check_url_status_code(obj):
             sys.exit(1)
     except Exception as e:
         print(f"Error: URL not working - {e.args[0].reason.args[0]}")
+        sys.exit(1)
 
 
 def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
