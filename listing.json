@@ -1,1 +1,8 @@
-[]
+{
+  "name": "meowment",
+  "logo": "https://i.ibb.co/k4Vd3cX/meowment.png",
+  "rpc_url": "rpc.madara.meowment.xyz",
+  "explorer_url": "exp.madara.meowment.xyz",
+  "metrics_endpoint": "met.madara.meowment.xyz",
+  "id": "9d1e6f5f-72a2-4cee-b154-8fbe8b908d52"
+}
