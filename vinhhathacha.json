@@ -1,8 +1,10 @@
 {
   "name": "vinhhathacha",
   "logo": "https://avatars.githubusercontent.com/u/131861495?v=4",
-  "rpc_url": "https://rpc.vinhhathacha.xyz",
-  "explorer_url": "https://explorer.vinhhathacha.xyz",
-  "metrics_endpoint": "https://metrics.vinhhathacha.xyz",
+     "rpc_url": "http://46.250.233.5:9944",
+    "explorer_url": "http://46.250.233.5:4000",
+    "metrics_endpoint": "http://46.250.233.5:9615,
   "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
 }
+
+ 
