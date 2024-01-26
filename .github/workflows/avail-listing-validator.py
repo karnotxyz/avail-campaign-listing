@@ -60,7 +60,7 @@ def check_url_status_code(obj):
             sys.exit(1)
 
         if "metrics_endpoint" in obj:
-            response = requests.get(obj["metrics_endpoint"] + "/metrics")
+            response = requests.get(obj["metrics_endpoint"])
             if response.status_code != 200:
                 print(f"Error: The Metrics URL {obj['metrics_endpoint']} is not accessible.")
                 sys.exit(1)
