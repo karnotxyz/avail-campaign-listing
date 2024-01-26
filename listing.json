@@ -1,1 +1,8 @@
-[]
+{
+    "name": "jplabo",
+    "logo": "https://d.kuku.lu/488yha3ak",
+    "rpc_url": "https://rpc.jplabo.xyz:9944",
+    "explorer_url": "https://explorer.jplabo.xyz:4000",
+    "metrics_endpoint": "https://metrics.jplabo.xyz:9615",
+    "id": "1aad79fe-7565-4a3d-8335-649d2b1d7c4d"
+}
