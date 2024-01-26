@@ -1,1 +1,10 @@
-[]
+[
+{
+  "name": "sukrucildirr",
+  "logo": "https://im.ge/i/buPo0L",
+  "rpc_url": "https://34.135.52.120:9944",
+  "explorer_url": "https://34.135.52.120:4000",
+  "metrics_endpoint": "https://34.135.52.120:9615",
+  "id": "93caf8be-7d2e-4f57-a6f4-7367decfef2d"
+}
+]
