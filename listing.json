@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Altair",
+    "logo": "https://i.ibb.co/g4pQ8hp/Altair-Node-Logo.png",
+    "rpc_url": "http://149.50.105.160:9944",
+    "explorer_url": "http://149.50.105.160:4000",
+    "metrics_endpoint": "http://149.50.105.160:9615",
+    "id": "178"
+  }
+]
