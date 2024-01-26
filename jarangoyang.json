@@ -1,0 +1,8 @@
+{
+  "name": "jarangoyang",
+  "logo": "https://ibb.co/Rc7817f",
+  "rpc_url": "http://146.190.82.111:9944",
+  "explorer_url": "http://146.190.82.111:4000",
+  "metrics_endpoint": "http://146.190.82.111:9615",
+  "id": "9cafb85b-29b4-4371-88e7-8590268ab03a"
+}
