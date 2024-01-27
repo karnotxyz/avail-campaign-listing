@@ -1,4 +1,5 @@
-{
+[
+  {
   "name": "Nodemisu",
   "logo": "https://nodemisu.xyz/nodemisu.jpg",
   "rpc_url": "https://rpc.madara.nodemisu.xyz",
@@ -6,3 +7,4 @@
   "metrics_endpoint": "https://metrics.madara.nodemisu.xyz",
   "id": "03eeca4e-d14a-450d-b57d-be0d134fcb17"
 }
+]
