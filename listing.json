@@ -1,5 +1,13 @@
 [
   {
+    "name": "carpediem",
+    "logo": "https://placehold.co/600x400/orange/white",
+    "rpc_url": "http://88.179.232.84:9944/",
+    "explorer_url": "http://88.179.232.84:4000/",
+    "metrics_endpoint": "http://88.179.232.84:9615/",
+    "id": "21eba6fd-fc70-41b4-8e00-c58f8e68685f"
+  },
+  {
     "name": "lmao",
     "logo": "https://ibb.co/tp7v6W9",
     "rpc_url": "http://43.133.215.71:9944",
