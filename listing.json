@@ -2,9 +2,9 @@
   {
     "name": "chenchiyuan",
     "logo": "https://im.ge/i/b1nqPP",
-    "rpc_url": "https://43.159.55.22:9944",
-    "explorer_url": "https://43.159.55.22:4000",
-    "metrics_endpoint": "https://43.159.55.22:9615/metrics",
+    "rpc_url": "http://43.159.55.22:9944",
+    "explorer_url": "http://43.159.55.22:4000",
+    "metrics_endpoint": "http://43.159.55.22:9615/metrics",
     "id": 133,
   }
 ]
