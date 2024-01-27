@@ -5,6 +5,7 @@ import requests
 import sys
 
 APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
+LISTING_JSON_LOC = os.path.join(os.getcwd(), "listing.json")
 JSON_URL = "https://raw.githubusercontent.com/karnotxyz/avail-campaign-listing/main/listing.json"
 TIMEOUT_IN_MS = 500
 
@@ -143,8 +144,22 @@ def check_duplicate_urls_in_latest_entry():
     return new_entry
 
 
+def append_to_json_file(data, file_path):
+    try:
+        with open(file_path, 'r+') as file:
+            file_data = json.load(file)
+            file_data.append(data)
+            file.seek(0)
+            json.dump(file_data, file, indent=4)
+        print(f"Data appended successfully to {file_path}")
+    except Exception as e:
+        print(f"Error in appending to file: {e}")
+        sys.exit(1)
+
+
 if __name__ == "__main__":
     latest_entry = check_duplicate_urls_in_latest_entry()
     if latest_entry:
         check_required_keys(latest_entry)
         check_url_status_code(latest_entry)
+        append_to_json_file(latest_entry, LISTING_JSON_LOC)
