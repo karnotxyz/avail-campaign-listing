@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Kocality",
+    "logo": "https://iili.io/JcRhm4p.jpg",
+    "rpc_url": "http://95.217.132.163:9944",
+    "explorer_url": "http://95.217.132.163:4000",
+    "metrics_endpoint": "http://95.217.132.163:9615/metrics",
+    "id": "b51544d1-7c66-4c17-9ce2-4c7df1b8c086"
+  }
+]
