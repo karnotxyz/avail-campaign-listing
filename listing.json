@@ -1,1 +1,8 @@
-[]
+{
+    "name": "SHAHROKH",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTGQpQUu4xgMhEZ1mtEO2dlg_4-v77tU4sw&usqp=CAU",
+    "rpc_url": "46.20.46.202:9944",
+    "explorer_url": "http://46.20.46.202:4000:,
+    "metrics_endpoint": "http://46.20.46.202:9615",
+    "id": "942ff35e-f048-4d10-ae6-6cb970cad2f0"
+  }
