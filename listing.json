@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "brknode",
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://129.151.196.70:9944",
+    "explorer_url": "http://129.151.196.70:4000",
+    "metrics_endpoint": "129.151.196.70:9615/metrics",
+    "id": "8af34395-7b4c-4e67-b950-94dad41dd8a9"
+  }
+]
