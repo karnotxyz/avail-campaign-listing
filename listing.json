@@ -1,10 +1,10 @@
 [
   {
-    "name": "anhnp",
-    "logo": "https://d1w5h1731a8jpa.cloudfront.net/npa/OIG4.jpeg",
-    "rpc_url": "http://103.116.8.120:9944",
-    "explorer_url": "http://103.116.8.120:4000",
-    "metrics_endpoint": "http://103.116.8.120:9615/metrics",
-    "id": "10607ca4-3e5a-40c3-920a-7f95e19d1d72"
+    "name": "barokunjai",
+    "logo": "https://i.imgur.com/HBZDXsR.jpg",
+    "rpc_url": "http://178.128.111.219:9944",
+    "explorer_url": "http://178.128.111.219:4000",
+    "metrics_endpoint": "http://178.128.111.219:9615/metrics",
+    "id": "8f31f38e-23d6-47f7-8a9a-1cf82e2070da"
   }
 ]
