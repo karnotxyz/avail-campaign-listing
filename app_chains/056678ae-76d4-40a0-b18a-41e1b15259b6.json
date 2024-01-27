@@ -1,0 +1,8 @@
+{
+  "name": "ersoo",
+  "logo": "https://placehold.jp/3d4070/603370/400x400.png?text=Ersoo",
+  "rpc_url": "http://84.247.184.252:9944",
+  "explorer_url": "http://84.247.184.252:4000",
+  "metrics_endpoint": "http://84.247.184.252:9615/metrics",
+  "id": "056678ae-76d4-40a0-b18a-41e1b15259b6"
+}
