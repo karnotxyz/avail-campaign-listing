@@ -1,0 +1,40 @@
+name: Validate Entry
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Validate Entry
+        run: python .github/workflows/validate.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@karnot.xyz'
+          git add listing.json
+          git commit -m "Added New Entry for avail campaign"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
