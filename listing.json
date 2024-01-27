@@ -14,5 +14,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
-  }
+  },
+  {
+    "name": "PangCuan",
+    "logo": "https://ibb.co/8sQ7FCF",
+    "rpc_url": "http://103.27.206.125:9944",
+    "explorer_url": "http://103.27.206.125:4000",
+    "metrics_endpoint": "http://103.27.206.125:9615/metrics",
+    "id": "fe862681-3835-4d5b-883e-4b6fa60dfed4`"
+  },
 ]
