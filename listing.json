@@ -3,8 +3,8 @@
     "name": "kazmat",
     "logo": "kazmat.jpg",
     "rpc_url": "http://35.194.14.125:9944",
-    "explorer_url": "http://explorer.35.194.14.125:9944",
-    "metrics_endpoint": "http://metrics.madara-avail.kazmat.com",
+    "explorer_url": "http://35.194.14.125:4000",
+    "metrics_endpoint": "http://35.194.14.125:9614",
     "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
   },
   {
