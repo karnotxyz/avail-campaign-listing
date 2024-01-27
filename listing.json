@@ -1,5 +1,13 @@
 [
   {
+    "name": "PIKACHU",
+    "logo": "https://ibb.co/BNKBXCn",
+    "rpc_url": "https://hieut3k34.ddns.net:9944",
+    "explorer_url": "https://hieut3k34.ddns.net:4000",
+    "metrics_endpoint": "https://hieut3k34.ddns.net:9615",
+    "id": "61963987-fa4e-49d7-929a-ab68534e0367"
+  },
+  {
     "name": "lmao",
     "logo": "https://ibb.co/tp7v6W9",
     "rpc_url": "http://43.133.215.71:9944",
