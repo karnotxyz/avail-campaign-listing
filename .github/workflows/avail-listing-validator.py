@@ -100,9 +100,9 @@ def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
 
 if __name__ == '__main__':
     new_entry = validate_json_array(sys.argv[1])
-    if new_entry and len(new_entry) > 0:
+    data = download_json_file(JSON_URL)
+    if new_entry and len(new_entry) > 0 and len(data) < len(new_entry):
         latest_entry = new_entry[0]
         check_required_keys(obj=latest_entry)
         check_url_status_code(obj=latest_entry)
-        data = download_json_file(JSON_URL)
         check_duplicate_urls_in_latest_entry(data, latest_entry)
