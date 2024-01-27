@@ -5,6 +5,7 @@ import requests
 import sys
 
 JSON_URL = "https://raw.githubusercontent.com/karnotxyz/avail-campaign-listing/main/listing.json"
+TIMEOUT_IN_MS = 500
 
 
 def validate_json_array(json_file):
@@ -18,7 +19,7 @@ def validate_json_array(json_file):
 
 
 def download_json_file(url):
-    response = requests.get(url)
+    response = requests.get(url, timeout=TIMEOUT_IN_MS)
     if response.status_code == 200:
         return response.json()
     else:
@@ -42,7 +43,7 @@ def check_required_keys(obj):
 def check_url_status_code(obj):
     try:
         if "rpc_url" in obj:
-            response = requests.head(obj["rpc_url"] + "/health")
+            response = requests.get(obj["rpc_url"] + "/health", timeout=TIMEOUT_IN_MS)
             if response.status_code != 200:
                 print(f"Error: The RPC URL {obj['rpc_url']} is not accessible.")
                 sys.exit(1)
@@ -51,7 +52,7 @@ def check_url_status_code(obj):
             sys.exit(1)
 
         if "explorer_url" in obj:
-            response = requests.head(obj["explorer_url"])
+            response = requests.get(obj["explorer_url"] + "/blocks/1", timeout=TIMEOUT_IN_MS)
             if response.status_code != 200:
                 print(f"Error: The Explorer URL {obj['explorer_url']} is not accessible.")
                 sys.exit(1)
@@ -60,7 +61,7 @@ def check_url_status_code(obj):
             sys.exit(1)
 
         if "metrics_endpoint" in obj:
-            response = requests.head(obj["metrics_endpoint"] + "/metrics")
+            response = requests.get(obj["metrics_endpoint"], timeout=TIMEOUT_IN_MS)
             if response.status_code != 200:
                 print(f"Error: The Metrics URL {obj['metrics_endpoint']} is not accessible.")
                 sys.exit(1)
@@ -99,9 +100,9 @@ def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
 
 if __name__ == '__main__':
     new_entry = validate_json_array(sys.argv[1])
-    if new_entry and len(new_entry) > 0:
-        latest_entry = new_entry[len(new_entry) - 1]
+    data = download_json_file(JSON_URL)
+    if new_entry and len(new_entry) > 0 and data != new_entry:
+        latest_entry = new_entry[0]
         check_required_keys(obj=latest_entry)
         check_url_status_code(obj=latest_entry)
-        data = download_json_file(JSON_URL)
         check_duplicate_urls_in_latest_entry(data, latest_entry)
