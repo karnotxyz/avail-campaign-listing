@@ -1,0 +1,8 @@
+{
+  "name": "immaydin",
+  "logo": "https://i.imgur.com/00kKkyJ.png",
+  "rpc_url": "http://31.220.84.212:9944",
+  "explorer_url": "http://31.220.84.212:9944",
+  "metrics_endpoint": "http://31.220.84.212:9944/metrics",
+  "id": "e41cc18f-3584-4c45-8898-ccf6fe1e8e62"
+}
