@@ -1,1 +1,8 @@
-[]
+{
+  "name": "ldzx",
+  "logo": "https://im.ge/i/bOfsRq",
+  "rpc_url": "https://rpc.ldzx.xyz:9944",
+  "explorer_url": "https://explorer.ldzx.xyz:4000",
+  "metrics_endpoint": "https://metrics.ldzx.xyz:9615",
+  "id": "0943e028-52f9-4bde-9d3a-db33e37e28d2"
+}
