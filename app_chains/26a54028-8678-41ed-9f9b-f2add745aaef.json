@@ -1,0 +1,8 @@
+{
+    "name": "jackerchan",
+    "logo": "https://i.imgur.com/Cyf2kCe.png",
+    "rpc_url": "http://185.245.183.212:9944",
+    "explorer_url": "http://185.245.183.212:4000",
+    "metrics_endpoint": "http://185.245.183.212:9615/metrics",
+    "id": "26a54028-8678-41ed-9f9b-f2add745aaef"
+  }
