@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Henry",
+    "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/henryrollapp_5838545-1/logos/henryrollapp_5838545-1.png",
+    "rpc_url": "http://135.181.193.153:9944/",
+    "explorer_url": "http://135.181.193.153:4000/",
+    "metrics_endpoint": "http://135.181.193.153:9615/",
+    "id": "46340ed3-83f1-45e0-9a3e-86d046269e63"
+  }
+]
