@@ -1,9 +1,10 @@
 import json
 import uuid
-
+import os
 import requests
 import sys
 
+APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
 JSON_URL = "https://raw.githubusercontent.com/karnotxyz/avail-campaign-listing/main/listing.json"
 TIMEOUT_IN_MS = 500
 
@@ -73,36 +74,77 @@ def check_url_status_code(obj):
         sys.exit(1)
 
 
-def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
-    RPC_URLS = []
-    METRICS_URLS = []
-    EXPLORER_URLS = []
-    IDS = []
-    for entry in main_json:
-        RPC_URLS.append(entry["rpc_url"])
-        METRICS_URLS.append(entry["metrics_endpoint"])
-        EXPLORER_URLS.append(entry["explorer_url"])
-        IDS.append(entry["id"])
+def list_files(directory_path):
+    try:
+        files = os.listdir(directory_path)
+        files = [f for f in files if os.path.isfile(os.path.join(directory_path, f))]
 
-    if latest_entry["rpc_url"] in RPC_URLS:
-        print(f"Error: The RPC URL {latest_entry['rpc_url']} is already present in the JSON file.")
-        sys.exit(1)
-    if latest_entry["metrics_endpoint"] in METRICS_URLS:
-        print(f"Error: The metrics_endpoint  {latest_entry['metrics_endpoint']} is already present in the JSON file.")
-        sys.exit(1)
-    if latest_entry["explorer_url"] in EXPLORER_URLS:
-        print(f"Error: The Explorer URL {latest_entry['explorer_url']} is already present in the JSON file.")
-        sys.exit(1)
-    if latest_entry["id"] in IDS:
-        print(f"Error: The ID {latest_entry['id']} is already present in the JSON file.")
-        sys.exit(1)
+        return files
+    except OSError as e:
+        print(f"Error listing files in {directory_path}: {e}")
+        return None
 
 
-if __name__ == '__main__':
-    new_entry = validate_json_array(sys.argv[1])
+def read_json_file(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            # Load the JSON data from the file
+            data = json.load(file)
+            return data
+    except FileNotFoundError:
+        print(f"Error: Entry not found - {file_path}")
+        sys.exit(1)
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON in {file_path}: {e}")
+        sys.exit(1)
+
+
+def check_duplicate_urls_in_latest_entry():
+    list_of_files = list_files(APP_CHAIN_DIRECTORY)
     data = download_json_file(JSON_URL)
-    if new_entry and len(new_entry) > 0 and data != new_entry:
-        latest_entry = new_entry[0]
-        check_required_keys(obj=latest_entry)
-        check_url_status_code(obj=latest_entry)
-        check_duplicate_urls_in_latest_entry(data, latest_entry)
+    new_entry_loc = ""
+    new_entry = None
+    print(f"entries -> {list_of_files}")
+    if list_of_files is not None:
+        RPC_URLS = []
+        METRICS_URLS = []
+        EXPLORER_URLS = []
+        IDS = []
+        for entry in data:
+            RPC_URLS.append(entry["rpc_url"])
+            METRICS_URLS.append(entry["metrics_endpoint"])
+            EXPLORER_URLS.append(entry["explorer_url"])
+            IDS.append(entry["id"])
+
+        for file in list_of_files:
+            app_chain_id = file.split('.')[0]
+            if app_chain_id not in IDS:
+                new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
+
+        if new_entry_loc == "":
+            print("Error: entry already exists or invalid")
+            sys.exit(1)
+
+        new_entry = read_json_file(new_entry_loc)
+        if not new_entry:
+            print("Error: Latest entry does not")
+            sys.exit(1)
+        if new_entry and new_entry["rpc_url"] in RPC_URLS:
+            print(f"Error: The RPC URL {new_entry['rpc_url']} is already present in the JSON file.")
+            sys.exit(1)
+        if new_entry and new_entry["metrics_endpoint"] in METRICS_URLS:
+            print(
+                f"Error: The metrics_endpoint  {new_entry['metrics_endpoint']} is already present in the JSON file.")
+            sys.exit(1)
+        if new_entry and new_entry["explorer_url"] in EXPLORER_URLS:
+            print(f"Error: The Explorer URL {new_entry['explorer_url']} is already present in the JSON file.")
+            sys.exit(1)
+    print(f"duplicate check passed")
+    return new_entry
+
+
+if __name__ == "__main__":
+    latest_entry = check_duplicate_urls_in_latest_entry()
+    if latest_entry:
+        check_required_keys(latest_entry)
+        check_url_status_code(latest_entry)
