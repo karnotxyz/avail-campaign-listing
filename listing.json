@@ -54,5 +54,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  },
+  {
+    "name": "brtzn",
+    "logo": "https://placehold.co/600x400.png",
+    "rpc_url": "http://207.180.192.251:9944",
+    "explorer_url": "http://207.180.192.251:4000",
+    "metrics_endpoint": "http://207.180.192.251:9615/metrics",
+    "id": "d120a0df-ac78-4d5c-b6af-31a7801bdd40"
   }
 ]
