@@ -1,11 +1,43 @@
 [
+{
+    "name": "0xosman",
+    "logo": "https://i.im.ge/2024/01/27/bO8CtT.osman-2270584-1.jpg",
+    "rpc_url": "http://142.132.166.162:9944",
+    "explorer_url": "http://142.132.166.162:4000",
+    "metrics_endpoint": "http://142.132.166.162:9615/metrics",
+    "id": "56114693-cb79-4575-bc7b-2158a0bf66ea"
+  },
   {
-    "name": "Yeksin",
-    "logo": "https://api.yeksin.net/yeksin.png",
-    "rpc_url": "https://rpc.madara.yeksin.net",
-    "explorer_url": "https://explorer.madara.yeksin.net",
-    "metrics_endpoint": "https://metrics.madara.yeksin.net",
-    "id": "2f37f2c0-f470-417c-a5da-dc10cc263aad"
+    "name": "Nodemisu",
+    "logo": "https://nodemisu.xyz/nodemisu.jpg",
+    "rpc_url": "https://rpc.madara.nodemisu.xyz",
+    "explorer_url": "https://explorer.madara.nodemisu.xyz",
+    "metrics_endpoint": "https://metrics.madara.nodemisu.xyz",
+    "id": "03eeca4e-d14a-450d-b57d-be0d134fcb17"
+  },
+  {
+    "name": "opium",
+    "logo": "https://i.imgur.com/yZslTrN.jpeg",
+    "rpc_url": "http://173.249.3.49:9944",
+    "explorer_url": "http://173.249.3.49:4000",
+    "metrics_endpoint": "http://173.249.3.49:9615/metrics",
+    "id": "1b30173a-6cb3-494c-b27e-2b8e26d08d33"
+  },
+  {
+    "name": "SECARD",
+    "logo": "https://placehold.co/400x400/purple/white?text=SECARD\nNode",
+    "rpc_url": "http://89.233.108.200:9944/",
+    "explorer_url": "http://89.233.108.200:4000",
+    "metrics_endpoint": "http://89.233.108.200:9615/metrics",
+    "id": "e9855a8d-3ae0-415e-abb1-893c6058908b"
+  },
+  {
+    "name": "cand",
+    "logo": "https://cdn.haitrieu.com/wp-content/uploads/2022/06/Logo-Bo-Cong-An.png",
+    "rpc_url": "http://37.60.224.78:9944",
+    "explorer_url": "http://37.60.224.78:4000",
+    "metrics_endpoint": "http://37.60.224.78:9615/metrics",
+    "id": "7be5c743-28e2-41d5-ae9b-6e884a365c38"
   },
   {
     "name": "lmao",
@@ -22,5 +54,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  },
+  {
+    "name": "Yeksin",
+    "logo": "https://api.yeksin.net/yeksin.png",
+    "rpc_url": "https://rpc.madara.yeksin.net",
+    "explorer_url": "https://explorer.madara.yeksin.net",
+    "metrics_endpoint": "https://metrics.madara.yeksin.net/metrics",
+    "id": "2f37f2c0-f470-417c-a5da-dc10cc263aad"
   }
 ]
