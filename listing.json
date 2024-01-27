@@ -1,7 +1,7 @@
 [
 	{
 		"name": "ocean",
-		"logo": "https://placehold.co/600x400",
+		"logo": "https://imgur.com/7xbFjRb",
 		"rpc_url": "http://194.233.80.167:9944",
 		"explorer_url": "http://194.233.80.167:4000",
 		"metrics_endpoint": "http://194.233.80.167:9615/metrics",
