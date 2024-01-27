@@ -7,7 +7,7 @@ on:
     branches: ["main"]
 
 jobs:
-  validate-entry:
+  validate-and-build:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,3 +26,15 @@ jobs:
 
       - name: Validate Entry
         run: python .github/workflows/validate.py
+
+      - name: Commit Changes
+        run: |
+            git config --global user.name 'GitHub Actions'
+            git config --global user.email 'actions@karnot.xyz'
+            git add listing.json
+            git commit -m "Added New Entry for avail campaign"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.TOKEN }}
