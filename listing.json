@@ -54,5 +54,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
-  }
+  },
+  {
+  "name": "tecnodes",
+  "logo": "https://www.tecnodes.network/src/images/logo.png",
+  "rpc_url": "https://rpc.madara.tecnodes.network",
+  "explorer_url": "http://65.21.88.86:4000",
+  "metrics_endpoint": "https://metrics.madara.tecnodes.network/metrics",
+  "id": "a2a6bdec-1055-400c-8158-564eeb3c7a46"
+}
 ]
