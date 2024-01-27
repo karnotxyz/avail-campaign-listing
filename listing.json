@@ -1,11 +1,9 @@
-[
-{
+[{
   "name": "applepie493",
   "logo": "https://im.ge/i/b1BNMS",
-  "rpc_url": "https://rpc.45.94.58.240:9944",
+  "rpc_url": "https://45.94.58.240:9944",
   "explorer_url": "https://45.94.58.240:4000",
   "metrics_endpoint": "https://45.94.58.240:9615",
   "id": "fc0bf752-898d-446e-af85-249090a46d91"
 }
-]
 
