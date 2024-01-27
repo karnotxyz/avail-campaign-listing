@@ -1,0 +1,8 @@
+{
+  "name": "fukuyama",
+  "logo": "https://im.ge/i/bF83wp",
+  "rpc_url": "http://65.109.238.166:9944/",
+  "explorer_url": "http://65.109.238.166:4000/",
+  "metrics_endpoint": "http://65.109.238.166:9615/",
+  "id": "ede14d02-2cd9-4d72-a4de-9f60357d44b9"
+}
