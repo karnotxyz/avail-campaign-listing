@@ -54,5 +54,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  },
+  {
+    "name": "Whale3",
+    "logo": "https://whale3.net/logo.jpeg",
+    "rpc_url": "http://135.181.59.175:9944",
+    "explorer_url": "http://135.181.59.175:4000",
+    "metrics_endpoint": "http://135.181.59.175:9615/metrics",
+    "id": "675c3e92-da4f-4974-829b-783be16d60e7"
   }
 ]
