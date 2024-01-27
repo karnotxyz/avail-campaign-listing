@@ -1,4 +1,12 @@
 [
+   {
+    "name": "KKL",
+    "logo": "https://i.imgur.com/L2OEcjb.jpg",
+    "rpc_url": "http://dungdn.ddns.net:9944",
+    "explorer_url": "http://dungdn.ddns.net:4000",
+    "metrics_endpoint": "http://dungdn.ddns.net:9615/metrics",
+    "id": "6786a2bd-0f1d-469b-bc6f-cb0a414e37fe"
+  },
   {
     "name": "0xosman",
     "logo": "https://i.im.ge/2024/01/27/bO8CtT.osman-2270584-1.jpg",
