@@ -1,8 +1,8 @@
 {
-    "name": "nafidurmus",
-    "logo": "https://avatars.githubusercontent.com/u/16360786?v=4",
-    "rpc_url": "http://164.68.108.197:9944",
-    "explorer_url": "http://164.68.108.197:4000",
-    "metrics_endpoint": "http://164.68.108.197:9615/metrics",
-    "id": "1a4ded65-5ed3-4c4e-9f4b-f111cd9761fb"
+  "name": "nafidurmus",
+  "logo": " https://avatars.githubusercontent.com/u/16360786?s=400&u=606cbc8b024a45440b5fc1e910c885766a5cab11&v=4",
+  "rpc_url": "http://164.68.108.197:9944",
+  "explorer_url": "http://164.68.108.197:4000",
+  "metrics_endpoint": "http://164.68.108.197:9615/metrics",
+  "id": "1a4ded65-5ed3-4c4e-9f4b-f111cd9761fb"
 }
