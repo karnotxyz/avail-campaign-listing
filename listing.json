@@ -1,5 +1,13 @@
 [
   {
+    "name": "DOUBLELIFT",
+    "logo": "https://i.imgur.com/XP4pqO7.png",
+    "rpc_url": "http://91.107.199.107:9944",
+    "explorer_url": "http://91.107.199.107:4000",
+    "metrics_endpoint": "http://91.107.199.107:9615/metrics",
+    "id": "d0286c7a-e4cf-460b-8e3a-38887824e65f"
+  },
+  {
     "name": "0xosman",
     "logo": "https://i.im.ge/2024/01/27/bO8CtT.osman-2270584-1.jpg",
     "rpc_url": "http://142.132.166.162:9944",
