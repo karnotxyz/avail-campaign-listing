@@ -1,1 +1,8 @@
-[]
+{
+  "name": "watchman",
+  "logo": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*IxlIu_4tWnuJkfAcmzdZlw.png",
+  "rpc_url": "https://161.97.71.234:9944",
+  "explorer_url": "https://161.97.71.234:4000",
+  "metrics_endpoint": "https://161.97.71.234:9615/metrics",
+  "id": "aaafe722-57be-4ce5-9129-89b347e7601b"
+}
