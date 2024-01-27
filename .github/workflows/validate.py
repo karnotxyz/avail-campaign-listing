@@ -117,7 +117,8 @@ def check_duplicate_urls_in_latest_entry():
             IDS.append(entry["id"])
 
         for file in list_of_files:
-            if file not in IDS:
+            app_chain_id = file.split('.')[0]
+            if app_chain_id not in IDS:
                 new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
 
         if new_entry_loc == "":
