@@ -1,5 +1,13 @@
 [
   {
+  "name": "Yaznodes",
+  "logo": "https://imgur.com/a/O7NqmGg",
+  "rpc_url": "http://146.190.114.234:9944/",
+  "explorer_url": "http://146.190.114.234:4000/",
+  "metrics_endpoint": "http://146.190.114.234:9615/",
+  "id": "57dcea5a-bff5-432b-87e4-667fccfc723b"
+},
+  {
     "name": "0xosman",
     "logo": "https://i.im.ge/2024/01/27/bO8CtT.osman-2270584-1.jpg",
     "rpc_url": "http://142.132.166.162:9944",
