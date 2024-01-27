@@ -1,7 +1,7 @@
 {
   "name": "flame",
   "logo": "https://i.ibb.co/cQVyZGb/AVAIL-MADARA-png.png",
-  "rpc_url": "https://194.163.133.24:9944",
+  "rpc_url": "http://194.163.133.24:9944",
   "explorer_url": "https://194.163.133.24:4000",
   "metrics_endpoint": "https://194.163.133.24:9615/metrics",
   "id": "e27a7891-7159-4bae-a1dd-b5deda227522"
