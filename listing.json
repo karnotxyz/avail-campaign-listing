@@ -1,8 +1,8 @@
 {
-    "name": "rinnet",
-    "logo": "https://raw.githubusercontent.com/co3in/Avail-madara/main/rin.jpg",
-    "rpc_url": "http://161.97.83.146:9944",
-    "explorer_url": "http://161.97.83.146:4000",
-    "metrics_endpoint": "http://161.97.83.146:9615",
-    "id": "e15c3f59-22d9-4b0b-9c7e-84a82ea9d3fc"
-  }
+"name": "rinnet",
+"logo": "https://raw.githubusercontent.com/co3in/Avail-madara/main/rin.jpg",
+"rpc_url": "http://161.97.83.146:9944",
+"explorer_url": "http://161.97.83.146:4000",
+"metrics_endpoint": "http://161.97.83.146:9615",
+"id": "e15c3f59-22d9-4b0b-9c7e-84a82ea9d3fc"
+}
