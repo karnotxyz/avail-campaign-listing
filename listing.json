@@ -1,1 +1,11 @@
-[]
+
+[
+{
+  "name": "rfzk",
+  "logo": "https://raw.githubusercontent.com/rafzks1/mad/main/109168540.jpg",
+  "rpc_url": "http://95.143.196.16:9944",
+  "explorer_url": "http://95.143.196.16:4000",
+  "metrics_endpoint": "http://95.143.196.16:9615",
+  "id": "44b33a5d-d232-4641-b309-08291a2828f5"
+}
+]
