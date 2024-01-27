@@ -1,0 +1,10 @@
+[
+  {
+    "name": "available",
+    "logo": "https://raw.githubusercontent.com/basedonbase/rollapp-registry/main/devnet/available_8906515-1/logos/available_8906515-1.jpg",
+    "rpc_url": "http://84.247.187.189:9944",
+    "explorer_url": "http://84.247.187.189:4000",
+    "metrics_endpoint": "http://84.247.187.189:9615/metrics",
+    "id": "f111bdd6-8ea4-4929-83a2-30758d763fd6"
+  }
+]
