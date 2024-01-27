@@ -1,0 +1,8 @@
+{
+  "name": "lmao",
+  "logo": "https://ibb.co/tp7v6W9",
+  "rpc_url": "http://43.133.215.71:9944",
+  "explorer_url": "http://43.133.215.71:4000",
+  "metrics_endpoint": "http://43.133.215.71:9615/metrics",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
