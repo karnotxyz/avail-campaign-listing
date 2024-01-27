@@ -1,7 +1,7 @@
 [
   {
   "name": "brtzn",
-  "logo": "https://placehold.co/400x400/",
+  "logo": "https://placehold.co/600x400.png",
   "rpc_url": "http://207.180.192.251:9944",
   "explorer_url": "http://207.180.192.251:4000",
   "metrics_endpoint": "http://207.180.192.251:9615/metrics",
