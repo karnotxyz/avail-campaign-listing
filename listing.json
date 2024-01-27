@@ -1,8 +1,26 @@
-{
-  "name": "MooseAppChain",
-  "logo": "https://ibb.co/HFR8NJH",
-  "rpc_url": "http://84.247.164.205:9944",
-  "explorer_url": "http://84.247.164.205:4000",
-  "metrics_endpoint": "http://84.247.164.205:9615",
-  "id": "26a45c7c-0f51-4bd8-a0c6-878faeedd350"
-}
+[
+  {
+    "name": "MooseAppChain",
+    "logo": "https://ibb.co/HFR8NJH",
+    "rpc_url": "http://84.247.164.205:9944",
+    "explorer_url": "http://84.247.164.205:4000",
+    "metrics_endpoint": "http://84.247.164.205:9615",
+    "id": "26a45c7c-0f51-4bd8-a0c6-878faeedd350"
+  },
+  {
+    "name": "lmao",
+    "logo": "https://ibb.co/tp7v6W9",
+    "rpc_url": "http://43.133.215.71:9944",
+    "explorer_url": "http://43.133.215.71:4000",
+    "metrics_endpoint": "http://43.133.215.71:9615/metrics",
+    "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  },
+  {
+    "name": "binchain",
+    "logo": "https://s2.loli.net/2024/01/27/2MnDTFKbmCNxyUG.png",
+    "rpc_url": "http://142.171.229.142:9944",
+    "explorer_url": "http://142.171.229.142:4000",
+    "metrics_endpoint": "http://142.171.229.142:9615/metrics",
+    "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  }
+]
