@@ -54,5 +54,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  },
+  {
+    "name": "Kynraze",
+    "logo": "https://ecosystem.kynraze.com/kynraze.png",
+    "rpc_url": "https://madara-rpc.kynraze.com",
+    "explorer_url": "https://explorer-madara.kynraze.com",
+    "metrics_endpoint": "https://metrics.kynraze.com",
+    "id": "41ec5241-ad56-4a96-bdb3-3478d46d7b8c"
   }
 ]
