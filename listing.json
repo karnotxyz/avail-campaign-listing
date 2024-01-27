@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "dieuts",
+    "logo": "https://github.com/dieutx/logo/blob/989ff023c4650ca2fe810cee8248102fdb865dc7/dieuts_5683049-1.png",
+    "rpc_url": "http://37.27.52.240:9944",
+    "explorer_url": "http://37.27.52.240:4000",
+    "metrics_endpoint": "http://37.27.52.240:9615/metrics",
+    "id": "00c61655-31ab-482b-acd1-1c5b1d3bf81c"
+  }
+]
