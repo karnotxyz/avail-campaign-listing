@@ -1,10 +1,10 @@
 [
   {
-    "name": "my_app_chain",
-    "logo": "https://placehold.co/400x400",
-    "rpc_url": "https://rpc.myappchain.xyz",
-    "explorer_url": "https://explorer.myappchain.xyz",
-    "metrics_endpoint": "https://metrics.myappchain.xyz",
-    "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+    "name": "heronodevietnamese",
+    "logo": "https://i.ibb.co/M21W7nG/hero-400x400.png",
+    "rpc_url": "http://84.247.184.140/madara-rpc/",
+    "explorer_url": "http://84.247.184.140:4000/",
+    "metrics_endpoint": "http://84.247.184.140/metrics/",
+    "id": "3cd6d70c-5600-47a5-a307-c2483f53ec30"
   }
 ]
