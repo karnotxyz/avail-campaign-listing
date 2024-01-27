@@ -1,1 +1,10 @@
-[]
+[
+  {
+  "name": "NomadValidator",
+  "logo": "https://www.nomadvalidator.com/img/nomad.png",
+  "rpc_url": "https://rpc-karnot.nomadvalidator.com",
+  "explorer_url": "https://explorer-karnot.nomadvalidator.com",
+  "metrics_endpoint": "https://metrics-karnot.nomadvalidator.com",
+  "id": "0ddd9b31-7170-4dbb-b588-4e2ddccc4023"
+  }
+]
