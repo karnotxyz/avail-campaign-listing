@@ -104,6 +104,7 @@ def check_duplicate_urls_in_latest_entry():
     data = download_json_file(JSON_URL)
     new_entry_loc = ""
     new_entry = None
+    print(f"entries -> {list_of_files}")
     if list_of_files is not None:
         RPC_URLS = []
         METRICS_URLS = []
@@ -137,10 +138,12 @@ def check_duplicate_urls_in_latest_entry():
         if new_entry and new_entry["explorer_url"] in EXPLORER_URLS:
             print(f"Error: The Explorer URL {new_entry['explorer_url']} is already present in the JSON file.")
             sys.exit(1)
+    print(f"duplicate check passed")
     return new_entry
 
 
 if __name__ == "__main__":
     latest_entry = check_duplicate_urls_in_latest_entry()
-    check_required_keys(latest_entry)
-    check_url_status_code(latest_entry)
+    if latest_entry:
+        check_required_keys(latest_entry)
+        check_url_status_code(latest_entry)
