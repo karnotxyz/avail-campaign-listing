@@ -1,8 +1,8 @@
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.mychain.xyz",
-  "explorer_url": "https://explorer.mychain.xyz",
-  "metrics_endpoint": "https://metrics.mychain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "tranngocnhi_5072236-1",
+  "logo": "https://github.com/Nhinek11/rollapp-registry/blob/main/devnet/tranngocnhi_5072236-1/logos/tranngocnhi_5072236-1.png",
+  "rpc_url": "http://207.180.196.193:9944",
+  "explorer_url": "http://207.180.196.193:4000",
+  "metrics_endpoint": "http://207.180.196.193:9615/metrics",
+  "id": "c7c0dfb8-3a19-4fbf-94cf-3358c073361a"
 }
