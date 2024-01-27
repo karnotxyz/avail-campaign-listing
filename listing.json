@@ -1,1 +1,10 @@
-[]
+[
+  {
+   "name": "dat",
+    "logo": "https://imgur.com/a/kf1Isl7",
+    "rpc_url": "http://167.86.127.3:9944",
+    "explorer_url": "http://167.86.127.3:4000",
+    "metrics_endpoint": "167.86.127.3:9615/metrics",
+    "id": "ba2135ae-aff2-4796-bd1f-4d58f6d23f9b"
+  }
+]
