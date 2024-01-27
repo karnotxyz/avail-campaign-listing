@@ -26,6 +26,10 @@ format to listing.json.
 ## PR instructions
 
 1. Checkout from the main branch
-2. Create a PR with the name "✨ Adding <app_chain_name>"
+2. Create a UUID. You can use an online [generator](https://www.uuidgenerator.net/).
+3. Create a file with the name `<uuid>.json` inside the `app_chains` folder (`uuid` is the id generated in step 1).
+4. Enter all the details mentioned above inside the JSON file.
+5. Create a PR with the name "✨ Adding <app_chain_name>"
+6. Wait for all CI checks to pass
 
-Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/1).
+Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/195).
