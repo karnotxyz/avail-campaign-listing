@@ -1,0 +1,10 @@
+[
+  {
+    "name": "barokunjai",
+    "logo": "https://i.imgur.com/HBZDXsR.jpg",
+    "rpc_url": "http://178.128.111.219:9944",
+    "explorer_url": "http://178.128.111.219:4000",
+    "metrics_endpoint": "http://178.128.111.219:9615/metrics",
+    "id": "8f31f38e-23d6-47f7-8a9a-1cf82e2070da"
+  }
+]
