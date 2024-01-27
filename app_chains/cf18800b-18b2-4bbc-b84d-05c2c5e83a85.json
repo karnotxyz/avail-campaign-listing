@@ -1,0 +1,8 @@
+{
+  "name": "Keong",
+  "logo": "https://raw.githubusercontent.com/gegrisma/kartotan/main/keong_400x400.jpg",
+  "rpc_url": "http://95.143.196.10:9944",
+  "explorer_url": "http://95.143.196.10:4000",
+  "metrics_endpoint": "http://95.143.196.10:9615/metrics",
+  "id": "cf18800b-18b2-4bbc-b84d-05c2c5e83a85"
+}
