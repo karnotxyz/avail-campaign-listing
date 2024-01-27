@@ -1,0 +1,8 @@
+{
+    "name": "scmastoideus",
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://31.220.84.212:9944",
+    "explorer_url": "http://31.220.84.212:4000",
+    "metrics_endpoint": "http://31.220.84.212:9615/metrics",
+    "id": "80e7a186-bad7-4b44-99e0-d65a2aab29d1"
+  }
