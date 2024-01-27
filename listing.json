@@ -1,11 +1,8 @@
-[
-  {
+{
   "name": "barokunjai",
-  "logo": "https://im.ge/i/b1k4R4",
+  "logo": "https://i.imgur.com/HBZDXsR.jpg",
   "rpc_url": "http://178.128.111.219:9944",
   "explorer_url": "http://178.128.111.219:4000",
   "metrics_endpoint": "http://178.128.111.219:9615/metrics",
-  "id": "1ddf5293-3712-497a-9a41-bae30b3fd68b"
-  }
-]
-
+  "id": "8f31f38e-23d6-47f7-8a9a-1cf82e2070da"
+}
