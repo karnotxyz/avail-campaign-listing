@@ -1,18 +1,10 @@
 [
   {
-    "name": "lmao",
-    "logo": "https://ibb.co/tp7v6W9",
-    "rpc_url": "http://43.133.215.71:9944",
-    "explorer_url": "http://43.133.215.71:4000",
-    "metrics_endpoint": "http://43.133.215.71:9615/metrics",
-    "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
-  },
-  {
-    "name": "binchain",
-    "logo": "https://s2.loli.net/2024/01/27/2MnDTFKbmCNxyUG.png",
-    "rpc_url": "http://142.171.229.142:9944",
-    "explorer_url": "http://142.171.229.142:4000",
-    "metrics_endpoint": "http://142.171.229.142:9615/metrics",
-    "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+    "name": "chenchiyuan",
+    "logo": "https://im.ge/i/b1nqPP",
+    "rpc_url": "http://43.159.55.22:9944",
+    "explorer_url": "http://43.159.55.22:4000",
+    "metrics_endpoint": "http://43.159.55.22:9615/metrics",
+    "id": "ef4800b8-f297-4ada-8983-7d2c6e5ff7a5" 
   }
 ]
