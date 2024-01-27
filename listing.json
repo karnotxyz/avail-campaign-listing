@@ -1,8 +1,10 @@
-{
-  "name": "madara-phuongdh",
-  "logo": "http://im.ge/i/b2Oa8F",
-  "rpc_url": "http://84.247.191.53:9944",
-  "explorer_url": "http://84.247.191.53:4000",
-  "metrics_endpoint": "http://84.247.191.53:9615/metrics",
-  "id": "1af9a25a-1ea3-4e89-9277-bfccd6f9ae6f"
-}
+[
+	{
+	  "name": "madara-phuongdh",
+	  "logo": "http://im.ge/i/b2Oa8F",
+	  "rpc_url": "http://84.247.191.53:9944",
+	  "explorer_url": "http://84.247.191.53:4000",
+	  "metrics_endpoint": "http://84.247.191.53:9615/metrics",
+	  "id": "1af9a25a-1ea3-4e89-9277-bfccd6f9ae6f"
+	}
+]
