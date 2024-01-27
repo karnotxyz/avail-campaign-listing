@@ -1,7 +1,7 @@
 [
   {
     "name": "MoneyLow",
-    "logo": "https://github.com/vnbnode/binaries/blob/main/Logo/VNBnode.jpg",
+    "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
     "rpc_url": "http://mflow.ddns.net:9944",
     "explorer_url": "http://mflow.ddns.net:4000",
     "metrics_endpoint": "http://mflow.ddns.net:9615/metrics",
