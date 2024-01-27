@@ -1,0 +1,8 @@
+{
+  "name": "Sheltonnd",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/sheltonnd_6288976-1/logos/sheltonnd_6288976-1.png",
+  "rpc_url": "http://65.109.226.131:9944",
+  "explorer_url": "http://65.109.226.131:4000",
+  "metrics_endpoint": "http://65.109.226.131:9615/metrics",
+  "id": "1d780b0a-804b-432d-b037-93982cfa6d93"
+}
