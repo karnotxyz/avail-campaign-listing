@@ -1,0 +1,8 @@
+{
+  "name": "eaddaa",
+  "logo": "https://ibb.co/CJVG2Rw",
+  "rpc_url": "http://194.146.12.149:9944",
+  "explorer_url": "http://194.146.12.149:4000",
+  "metrics_endpoint": "http://194.146.12.149:9615/metrics",
+  "id": "f5aca5f4-ef38-4b45-ad74-432d19060174"
+}
