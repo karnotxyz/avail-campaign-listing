@@ -1,7 +1,7 @@
 [
   {
     "name": "available",
-    "logo": "https://raw.githubusercontent.com/basedonbase/rollapp-registry/main/devnet/available_8906515-1/logos/available_8906515-1.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cargobase_logo_square_400x400.png",
     "rpc_url": "http://84.247.187.189:9944",
     "explorer_url": "http://84.247.187.189:4000",
     "metrics_endpoint": "http://84.247.187.189:9615/metrics",
