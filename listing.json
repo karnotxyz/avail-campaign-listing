@@ -3,8 +3,8 @@
     "name": "kazmat",
     "logo": "kazmat.jpg",
     "rpc_url": "http://35.194.14.125:9944",
-    "explorer_url": "https://explorer.kazmat.xyz",
-    "metrics_endpoint": "https://metrics.kazmat.xyz",
+    "explorer_url": "http://35.194.14.125:9944",
+    "metrics_endpoint": "http://35.194.14.125:9944",
     "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
   },
   {
