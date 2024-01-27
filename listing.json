@@ -1,7 +1,7 @@
 [
   {
     "name": "cand",
-    "logo": "https://cdn.haitrieu.com/wp-content/uploads/2022/06/Logo-Bo-Cong-An.png",
+    "logo": "https://images.english.elpais.com/resizer/9zYaHT-9SnqaTB3vU45dU6h8Nc8=/1200x0/filters:focal(962x164:972x174)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/YITDXH6VG5HO3DDZNUG6T325QQ.jpg",
     "rpc_url": "http://37.60.224.78:9944",
     "explorer_url": "http://37.60.224.78:4000",
     "metrics_endpoint": "http://37.60.224.78:9615/metrics",
