@@ -1,8 +1,0 @@
-{
-  "name": "CoinHuntersTR",
-  "logo": "https://coinhunterstr.com/wp-content/uploads/2024/01/logo.png",
-  "rpc_url": "http://5.75.239.231:9944",
-  "explorer_url": "http://5.75.239.231:4000",
-  "metrics_endpoint": "http://5.75.239.231:9615",
-  "id": "12D3KooWLpGgwTWJcHFm3Cp6jTvkuXRabSdNDJAxBUj5n9uiZn1d"
-}
