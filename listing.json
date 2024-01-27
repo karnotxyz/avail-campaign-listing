@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "newoneroolup",
+    "logo": "https://i.imgur.com/T3cGnjw.png",
+    "rpc_url": "http://37.27.11.47:9944",
+    "explorer_url": "http://37.27.11.47:4000",
+    "metrics_endpoint": "http://37.27.11.47:9615/metrics",
+    "id": "b32c8704-7f9e-45e4-9c87-86fd5f535304"
+  }
+]
