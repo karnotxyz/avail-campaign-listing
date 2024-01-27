@@ -1,4 +1,3 @@
-[
    {
     "name": "KKLAPP",
     "logo": "https://i.imgur.com/L2OEcjb.jpg",
@@ -6,5 +5,4 @@
     "explorer_url": "http://dungdn.ddns.net:4000",
     "metrics_endpoint": "http://dungdn.ddns.net:9615/metrics",
     "id": "6786a2bd-0f1d-469b-bc6f-cb0a414e37fe"
-  }
-]
+   }
