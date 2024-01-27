@@ -1,0 +1,8 @@
+{
+  "name": "glow007",
+  "logo": "https://i.im.ge/2024/01/27/b2zgdx.LOGO.jpg",
+  "rpc_url": "https://144.202.27.69:9944",
+  "explorer_url": "https://144.202.27.69:4000",
+  "metrics_endpoint": "https://144.202.27.69:9615/metrics",
+  "id": "ecf3857b-1dae-46bb-aefa-d27c03f115f7"
+}
