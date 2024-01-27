@@ -1,0 +1,8 @@
+{
+  "name": "dotnet",
+  "logo": "https://ibb.co/HYT51FQ",
+  "rpc_url": "http://137.184.5.152:9944",
+  "explorer_url": "http://137.184.5.152:4000",
+  "metrics_endpoint": "http://137.184.5.152:9615",
+  "id": "76e82b19-be9e-4b55-bfd2-c942ee5d453f"
+}
