@@ -1,5 +1,4 @@
-[
-  {
+{
   "name": "nodesynctop",
   "logo": "https://nodesync.top/nodesync.jpg",
   "rpc_url": "https://rpc.madara.nodesync.top",
@@ -7,4 +6,3 @@
   "metrics_endpoint": "https://metrics.madara.nodesync.top",
   "id": "533e4412-b452-4b2f-8425-dfa6fd7718ac"
 }
-]
