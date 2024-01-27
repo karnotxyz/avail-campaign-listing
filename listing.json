@@ -1,5 +1,13 @@
 [
   {
+    "name": "teddy",
+    "logo": "https://raw.githubusercontent.com/microkn/daeis/main/teddy.jpg",
+    "rpc_url": "http://152.89.170.52:9944",
+    "explorer_url": "http://152.89.170.52:4000",
+    "metrics_endpoint": "http://152.89.170.52/:9615/metrics",
+    "id": "17c9e0e0-e5c7-4eff-a4ab-b976d0ae8d39"
+  },
+  {
     "name": "0xosman",
     "logo": "https://i.im.ge/2024/01/27/bO8CtT.osman-2270584-1.jpg",
     "rpc_url": "http://142.132.166.162:9944",
