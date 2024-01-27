@@ -1,4 +1,3 @@
-[
   {
   "name": "brtzn",
   "logo": "https://placehold.co/600x400.png",
@@ -7,4 +6,3 @@
   "metrics_endpoint": "http://207.180.192.251:9615/metrics",
   "id": "d120a0df-ac78-4d5c-b6af-31a7801bdd40"
   }
-]
