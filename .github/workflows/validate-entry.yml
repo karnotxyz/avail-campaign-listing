@@ -7,7 +7,7 @@ on:
     branches: ["main"]
 
 jobs:
-  build:
+  validate-entry:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,4 +25,4 @@ jobs:
           pip install requests
 
       - name: Validate Entry
-        run: python .github/workflows/avail-listing-validator.py listing.json
+        run: python .github/workflows/validate.py
