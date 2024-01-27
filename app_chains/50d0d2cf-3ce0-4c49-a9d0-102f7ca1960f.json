@@ -1,0 +1,8 @@
+{
+    "name": "HyukaNode",
+    "logo": "https://i.ibb.co/PTgmvMz/hyk.png",
+    "rpc_url": "http://38.242.216.163:9944",
+    "explorer_url": "http://38.242.216.163:4000",
+    "metrics_endpoint": "http://38.242.216.163:9615/metrics",
+    "id": "50d0d2cf-3ce0-4c49-a9d0-102f7ca1960f"
+}
