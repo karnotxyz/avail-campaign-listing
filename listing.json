@@ -1,5 +1,13 @@
 [
   {
+    "name": "eaddaa",
+    "logo": "https://ibb.co/CJVG2Rw",
+    "rpc_url": "http://194.146.12.149:9944",
+    "explorer_url": "http://194.146.12.149:4000",
+    "metrics_endpoint": "http://194.146.12.149:9615/metrics",
+    "id": "a2efbdb7-6867-4d31-a03e-fae5b20f1082"
+  },
+  {
     "name": "0xosman",
     "logo": "https://i.im.ge/2024/01/27/bO8CtT.osman-2270584-1.jpg",
     "rpc_url": "http://142.132.166.162:9944",
