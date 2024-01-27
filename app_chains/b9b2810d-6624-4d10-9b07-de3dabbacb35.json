@@ -1,0 +1,8 @@
+{
+  "name": "koalabear",
+  "logo": "https://i.imgur.com/GuYuUjn.jpeg",
+  "rpc_url": "http://49.13.201.42:9944",
+  "explorer_url": "http://49.13.201.42:4000",
+  "metrics_endpoint": "http://49.13.201.42:9615/metrics",
+  "id": "b9b2810d-6624-4d10-9b07-de3dabbacb35"
+}
