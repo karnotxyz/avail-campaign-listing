@@ -54,5 +54,13 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  },
+  {
+    "name": "XNode",
+    "logo": "https://xnode.tech/images/xnode-logo.svg",
+    "rpc_url": "https://rpc.xnode.tech",
+    "explorer_url": "https://explorer.xnode.tech",
+    "metrics_endpoint": "https://metrics.xnode.tech",
+    "id": "ce88cac5-a464-43a5-9ea7-312a8de1e179"
   }
 ]
