@@ -1,1 +1,8 @@
-[]
+{
+  "name": "Luffyeth",
+  "logo": "https://i.im.ge/2024/01/27/b1WeZc.Luffy-Gear-5-Nika.jpg",
+  "rpc_url": "http://173.212.248.41:9944/",
+  "explorer_url": "http://173.212.248.41:4000/",
+  "metrics_endpoint": "http://173.212.248.41:9615/",
+  "id": "558ca775-0ce1-41da-84c4-abab131898c9"
+}
