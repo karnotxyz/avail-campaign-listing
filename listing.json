@@ -54,5 +54,15 @@
     "explorer_url": "http://142.171.229.142:4000",
     "metrics_endpoint": "http://142.171.229.142:9615/metrics",
     "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+  },
+  {
+    "name": "cagi",
+    "logo": "https://imgur.com/a/iO8x0Ar",
+    "rpc_url": "http://37.27.41.182:4000",
+    "explorer_url": "https://explorer.myappchain.xyz",
+    "metrics_endpoint": "https://metrics.myappchain.xyz",
+    "id": "8d627c52-06fd-4d33-bc2b-04331ebb9d81"
   }
 ]
+
+
