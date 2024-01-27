@@ -1,0 +1,8 @@
+{
+  "name": "luke",
+  "logo": "https://ibb.co/2yVFNrW",
+  "rpc_url": "http://91.107.203.150:9944",
+  "explorer_url": "http://91.107.203.150:4000",
+  "metrics_endpoint": "http://91.107.203.150:9615/metrics",
+  "id": "d566e74f-b599-4010-baca-b7709d9eb91d"
+}
