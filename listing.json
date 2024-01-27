@@ -1,10 +1,8 @@
-[
-  {
-    "name": "available",
-    "logo": "https://pbs.twimg.com/profile_images/1630038909383221248/L5QoJE4s_400x400.jpg",
-    "rpc_url": "http://38.242.241.101:9644/",
-    "explorer_url": "http://38.242.241.101:4000/",
-    "metrics_endpoint": "http://38.242.241.101:9615/",
-    "id": "f111bdd6-8ea4-4929-83a2-30758d763fd6"
-  }
-]
+{
+  "name": "kamuscrypto",
+  "logo": "https://im.ge/i/bOrn8G",
+  "rpc_url": "84.46.242.118:9944",
+  "explorer_url": "84.46.242.118:4000",
+  "metrics_endpoint": "84.46.242.118:9615",
+  "id": "6044316b-f53c-4977-8cf4-ac2f2dec3a91"
+}
