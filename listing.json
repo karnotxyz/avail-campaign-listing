@@ -1,1 +1,11 @@
-6[]
+[
+  {
+  "name": "PixelChain",
+  "logo": "https://ibb.co/R9MTwMB",
+  "rpc_url": "http://102.37.220.153:9944",
+  "explorer_url": "http://102.37.220.153:4000/",
+  "metrics_endpoint": "http://102.37.220.153:9615/metrics",
+  "id": "3647625d-6294-46ea-a82f-1d5174539368"
+        
+}
+]
