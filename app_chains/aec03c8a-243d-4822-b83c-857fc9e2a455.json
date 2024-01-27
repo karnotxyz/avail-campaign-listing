@@ -1,0 +1,8 @@
+{
+  "name": "BlackOreo",
+  "logo": "https://i.ibb.co/qy3BXDv/logo.jpg",
+  "rpc_url": "http://65.21.249.198:9944",
+  "explorer_url": "http://65.21.249.198:4000",
+  "metrics_endpoint": "http://65.21.249.198:9615/metrics",
+  "id": "aec03c8a-243d-4822-b83c-857fc9e2a455"
+}
