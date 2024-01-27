@@ -2,8 +2,8 @@
   {
     "name": "MapleSyrup",
     "logo": "https://i.im.ge/2024/01/27/b1HUv1.logo-MS-FIX-cyan-blue.png",
-    "rpc_url": "http://128.199.3.176:9944/",
-    "explorer_url": "http://128.199.3.176:4000/",
+    "rpc_url": "http://128.199.3.176:9944",
+    "explorer_url": "http://128.199.3.176:4000",
     "metrics_endpoint": "http://128.199.3.176:9615/metrics",
     "id": "be9f1583-2c13-47b5-8b53-a55e30f014cd"
   }
