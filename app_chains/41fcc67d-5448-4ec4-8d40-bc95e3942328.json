@@ -1,0 +1,8 @@
+{
+  "name": "0xRock",
+  "logo": "https://raw.githubusercontent.com/0xRockW3/rollapp-registry/main/devnet/blackrockzeroeightthirtynine_1359895-1/logos/blackrockzeroeightthirtynine_1359895-1.png?raw=true",
+  "rpc_url": "http://84.247.188.51:9944",
+  "explorer_url": "84.247.188.51:4000",
+  "metrics_endpoint": "84.247.188.51:9615/metrics",
+  "id": "41fcc67d-5448-4ec4-8d40-bc95e3942328"
+}
