@@ -1,0 +1,8 @@
+{
+  "name": "PIKACHU",
+  "logo": "https://ibb.co/BNKBXCn",
+  "rpc_url": "https://207.244.250.6:9944",
+  "explorer_url": "https://207.244.250.6:4000",
+  "metrics_endpoint": "https://207.244.250.6:9615/metrics",
+  "id": "61963987-fa4e-49d7-929a-ab68534e0367"
+}
