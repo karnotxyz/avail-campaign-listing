@@ -2,7 +2,7 @@
   "name": "megumii_chan",
   "logo": "https://github.com/Megumiiiiii.png",
   "rpc_url": "https://rpc.mad.megumii.xyz",
-  "explorer_url": "https://exp.mad.megumii.xyz",
+  "explorer_url": "http://207.180.216.32:4000",
   "metrics_endpoint": "https://met.mad.megumii.xyz/metrics",
   "id": "b622073c-be21-11ee-a506-0242ac120002"
 }
