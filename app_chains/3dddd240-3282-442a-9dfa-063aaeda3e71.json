@@ -1,0 +1,8 @@
+  {
+    "name": "App Name",
+    "logo": "https://r.resimlink.com/Fr6TaBLJsYmp.jpg",
+    "rpc_url": "http://84.247.190.48:9944",
+    "explorer_url": "http://84.247.190.48:4000",
+    "metrics_endpoint": "http://84.247.190.48:9615/metrics", 
+    "id": "3dddd240-3282-442a-9dfa-063aaeda3e71" 
+  }
