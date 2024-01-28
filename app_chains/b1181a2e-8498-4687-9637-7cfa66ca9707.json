@@ -1,0 +1,8 @@
+{
+  "name": "tranngocnhi_5072236-1",
+  "logo": "https://github.com/Nhinek11/rollapp-registry/blob/main/devnet/tranngocnhi_5072236-1/logos/tranngocnhi_5072236-1.png",
+  "rpc_url": "http://207.180.196.193:9944",
+  "explorer_url": "http://207.180.196.193:4000",
+  "metrics_endpoint": "http://207.180.196.193:9615/metrics",
+  "id": "b1181a2e-8498-4687-9637-7cfa66ca9707"
+}
