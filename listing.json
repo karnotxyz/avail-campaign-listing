@@ -4,7 +4,7 @@
     "logo": "https://ibb.co/BNKBXCn",
     "rpc_url": "https://hieut3k34.ddns.net:9944",
     "explorer_url": "https://hieut3k34.ddns.net:4000",
-    "metrics_endpoint": "https://hieut3k34.ddns.net:9615",
+    "metrics_endpoint": "https://hieut3k34.ddns.net:9615/metrics",
     "id": "61963987-fa4e-49d7-929a-ab68534e0367"
   },
   {
