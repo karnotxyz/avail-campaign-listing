@@ -1,0 +1,8 @@
+{
+  "name": "ereneser",
+  "logo": "https://nodesync.top/nodesync.jpg",
+  "rpc_url": "http://20.127.231.157:9944",
+  "explorer_url": "20.127.231.157:4000",
+  "metrics_endpoint": "20.127.231.157:9615/metrics",
+  "id": "217c49f6-3cfb-4755-a8fc-001c9a7753af"
+}
