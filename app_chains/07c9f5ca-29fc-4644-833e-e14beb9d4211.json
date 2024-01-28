@@ -1,0 +1,8 @@
+{
+  "name": "bayurnet",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://46.250.234.22:9944",
+  "explorer_url": "46.250.234.22:4000",
+  "metrics_endpoint": "46.250.234.22:9615/metrics",
+  "id": "07c9f5ca-29fc-4644-833e-e14beb9d4211"
+}
