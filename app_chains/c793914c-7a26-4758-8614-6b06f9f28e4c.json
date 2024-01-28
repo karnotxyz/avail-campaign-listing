@@ -1,0 +1,9 @@
+
+  {
+  "name": "bakkalgazi",
+  "logo": "https://r.resimlink.com/QTJkGLq.png",
+  "rpc_url": "http://65.108.92.159:9944",
+  "explorer_url": "http://65.108.92.159:4000",
+  "metrics_endpoint": "http://65.108.92.159:9615",
+  "id": "c793914c-7a26-4758-8614-6b06f9f28e4c" 
+  }
