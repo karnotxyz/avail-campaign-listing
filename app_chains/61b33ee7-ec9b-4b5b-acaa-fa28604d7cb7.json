@@ -1,0 +1,8 @@
+  {
+    "name": "karamustafa",
+    "logo": "https://r.resimlink.com/-OqIjaE.png",
+    "rpc_url": "http://95.216.148.218:9944",
+    "explorer_url": "http://95.216.148.218:4000",
+    "metrics_endpoint": "http://95.216.148.218:9615/metrics", 
+    "id": "61b33ee7-ec9b-4b5b-acaa-fa28604d7cb7"
+  }
