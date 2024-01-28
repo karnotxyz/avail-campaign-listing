@@ -1,0 +1,8 @@
+{
+  "name": "0xRock",
+  "logo": "https://i.imgur.com/sXNT1pn.jpeg",
+  "rpc_url": "http://84.247.188.51:9944",
+  "explorer_url": "http://84.247.188.51:4000",
+  "metrics_endpoint": "http://84.247.188.51:9615/metrics",
+  "id": "41fcc67d-5448-4ec4-8d40-bc95e3942328"
+}
