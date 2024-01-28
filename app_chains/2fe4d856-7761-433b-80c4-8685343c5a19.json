@@ -1,0 +1,8 @@
+  {
+    "name": "TheCryptoTR",
+    "logo": "https://https://r.resimlink.com/FW5lZuqjo.jpg", 
+    "rpc_url": "http://31.220.94.173:9944",
+    "explorer_url": "http://31.220.94.173:4000",
+    "metrics_endpoint": "http://31.220.94.173:9615/metrics", 
+    "id": "2fe4d856-7761-433b-80c4-8685343c5a19" 
+  }
