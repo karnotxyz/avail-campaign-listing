@@ -1,0 +1,8 @@
+{
+  "name": "dnsarz",
+  "logo": "https://dnsarz.xyz/dnsarz.png",
+  "rpc_url": "https://rpc-madara.dnsarz.xyz",
+  "explorer_url": "https://explorer-madara.dnsarz.xyz",
+  "metrics_endpoint": "https://metrics-madara.dnsarz.xyz",
+  "id": "6657527f-412a-40f5-9cd7-9a8323ffc73f"
+}
