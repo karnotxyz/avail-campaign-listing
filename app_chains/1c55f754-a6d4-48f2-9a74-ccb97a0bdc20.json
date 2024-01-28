@@ -1,0 +1,8 @@
+{
+  "name": "rollap-isim",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://95.216.192.172:9944",
+  "explorer_url": "95.216.192.172:4000",
+  "metrics_endpoint": "95.216.192.172:9615/metrics",
+  "id": "217c49f6-3cfb-4755-a8fc-001c9a7753af"
+}
