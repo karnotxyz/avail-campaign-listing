@@ -1,0 +1,8 @@
+{
+  "name": "LostNodes",
+  "logo": "https://github.com/lostnodes/clash-of-node/blob/main/lostnodes.jpg",
+  "rpc_url": "http://207.180.200.118:9944",
+  "explorer_url": "207.180.200.118:4000",
+  "metrics_endpoint": "207.180.200.118:9615/metrics",
+  "id": "1ff4689f-057c-4666-bdbf-21ded5328794"
+}
