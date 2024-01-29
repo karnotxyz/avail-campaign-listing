@@ -1,16 +1,8 @@
-{\rtf1\ansi\ansicpg1254\cocoartf2759
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab560
-\pard\pardeftab560\slleading20\partightenfactor0
-
-\f0\fs26 \cf0   \{\
+{
     "name": \'93bahsnode\'94,\
     "logo": "{\field{\*\fldinst{HYPERLINK "https://r.resimlink.com/CaO9Ng2A_.png"}}{\fldrslt https://r.resimlink.com/CaO9Ng2A_.png}}\'94,\
     "rpc_url": "http://173.249.11.139:9944",\
     "explorer_url": "http://173.249.11.139:4000",\
     "metrics_endpoint": "http://173.249.11.139:9615/metrics", \
     "id": "141b49dd-1b81-4356-b700-5acebaf28b06"\
-  \}}
+  }
