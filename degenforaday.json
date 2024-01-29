@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DEGENFORADAY",
+    "logo": "https://imgur.com/a/cBNYPJ4",
+    "rpc_url": "http://184.174.34.44:9944",
+    "explorer_url": "http://184.174.34.44:4000",
+    "metrics_endpoint": "http://184.174.34.44:9615",
+    "id": "26d5460e-16a6-4e5c-8f55-f40a088e4886"
+  }
+]
