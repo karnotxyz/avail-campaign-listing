@@ -1,0 +1,8 @@
+  {
+    "name": "paraf",
+    "logo": "https://r.resimlink.com/v4s5Nyd_rJ-V.png",
+    "rpc_url": "http://158.220.116.117:9944",
+    "explorer_url": "158.220.116.117:4000",
+    "metrics_endpoint": "158.220.116.117:9615/metrics",
+    "id": "fd26e32c-b9a7-4fef-b757-5d01c972d28c"
+  }
