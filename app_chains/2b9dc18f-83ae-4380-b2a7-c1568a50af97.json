@@ -1,8 +1,8 @@
-  {
-    "name": "oldbutgold",
-    "logo": "https://i.imgur.com/GyXEFWe.png",
-    "rpc_url": "http://http://23.88.96.48:9944",
-    "explorer_url": "http://http://23.88.96.48:4000",
-    "metrics_endpoint": "http://http://23.88.96.48:9615/metrics", 
-    "id": "2b9dc18f-83ae-4380-b2a7-c1568a50af97" // uid alıyoruz.
-  }
+{
+  "name": "oldbutgold",
+  "logo": "https://i.imgur.com/GyXEFWe.png",
+  "rpc_url": "http://http://23.88.96.48:9944",
+  "explorer_url": "http://http://23.88.96.48:4000",
+  "metrics_endpoint": "http://http://23.88.96.48:9615/metrics",
+  "id": "2b9dc18f-83ae-4380-b2a7-c1568a50af97"
+}
