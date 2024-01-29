@@ -4,5 +4,5 @@
     "rpc_url": "http://62.171.174.205:9944",
     "explorer_url": "http://62.171.174.205:4000",
     "metrics_endpoint": "http://62.171.174.205:9615/metrics", 
-    "id": "fbac64bd-7318-4d45-909b-1f187b05561c" 
+    "id": "fbac64bd-7318-4d45-909b-1f187b05561c"
   }
