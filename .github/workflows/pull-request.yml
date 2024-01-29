@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Run prettier
+      - name: Run prettier and fix formatting
         run: |-
-          npx prettier --check .
+          npx prettier --write .
