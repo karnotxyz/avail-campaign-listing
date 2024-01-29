@@ -1,0 +1,8 @@
+  {
+    "name": "joinavail",
+    "logo": "https://r.resimlink.com/rhgC2o3UZuI.jpg", // profil fotosu yüklüyoruz.
+    "rpc_url": "http://http://157.90.118.162/:9944",
+    "explorer_url": "http://http://157.90.118.162/:4000",
+    "metrics_endpoint": "http://http://157.90.118.162/:9615/metrics", 
+    "id": "42a0534c-77ef-476e-bd9e-a976228e9147" // uid alıyoruz.
+  }
