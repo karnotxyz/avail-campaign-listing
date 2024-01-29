@@ -1,0 +1,8 @@
+{
+  "name": "Mutu",
+  "logo": "https://i.imgur.com/qAA7tWt.png",
+  "rpc_url": "http://185.193.67.136:9944",
+  "explorer_url": "http://185.193.67.136:4000",
+  "metrics_endpoint": "http://185.193.67.136:9615/metrics",
+  "id": "f272ef4f-9620-41bd-a2a8-6ef050e43a9a"
+}
