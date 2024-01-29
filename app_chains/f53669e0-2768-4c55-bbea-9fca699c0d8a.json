@@ -1,0 +1,8 @@
+{
+  "name": "teddy",
+  "logo": "https://raw.githubusercontent.com/microkn/daeis/main/teddy.jpg",
+  "rpc_url": "http://152.89.170.52:9944",
+  "explorer_url": "http://152.89.170.52:4000",
+  "metrics_endpoint": "http://152.89.170.52/:9615/metrics",
+  "id": "17c9e0e0-e5c7-4eff-a4ab-b976d0ae8d39"
+}
