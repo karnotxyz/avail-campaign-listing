@@ -1,0 +1,8 @@
+{
+    "name": "Himess”,
+    "logo": "https://r.resimlink.com/RXyLWxz.png",
+    "rpc_url": "http://37.27.9.159:9944",
+    "explorer_url": "http://37.27.9.159:4000",
+    "metrics_endpoint": "http://37.27.9.159:9615/metrics",
+    "id": "5d203b31-769a-445d-a602-db7e37fe6672"
+}
