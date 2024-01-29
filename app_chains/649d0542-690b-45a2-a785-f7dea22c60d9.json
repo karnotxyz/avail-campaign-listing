@@ -1,0 +1,8 @@
+{
+  "name": "UnlCagri",
+  "logo": "https://r.resimlink.com/CVj0A1-Ym.jpg",
+  "rpc_url": "206.189.28.207:9944",
+  "explorer_url": "206.189.28.207:4000",
+  "metrics_endpoint": "206.189.28.207:9615/metrics",
+  "id": "649d0542-690b-45a2-a785-f7dea22c60d9"
+}
