@@ -2,7 +2,7 @@
   "name": "Lorento",
   "logo": "https://i.imgur.com/YDxBZBG.png",
   "rpc_url": "http://135.181.26.15:9944",
-  "explorer_url": "https://135.181.26.15:4000",
+  "explorer_url": "http://135.181.26.15:4000",
   "metrics_endpoint": "http://135.181.26.15:9615/metrics",
   "id": "0b5d3704-ae27-4586-859c-780e376151c0"
 }
