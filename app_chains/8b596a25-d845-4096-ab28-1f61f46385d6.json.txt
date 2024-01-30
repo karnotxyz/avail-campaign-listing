@@ -1,0 +1,11 @@
+
+
+
+  {
+    "name": "SuperChain",
+    "logo": "https://r.resimlink.com/5SFJpVmyPC_8.jpg",
+    "rpc_url": "http://95.217.17.18:9944",
+    "explorer_url": "http://95.217.17.18:4000",
+    "metrics_endpoint": "http://95.217.17.18:9615/metrics", 
+    "id": "8b596a25-d845-4096-ab28-1f61f46385d6" 
+  }
