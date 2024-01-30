@@ -1,0 +1,8 @@
+{
+  "name": "blocksync",
+  "logo": "https://pbs.twimg.com/profile_images/1743879634197131264/e-8Vn4L1_400x400.png",
+  "rpc_url": "http://65.109.139.2:9944",
+  "explorer_url": "65.109.139.2:4000",
+  "metrics_endpoint": "65.109.139.2:9615/metrics",
+  "id": "68a478fd-27d6-4882-a47c-bcbf6ed20171"
+}
