@@ -1,8 +1,0 @@
-{
-  "name": "Adam_VNBnode-Karot",
-  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/logo.svg",
-  "rpc_url": "http://194.163.133.231:9944/",
-  "explorer_url": "http://194.163.133.231:4000/",
-  "metrics_endpoint": "http://194.163.133.231:9615/",
-  "id": "3b830a71-33cd-46d3-bc43-6defb7eb30c5"
-}
