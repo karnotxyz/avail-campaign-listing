@@ -1,0 +1,8 @@
+  {
+    "name": "mrctrz",
+    "logo": "https://r.resimlink.com/C1s6fA.jpg",
+    "rpc_url": "http://185.209.229.242:9944",
+    "explorer_url": "http://185.209.229.242:4000",
+    "metrics_endpoint": "http://185.209.229.242:9615/metrics", 
+    "id": "be05a905-df63-4f92-ab7e-350e0cb12d7b"
+  }
