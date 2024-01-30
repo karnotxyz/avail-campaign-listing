@@ -1,8 +1,0 @@
-{
-  "name": "0xrids",
-  "logo": "https://r.resimlink.com/oUBXf.png",
-  "rpc_url": "http://62.171.174.205:9944",
-  "explorer_url": "http://62.171.174.205:4000",
-  "metrics_endpoint": "http://62.171.174.205:9615/metrics",
-  "id": "7428c3b8-b075-4b24-b228-8ed9bb96d2b1"
-}
