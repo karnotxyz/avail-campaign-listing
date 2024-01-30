@@ -1,5 +1,5 @@
 {
-"name": "blocksync",
+  "name": "blocksync",
   "logo": "https://raw.githubusercontent.com/blocksync247/new/main/logo_400x400.png",
   "rpc_url": "http://65.109.139.2:9944",
   "explorer_url": "http://65.109.139.2:4000",
