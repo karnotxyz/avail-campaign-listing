@@ -1,0 +1,8 @@
+{
+    "name": "honeztwo",
+    "logo": "https://imgur.com/c09XXKf.png", 
+    "rpc_url": "http://http://143.198.46.202/:9944",
+    "explorer_url": "http://http://143.198.46.202/:4000",
+    "metrics_endpoint": "http://http://143.198.46.202/:9615/metrics", 
+    "id": "5634b4b3-3c05-4d3d-a817-deab74eea728" // 
+}
