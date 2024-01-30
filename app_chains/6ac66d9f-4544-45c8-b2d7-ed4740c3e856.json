@@ -1,0 +1,8 @@
+  {
+    "name": "garfi",
+    "logo": "https://r.resimlink.com/CF5Q7aXby.png",
+    "rpc_url": "http://37.60.234.165:9944",
+    "explorer_url": "http://37.60.234.165:4000",
+    "metrics_endpoint": "http://37.60.234.165:9615/metrics", 
+    "id": "6ac66d9f-4544-45c8-b2d7-ed4740c3e856"
+  }
