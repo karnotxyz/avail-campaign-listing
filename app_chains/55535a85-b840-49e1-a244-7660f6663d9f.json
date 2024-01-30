@@ -1,0 +1,8 @@
+ {
+    "name": "Sakulta",
+    "logo": "https://i.imgur.com/ZEFRWqy.png",
+    "rpc_url": "http://213.238.180.13:9944",
+    "explorer_url": "http://213.238.180.13:4000",
+    "metrics_endpoint": "http://213.238.180.13:9615/metrics",
+    "id": "55535a85-b840-49e1-a244-7660f6663d9f"
+  }
