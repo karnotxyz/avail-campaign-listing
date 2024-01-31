@@ -1,0 +1,8 @@
+{
+    "name": "papaker",
+    "logo": "https://r.resimlink.com/hjotIT8XxiW0.png", 
+    "rpc_url": "http://149.102.143.133:9944",
+    "explorer_url": "http://149.102.143.133:4000",
+    "metrics_endpoint": "http://149.102.143.133:9615/metrics", 
+    "id": "a09d7ca0-8bfc-498a-a8d9-32821e45e13d" 
+  }
