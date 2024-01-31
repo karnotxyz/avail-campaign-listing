@@ -1,0 +1,10 @@
+{
+    "name": "saylikon",
+    "logo": "https://r.resimlink.com/iTRYUQ4ql.jpeg", // profil fotosu yüklüyoruz.
+    "rpc_url": "http://37.60.238.59:9944",
+    "explorer_url": "http://37.60.238.59:4000",
+    "metrics_endpoint": "http://37.60.238.59:9615/metrics", 
+    "id": "ab527bdd-ce02-4918-bf66-754211b91ca3" // uid alıyoruz.
+  }
+  
+  
