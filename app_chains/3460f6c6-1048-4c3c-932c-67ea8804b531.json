@@ -1,0 +1,8 @@
+  {
+    "name": “recai42",
+    "logo”: “https://r.resimlink.com/SW9sOQaGVR3.jpg",
+    "rpc_url”: “http://37.60.225.107:9944",
+    "explorer_url": "http://37.60.225.107:4000",
+    "metrics_endpoint": "http://37.60.225.107:9615/metrics",
+    "id": "3460f6c6-1048-4c3c-932c-67ea8804b531"
+  }
