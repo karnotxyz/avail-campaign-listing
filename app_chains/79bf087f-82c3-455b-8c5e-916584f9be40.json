@@ -1,0 +1,8 @@
+{
+    "name": "Eyuphan",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Circassian_flag.svg",
+    "rpc_url": "http://84.247.185.69:9944",
+    "explorer_url": "http://84.247.185.69:4000",
+    "metrics_endpoint": "http://84.247.185.69:9615/metrics",
+    "id": "79bf087f-82c3-455b-8c5e-916584f9be40"
+}
