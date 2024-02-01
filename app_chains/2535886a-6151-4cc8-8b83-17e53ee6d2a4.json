@@ -1,0 +1,8 @@
+{
+  "name": "aleko0o",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://194.163.138.90:9944",
+  "explorer_url": "http://194.163.138.90:4000",
+  "metrics_endpoint": "http://194.163.138.90:9615/metrics",
+  "id": "2535886a-6151-4cc8-8b83-17e53ee6d2a4"
+}
