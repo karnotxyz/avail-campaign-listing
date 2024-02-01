@@ -1,0 +1,8 @@
+{
+  "name": "jamra",
+  "logo": "",
+  "rpc_url": “http://49.13.51.120:9944”,
+  "explorer_url": “http://49.13.51.120:4000”,
+  "metrics_endpoint": “http://49.13.51.120:9615/metrics”,
+  "id": "d6aedbf6-bc16-4f6d-b499-c366f19caada"
+}
