@@ -1,0 +1,8 @@
+  {
+    "name": "sacittmadara",
+    "logo": "https://i.imgur.com/IFHKHy2.png",
+    "rpc_url": "http://49.13.194.179:9944",
+    "explorer_url": "http://49.13.194.179:4000",
+    "metrics_endpoint": "http://49.13.194.179:9615/metrics",
+    "id": "f4b4e9ec-d47d-4192-a42a-71caecfb478e"
+  }
