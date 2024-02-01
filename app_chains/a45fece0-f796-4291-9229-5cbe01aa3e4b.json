@@ -1,0 +1,8 @@
+  {
+    "name": "krtl",
+    "logo": "https://https://r.resimlink.com/LzTiP3p.jpg",
+    "rpc_url": "http://84.247.190.48:9944",
+    "explorer_url": "http://84.247.190.48:4000",
+    "metrics_endpoint": "http://84.247.190.48:9615/metrics", 
+    "id": "a45fece0-f796-4291-9229-5cbe01aa3e4b"
+  }
