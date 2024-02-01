@@ -1,8 +1,0 @@
-{
-  "name": "orkun",
-  "logo": "https://imgur.com/a/aPHjSm0",
-  "rpc_url": "https://109.123.255.196:9944",
-  "explorer_url": "https://109.123.255.196:4000/",
-  "metrics_endpoint": "https://109.123.255.196:9615/metrics",
-  "id": "405f4b23-9eea-4df2-9351-16e9d096cc3a"
-}
