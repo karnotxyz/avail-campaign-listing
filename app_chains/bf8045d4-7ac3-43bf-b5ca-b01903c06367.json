@@ -1,0 +1,7 @@
+{
+  "name": "osimato",
+  "logo": "https://r.resimlink.com/356she1oj.jpg",
+  "rpc_url": "http://37.60.226.115:9944",
+  "explorer_url": "http://37.60.226.115:4000",
+  "metrics_endpoint": "http://37.60.226.115:9615",
+  "id": "e9dd99d5-b003-4dc8-a613-7b5515a1b0d9" 
