@@ -1,8 +1,8 @@
 {
   "name": "fablo",
-  "logo": "https://i.imgur.com/Hkg7Gia.jpeg",
+  "logo": "https://raw.githubusercontent.com/Fablomingi/Fablomingi/main/400x400.jpg",
   "rpc_url": "http://37.60.224.224:9944",
   "explorer_url": "http://37.60.224.224:4000",
   "metrics_endpoint": "http://37.60.224.224:9615/metrics",
-  "id": "2a57145a-6bed-4b55-a0c4-ecfc04e47640"
+  "id": "84f13d24-87a8-4aa5-9c1f-cb84ade588aa"
 }
