@@ -1,0 +1,8 @@
+{
+  "name": "seracan",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://84.247.141.193:9944",
+  "explorer_url": "http://84.247.141.193:4000",
+  "metrics_endpoint": "http://84.247.141.193:9615/metrics",
+  "id": "24b598f3-a228-4ea0-8aec-440d579d2c78"
+}
