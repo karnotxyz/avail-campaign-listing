@@ -1,6 +1,6 @@
 {
   "name": "mmuatt",
-  "logo": "https://raw.githubusercontent.com/mmuatt86/rollapp-registry/main/devnet/mmuatt_2419679-1/logos/mmuatt_2419679-1.jpg",
+  "logo": "http://raw.githubusercontent.com/mmuatt86/rollapp-registry/main/devnet/mmuatt_2419679-1/logos/mmuatt_2419679-1.jpg",
   "rpc_url": "http://49.12.237.60:9944",
   "explorer_url": "http://49.12.237.60:4000",
   "metrics_endpoint": "http://49.12.237.60:9615/metrics",
