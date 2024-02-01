@@ -1,0 +1,8 @@
+{
+  "name": "alpnodes",
+  "logo": "https://r.resimlink.com/kEeNqCQ.png",
+  "rpc_url": "http://161.97.76.65:9944",
+  "explorer_url": "http://161.97.76.65:4000",
+  "metrics_endpoint": "http://161.97.76.65:9615/metrics",
+  "id": "825400e0-0fae-4dce-a749-707e798fcc0f"
+}
