@@ -1,0 +1,8 @@
+{
+  "name": "jacknick",
+  "logo": "https://i.imgur.com/u55hEUU.png",
+  "rpc_url": "http://37.27.11.47:9944",
+  "explorer_url": "http://37.27.11.47:4000",
+  "metrics_endpoint": "http://37.27.11.47:9615/metrics",
+  "id": "6dbda0e4-774e-40f7-96a9-14f2716ae0ba"
+}
