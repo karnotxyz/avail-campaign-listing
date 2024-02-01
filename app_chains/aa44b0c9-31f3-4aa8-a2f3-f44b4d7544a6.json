@@ -1,0 +1,8 @@
+{
+    "name": "zeycan",
+    "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/zeycan_3437501-1/logos/zeycan_3437501-1.png",
+    "rpc_url": "http://80.65.211.208:9944",
+    "explorer_url": "http://80.65.211.208:4000",
+    "metrics_endpoint": "http://80.65.211.208:9615/metrics",
+    "id": "aa44b0c9-31f3-4aa8-a2f3-f44b4d7544a6"
+  }
