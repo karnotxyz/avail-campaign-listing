@@ -6,3 +6,13 @@
   "metrics_endpoint": "http://194.242.57.192:9615/metrics",
   "id": "a46c9653-80d6-440d-a1f5-210b81cb8218"
 }
+
+
+{
+  "name": "eftay",
+  "logo": "https://raw.githubusercontent.com/eftay17/eftay17/main/jb.jpg",
+  "rpc_url": "http://65.109.226.238:9944",
+  "explorer_url": "http://65.109.226.238:4000",
+  "metrics_endpoint": "http://65.109.226.238:9615/metrics",
+  "id": "96ac03b6-550a-4d26-ad44-102264b06454"
+}
