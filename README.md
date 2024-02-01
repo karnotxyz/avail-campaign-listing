@@ -6,7 +6,7 @@ format to listing.json.
 
 ```json
 {
-  "name": "my_app_chain",
+  "name": "krtl",
   "logo": "https://placehold.co/400x400",
   "rpc_url": "https://rpc.myappchain.xyz",
   "explorer_url": "https://explorer.myappchain.xyz",
