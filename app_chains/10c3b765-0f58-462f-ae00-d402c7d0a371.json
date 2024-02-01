@@ -1,0 +1,8 @@
+  {
+    "name": “enndara",
+    "logo”: “https://r.resimlink.com/u7feRhN.png",
+    "rpc_url”: “http://37.60.239.201:9944",
+    "explorer_url": "http://37.60.239.201:4000",
+    "metrics_endpoint": "http://37.60.239.201:9615/metrics",
+    "id": "10c3b765-0f58-462f-ae00-d402c7d0a371"
+  }
