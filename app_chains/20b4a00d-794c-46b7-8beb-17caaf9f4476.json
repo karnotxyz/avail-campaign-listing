@@ -1,10 +1,10 @@
 [
    {
-      "name":"mahof",
-      "logo":"ipfs://QmbnrWeiQzauzyzyEq8Jexfpa6mhi7qo5xvyorLefDJMRW/mahof.png",
-      "rpc_url":"http://213.136.86.80:9944",
-      "explorer_url":"http://213.136.86.80:4000",
-      "metrics_endpoint":"http://213.136.86.80:9615/metrics",
-      "id":"20b4a00d-794c-46b7-8beb-17caaf9f4476"
+    "name": "mahof",
+    "logo": "ipfs://QmbnrWeiQzauzyzyEq8Jexfpa6mhi7qo5xvyorLefDJMRW/mahof.png",
+    "rpc_url": "http://213.136.86.80:9944",
+    "explorer_url": "http://213.136.86.80:4000",
+    "metrics_endpoint": "http://213.136.86.80:9615/metrics",
+    "id": "20b4a00d-794c-46b7-8beb-17caaf9f4476"
    }
 ]
