@@ -1,0 +1,8 @@
+  {
+    "name": "afatsum",
+    "logo": "https://r.resimlink.com/gBo4mXe0.png",
+    "rpc_url": "http://31.220.84.212:9944",
+    "explorer_url": "http://31.220.84.212:4000",
+    "metrics_endpoint": "http://31.220.84.212/metrics", 
+    "id": "589ae124-8742-4531-964e-bc37b43f8492" 
+  }
