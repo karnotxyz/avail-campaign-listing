@@ -1,0 +1,8 @@
+{
+  "name": "AVBRV2",
+  "logo": "https://www.bundesverband-reifenhandel.de/fileadmin/user_upload/Mitglieder/MyBRV/App_MyBRV_neu.jpg",
+  "rpc_url": "http://49.12.60.243:9944",
+  "explorer_url": "http://49.12.60.243:4000",
+  "metrics_endpoint": "http://49.12.60.243:9615/metrics",
+  "id": "82d97248-957f-41e9-a2cd-a9a8b4db62ed"
+}
