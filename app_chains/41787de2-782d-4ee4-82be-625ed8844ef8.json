@@ -1,0 +1,8 @@
+{
+  "name": "fablo",
+  "logo": "https://r.resimlink.com/_AsCHkETujf.png?v=65e0a0ff36826b62f4c6fc8e22121d37",
+  "rpc_url": "http://37.60.224.224:9944",
+  "explorer_url": "http://37.60.224.224:4000",
+  "metrics_endpoint": "http://37.60.224.224:9615/metrics",
+  "id": "41787de2-782d-4ee4-82be-625ed8844ef8"
+}
