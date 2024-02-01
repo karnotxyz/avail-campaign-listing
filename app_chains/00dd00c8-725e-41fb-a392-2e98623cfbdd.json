@@ -1,6 +1,6 @@
 {
   "name": "bayurnet",
-  "logo": "https://bayur.net/logo.png",
+  "logo": "http://bayur.net/logo.png",
   "rpc_url": "http://46.250.234.22:9944",
   "explorer_url": "http://46.250.234.22:4000",
   "metrics_endpoint": "http://46.250.234.22:9615/metrics",
