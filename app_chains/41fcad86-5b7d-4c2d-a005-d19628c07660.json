@@ -1,0 +1,8 @@
+{
+  "name": "peyruz",
+  "logo": "https://hizliresim.com/frnl68b",
+  "rpc_url": "http://178.128.16.23:9944",
+  "explorer_url": "178.128.16.23:4000",
+  "metrics_endpoint": "178.128.16.23:9615/metrics",
+  "id": "41fcad86-5b7d-4c2d-a005-d19628c07660"
+}
