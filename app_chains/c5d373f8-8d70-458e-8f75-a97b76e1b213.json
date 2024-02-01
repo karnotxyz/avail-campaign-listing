@@ -1,0 +1,8 @@
+{
+    "name": "serzenis",
+    "logo": "https://r.resimlink.com/SG-ZQdbDguvJ.png", // profil fotosu yüklüyoruz.
+    "rpc_url": "http://95.217.131.203:9944",
+    "explorer_url": "http://95.217.131.203:4000",
+    "metrics_endpoint": "http://95.217.131.203:9615/metrics", 
+    "id": "c5d373f8-8d70-458e-8f75-a97b76e1b213" // uid alıyoruz.
+  }
