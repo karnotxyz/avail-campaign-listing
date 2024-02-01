@@ -1,6 +1,6 @@
 {
   "name": "aleko0o",
-  "logo": "logo-linkiniz",
+  "logo": "https://github.com/aleko0o/Pryzm/blob/main/ddd.png",
   "rpc_url": "http://194.163.138.90:9944",
   "explorer_url": "http://194.163.138.90:4000",
   "metrics_endpoint": "http://194.163.138.90:9615/metrics",
