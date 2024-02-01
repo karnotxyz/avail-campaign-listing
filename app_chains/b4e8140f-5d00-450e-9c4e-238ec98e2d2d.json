@@ -1,0 +1,8 @@
+{
+  "name": "ivandivandelen",
+  "logo": "https://i.imgur.com/c7Ngmhv.png",
+  "rpc_url": "http://213.238.180.13:9944/",
+  "explorer_url": "http://213.238.180.13:4000/",
+  "metrics_endpoint": "http://213.238.180.13:9615/metrics",
+  "id": "b4e8140f-5d00-450e-9c4e-238ec98e2d2d"
+}
