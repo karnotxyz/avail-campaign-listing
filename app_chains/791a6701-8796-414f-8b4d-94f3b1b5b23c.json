@@ -2,7 +2,7 @@
   "name": "singlegun",
   "logo": "https://i.hizliresim.com/nrz3vho.jpg",
   "rpc_url": "http://138.197.170.34:9944",
-  "explorer_url": "138.197.170.34:4000",
-  "metrics_endpoint": "138.197.170.34:9615/metrics",
+  "explorer_url": "http://138.197.170.34:4000",
+  "metrics_endpoint": "http://138.197.170.34:9615/metrics",
   "id": "791a6701-8796-414f-8b4d-94f3b1b5b23c"
 }
