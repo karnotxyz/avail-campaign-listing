@@ -1,0 +1,8 @@
+{
+  "name": "afatsum",
+  "logo": "https://i.hizliresim.com/2hm97zl.jpg",
+  "rpc_url": "http://31.220.84.212:9944",
+  "explorer_url": "http://31.220.84.212:4000",
+  "metrics_endpoint": "http://31.220.84.212:9615/metrics",
+  "id": "5ce0c62f-f02f-40ab-b994-4723d3599d02"
+}
