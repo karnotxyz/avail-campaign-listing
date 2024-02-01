@@ -1,0 +1,8 @@
+{
+    "name": "tasi",
+    "logo": "https://r.resimlink.com/98S2_vR.jpg",
+    "rpc_url": "http://84.247.131.223:9944",
+    "explorer_url": "http://84.247.131.223:4000",
+    "metrics_endpoint": "http://84.247.131.223:9615/metrics", 
+    "id": "a2c750bd-6b67-4841-acf8-c6575610af5e"
+  }
