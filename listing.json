@@ -1,8 +1,0 @@
-{
-  "name": "OngTrongStraive",
-  "logo": "https://i.imgur.com/rJqeTti.png",
-  "rpc_url": "http://207.180.198.20:9944",
-  "explorer_url": "http://207.180.198.20:4000",
-  "metrics_endpoint": "http://207.180.198.20:9615/metrics",
-  "id": "35d6047c-94d2-4af6-be0b-a6a2d5244f01"
-}
