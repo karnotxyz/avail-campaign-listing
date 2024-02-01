@@ -1,7 +1,7 @@
 [
    {
       "name": "mahof",
-      "logo": "ipfs://QmbnrWeiQzauzyzyEq8Jexfpa6mhi7qo5xvyorLefDJMRW/mahof.png",
+      "logo": "https://ipfs.io/ipfs/QmbnrWeiQzauzyzyEq8Jexfpa6mhi7qo5xvyorLefDJMRW/mahof.png",
       "rpc_url": "http://213.136.86.80:9944",
       "explorer_url": "http://213.136.86.80:4000",
       "metrics_endpoint": "http://213.136.86.80:9615/metrics",
