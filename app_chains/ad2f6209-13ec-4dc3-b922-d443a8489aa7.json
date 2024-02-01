@@ -1,0 +1,8 @@
+{
+  "name": "Sooner",
+  "logo": "https://imgur.com/a/b921W39",
+  "rpc_url": "http://192.145.37.240:9944",
+  "explorer_url": "http://192.145.37.240:4000",
+  "metrics_endpoint": "http://192.145.37.240:9615/metrics",
+  "id": "ad2f6209-13ec-4dc3-b922-d443a8489aa7"
+}
