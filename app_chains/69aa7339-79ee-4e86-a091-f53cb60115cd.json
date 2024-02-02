@@ -1,0 +1,8 @@
+  {
+    "name": "VLK",
+    "logo": "https://r.resimlink.com/Fk8RWelYzsU.png", // profil fotosu yüklüyoruz.
+    "rpc_url": "http://localhost:9944",
+    "explorer_url": "http://localhost:4000",
+    "metrics_endpoint": "http://localhost:9615/metrics", 
+    "id": "69aa7339-79ee-4e86-a091-f53cb60115cd" // uid alıyoruz.
+  }
