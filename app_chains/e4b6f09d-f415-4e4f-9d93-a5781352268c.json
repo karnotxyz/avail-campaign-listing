@@ -1,0 +1,8 @@
+{
+  "name": "tbcyxmneoea",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/tbcyxmneoea.png",
+  "rpc_url": "http://43.153.23.247:9944",
+  "explorer_url": "http://43.153.23.247:4000",
+  "metrics_endpoint": "http://43.153.23.247:9615/metrics",
+  "id": "e4b6f09d-f415-4e4f-9d93-a5781352268c"
+}
