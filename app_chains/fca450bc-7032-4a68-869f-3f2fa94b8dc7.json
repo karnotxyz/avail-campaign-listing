@@ -1,0 +1,8 @@
+{
+    "name": "amir2",
+    "logo": "https://r.resimlink.com/XmPNrJ.png",
+    "rpc_url": "http://49.12.60.243:9944",
+    "explorer_url": "http://49.12.60.243:4000",
+    "metrics_endpoint": "http://49.12.60.243:9615/metrics",
+    "id": "fca450bc-7032-4a68-869f-3f2fa94b8dc7"
+  }
