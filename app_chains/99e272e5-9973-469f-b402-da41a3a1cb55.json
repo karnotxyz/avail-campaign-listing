@@ -1,0 +1,8 @@
+{
+  "name": "alpnodes",
+  "logo": "https://ibb.co/k0g39DF",
+  "rpc_url": "http://161.97.76.65:9944",
+  "explorer_url": "http://161.97.76.65:4000",
+  "metrics_endpoint": "http://161.97.76.65:9615/metrics",
+  "id": "99e272e5-9973-469f-b402-da41a3a1cb55"
+}
