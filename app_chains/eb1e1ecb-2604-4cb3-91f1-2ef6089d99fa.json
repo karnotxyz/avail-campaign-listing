@@ -1,6 +1,6 @@
 {
   "name": "peyruznode",
-  "logo": "http://hizliresim.com/ahbn9v2.png",
+  "logo": "http://hizliresim.com/ahbn9v2",
   "rpc_url": "http://159.65.123.40:9944",
   "explorer_url": "http://159.65.123.40:4000",
   "metrics_endpoint": "http://159.65.123.40:9615/metrics",
