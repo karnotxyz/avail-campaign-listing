@@ -2,7 +2,7 @@
   "name": "cosmostation",
   "logo": "https://www.mintscan.io/assets/icons/cosmostation.png",
   "rpc_url": "https://madara-appchain.cosmostation.io/rpc",
-  "explorer_url": "https://madara-appchain.cosmostation.io/explorer",
+  "explorer_url": "https://explorer-madara.cosmostation.io/",
   "metrics_endpoint": "https://madara-appchain.cosmostation.io/metrics",
   "id": "58221b2b-34f6-4f59-bf81-014020b25228"
 }
