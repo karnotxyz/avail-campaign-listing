@@ -1,8 +1,10 @@
-{
-  "name": "fukuyama",
-  "logo": "https://im.ge/i/bF83wp",
-  "rpc_url": "http://37.27.33.115:9944",
-  "explorer_url": "http://37.27.33.115:4000",
-  "metrics_endpoint": "http://37.27.33.115:9615/metrics",
-  "id": "8543f684-18fb-434e-b49e-e603373bb4df"
-}
+[
+  {
+    "name": "fukuyama",
+    "logo": "https://im.ge/i/bF83wp",
+    "rpc_url": "http://37.27.33.115:9944",
+    "explorer_url": "http://37.27.33.115:4000",
+    "metrics_endpoint": "http://37.27.33.115:9615/metrics",
+    "id": "8543f684-18fb-434e-b49e-e603373bb4df"
+  }
+]
