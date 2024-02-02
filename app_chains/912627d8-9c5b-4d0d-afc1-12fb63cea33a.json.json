@@ -1,0 +1,7 @@
+{
+  "name": "robbert",
+  "logo": "https://r.resimlink.com/phLX9gNE.jpg",
+  "rpc_url": "http://http://62.171.128.40:9944",
+  "explorer_url": "http://http://62.171.128.40:4000",
+  "metrics_endpoint": "http://http://62.171.128.40:9615",
+  "id": "912627d8-9c5b-4d0d-afc1-12fb63cea33a" 
