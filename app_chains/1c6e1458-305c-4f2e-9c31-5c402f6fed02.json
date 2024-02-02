@@ -1,0 +1,8 @@
+{
+  "name": "PangCuan",
+  "logo": "https://i.ibb.co/tK1JyGy/bitcoin-logo.jpg",
+  "rpc_url": "http://103.27.206.125:9944",
+  "explorer_url": "http://103.27.206.125:4000",
+  "metrics_endpoint": "http://103.27.206.125:9615/metrics",
+  "id": "1c6e1458-305c-4f2e-9c31-5c402f6fed02"
+}
