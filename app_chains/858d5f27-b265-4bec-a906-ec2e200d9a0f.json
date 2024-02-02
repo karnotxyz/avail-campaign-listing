@@ -1,6 +1,6 @@
 {
   "name": "honeztwo",
-  "logo": "https://r.resimlink.com/X6gCEJ3Or.png?v=74529aefdf4dd217d61b82a762d6c657",
+  "logo": "https://r.resimlink.com/X6gCEJ3Or.png",
   "rpc_url": "http://165.22.242.50:9944",
   "explorer_url": "http://165.22.242.50:4000",
   "metrics_endpoint": "http://165.22.242.50:9615/metrics",
