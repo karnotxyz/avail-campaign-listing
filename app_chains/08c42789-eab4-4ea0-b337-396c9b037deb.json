@@ -1,0 +1,8 @@
+{
+  "name": "zeycan",
+  "logo": "https://i.imgur.com/3prz0Id.png",
+  "rpc_url": "http://80.65.211.208:9944",
+  "explorer_url": "http://80.65.211.208:4000",
+  "metrics_endpoint": "http://80.65.211.208:9615/metrics",
+  "id": "08c42789-eab4-4ea0-b337-396c9b037deb"
+}
