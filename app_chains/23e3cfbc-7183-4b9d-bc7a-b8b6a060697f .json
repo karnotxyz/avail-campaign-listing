@@ -1,0 +1,8 @@
+ {
+  "name": "App Name",
+  "logo": "logo",
+  "rpc_url": "http://IPADRESIN:9944",
+  "explorer_url": "http://IPADRESIN:4000",
+  "metrics_endpoint": "http://IPADRESIN/metrics",
+  "id": "uuid"
+  }
