@@ -1,0 +1,8 @@
+{
+  "name": "ValarDohaeris",
+  "logo": "https://imgur.com/aqAyN1e",
+  "rpc_url": "http://37.27.36.18:9944",
+  "explorer_url": "37.27.36.18:4000",
+  "metrics_endpoint": "37.27.36.18:9614",
+  "id": "6e746daf-1887-4444-876b-107bfb2ad845"
+}
