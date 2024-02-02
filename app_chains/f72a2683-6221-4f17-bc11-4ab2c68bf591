@@ -1,0 +1,8 @@
+{
+  "name": "LYL42",
+  "logo": "https://imgur.com/a/hM7OXAo.png",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "https://explorer.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "f72a2683-6221-4f17-bc11-4ab2c68bf591"
+}
