@@ -1,0 +1,8 @@
+ {
+   "name": “ennjoy",
+   "logo”: “https://imgur.com/a/hM7OXAo.png",
+   "rpc_url”: “http://37.60.239.201:9944",
+   "explorer_url": "http://37.60.239.201:4000",
+   "metrics_endpoint": "http://37.60.239.201:9615/metrics",
+   "id": "74b1f7da-4bc6-4502-a0a0-84eac20eb859"
+ }
