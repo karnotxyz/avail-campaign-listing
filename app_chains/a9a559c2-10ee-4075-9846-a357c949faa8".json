@@ -1,0 +1,9 @@
+
+  {
+    "name": "Sandstorm",
+    "logo": "https://r.resimlink.com/VmXJ8p.jpg", 
+    "rpc_url": "http://173.212.232.164:9944",
+    "explorer_url": "http://173.212.232.164:4000",
+    "metrics_endpoint": "http://173.212.232.164:9615/metrics", 
+    "id": "a9a559c2-10ee-4075-9846-a357c949faa8" 
+  }
