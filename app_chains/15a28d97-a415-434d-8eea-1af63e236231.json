@@ -1,0 +1,8 @@
+{
+    "name": "kbabba",
+    "logo": "https://r.resimlink.com/nCOjXhLo0.png",
+    "rpc_url": "http://143.198.238.219:9944",
+    "explorer_url": "http://143.198.238.219:4000",
+    "metrics_endpoint": "http://143.198.238.219:9615/metrics",
+    "id": "15a28d97-a415-434d-8eea-1af63e236231"
+  }
