@@ -1,0 +1,8 @@
+{
+  "name": "Your_appchain_name",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/94672107/300179553-5ba89ddb-5ec3-4bea-929c-3f3a916b9dcc.png",
+  "rpc_url": "http://49.12.58.119:9944",
+  "explorer_url": "http://49.12.58.119:4000",
+  "metrics_endpoint": "http://49.12.58.119:9615/metrics",
+  "id": "23e8e34d-e3b4-4517-aebc-9b659b335592"
+}
