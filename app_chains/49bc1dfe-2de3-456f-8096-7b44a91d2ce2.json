@@ -1,0 +1,8 @@
+{
+    "name": "Zeseidon",
+    "logo": "https://ibb.co/RDnbDX3",
+    "rpc_url": "http://167.86.107.34:9944",
+    "explorer_url": "http://167.86.107.34:4000",
+    "metrics_endpoint": "http://167.86.107.34:9615/metrics", 
+    "id": "49bc1dfe-2de3-456f-8096-7b44a91d2ce2"
+}
