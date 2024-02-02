@@ -1,0 +1,8 @@
+  {
+    "name": "berti",
+    "logo": " https://imgur.com/a/6122taC ",
+    "rpc_url": "http://49.13.146.198:9944",
+    "explorer_url": "http://49.13.146.198:4000",
+    "metrics_endpoint": "http://49.13.146.198:9615/metrics",
+    "id": "8f77b714-fcdc-45e7-9fc7-b0e1896d5b14"
+  }
