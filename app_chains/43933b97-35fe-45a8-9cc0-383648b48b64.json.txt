@@ -1,0 +1,7 @@
+{
+  "name": "MlhAvail",
+  "logo": "https://imgur.com/wFE5UUW",
+  "rpc_url": "206.189.50.138:9944",
+  "explorer_url": "206.189.50.138:4000",
+  "metrics_endpoint": "206.189.50.138:9615",
+  "id": "43933b97-35fe-45a8-9cc0-383648b48b64" 

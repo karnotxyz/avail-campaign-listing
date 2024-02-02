@@ -1,0 +1,8 @@
+  {
+    "name": "MlhAvail",
+    "logo": "https://r.resimlink.com/iVhQl6sCX.jpg"
+    "rpc_url": "http://206.189.48.202:9944",
+    "explorer_url": "http://206.189.48.202:4000",
+    "metrics_endpoint": "http://206.189.48.202:9615/metrics", 
+    "id": "fadd6877-e9bb-411d-a7fb-785f9b9b9f9e" 
+  }
