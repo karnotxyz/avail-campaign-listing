@@ -1,0 +1,8 @@
+  {
+    "name": "blackstar",
+    "logo": "https://r.resimlink.com/RgQqTd.png",
+    "rpc_url": "http://37.27.43.42:9944",
+    "explorer_url": "http://37.27.43.42:4000",
+    "metrics_endpoint": "http://37.27.43.42:9615/metrics", 
+    "id": "e65955a8-803c-4e51-9bca-ea45030671e4"
+  }
