@@ -1,0 +1,8 @@
+{
+  "name": "fablo",
+  "logo": "https://i.pinimg.com/474x/7c/d2/ec/7cd2ecb6386703f92f16cc6cad8f62cb.jpg",
+  "rpc_url": "http://37.60.224.224:9944",
+  "explorer_url": "http://37.60.224.224:4000",
+  "metrics_endpoint": "http://37.60.224.224:9615/metrics",
+  "id": "2860cd52-71c9-4000-8454-a6f0e7eba85c"
+}
