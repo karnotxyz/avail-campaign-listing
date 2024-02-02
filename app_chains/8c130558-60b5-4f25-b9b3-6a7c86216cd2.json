@@ -1,8 +1,8 @@
 {
     "name": "gog",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106862644/299819672-8fbcc4d0-798a-497b-a8c3-48f9a2a88a21.png",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106862644/296608942-d3975b96-c8d9-4b3d-b3ed-6e7e28e5324a.png",
     "rpc_url": "http://84.247.132.82:9944",
     "explorer_url": "http://84.247.132.82:4000",
-    "metrics_endpoint": "http://84.247.132.82:9615",
+    "metrics_endpoint": "http://84.247.132.82:9615/metrics",
     "id": "8c130558-60b5-4f25-b9b3-6a7c86216cd2"
   }
