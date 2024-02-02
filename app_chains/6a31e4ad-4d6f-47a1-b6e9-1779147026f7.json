@@ -1,6 +1,6 @@
 {
   "name": "burcu",
-  "logo": "logo-linkiniz",
+  "logo": "logos/burcu_6461485-1.jpg",
   "rpc_url": "http://:9944",
   "explorer_url": "http://http://192.168.1.103/:4000",
   "metrics_endpoint": "http://http://192.168.1.103/:9615/metrics",
