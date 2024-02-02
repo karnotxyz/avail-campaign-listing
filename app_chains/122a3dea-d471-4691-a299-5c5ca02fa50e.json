@@ -1,6 +1,6 @@
 {
   "name": "ocean",
-  "logo": "https://imgur.com/1LJYQ6N",
+  "logo": "https://i.imgur.com/kkkw2AF.jpg",
   "rpc_url": "http://194.233.80.167:9944",
   "explorer_url": "http://194.233.80.167:4000",
   "metrics_endpoint": "http://194.233.80.167:9615/metrics",
