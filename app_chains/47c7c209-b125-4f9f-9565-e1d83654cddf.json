@@ -1,0 +1,8 @@
+{
+  "name": "iamshaho",
+  "logo": "https://i.imgur.com/62ZLfoy.png",
+  "rpc_url": "http://82.115.20.168:9944",
+  "explorer_url": "http://82.115.20.168:4000",
+  "metrics_endpoint": "http://82.115.20.168:9615/metrics",
+  "id": "47c7c209-b125-4f9f-9565-e1d83654cddf"
+}
