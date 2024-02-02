@@ -1,0 +1,8 @@
+{
+  "name": "cem",
+  "logo": "https://i.imgur.com/iaW2rjf.png",
+  "rpc_url": "http://159.89.28.237:9944",
+  "explorer_url": "http://159.89.28.237:4000",
+  "metrics_endpoint": "http://159.89.28.237:9614",
+  "id": "d9dd65a7-d78e-4d46-b7bd-dd2f595bed3c"
+}
