@@ -1,0 +1,8 @@
+{
+  "name": "cryptokhal",
+  "logo": "https://ibb.co/1dGs1dm",
+  "rpc_url": "http://46.250.248.47:9944",
+  "explorer_url": "http://46.250.248.47:4000",
+  "metrics_endpoint": "http://46.250.248.47:9615/metrics",
+  "id": "4eec5c86-1fd4-4e3e-9503-af6d25968283"
+}
