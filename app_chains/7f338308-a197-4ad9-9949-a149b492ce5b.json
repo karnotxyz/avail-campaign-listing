@@ -3,6 +3,6 @@
   "logo": "https://raw.githubusercontent.com/sooneraydin/sooner/main/GS%20Duvar%20Ka%C4%9F%C4%B1tlar%C4%B1%20HD%20-%20GS%20Wallpapers%20-%20Google%20Play'de%20Uygulamalar.png",
   "rpc_url": "https://192.145.37.240:9944",
   "explorer_url": "https://192.145.37.240:4000",
-  "metrics_endpoint": "http://192.145.37.240:9615/metrics",
+  "metrics_endpoint": "http://192.145.37.240:9614/metrics",
   "id": "7f338308-a197-4ad9-9949-a149b492ce5b"
 }
