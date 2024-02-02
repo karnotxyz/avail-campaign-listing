@@ -2,7 +2,7 @@
   "name": "rAdius",
   "logo": "https://myhotposters.com/cdn/shop/products/mHP0489_1024x1024.jpeg?v=1571444324",
   "rpc_url": "http://178.128.200.25:9944",
-  "explorer_url": "http://SUNUCU-İP-YAZ:4000",
+  "explorer_url": "http://178.128.200.25:4000",
   "metrics_endpoint": "http://178.128.200.25:9615/metrics",
   "id": "d916f281-bcef-4368-9bd6-99dee9cba216"
 }
