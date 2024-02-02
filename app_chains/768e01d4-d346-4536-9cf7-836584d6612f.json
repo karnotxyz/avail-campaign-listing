@@ -1,0 +1,8 @@
+{
+  "name": "hokagesama",
+  "logo": "https://r.resimlink.com/01eMVW.png",
+  "rpc_url": "http://49.13.119.172:9944",
+  "explorer_url": "http://49.13.119.172:4000",
+  "metrics_endpoint": "http://49.13.119.172:9615/metrics",
+  "id": "768e01d4-d346-4536-9cf7-836584d6612f"
+}
