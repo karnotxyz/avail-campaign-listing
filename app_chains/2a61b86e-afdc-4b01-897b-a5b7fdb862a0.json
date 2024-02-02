@@ -1,0 +1,8 @@
+{
+    "name": "amir2",
+    "logo": "https://placehold.co/400x400?text=amir2",
+    "rpc_url": "http://49.12.60.243:9944",
+    "explorer_url": "http://49.12.60.243:4000",
+    "metrics_endpoint": "http://49.12.60.243:9615/metrics",
+    "id": "2a61b86e-afdc-4b01-897b-a5b7fdb862a0"
+  }
