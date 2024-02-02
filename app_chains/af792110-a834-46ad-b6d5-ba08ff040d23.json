@@ -1,0 +1,8 @@
+ { 
+    "nome" :  "nodealerod" , 
+    "logotipo" :  "https://i.imgur.com/eEKYeUb.png" , 
+    "rpc_url" :  "http://104.251.223.6:9944" , 
+    "explorer_url" :  "http:/ /104.251.223.6:4000" , 
+    "metrics_endpoint" :  "http://104.251.223.6:9615/metrics" ,  
+    "id" :  "af792110-a834-46ad-b6d5-ba08ff040d23" 
+  }
