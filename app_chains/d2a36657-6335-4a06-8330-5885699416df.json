@@ -1,8 +1,0 @@
-{
-   "name": "KashifAli",
-   "logo": "https://ipfs.io/ipfs/QmXKL5wpMt6vwzx8WrMqtAweqyo4ee9xKYNk2Vuy52zqrn",
-   "rpc_url": "http://137.184.95.0:9944",
-   "explorer_url": "http://137.184.95.0:4000",
-   "metrics_endpoint": "http://137.184.95.0:9615/metrics",
-   "id": "d2a36657-6335-4a06-8330-5885699416df"
-}
