@@ -1,0 +1,8 @@
+{
+  "name": "kaikisen",
+  "logo": "https://im.ge/i/bWYBYC",
+  "rpc_url": "http://37.27.42.79:9944",
+  "explorer_url": "http://37.27.42.79:4000",
+  "metrics_endpoint": "http://37.27.42.79:9615/metrics",
+  "id": "bd4ebe9f-8530-4cc9-a151-c8020c62606e"
+}
