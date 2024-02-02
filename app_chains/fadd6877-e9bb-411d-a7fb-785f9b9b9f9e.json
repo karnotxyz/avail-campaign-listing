@@ -1,3 +1,4 @@
+npx prettier --write .
 {
   "name": "MlhAvail",
   "logo": "https://r.resimlink.com/iVhQl6sCX.jpg",
