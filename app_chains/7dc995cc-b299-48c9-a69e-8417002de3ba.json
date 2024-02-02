@@ -1,0 +1,8 @@
+{
+  "name": "fablo",
+  "logo": "https://i.imgur.com/ydoG1uy.png",
+  "rpc_url": "http://37.60.224.224:9944",
+  "explorer_url": "http://37.60.224.224:4000",
+  "metrics_endpoint": "http://37.60.224.224:9615/metrics",
+  "id": "7dc995cc-b299-48c9-a69e-8417002de3ba"
+}
