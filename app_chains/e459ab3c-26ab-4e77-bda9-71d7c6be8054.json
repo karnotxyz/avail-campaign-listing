@@ -1,0 +1,8 @@
+{
+  "name": "gog",
+  "logo": "https://r.resimlink.com/S8VkCZ10js.png",
+  "rpc_url": "http://84.247.132.82:9944",
+  "explorer_url": "http://84.247.132.82:4000",
+  "metrics_endpoint": "http://84.247.132.82:9615/metrics",
+  "id": "e459ab3c-26ab-4e77-bda9-71d7c6be8054"
+}
