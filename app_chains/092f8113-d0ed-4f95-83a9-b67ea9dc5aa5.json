@@ -1,0 +1,8 @@
+  {
+    "name": "nirnaeth",
+    "logo": "https://imgur.com/a/PnF9abE",
+    "rpc_url": "http://65.108.220.197:9944",
+    "explorer_url": "http://65.108.220.197:4000",
+    "metrics_endpoint": "http://65.108.220.197:9615/metrics",
+    "id": "092f8113-d0ed-4f95-83a9-b67ea9dc5aa5"
+  }
