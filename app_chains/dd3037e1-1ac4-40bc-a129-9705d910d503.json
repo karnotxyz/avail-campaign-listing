@@ -1,0 +1,8 @@
+{
+    "name": "serzenis",
+    "logo": "https://r.resimlink.com/SG-ZQdbDguvJ.png",
+    "rpc_url": "http://95.217.131.203:9944",
+    "explorer_url": "http://95.217.131.203:4000",
+    "metrics_endpoint": "http://95.217.131.203:9615/metrics", 
+    "id": "dd3037e1-1ac4-40bc-a129-9705d910d503"
+}
