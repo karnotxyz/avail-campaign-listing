@@ -1,0 +1,8 @@
+{
+  "name": "sacittmadara",
+  "logo": "https://r.resimlink.com/MTXRcC2.jpg",
+  "rpc_url": "http://49.13.194.179:9944",
+  "explorer_url": "http://49.13.194.179:4000",
+  "metrics_endpoint": "http://49.13.194.179:9615/metrics",
+  "id": "485eccd5-51e5-4603-8f86-320d21487d03"
+}
