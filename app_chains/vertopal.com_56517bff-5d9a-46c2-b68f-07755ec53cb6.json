@@ -1,0 +1,8 @@
+  {
+    "name": "wincll",
+    "logo": "https://r.resimlink.com/v3LJg_6ZK.jpg",
+    "rpc_url": "http://65.109.1.239:9944",
+    "explorer_url": "http://65.109.1.239:4000",
+    "metrics_endpoint": "http://65.109.1.239:9615/metrics", 
+    "id": "56517bff-5d9a-46c2-b68f-07755ec53cb6"
+  }
