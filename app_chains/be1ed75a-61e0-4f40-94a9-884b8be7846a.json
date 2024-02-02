@@ -1,0 +1,8 @@
+{
+  "name": "Mentalist",
+  "logo": "https://r.resimlink.com/VoSqKdcR.jpg",
+  "rpc_url": "http://78.47.75.154:9944",
+  "explorer_url": "http://78.47.75.154:4000",
+  "metrics_endpoint": "http://78.47.75.154:9615/metrics",
+  "id": "be1ed75a-61e0-4f40-94a9-884b8be7846a"
+}
