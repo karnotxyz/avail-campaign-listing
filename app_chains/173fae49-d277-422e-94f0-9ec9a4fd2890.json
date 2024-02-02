@@ -1,0 +1,8 @@
+{
+  "name": "jamra",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/corenode_1303285-1/logos/corenode_1303285-1.png",
+  "rpc_url": "http://49.13.51.120:9944",
+  "explorer_url": "http://49.13.51.120:4000",
+  "metrics_endpoint": "http://49.13.51.120:9615/metrics",
+  "id": "173fae49-d277-422e-94f0-9ec9a4fd2890"
+}
