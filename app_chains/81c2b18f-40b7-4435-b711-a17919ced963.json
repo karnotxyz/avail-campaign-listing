@@ -1,8 +1,8 @@
-  {
-    "name": "bashibozuk",
-    "logo": "https://imgur.com/a/Aiz6wFB",
-    "rpc_url": "http://135.181.89.110:9944",
-    "explorer_url": "http://135.181.89.110:4000",
-    "metrics_endpoint": "http://135.181.89.110:9615/metrics",
-    "id": "81c2b18f-40b7-4435-b711-a17919ced963"
-  }
+{
+  "name": "bashibozuk",
+  "logo": "https://imgur.com/a/Aiz6wFB",
+  "rpc_url": "http://135.181.89.110:9944",
+  "explorer_url": "http://135.181.89.110:4000",
+  "metrics_endpoint": "http://135.181.89.110:9615/metrics",
+  "id": "81c2b18f-40b7-4435-b711-a17919ced963"
+}
