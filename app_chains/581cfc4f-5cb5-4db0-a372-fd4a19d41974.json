@@ -1,0 +1,8 @@
+{
+  "name": "ugurcanETH",
+  "logo": "https://i.imgur.com/HseDN75.jpeg",
+  "rpc_url": "http://185.187.169.64:9944",
+  "explorer_url": "http://185.187.169.64:4000",
+  "metrics_endpoint": "185.187.169.64:9614/metrics",
+  "id": "581cfc4f-5cb5-4db0-a372-fd4a19d41974"
+}
