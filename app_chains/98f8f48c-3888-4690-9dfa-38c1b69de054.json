@@ -1,8 +1,8 @@
-  {
+ {
     "name": "nacres",
     "logo": "https://r.resimlink.com/hDv5L.png", 
-    "rpc_url": "http://146.190.28.181:9944",
-    "explorer_url": "http://146.190.28.181:4000",
-    "metrics_endpoint": "http://146.190.28.181:9615/metrics", 
+    "rpc_url": "http://174.138.13.249:9944",
+    "explorer_url": "http://174.138.13.249:4000",
+    "metrics_endpoint": "http://174.138.13.249:9615/metrics", 
     "id": "98f8f48c-3888-4690-9dfa-38c1b69de054" 
   }
