@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Levdur",
+    "logo": "https://images.app.goo.gl/XQzDdBLptgqwgikh8",
+    "rpc_url": "http://65.109.134.106:9944",
+    "explorer_url": "http://65.109.134.106:4000",
+    "metrics_endpoint": "http://65.109.134.106:9615/metrics",
+    "id": "e1a3da98-7987-49c9-ae1e-b6630ee0750b"
+  }
+]
