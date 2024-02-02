@@ -1,0 +1,8 @@
+{
+  "name": "NodeInter",
+  "logo": "https://github.com/PrastianHD/NodeInter/blob/main/NodeTech.png",
+  "rpc_url": "http://37.60.244.91:9944/",
+  "explorer_url": "http://37.60.244.91:4000",
+  "metrics_endpoint": "http://37.60.244.91:9615/metrics",
+  "id": "fd497f62-f19b-4de5-99b6-d5e5a16d1e0e"
+}
