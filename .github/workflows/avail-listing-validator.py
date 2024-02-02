@@ -52,7 +52,7 @@ def check_url_status_code(obj):
             sys.exit(1)
 
         if "explorer_url" in obj:
-            response = requests.get(obj["explorer_url"], timeout=TIMEOUT_IN_MS)
+            response = requests.get(obj["explorer_url"] + "/blocks/1", timeout=TIMEOUT_IN_MS)
             if response.status_code != 200:
                 print(f"Error: The Explorer URL {obj['explorer_url']} is not accessible.")
                 sys.exit(1)
@@ -100,9 +100,9 @@ def check_duplicate_urls_in_latest_entry(main_json, latest_entry):
 
 if __name__ == '__main__':
     new_entry = validate_json_array(sys.argv[1])
-    if new_entry and len(new_entry) > 0:
-        latest_entry = new_entry[len(new_entry) - 1]
+    data = download_json_file(JSON_URL)
+    if new_entry and len(new_entry) > 0 and data != new_entry:
+        latest_entry = new_entry[0]
         check_required_keys(obj=latest_entry)
         check_url_status_code(obj=latest_entry)
-        data = download_json_file(JSON_URL)
         check_duplicate_urls_in_latest_entry(data, latest_entry)
