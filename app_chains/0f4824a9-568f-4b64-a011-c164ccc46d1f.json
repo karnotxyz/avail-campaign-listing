@@ -1,0 +1,8 @@
+{
+  "name": "brknode",
+  "logo": "i.imgur.com/5dc3wnP.png",
+  "rpc_url": "http://129.151.196.70:9944",
+  "explorer_url": "http://129.151.196.70:4000",
+  "metrics_endpoint": "http://129.151.196.70:9615/metrics",
+  "id": "0f4824a9-568f-4b64-a011-c164ccc46d1f"
+}
