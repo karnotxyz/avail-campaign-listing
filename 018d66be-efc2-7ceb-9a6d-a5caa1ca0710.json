@@ -1,8 +1,0 @@
-{
-  "name": "mawarchan",
-  "logo": "https://i.imgur.com/P5eeLQO.jpg",
-  "rpc_url": "http://139.180.184.18:9944",
-  "explorer_url": "http://139.180.184.18:4000",
-  "metrics_endpoint": "http://139.180.184.18:9615/metrics",
-  "id": "018d66be-efc2-7ceb-9a6d-a5caa1ca0710"
-}
