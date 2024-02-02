@@ -1,0 +1,8 @@
+  {
+    "name": "krptocvn",
+    "logo": "https://r.resimlink.com/pU-YE5.png",
+    "rpc_url": "http://178.62.211.85:9944",
+    "explorer_url": "http://178.62.211.85:4000",
+    "metrics_endpoint": "http://178.62.211.85:9615/metrics", 
+    "id": "a0e61f6a-b9cc-4cba-9de4-a1b86099897d"
+  }
