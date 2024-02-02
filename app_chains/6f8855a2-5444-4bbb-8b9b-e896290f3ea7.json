@@ -1,0 +1,8 @@
+{
+  "name": "TommyEE",
+  "logo": "https://placehold.co/400x400?text=Tommy",
+  "rpc_url": "http://167.86.72.145:9944",
+  "explorer_url": "http://167.86.72.145:4000",
+  "metrics_endpoint": "http://167.86.72.145:9615/metrics",
+  "id": "6f8855a2-5444-4bbb-8b9b-e896290f3ea7"
+}
