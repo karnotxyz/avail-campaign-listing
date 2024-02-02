@@ -1,0 +1,8 @@
+{
+  "name": "wwanyone",
+  "logo": "https://i.imgur.com/NyRrXpc.png",
+  "rpc_url": "http://5.75.133.80:9944",
+  "explorer_url": "http://5.75.133.80:4000",
+  "metrics_endpoint": "http://5.75.133.80:9615/metrics",
+  "id": "6e0d7520-a35e-4e6e-9bb9-de39c17a503f"
+}
