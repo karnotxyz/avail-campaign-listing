@@ -1,0 +1,8 @@
+{
+  "name": "progenitor_6307246-1",
+  "logo": "https://raw.githubusercontent.com/Dexterianx/rollapp-registry/main/devnet/logos/progenitor_6307246-1.png",
+  "rpc_url": "http://84.247.161.13:9944",
+  "explorer_url": "http://84.247.161.13:4000",
+  "metrics_endpoint": "http://84.247.161.13:9615/metrics",
+  "id": "4009677a-71da-49f2-bfa1-fb3fa604ccde"
+}
