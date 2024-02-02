@@ -1,0 +1,8 @@
+{
+  "name": "isanoxel",
+  "logo": "https://r.resimlink.com/N4SsWt.jpg",
+  "rpc_url": "https://185.252.235.154:9944",
+  "explorer_url": "https://185.252.235.154:4000",
+  "metrics_endpoint": "https://185.252.235.154:9615/metrics",
+  "id": "f9775734-1769-4752-862b-3d6746cbe0d3"
+}
