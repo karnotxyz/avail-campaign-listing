@@ -1,6 +1,6 @@
 {
   "name": "dotsam",
-  "logo": "https://avatars.githubusercontent.com/u/138582428?v=4",
+  "logo": "https://avatars.githubusercontent.com/u/138582428",
   "rpc_url": "http://104.128.190.132:9944",
   "explorer_url": "http://104.128.190.132:4000",
   "metrics_endpoint": "http://104.128.190.132:9615/metrics",
