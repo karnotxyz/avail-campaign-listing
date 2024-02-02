@@ -1,0 +1,8 @@
+{
+    "name": "brv2",
+    "logo": "https://placehold.co/400x400?text=brv2",
+    "rpc_url": "http://49.12.60.243:9944",
+    "explorer_url": "http://49.12.60.243:4000",
+    "metrics_endpoint": "http://49.12.60.243:9615/metrics",
+    "id": "3860aee1-7444-4d1a-973f-4e3dd3dde5b7"
+  }
