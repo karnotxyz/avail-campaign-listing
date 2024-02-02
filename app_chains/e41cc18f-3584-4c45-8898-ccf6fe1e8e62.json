@@ -1,0 +1,8 @@
+{
+  "name": "lastofus",
+  "logo": "https://i.imgur.com/00kKkyJ.png",
+  "rpc_url": "http://178.62.202.126:9944",
+  "explorer_url": "http://178.62.202.126:4000",
+  "metrics_endpoint": "http://178.62.202.126:9615/metrics",
+  "id": "e41cc18f-3584-4c45-8898-ccf6fe1e8e62"
+}
