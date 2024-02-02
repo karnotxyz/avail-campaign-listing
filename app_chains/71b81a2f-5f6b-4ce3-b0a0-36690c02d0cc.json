@@ -1,0 +1,8 @@
+  {
+    "name": "latino",
+    "logo": "https://r.resimlink.com/86Z4_QOLm.png",
+    "rpc_url": "http://37.60.230.178:9944",
+    "explorer_url": "http://37.60.230.178:4000",
+    "metrics_endpoint": "http://37.60.230.178:9615/metrics", 
+    "id": "71b81a2f-5f6b-4ce3-b0a0-36690c02d0cc"
+  }
