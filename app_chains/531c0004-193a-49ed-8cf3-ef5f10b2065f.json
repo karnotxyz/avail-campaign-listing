@@ -1,0 +1,8 @@
+  {
+    "name": "alpmed",
+    "logo": "https://i.imgur.com/tCpkWz9.png",
+    "rpc_url": "http://161.97.76.65:9944",
+    "explorer_url": "http://161.97.76.65:4000",
+    "metrics_endpoint": "http://161.97.76.65:9615/metrics",
+    "id": "531c0004-193a-49ed-8cf3-ef5f10b2065f"
+  }
