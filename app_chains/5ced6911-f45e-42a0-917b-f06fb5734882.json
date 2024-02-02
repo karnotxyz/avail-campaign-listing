@@ -1,0 +1,8 @@
+{
+  "name": "srmemo",
+  "logo": "https://r.resimlink.com/-UC10KZ7BY.jpg",
+  "rpc_url": "http://144.126.132.186:9944",
+  "explorer_url": "http://144.126.132.186:4000",
+  "metrics_endpoint": "http://144.126.132.186:9615/metrics",
+  "id": "5ced6911-f45e-42a0-917b-f06fb5734882"
+}
