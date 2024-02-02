@@ -1,0 +1,8 @@
+{
+    "name": "metaboy",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/45528479/291692596-5ea4bea5-ce45-4bb5-8905-e3ba4bf3fd02.png",
+    "rpc_url": "https://188.40.248.124:9944",
+    "explorer_url": "https://188.40.248.124:4000",
+    "metrics_endpoint": "https://188.40.248.124:9615",
+    "id": "65f6a3af-5b9e-4b1e-9798-a189151f419b"
+  }
