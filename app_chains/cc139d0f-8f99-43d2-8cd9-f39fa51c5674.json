@@ -1,0 +1,8 @@
+{
+  "name": "zero_karnot",
+  "logo": "https://imgur.com/mjQ7VSu",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "https://explorer.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "cc139d0f-8f99-43d2-8cd9-f39fa51c5674"
+}
