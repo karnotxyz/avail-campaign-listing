@@ -1,0 +1,8 @@
+{
+  "name": "KKLAPP",
+  "logo": "https://i.imgur.com/VKG3lyN.jpg",
+  "rpc_url": "http://dungdn.ddns.net:9944",
+  "explorer_url": "http://dungdn.ddns.net:4000",
+  "metrics_endpoint": "http://dungdn.ddns.net:9614",
+  "id": "58946bd8-7f89-4768-bba8-f6ba5286a4ad"
+}
