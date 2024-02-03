@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap",
+  "logo": "https://github.com/Bo0tstrap/rollapp-registry/blob/main/devnet/bootstraprollapp_9294242-1/logos/bootstraprollapp_9294242-1.png",
+  "rpc_url": "http://141.98.112.177:9944",
+  "explorer_url": "http://141.98.112.177:4000",
+  "metrics_endpoint": "http://141.98.112.177:9615/metrics",
+  "id": "80fad3bc-f611-456e-be65-5a602192d34e"
+}
