@@ -1,0 +1,8 @@
+{
+  "name": "ykpbb",
+  "logo": "https://i.imgur.com/Xg8QERh.png",
+  "rpc_url": "http://173.212.226.128:9944",
+  "explorer_url": "http://173.212.226.128:4000",
+  "metrics_endpoint": "http://173.212.226.128:9615/metrics",
+  "id": "0e978a1f-3fe5-4327-a883-ba453e39219f"
+}
