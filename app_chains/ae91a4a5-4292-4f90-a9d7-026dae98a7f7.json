@@ -1,0 +1,8 @@
+  {
+    "name": "Alke",
+    "logo": "https://r.resimlink.com/4Pme_IE.jpg",
+    "rpc_url": "http://95.217.19.135:9944",
+    "explorer_url": "http://95.217.19.135:4000",
+    "metrics_endpoint": "http://95.217.19.135:9615/metrics", 
+    "id": "ae91a4a5-4292-4f90-a9d7-026dae98a7f7" 
+  }
