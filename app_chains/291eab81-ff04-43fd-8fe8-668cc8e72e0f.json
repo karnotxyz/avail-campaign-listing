@@ -1,0 +1,8 @@
+{
+  "name": "Zodiac",
+  "logo": "https://i.imgur.com/UFlhgzu.jpeg",
+  "rpc_url": "http://155.133.22.118:9944",
+  "explorer_url": "http://155.133.22.118:4000",
+  "metrics_endpoint": "http://155.133.22.118:9615/metrics",
+  "id": "291eab81-ff04-43fd-8fe8-668cc8e72e0f"
+}
