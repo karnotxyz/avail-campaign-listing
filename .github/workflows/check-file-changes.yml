@@ -20,7 +20,7 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          IFS=' ' read -r -a ALL_CHANGED_FILES <<< "$changed_files"
+          IFS=' ' read -r -a changed_files <<< "$ALL_CHANGED_FILES"
           echo "All changed files: $changed_files"
 
           if [ ${ #changed_files[@] } -ne 1 ]; then
