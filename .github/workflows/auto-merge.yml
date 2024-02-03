@@ -6,15 +6,13 @@ on:
 
 jobs:
   auto-merge:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
     steps:
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.16.2
         env:
-          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.TOKENe }}"
           MERGE_LABELS: "automerge"
           MERGE_METHOD: "squash"
           BASE_BRANCHES: "main"
