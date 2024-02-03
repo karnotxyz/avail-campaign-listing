@@ -1,8 +1,8 @@
 {
     "name": "Dicounter",
     "logo": "https://static.wikia.nocookie.net/naruto/images/5/56/Sharingan_Triple.svg/revision/latest/scale-to-width-down/200?cb=20091022225716",
-    "rpc_url": "37.60.229.86:9944",
-    "explorer_url": "37.60.229.86:4000",
-    "metrics_endpoint": "37.60.229.86:9615/metrics",
+    "rpc_url": "http://37.60.229.86:9944",
+    "explorer_url": "http://37.60.229.86:4000",
+    "metrics_endpoint": "http://37.60.229.86:9615/metrics",
     "id": "d6dac6ce-56ab-4fb8-9770-80703903173a"
   }
