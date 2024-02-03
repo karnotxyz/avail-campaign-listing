@@ -1,0 +1,8 @@
+{
+  "name": "chenchiyaun",
+  "logo": "https://im.ge/i/bgsRnr",
+  "rpc_url": "http://43.156.174.123:9944",
+  "explorer_url": "http://43.156.174.123:4000",
+  "metrics_endpoint": "http://43.156.174.123:9615/metrics",
+  "id": "6c3dbc04-e6c6-4b77-8af8-0cc6b1869ca4"
+}
