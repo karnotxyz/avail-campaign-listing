@@ -1,0 +1,8 @@
+{
+  "name": "amron",
+  "logo": "https://im.ge/i/bcsmox",
+  "rpc_url": "http://192.9.136.248:9944",
+  "explorer_url": "http://192.9.136.248:4000",
+  "metrics_endpoint": "http://192.9.136.248:9615/metrics",
+  "id": "edd12f24-71e6-4e4c-b912-2cd2597f9d08"
+}
