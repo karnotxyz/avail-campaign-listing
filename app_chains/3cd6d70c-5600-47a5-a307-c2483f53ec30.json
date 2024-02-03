@@ -1,0 +1,8 @@
+{
+  "name": "heronodevietnamese",
+  "logo": "https://i.ibb.co/M21W7nG/hero-400x400.png",
+  "rpc_url": "http://84.247.184.140:9944",
+  "explorer_url": "http://84.247.184.140:4000",
+  "metrics_endpoint": "http://84.247.184.140:9615/metrics",
+  "id": "3cd6d70c-5600-47a5-a307-c2483f53ec30"
+}
