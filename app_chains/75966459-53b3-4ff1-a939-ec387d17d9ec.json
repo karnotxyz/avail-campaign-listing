@@ -1,0 +1,8 @@
+{
+  "name": "HBINH",
+  "logo": "https://i.imgur.com/5TfwfMr.jpg",
+  "rpc_url": "http://185.234.69.242:9944",
+  "explorer_url": "http://185.234.69.242:4000",
+  "metrics_endpoint": "http://185.234.69.242:9615/metrics",
+  "id": "75966459-53b3-4ff1-a939-ec387d17d9ec"
+}
