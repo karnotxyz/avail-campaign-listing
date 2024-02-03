@@ -1,0 +1,8 @@
+{
+  "name": "Nftymension",
+  "logo": "https://placehold.co/400x400/black/darkred?text=NFM",
+  "rpc_url": "http://217.79.180.232:9944",
+  "explorer_url": "http://217.79.180.232:4000",
+  "metrics_endpoint": "http://217.79.180.232:9615/metrics",
+  "id": "dd6c95e0-0b92-4aa5-83fe-58776ba78d13"
+}
