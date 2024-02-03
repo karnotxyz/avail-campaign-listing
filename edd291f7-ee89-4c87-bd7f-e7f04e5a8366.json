@@ -1,8 +1,8 @@
 {
-  "name": "boatercrypto",
+  "name": "boater",
   "logo": "https://i.imgur.com/GXNDksD.jpg",
   "rpc_url": "http://116.203.212.201:9944",
   "explorer_url": "http://116.203.212.201:4000",
   "metrics_endpoint": "http://116.203.212.201:9615/metrics",
-  "id": "75cb2510-b082-40c0-9c5a-d6df9ca6de4f"
+  "id": "edd291f7-ee89-4c87-bd7f-e7f04e5a8366"
 }
