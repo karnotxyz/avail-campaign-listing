@@ -16,7 +16,7 @@ jobs:
           npx prettier --check .
 
   validate-entry:
-    name: Validate entriues
+    name: Validate entries
     uses: ./.github/workflows/validate-entry.yml
 
   auto-merge:

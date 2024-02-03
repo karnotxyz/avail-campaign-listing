@@ -1,5 +1,9 @@
 name: Auto merge
 
+on:
+  workflow_dispatch:
+  workflow_call:
+
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
