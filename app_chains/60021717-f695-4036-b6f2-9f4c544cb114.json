@@ -1,0 +1,8 @@
+{
+  "name": "aslirozamadara",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://SUNUCU-İP-YAZ:9944",
+  "explorer_url": "http://38.242.213.37:4000/",
+  "metrics_endpoint": "http://http://38.242.213.37/:9615/metrics",
+  "id": "60021717-f695-4036-b6f2-9f4c544cb114"
+}
