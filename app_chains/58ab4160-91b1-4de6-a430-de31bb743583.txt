@@ -1,0 +1,8 @@
+{
+    "name": "tota",
+    "logo": "https://resimlink.com/KydvDeX23q", // 
+    "rpc_url": "http://65.108.222.164:9944",
+    "explorer_url": "http://65.108.222.164:4000",
+    "metrics_endpoint": "http://65.108.222.164:9615/metrics", 
+    "id": "58ab4160-91b1-4de6-a430-de31bb743583" // 
+  }
