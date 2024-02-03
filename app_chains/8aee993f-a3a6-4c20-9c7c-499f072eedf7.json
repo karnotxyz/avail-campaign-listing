@@ -1,0 +1,8 @@
+{
+  "name": "fortuneseekerpwnz",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCmqSFQgo-ixAhVspjiJX2XDwrcjvuqB8Hg&usqp=CAU",
+  "rpc_url": "http://161.97.181.90:9944",
+  "explorer_url": "http://161.97.181.90:4000",
+  "metrics_endpoint": "http://161.97.181.90:9615/metrics",
+  "id": "8aee993f-a3a6-4c20-9c7c-499f072eedf7"
+}
