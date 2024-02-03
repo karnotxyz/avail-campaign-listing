@@ -1,0 +1,10 @@
+./target/release/madara explorer --host=206.189.102.97
+
+  {
+    "name": "hyapiskan",
+    "logo": "https://r.resimlink.com/JrMmLia.jpg",
+    "rpc_url": "206.189.102.97",
+    "explorer_url": "206.189.102.97:4000",
+    "metrics_endpoint": "206.189.102.97:9615/metrics", 
+    "id": "37d3e137-a8dd-4b38-91c3-de1c50e8bc4c"
+  }
