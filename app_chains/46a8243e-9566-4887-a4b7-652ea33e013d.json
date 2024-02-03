@@ -1,6 +1,6 @@
 {
   "name": "madarakutlu01",
-  "logo": "https://github.com/Madmin27/avail-campaign-listing/blob/main/madara.jpg",
+  "logo": "https://raw.githubusercontent.com/Madmin27/avail-campaign-listing/main/madara.jpg",
   "rpc_url": "http://46.196.214.35:9944",
   "explorer_url": "http://46.196.214.35:4000",
   "metrics_endpoint": "http://46.196.214.35:9615/metrics",
