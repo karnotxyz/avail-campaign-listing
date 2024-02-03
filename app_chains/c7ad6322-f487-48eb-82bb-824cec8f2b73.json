@@ -1,0 +1,8 @@
+{
+  "name": "Himess",
+  "logo": "https://i.imgur.com/E6dJfWn.png",
+  "rpc_url": "http://37.27.9.159:9944",
+  "explorer_url": "http://37.27.9.159:4000",
+  "metrics_endpoint": "http://37.27.9.159:9615/metrics",
+  "id": "c7ad6322-f487-48eb-82bb-824cec8f2b73"
+}
