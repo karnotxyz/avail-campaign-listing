@@ -1,8 +1,0 @@
-{
-  "name": "KKL",
-  "logo": "https://i.imgur.com/VKG3lyN.jpg",
-  "rpc_url": "http://dungdn.ddns.net:9944",
-  "explorer_url": "http://dungdn.ddns.net:4000",
-  "metrics_endpoint": "http://dungdn.ddns.net:9615",
-  "id": "09509709-52e8-4df9-9968-3a0778ab08b8"
-}
