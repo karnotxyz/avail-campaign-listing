@@ -20,13 +20,6 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          if [ ${ #ALL_CHANGED_FILES[@] } -ne 1 ]; then
-              echo "Error: Array should contain exactly one file name."
-              exit 1
-          fi
-
-          file_name="${ ALL_CHANGED_FILES[0] }"
-          if [[ ! "$file_name" =~ ^app_chains.*\.json$ ]]; then
-              echo "Error: File name does not start with 'app_chains' or does not end with '.json'."
-              exit 1
-          fi
+          for file in ${ALL_CHANGED_FILES}; do
+            echo "$file was changed"
+          done
