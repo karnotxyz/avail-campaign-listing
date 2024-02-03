@@ -1,8 +1,8 @@
 {
-    "name": "FUNDLER",
-    "logo": "https://r.resimlink.com/q-FK_DtOhR7.jpg",
-    "rpc_url": "http://5.78.52.78:9944",
-    "explorer_url": "http://5.78.52.78:4000",
-    "metrics_endpoint": "http://5.78.52.78:9615/metrics", 
-    "id": "968ab733-7849-4390-bb8f-14eb1d65f8f9"
+"name": "FUNDLER",
+"logo": "https://r.resimlink.com/q-FK_DtOhR7.jpg",
+"rpc_url": "http://5.78.52.78:9944",
+"explorer_url": "http://5.78.52.78:4000",
+"metrics_endpoint": "http://5.78.52.78:9615/metrics", 
+"id": "968ab733-7849-4390-bb8f-14eb1d65f8f9"
   }
