@@ -1,0 +1,8 @@
+{
+  "name": "SilvioECBR",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHRvgLmkaAHgx4_vHutor0D3jwSND7gPa0hj9scF9xA&s",
+  "rpc_url": "http://38.242.245.90:9944",
+  "explorer_url": "http://38.242.245.90:4000",
+  "metrics_endpoint": "http://38.242.245.90:9615/metrics",
+  "id": "87fe3b88-17e7-4827-a27b-b65ef4b21f78"
+}
