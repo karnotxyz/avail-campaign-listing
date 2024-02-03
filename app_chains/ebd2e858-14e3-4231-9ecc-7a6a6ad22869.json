@@ -1,0 +1,8 @@
+{
+  "name": "CoreNode",
+  "logo": "https://raw.githubusercontent.com/Core-Node-Team/Services/main/.gitbook/assets/core1.png",
+  "rpc_url": "http://86.48.3.0:9944",
+  "explorer_url": "http://86.48.3.0:4000",
+  "metrics_endpoint": "http://86.48.3.0:9615/metrics",
+  "id": "ebd2e858-14e3-4231-9ecc-7a6a6ad22869"
+}
