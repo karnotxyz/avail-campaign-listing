@@ -1,0 +1,8 @@
+{
+  "name": "anhnp",
+  "logo": "https://d1w5h1731a8jpa.cloudfront.net/npa/OIG4.jpeg",
+  "rpc_url": "http://103.116.8.120:9944",
+  "explorer_url": "http://103.116.8.120:4000",
+  "metrics_endpoint": "http://103.116.8.120:9615/metrics",
+  "id": "6c94a40d-0459-444a-93d7-36a1154ab57c"
+}
