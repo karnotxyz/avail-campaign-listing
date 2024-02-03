@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.16.2
+        with:
+          super_secret: ${{ secrets.TOKEN }}
         env:
           GITHUB_TOKEN: "${{ secrets.TOKEN }}"
           MERGE_LABELS: "automerge"
