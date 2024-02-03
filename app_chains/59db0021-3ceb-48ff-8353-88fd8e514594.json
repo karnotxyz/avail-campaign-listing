@@ -1,0 +1,8 @@
+{
+  "name": "Luo",
+  "logo": "https://i.imgur.com/5Q0Rthf.png",
+  "rpc_url": "http://38.242.254.34:9944",
+  "explorer_url": "http://38.242.254.34:4000",
+  "metrics_endpoint": "http://38.242.254.34:9615/metrics",
+  "id": "59db0021-3ceb-48ff-8353-88fd8e514594"
+}
