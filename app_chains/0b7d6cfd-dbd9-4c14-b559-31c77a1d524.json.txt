@@ -1,8 +1,0 @@
-{
-    "name": "KriptoLady",
-    "logo": "https://r.resimlink.com/tVnKzTaBAHv.png",
-    "rpc_url": "http://37.60.230.213:9944",
-    "explorer_url": "http://37.60.230.213:4000",
-    "metrics_endpoint": "http://37.60.230.213:9615/metrics", 
-    "id": "0b7d6cfd-dbd9-4c14-b559-31c77a1d524f"
-}
