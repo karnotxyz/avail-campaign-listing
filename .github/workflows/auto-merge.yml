@@ -10,9 +10,9 @@ jobs:
 
     steps:
       - name: Merge pull requests (automerge-action)
-        uses: pascalgn/automerge-action@v0.16.2
         with:
           token: ${{ secrets.TOKEN }}
+        uses: pascalgn/automerge-action@v0.16.2
         env:
           GITHUB_TOKEN: "${{ secrets.TOKEN }}"
           MERGE_LABELS: "automerge"
