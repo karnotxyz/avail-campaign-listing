@@ -1,0 +1,8 @@
+{
+    "name": "avail-madara",
+    "logo": "https://r.resimlink.com/nbsDiB.jpg", // 
+    "rpc_url": "http://65.108.216.177:9944",
+    "explorer_url": "http://65.108.216.177:4000",
+    "metrics_endpoint": "http://65.108.216.177:9615/metrics", 
+    "id": "fb6756c0-b4c1-4a3a-8fa0-62f2e3fbc216" // 
+  }
