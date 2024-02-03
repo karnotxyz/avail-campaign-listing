@@ -1,0 +1,8 @@
+{
+  "name": "Ozdemirokrollapp",
+  "logo": "https://r.resimlink.com/p8y96c.png",
+  "rpc_url": "http://104.131.182.203:9944",
+  "explorer_url": "http://104.131.182.203:4000",
+  "metrics_endpoint": "http://104.131.182.203:9615/metrics",
+  "id": "30ec74b6-0886-4a59-b737-1d3be171b075"
+}
