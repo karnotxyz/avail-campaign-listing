@@ -1,0 +1,8 @@
+{
+  "name": "madara-phuongdh",
+  "logo": "http://im.ge/i/b2Oa8F",
+  "rpc_url": "http://84.247.191.53:9944",
+  "explorer_url": "http://84.247.191.53:4000",
+  "metrics_endpoint": "http://84.247.191.53:9615/metrics",
+  "id": "601e06fb-e405-4ef9-905e-5a5d0091186d"
+}
