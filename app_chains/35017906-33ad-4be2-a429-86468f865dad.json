@@ -1,0 +1,8 @@
+{
+  "name": "nodesynctop",
+  "logo": "https://nodesync.top/nodesync.jpg",
+  "rpc_url": "https://rpc.madara.nodesync.top",
+  "explorer_url": "https://explorer.madara.nodesync.top",
+  "metrics_endpoint": "https://metrics.madara.nodesync.top",
+  "id": "35017906-33ad-4be2-a429-86468f865dad"
+}
