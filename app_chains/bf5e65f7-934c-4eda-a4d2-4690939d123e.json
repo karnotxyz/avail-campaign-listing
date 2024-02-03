@@ -1,0 +1,8 @@
+{
+  "name": "ThunderChain",
+  "logo": "https://i.im.ge/2024/01/29/b7KJDz.thunder.png",
+  "rpc_url": "http://164.68.98.157:9944",
+  "explorer_url": "http://164.68.98.157:4000",
+  "metrics_endpoint": "http://164.68.98.157:9615/metrics",
+  "id": "bf5e65f7-934c-4eda-a4d2-4690939d123e"
+}

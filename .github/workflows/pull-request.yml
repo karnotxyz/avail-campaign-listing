@@ -14,3 +14,11 @@ jobs:
       - name: Run prettier
         run: |-
           npx prettier --check .
+
+  validate-entry:
+    name: Validate entries
+    uses: ./.github/workflows/validate-entry.yml
+
+  check-file-changes:
+    name: Check file changes
+    uses: ./.github/workflows/check-file-changes.yml
