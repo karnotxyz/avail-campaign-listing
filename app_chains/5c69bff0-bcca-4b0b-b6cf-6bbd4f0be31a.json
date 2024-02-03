@@ -1,0 +1,8 @@
+{
+  "name": "tasi",
+  "logo": "https://i.imgur.com/KUys2Ll.jpeg",
+  "rpc_url": "http://84.247.131.223:9944",
+  "explorer_url": "http://84.247.131.223:4000",
+  "metrics_endpoint": "http://84.247.131.223:9615/metrics",
+  "id": "5c69bff0-bcca-4b0b-b6cf-6bbd4f0be31a"
+}
