@@ -1,0 +1,8 @@
+{
+  "name": "afatsum",
+  "logo": "https://github.com/dymensionxyz/rollapp-registry/blob/main/devnet/scmastoideus_3124070-1/logos/scmastoideus_3124070-1.png",
+  "rpc_url": "http://31.220.84.212:9944",
+  "explorer_url": "http://31.220.84.212:4000",
+  "metrics_endpoint": "http://31.220.84.212:9615/metrics",
+  "id": "92c38b58-0449-4b85-a1a3-552051932ba7"
+}
