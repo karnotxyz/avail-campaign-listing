@@ -1,0 +1,8 @@
+{
+  "name": "mhmt",
+  "logo": "https://r.resimlink.com/mV-v05Yz4j2L.jpg",
+  "rpc_url": "http://31.220.94.213:9944",
+  "explorer_url": "http://31.220.94.213:4000",
+  "metrics_endpoint": "http://31.220.94.213:9615/metrics",
+  "id": "ad49758b-8e0c-4cc0-9dea-b1fb069491dc"
+}
