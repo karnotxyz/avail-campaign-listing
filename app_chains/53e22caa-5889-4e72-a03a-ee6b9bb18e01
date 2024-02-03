@@ -1,0 +1,8 @@
+{
+  "name": "M4AI",
+  "logo": "https://placehold.co/600x400?text=Hello+World",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "http://62.171.172.170 ",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "53e22caa-5889-4e72-a03a-ee6b9bb18e01"
+}
