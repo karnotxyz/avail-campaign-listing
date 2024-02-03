@@ -1,0 +1,8 @@
+{
+  "name": "aleapp",
+  "logo": "https://i.imgur.com/eEKYeUb.png",
+  "rpc_url": "http://104.251.223.6:9944",
+  "explorer_url": "http://104.251.223.6:4000",
+  "metrics_endpoint": "http://104.251.223.6:9615/metrics",
+  "id": "78624eba-cac0-408a-9d52-8309c4611a6d"
+}
