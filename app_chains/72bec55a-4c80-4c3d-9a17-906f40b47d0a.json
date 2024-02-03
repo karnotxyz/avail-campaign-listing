@@ -1,0 +1,9 @@
+{
+    "name": "KvoztMotion",
+    "logo": "https://prnt.sc/_zUMG42HYtc7",
+    "rpc_url": "http://37.60.235.185:9944",
+    "explorer_url": "http://37.60.235.185:4000",
+    "metrics_endpoint": "http://37.60.235.185:9615/metrics",
+    "id": "72bec55a-4c80-4c3d-9a17-906f40b47d0a"
+  }
+  
