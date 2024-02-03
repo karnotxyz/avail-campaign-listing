@@ -1,0 +1,8 @@
+{
+  "name": "Lorento",
+  "logo": "https://i.imgur.com/YDxBZBG.png",
+  "rpc_url": "http://149.102.148.223:9944",
+  "explorer_url": "http://149.102.148.223:4000",
+  "metrics_endpoint": "http://149.102.148.223:9615/metrics",
+  "id": "c8cca5a6-0af9-4088-803a-692ce22e27af"
+}
