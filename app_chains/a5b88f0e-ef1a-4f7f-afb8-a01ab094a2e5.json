@@ -1,0 +1,8 @@
+  {
+    "name": "almoalmo",
+    "logo": "https://i.imgur.com/XRaJL2C.png",
+    "rpc_url": "http://65.109.171.87:9944",
+    "explorer_url": "http://65.109.171.87:4000",
+    "metrics_endpoint": "http://65.109.171.87:9615/metrics",
+    "id": "a5b88f0e-ef1a-4f7f-afb8-a01ab094a2e5"
+  }
