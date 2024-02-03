@@ -1,0 +1,8 @@
+{
+  "name": "mioku",
+  "logo": "https://placehold.co/600x400?text=mioku",
+  "rpc_url": "https://158.220.116.240:9944",
+  "explorer_url": "https://158.220.116.240:4000",
+  "metrics_endpoint": "https://158.220.116.240:9615",
+  "id": "80f26b1a-3b18-4042-b3bd-99aa746cf986"
+}
