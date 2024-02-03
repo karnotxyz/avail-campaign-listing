@@ -1,0 +1,8 @@
+{
+    "name": "poodr",
+    "logo": " https://ibb.co/ZNJZw37 ",
+    "rpc_url": "http://49.12.57.58:9944",
+    "explorer_url": "http://49.12.57.58:4000",
+    "metrics_endpoint": "http://49.12.57.58:9615/metrics",
+    "id": "60a7e548-02ee-4b4e-bd01-fb6587099697"
+  }	
