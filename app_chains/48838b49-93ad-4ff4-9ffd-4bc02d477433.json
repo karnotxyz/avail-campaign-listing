@@ -1,0 +1,8 @@
+  {
+    "name": "osmans87",
+    "logo": "http://imgur.com/EImUzNl",
+    "rpc_url": "http://173.249.28.53:9944",
+    "explorer_url": "http://173.249.28.53:4000",
+    "metrics_endpoint": "http://173.249.28.53:9615/metrics", 
+    "id": "48838b49-93ad-4ff4-9ffd-4bc02d477433"
+  }
