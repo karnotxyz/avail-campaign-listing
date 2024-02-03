@@ -1,0 +1,8 @@
+{
+  "name": "nightfall",
+  "logo": "ipfs://QmW4vQwiscfD2dkq9Qs1X6TVr3C5qAAAd68ovv55w72v7w",
+  "rpc_url": "http://173.249.63.214:9944",
+  "explorer_url": "http://173.249.63.214:4000",
+  "metrics_endpoint": "http://173.249.63.214:9615/metrics",
+  "id": "0a2ca9ab-4d41-4bf0-909b-ed68f8dc1423"
+}
