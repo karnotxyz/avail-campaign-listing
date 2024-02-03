@@ -1,8 +1,9 @@
 {
     "name": "berrylab",
-    "logo": "https://static.berrylab.cloud/BrandKit/PNG/BerryLabLogo_Main.png",
+    "logo": "https://remote-image.decentralized-content.com/image?url=https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafkreihbxcuwgvgnmxirae64g4qdzhwazm7vqrh64e2mypo5jkyc6ioejy&w=1920&q=75",
     "rpc_url": "http://madara.berrylab.cloud:9094",
     "explorer_url": "http://madara.berrylab.cloud:4000",
     "metrics_endpoint": "http://madara.berrylab.cloud:9615/metrics",
     "id": "99414954-0fd9-40e2-bc85-d24c70823143"
-  }
+}
+
