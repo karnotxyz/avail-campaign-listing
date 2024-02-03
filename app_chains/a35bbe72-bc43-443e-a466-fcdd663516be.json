@@ -1,0 +1,8 @@
+{
+  "name": "gumusbey",
+  "logo": "https://i.imgur.com/KgNOmN7.png",
+  "rpc_url": "http://109.123.255.54:9944",
+  "explorer_url": "http://109.123.255.54:4000",
+  "metrics_endpoint": "http://109.123.255.54:9615/metrics",
+  "id": "a35bbe72-bc43-443e-a466-fcdd663516be"
+}
