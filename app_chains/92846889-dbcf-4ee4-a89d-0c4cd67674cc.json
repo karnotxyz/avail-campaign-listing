@@ -1,0 +1,8 @@
+{
+  "name": "vahidnfcm",
+  "logo": "https://i.imgur.com/t64D6M1.jpg",
+  "rpc_url": "http://84.247.161.124:9944",
+  "explorer_url": "http://84.247.161.124:4000",
+  "metrics_endpoint": "http://84.247.161.124:9615/metrics",
+  "id": "92846889-dbcf-4ee4-a89d-0c4cd67674cc"
+}
