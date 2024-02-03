@@ -1,0 +1,8 @@
+{
+  "name": "IronPunch",
+  "logo": "https://i.imgur.com/tqWVtEj.png",
+  "rpc_url": "http://194.113.67.34:9944",
+  "explorer_url": "http://194.113.67.34:4000",
+  "metrics_endpoint": "http://194.113.67.34:9615/metrics",
+  "id": "85ab96b9-18b8-499d-b6aa-f1713d623ad2"
+}
