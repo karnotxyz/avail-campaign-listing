@@ -1,0 +1,8 @@
+{
+    "name": "bigbang",
+    "logo": "https://ibb.co/MG6ttV4",
+    "rpc_url": "https://95.164.3.56:9944",
+    "explorer_url": "https://95.164.3.56:4000",
+    "metrics_endpoint": "https://95.164.3.56:9615",
+    "id": "03332452-2af1-4e57-a27c-9fad50008462"
+  }
