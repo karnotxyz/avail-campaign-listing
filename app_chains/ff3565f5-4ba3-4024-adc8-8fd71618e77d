@@ -1,0 +1,8 @@
+  {
+    "name": "swordenss",
+    "logo": "https://r.resimlink.com/evShXJ.png", /
+    "rpc_url": "http://176.57.184.174:9944",
+    "explorer_url": "http://176.57.184.174:4000",
+    "metrics_endpoint": "http://176.57.184.174:9615/metrics", 
+    "id": "ff3565f5-4ba3-4024-adc8-8fd71618e77d" 
+  }
