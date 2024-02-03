@@ -21,5 +21,3 @@ jobs:
           MERGE_LABELS: "automerge"
           MERGE_METHOD: "squash"
           BASE_BRANCHES: "main"
-          MERGE_RETRY_SLEEP: 10000
-          MERGE_RETRIES: 18
