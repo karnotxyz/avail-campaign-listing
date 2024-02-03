@@ -1,0 +1,8 @@
+{
+  "name": "asliroza",
+  "logo": "https://img.imgyukle.com/2024/02/03/yGzCus.png",
+  "rpc_url": "http://38.242.213.37:9944",
+  "explorer_url": "http://38.242.213.37:4000",
+  "metrics_endpoint": "http://38.242.213.37:9615/metrics",
+  "id": "9455d9d1-1bf7-4e13-b70e-32f867e90143"
+}
