@@ -6,7 +6,6 @@ on:
 
 jobs:
   auto-merge:
-    permissions: write-all
     runs-on: ubuntu-latest
 
     steps:
