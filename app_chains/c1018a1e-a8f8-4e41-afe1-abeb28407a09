@@ -4,4 +4,5 @@
   "rpc_url": "http://37.27.42.79:9944",
   "explorer_url": "http://37.27.42.79:4000",
   "metrics_endpoint": "http://37.27.42.79:9615/metrics",
-  "id": "c1018a1e-a8f8-4e41-afe1-abeb28407a09"}
+  "id": "c1018a1e-a8f8-4e41-afe1-abeb28407a09"
+}
