@@ -1,8 +1,8 @@
 {
     "name": "pi69",
-    "logo": "https://r.resimlink.com/bhO4CBcT7p.jpg", // profil fotosu yüklüyoruz.
+    "logo": "https://r.resimlink.com/bhO4CBcT7p.jpg",
     "rpc_url": "http://84.247.183.39:9944",
     "explorer_url": "http://84.247.183.39:4000",
     "metrics_endpoint": "http://84.247.183.39:9615/metrics", 
-    "id": "c154ba91-c9de-4736-8005-4d1612be3fc0" // uid alıyoruz.
+    "id": "c154ba91-c9de-4736-8005-4d1612be3fc0"
   }
