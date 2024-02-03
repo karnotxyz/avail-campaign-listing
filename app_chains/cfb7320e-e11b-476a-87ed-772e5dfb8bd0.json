@@ -1,0 +1,8 @@
+{
+  "name": "sarox",
+  "logo": "https://i.im.ge/2024/01/26/brmuSC.logo.jpg",
+  "rpc_url": "http://sarox.hopto.org:9944",
+  "explorer_url": "http://sarox.hopto.org:4000",
+  "metrics_endpoint": "http://sarox.hopto.org:9615/metrics",
+  "id": "cfb7320e-e11b-476a-87ed-772e5dfb8bd0"
+}
