@@ -1,0 +1,8 @@
+{
+  "name": "izmiradami35",
+  "logo": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk#/media/Dosya:Ataturk1930s.jpg",
+  "rpc_url": "http://128.140.47.84:9944",
+  "explorer_url": "http://128.140.47.84:4000",
+  "metrics_endpoint": "http://128.140.47.84:9615/metrics",
+  "id": "ba44929d-5154-4a23-b93c-290586713127"
+}
