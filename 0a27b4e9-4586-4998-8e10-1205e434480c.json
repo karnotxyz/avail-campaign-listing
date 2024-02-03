@@ -1,0 +1,8 @@
+{
+  "name":"my_name",
+  "logo":"logo",
+  "rpc_ur":"rpc_ur",
+  "explorer_url":"explorer_url",
+  "metrics endpoint":"metrics_endpoint",
+  "id":"uuid"
+}
