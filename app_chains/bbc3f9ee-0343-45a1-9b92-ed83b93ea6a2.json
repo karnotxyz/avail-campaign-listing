@@ -1,0 +1,8 @@
+{
+  "name": "ShadowMadara",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/shadowstake_1528052-1/logos/shadowstake_1528052-1.png",
+  "rpc_url": "http://158.220.116.77:9944",
+  "explorer_url": "http://158.220.116.77:4000",
+  "metrics_endpoint": "http://158.220.116.77:9615/metrics",
+  "id": "bbc3f9ee-0343-45a1-9b92-ed83b93ea6a2"
+}
