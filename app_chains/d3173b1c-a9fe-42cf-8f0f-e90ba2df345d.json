@@ -1,0 +1,8 @@
+{
+  "name": "DADID",
+  "logo": "https://i.imgur.com/VKG3lyN.jpg",
+  "rpc_url": "http://dungdn.ddns.net:9944",
+  "explorer_url": "http://dungdn.ddns.net:4000",
+  "metrics_endpoint": "http://dungdn.ddns.net:9615/metrics",
+  "id": "d3173b1c-a9fe-42cf-8f0f-e90ba2df345d"
+}
