@@ -1,0 +1,8 @@
+{
+  "name": "ovuncmadara",
+  "logo": "https://r.resimlink.com/KfRSdT.jpg",
+  "rpc_url": "http://49.13.205.7:9944",
+  "explorer_url": "http://49.13.205.7:4000",
+  "metrics_endpoint": "http://49.13.205.7:9615/metrics",
+  "id": "b129231a-ed19-45a3-9e14-0903af760dca"
+}
