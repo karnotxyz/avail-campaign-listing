@@ -1,0 +1,8 @@
+{
+  "name": "fiatsend",
+  "logo": "https://i.ibb.co/wKCKrdK/image-6487327.jpg",
+  "rpc_url": "http://34.16.116.232:9944",
+  "explorer_url": "http://34.16.116.232:4000/",
+  "metrics_endpoint": "http://34.16.116.232:9615/metrics",
+  "id": "cb5d05af-633f-41f4-8a6a-c63dbe3cefc7"
+}
