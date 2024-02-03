@@ -1,0 +1,8 @@
+{
+  "name": "snabdon",
+  "logo": "http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHRvgLmkaAHgx4_vHutor0D3jwSND7gPa0hj9scF9xA&s",
+  "rpc_url": "http://38.242.245.90:9944",
+  "explorer_url": "http://38.242.245.90:4000",
+  "metrics_endpoint": "http://38.242.245.90:9615/metrics",
+  "id": "8ddd54d0-8091-4c5b-b7f6-6e2412e70490"
+}
