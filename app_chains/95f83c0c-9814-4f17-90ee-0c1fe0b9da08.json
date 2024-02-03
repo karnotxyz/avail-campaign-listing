@@ -1,5 +1,4 @@
-[
-  {
+ {
     "name": "sychonix",
     "logo": "https://i.imgur.com/EGfKz1d.jpg",
     "rpc_url": "http://174.138.21.71:9944",
@@ -7,4 +6,3 @@
     "metrics_endpoint": "http://174.138.21.71:9615/metrics",
     "id": "95f83c0c-9814-4f17-90ee-0c1fe0b9da08"
   }
-]
