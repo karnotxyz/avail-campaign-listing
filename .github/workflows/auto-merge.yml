@@ -1,0 +1,23 @@
+name: Auto merge
+
+on:
+  workflow_dispatch:
+  workflow_call:
+  pull_request_target:
+    branches: [main]
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sleep for 60 seconds
+        run: sleep 60s
+        shell: bash
+      - name: Merge pull requests (automerge-action)
+        uses: pascalgn/automerge-action@v0.16.2
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
+          MERGE_METHOD: "squash"
+          BASE_BRANCHES: "main"
