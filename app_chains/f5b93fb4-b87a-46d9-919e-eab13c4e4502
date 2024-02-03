@@ -1,8 +1,0 @@
-{
-  "name": "vinhhathacha",
-  "logo": "https://add.pics/images/2024/01/25/FKEBCNuWQAEc4l8.jpeg",
-  "rpc_url": "http://185.194.216.61:9944",
-  "explorer_url": "http:// 185.194.216.61:4000",
-  "metrics_endpoint": "http:// 185.194.216.61:9615/metrics",
-  "id": "f5b93fb4-b87a-46d9-919e-eab13c4e4502"
-}
