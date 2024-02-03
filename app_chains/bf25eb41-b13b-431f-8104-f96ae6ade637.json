@@ -1,0 +1,8 @@
+  {
+    "name": "Madinina",
+    "logo": "https://i.ibb.co/h7jS2mn/Madinina.png",
+    "rpc_url": "http://51.38.62.195:9944",
+    "explorer_url": "http://51.38.62.195:4000",
+    "metrics_endpoint": "http://51.38.62.195:9615/metrics", 
+    "id": "bf25eb41-b13b-431f-8104-f96ae6ade637"
+  }
