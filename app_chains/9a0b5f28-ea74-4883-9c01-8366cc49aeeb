@@ -1,0 +1,8 @@
+{
+  "name": "ReGuide_LAB",
+  "logo": "https://i.im.ge/2024/02/03/bfYiFG.dymlab50257491.png",
+  "rpc_url": "http://75.119.141.44:9944",
+  "explorer_url": "http://75.119.141.44:4000",
+  "metrics_endpoint": "http://75.119.141.44:9615",
+  "id": "9a0b5f28-ea74-4883-9c01-8366cc49aeeb"
+}
