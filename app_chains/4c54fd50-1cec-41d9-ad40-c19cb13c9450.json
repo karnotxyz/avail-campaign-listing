@@ -1,0 +1,8 @@
+{
+    "name": "farzinfara",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/94672107/300179553-5ba89ddb-5ec3-4bea-929c-3f3a916b9dcc.png",
+    "rpc_url": "https://49.12.58.119:9944",
+    "explorer_url": "https://49.12.58.119:4000",
+    "metrics_endpoint": "https://49.12.58.119:9615",
+    "id": "4c54fd50-1cec-41d9-ad40-c19cb13c9450"
+  }
