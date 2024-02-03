@@ -1,0 +1,8 @@
+{
+  "name": "famnode",
+  "logo": "https://i.ibb.co/7tny1tm/modularfam-6209067-1-1.jpg",
+  "rpc_url": "http://165.232.153.25:9944",
+  "explorer_url": "http://165.232.153.25:4000",
+  "metrics_endpoint": "http://165.232.153.25:9615/metrics",
+  "id": "c9facc4a-3843-48fb-91a5-a5d1df29f7f0"
+}
