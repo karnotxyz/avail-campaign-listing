@@ -1,0 +1,8 @@
+{
+  "name": "Kocality",
+  "logo": "https://raw.githubusercontent.com/kocality/rollapp-registry/main/devnet/kocality_7897943-1/logos/kocality_7897943-1.png",
+  "rpc_url": "http://95.217.132.163:9944",
+  "explorer_url": "http://95.217.132.163:4000",
+  "metrics_endpoint": "http://95.217.132.163:9615/metrics",
+  "id": "86e2b6b8-83ee-46c4-a6db-064ba344eb56"
+}
