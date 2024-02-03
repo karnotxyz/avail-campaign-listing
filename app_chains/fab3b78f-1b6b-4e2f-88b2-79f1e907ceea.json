@@ -1,0 +1,8 @@
+{
+  "name": "frinchity",
+  "logo": "https://i.ibb.co/GFXNTgp/careloco2.png",
+  "rpc_url": "http://84.247.133.41:9944",
+  "explorer_url": "http://84.247.133.41:4000",
+  "metrics_endpoint": "http://84.247.133.41:9615/metrics",
+  "id": "fab3b78f-1b6b-4e2f-88b2-79f1e907ceea"
+}
