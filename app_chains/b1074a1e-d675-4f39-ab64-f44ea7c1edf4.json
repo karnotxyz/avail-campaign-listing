@@ -1,0 +1,8 @@
+{
+  "name": "kemalgurler",
+  "logo": "https://i.imgur.com/rkfyNat.jpeg",
+  "rpc_url": "http://37.60.224.184:9944",
+  "explorer_url": "http://37.60.224.184:4000",
+  "metrics_endpoint": "http://37.60.224.184:9615/metrics",
+  "id": "b1074a1e-d675-4f39-ab64-f44ea7c1edf4"
+}
