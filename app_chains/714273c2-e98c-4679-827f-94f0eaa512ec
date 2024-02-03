@@ -1,7 +1,7 @@
 
 {
   "name": "donyasmd",
-  "logo": "https://add.pics/images/2024/01/25/FKEBCNuWQAEc4l8.jpeg",
+  "logo": "github-production-user-asset-6210df.s3.amazonaws.com/136703059/301992493-22e1b6c1-ef2e-40c1-bdb7-861ef7e57e41.png",
   "rpc_url": "http://176.9.227.229:9944",
   "explorer_url": "http://176.9.227.229:4000",
   "metrics_endpoint": "http://176.9.227.229:9615/metrics",
