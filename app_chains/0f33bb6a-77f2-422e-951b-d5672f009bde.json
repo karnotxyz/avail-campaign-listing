@@ -1,0 +1,8 @@
+{
+    "name": "braveTest",
+    "logo": "https://i.postimg.cc/X7Sk9fzX/hiclipart-com-1.png",
+    "rpc_url": "http://87.107.54.17:9944",
+    "explorer_url": "http://87.107.54.17:4000",
+    "metrics_endpoint": "http://87.107.54.17:9615",
+    "id": "0f33bb6a-77f2-422e-951b-d5672f009bde"
+  }
