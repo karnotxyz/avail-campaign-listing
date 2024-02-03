@@ -1,0 +1,8 @@
+{
+  "isim": "zeycan",
+  "logo" : " https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/zeycan_3437501-1/logos/zeycan_3437501-1.png " ,
+  "rpc_url" : " http://80.65.211.208:9944 " ,
+  "explorer_url" : " http://80.65.211.208:4000 " ,
+  "metrics_endpoint" : " http://80.65.211.208:9615/metrics " ,
+  "kimlik": "e7cfa8a5-5e91-4660-b92b-ff610fdb0c5d"
+}
