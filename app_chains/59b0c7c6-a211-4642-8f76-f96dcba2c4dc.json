@@ -1,0 +1,8 @@
+{
+  "name": "mnsis",
+  "logo": "https://mnsis.s3.eu-north-1.amazonaws.com/IMG_2072.png",
+  "rpc_url": "http://149.102.146.162:9944",
+  "explorer_url": "http://149.102.146.162:4000",
+  "metrics_endpoint": "http://149.102.146.162:9615/metrics",
+  "id": "59b0c7c6-a211-4642-8f76-f96dcba2c4dc"
+}
