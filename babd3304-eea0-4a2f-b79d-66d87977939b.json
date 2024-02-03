@@ -1,0 +1,8 @@
+{
+    "name": "cryptovault",
+    "logo": "https://r.resimlink.com/52oSl0LD-Ce9.png",
+    "rpc_url": "https://37.27.40.147:9944",
+    "explorer_url": "https://37.27.40.147:4000",
+    "metrics_endpoint": "https://37.27.40.147:9615/metrics",
+    "id": "babd3304-eea0-4a2f-b79d-66d87977939b"
+  }
