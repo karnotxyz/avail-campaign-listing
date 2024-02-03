@@ -1,0 +1,8 @@
+{
+  "name": "ALAZN",
+  "logo": "http://placehold.co/400x400",
+  "rpc_url": "http://138.68.163.164:9944",
+  "explorer_url": "http://138.68.163.164:4000",
+  "metrics_endpoint": "http://138.68.163.164::9615/metrics",
+  "id": "77d6673c-7e7d-4ff5-8296-caccb57dbc25"
+}
