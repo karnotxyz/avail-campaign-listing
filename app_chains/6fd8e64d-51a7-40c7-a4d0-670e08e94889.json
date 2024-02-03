@@ -1,0 +1,8 @@
+{
+  "name": "isodayi",
+  "logo": "https://github.com/imailsenrs/logo/blob/main/isodayi_logo.jpg",
+  "rpc_url": "http://95.216.146.158:9944",
+  "explorer_url": "http://95.216.146.158:4000",
+  "metrics_endpoint": "http://95.216.146.158:9615/metrics",
+  "id": "6fd8e64d-51a7-40c7-a4d0-670e08e94889"
+}
