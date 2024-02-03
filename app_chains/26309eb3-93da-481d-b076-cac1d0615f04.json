@@ -1,0 +1,8 @@
+{
+  "name": "brkntshn",
+  "logo": "https://r.resimlink.com/sNuTZQh.png",
+  "rpc_url": "http://24.144.80.168:9944",
+  "explorer_url": "http://24.144.80.168:4000",
+  "metrics_endpoint": "http://24.144.80.168:9615/metrics",
+  "id": "26309eb3-93da-481d-b076-cac1d0615f04"
+}
