@@ -1,0 +1,8 @@
+{
+  "name": "singlegun",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/09e4ba156e75dfa3841d970abcd414ba3581d6da/ersrollapp_7722679-1/logos/ersrollapp_7722679-1.jpg",
+  "rpc_url": "http://138.197.170.34:9944",
+  "explorer_url": "http://138.197.170.34:4000",
+  "metrics_endpoint": "http://138.197.170.34:9615/metrics",
+  "id": "791a6701-8796-414f-8b4d-94f3b1b5b23c"
+}
