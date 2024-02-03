@@ -1,0 +1,8 @@
+{
+  "name": "elessar",
+  "logo": "https://hizliresim.com/mxgynz2",
+  "rpc_url": "http://38.242.245.69:9944",
+  "explorer_url": "http://38.242.245.69:4000",
+  "metrics_endpoint": "http://38.242.245.69:9615/metrics",
+  "id": "3b7a58df-5681-4cbc-9e47-7e2caa15cd6b"
+}
