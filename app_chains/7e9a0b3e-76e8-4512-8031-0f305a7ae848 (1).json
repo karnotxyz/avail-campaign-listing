@@ -1,0 +1,8 @@
+{
+    "name": "encoderrr",
+    "logo": "https://r.resimlink.com/JdExRVKSG.png",
+    "rpc_url": "http://79.98.27.190:9944",
+    "explorer_url": "http://79.98.27.190:4000",
+    "metrics_endpoint": "http://79.98.27.190:9615/metrics",
+    "id": "7e9a0b3e-76e8-4512-8031-0f305a7ae848"
+  }
