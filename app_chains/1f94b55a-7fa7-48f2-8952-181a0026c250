@@ -1,8 +1,8 @@
 {
-    "name": "madaraumut",
-    "logo": "https://r.resimlink.com/E681FDA.jpg",
-    "rpc_url": "http://49.13.202.141:9944",
-    "explorer_url": "49.13.202.141:4000",
-    "metrics_endpoint": "http://49.13.202.141:9615/metrics",
-    "id": "1f94b55a-7fa7-48f2-8952-181a0026c250" 
-  }
+"name": "madaraumut",
+"logo": "https://r.resimlink.com/E681FDA.jpg",
+"rpc_url": "http://49.13.202.141:9944",
+"explorer_url": "49.13.202.141:4000",
+"metrics_endpoint": "http://49.13.202.141:9615/metrics",
+"id": "1f94b55a-7fa7-48f2-8952-181a0026c250" 
+}
