@@ -1,9 +1,9 @@
   {
     "name": "aras",
-    "logo": "https://r.resimlink.com/HOtsK.jpg", // 
+    "logo": "https://r.resimlink.com/18r4P.png", 
     "rpc_url": "http://173.249.31.160:9944",
     "explorer_url": "http://173.249.31.160:4000",
     "metrics_endpoint": "http://173.249.31.160:9615/metrics", 
-    "id": "060f7541-ca4b-4aaf-9972-deda04da4ba9" // 
+    "id": "060f7541-ca4b-4aaf-9972-deda04da4ba9"
   }
  
