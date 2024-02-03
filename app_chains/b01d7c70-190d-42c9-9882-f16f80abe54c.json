@@ -1,0 +1,8 @@
+{
+  "name": "madarakutlu01",
+  "logo": "https://i.hizliresim.com/kxa1m02.jpg",
+  "rpc_url": "http://46.196.214.35:9944",
+  "explorer_url": "http://46.196.214.35:4000",
+  "metrics_endpoint": "http://46.196.214.35:9615/metrics",
+  "id": "b01d7c70-190d-42c9-9882-f16f80abe54c"
+}
