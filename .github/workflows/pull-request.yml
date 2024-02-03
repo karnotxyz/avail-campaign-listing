@@ -19,7 +19,6 @@ jobs:
     name: Validate entries
     uses: ./.github/workflows/validate-entry.yml
 
-  auto-merge:
-    name: Checking merge conditions
-    uses: ./.github/workflows/auto-merge.yml
-    needs: [prettier, validate-entry]
+  check-file-changes:
+    name: Check file changes
+    uses: ./.github/workflows/check-file-changes.yml
