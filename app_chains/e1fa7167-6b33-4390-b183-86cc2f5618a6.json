@@ -1,8 +1,8 @@
 {
   "name": "your appchain name",
   "logo": "https://i.ibb.co/D4Z79Mb/2-SEn7-E5-S-400x400.jpg",
-  "rpc_url": "http://95.217.211.94:9944",
-  "explorer_url": "http://95.217.211.94:4000",
-  "metrics_endpoint": "http://95.217.211.94:9615/metrics",
+  "rpc_url": "http://91.217.211.94:9944",
+  "explorer_url": "http://91.217.211.94:4000",
+  "metrics_endpoint": "http://91.217.211.94:9615/metrics",
   "id": "e1fa7167-6b33-4390-b183-86cc2f5618a6"
 }
