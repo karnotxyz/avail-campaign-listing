@@ -1,0 +1,9 @@
+{
+    "name": "madroll",
+    "logo": "https://cdn.pixabay.com/photo/2017/03/19/20/19/ball-2157465_640.png",
+    "rpc_url": "http://193.187.129.155:9944",
+    "explorer_url": "http://193.187.129.155:4000",
+    "metrics_endpoint": "http://193.187.129.155:9615/metrics",
+    "id": "d04bbfe0-81f7-4404-93d1-a0d27077dc49"
+}
+  
