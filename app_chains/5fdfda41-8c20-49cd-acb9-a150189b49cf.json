@@ -1,8 +1,8 @@
 {
   "name": "Sharkstar",
   "logo": "https://imgur.com/mjQ7VSu",
-  "rpc_url": "http://27.124.95.184:9944",
-  "explorer_url": "http://27.124.95.184:4000",
-  "metrics_endpoint": "http://27.124.95.184:9615/metrics",
+  "rpc_url": "http://84.247.177.24:9944",
+  "explorer_url": "http://84.247.177.24:4000",
+  "metrics_endpoint": "http://84.247.177.24:9615/metrics",
   "id": "5fdfda41-8c20-49cd-acb9-a150189b49cf"
 }
