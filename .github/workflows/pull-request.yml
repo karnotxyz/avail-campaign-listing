@@ -3,7 +3,7 @@ name: Workflow - Pull Request
 
 on:
   workflow_dispatch:
-  pull_request:
+  pull_request_target:
     branches: [main]
 
 jobs:
@@ -14,3 +14,12 @@ jobs:
       - name: Run prettier
         run: |-
           npx prettier --check .
+
+  validate-entry:
+    name: Validate entries
+    uses: ./.github/workflows/validate-entry.yml
+
+  auto-merge:
+    name: Checking merge conditions
+    uses: ./.github/workflows/auto-merge.yml
+    needs: [prettier, validate-entry]
