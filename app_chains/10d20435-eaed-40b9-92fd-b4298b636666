@@ -1,4 +1,4 @@
-[
+
     {
       "name": "Alfonodes",
       "logo": "https://i.imgur.com/iOdxkRm.png",
@@ -7,4 +7,4 @@
       "metrics_endpoint": "http://167.99.116.218:9615/metrics",
       "id": "10d20435-eaed-40b9-92fd-b4298b636666"
     }
-  ]
+  
