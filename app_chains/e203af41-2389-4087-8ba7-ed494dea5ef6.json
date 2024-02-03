@@ -1,6 +1,6 @@
 {
   "name": "bigrod",
-  "logo": "https://ipfs.io/ipfs/QmSAkgpebgamTdz3AWjejA64CdNmg7smqfpWCYtEavCDfN",
+  "logo": "https://avail.tws.im/bigrod.png",
   "rpc_url": "https://karnot-rpc.tws.im",
   "explorer_url": "https://karnot-explorer.tws.im",
   "metrics_endpoint": "https://karnot-metrics.tws.im/metrics",
