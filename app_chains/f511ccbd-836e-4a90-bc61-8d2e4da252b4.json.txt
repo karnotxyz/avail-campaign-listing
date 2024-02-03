@@ -1,0 +1,14 @@
+
+
+./target/release/madara explorer --host=65.108.251.195
+
+
+
+  {
+    "name": "avail",
+    "logo": "https://r.resimlink.com/7yXDMSh.jpg",
+    "rpc_url": "http://65.108.251.195:9944",
+    "explorer_url": "http://65.108.251.195:4000",
+    "metrics_endpoint": "http://65.108.251.195:9615/metrics", 
+    "id": "f511ccbd-836e-4a90-bc61-8d2e4da252b4"
+  }
