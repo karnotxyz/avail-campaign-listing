@@ -1,8 +1,8 @@
 {
    "name": "sychonix",
    "logo": "https://i.imgur.com/EGfKz1d.jpg",
-   "rpc_url": "http://104.248.174.224:9944",
-   "explorer_url": "http://104.248.174.224:4000",
-   "metrics_endpoint": "http://104.248.174.224:9615/metrics",
+   "rpc_url": "http://174.138.21.71:9944",
+   "explorer_url": "http://174.138.21.71:4000",
+   "metrics_endpoint": "http://174.138.21.71:9615/metrics",
    "id": "26ccc3b0-7f75-4e84-bc5a-03e962c5128a"
 }
