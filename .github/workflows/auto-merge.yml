@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.16.2
-        needs: [prettier, validate-entry]
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: "automerge"
