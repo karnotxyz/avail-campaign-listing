@@ -1,0 +1,8 @@
+{
+  "name": "seracan",
+  "logo": "https://raw.githubusercontent.com/tolga06060/rollapp-registry/main/tolga_8331808-1/logos/tolga_8331808-1.png",
+  "rpc_url": "http://84.247.141.193:9944",
+  "explorer_url": "http://84.247.141.193:4000",
+  "metrics_endpoint": "http://84.247.141.193:9615/metrics",
+  "id": "24b598f3-a228-4ea0-8aec-440d579d2c78"
+}
