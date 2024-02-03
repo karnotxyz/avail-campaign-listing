@@ -1,0 +1,8 @@
+{
+"name": "intruder",
+"logo": "https://r.resimlink.com/oeBcV.png",
+"rpc_url": "http://146.190.127.239:9944",
+"explorer_url": "http://146.190.127.239:4000",
+"metrics_endpoint": "http://146.190.127.239:9615/metrics",
+"id": "6c35905b-a50e-4c33-9f6c-bb917132852e"
+}
