@@ -1,6 +1,6 @@
 {
   "name": "ArashAV",
-  "logo": "https://raw.githubusercontent.com/bagheriarash/Files/main/ArashAV.jpeg",
+  "logo": "http://raw.githubusercontent.com/bagheriarash/Files/main/ArashAV.jpeg",
   "rpc_url": "http://45.90.223.65:9944",
   "explorer_url": "http://45.90.223.65:4000",
   "metrics_endpoint": "http://45.90.223.65:9615/metrics",
