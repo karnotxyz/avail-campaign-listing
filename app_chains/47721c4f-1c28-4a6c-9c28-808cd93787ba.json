@@ -1,0 +1,8 @@
+{
+  "name": "nodepro.xyz",
+  "logo": "https://ibb.co/D4HFcFs",
+  "rpc_url": "http://5.189.177.172:9944",
+  "explorer_url": "http://5.189.177.172:4000",
+  "metrics_endpoint": "http://5.189.177.172:9615/metrics",
+  "id": "47721c4f-1c28-4a6c-9c28-808cd93787ba"
+}
