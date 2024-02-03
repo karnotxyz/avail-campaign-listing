@@ -1,7 +1,7 @@
 {
   "name": "jingyaolee",
   "logo": "https://imgur.com/BSM3oUD",
-  "rpc_url": "http://34.30.14.20:9944",
+  "rpc_url": "http://34.30.14.209:9944",
   "explorer_url": "http://34.30.14.209:4000",
   "metrics_endpoint": "http://34.30.14.209:9615/metrics",
   "id": "91f12c9f-e88f-412f-91b9-4890e95b010f"
