@@ -1,0 +1,8 @@
+{
+  "name": "Kynraze",
+  "logo": "https://ecosystem.kynraze.com/kynraze.png",
+  "rpc_url": "https://madara-rpc.kynraze.com",
+  "explorer_url": "https://explorer-madara.kynraze.com",
+  "metrics_endpoint": "https://metrics.kynraze.com/metrics",
+  "id": "41ec5241-ad56-4a96-bdb3-3478d46d7b8c"
+}
