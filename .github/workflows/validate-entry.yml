@@ -9,7 +9,6 @@ on:
 jobs:
   validate-entry:
     runs-on: ubuntu-latest
-    if: "!contains(github.event.pull_request.labels.*.name, 'skip-validate')"
 
     steps:
       - name: Checkout code
