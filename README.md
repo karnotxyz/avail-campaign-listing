@@ -6,12 +6,12 @@ format to listing.json.
 
 ```json
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "pi69",
+  "logo": "https://r.resimlink.com/bhO4CBcT7p.jpg",
+  "rpc_url": "https://84.247.183.39:9944",
+  "explorer_url": "https://84.247.183.39:4000",
+  "metrics_endpoint": "https://84.247.183.39:9615",
+  "id": "c154ba91-c9de-4736-8005-4d1612be3fc0"
 }
 ```
 
