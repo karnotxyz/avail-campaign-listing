@@ -1,0 +1,8 @@
+{
+   "name":"PARSA",
+   "logo":"https://r.resimlink.com/PZ5-J0AQ6v.png",
+   "rpc_url":"http://5.189.180.167:9944",
+   "explorer_url":"http://5.189.180.167:4000",
+   "metrics_endpoint":"http://5.189.180.167:9615/metrics",
+   "id":"007c133f-f0ef-4678-9bef-80ad50d5b26a"
+}
