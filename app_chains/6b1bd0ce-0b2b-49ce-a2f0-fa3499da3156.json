@@ -1,0 +1,8 @@
+{
+"name": "Tungatar",
+"logo": "https://r.resimlink.com/1IOuG-SRB.png",
+"rpc_url": "http://84.247.188.64:9944",
+"explorer_url": "http://84.247.188.64:4000",
+"metrics_endpoint": "http://84.247.188.64:9615/metrics",
+"id": "6b1bd0ce-0b2b-49ce-a2f0-fa3499da3156"
+}
