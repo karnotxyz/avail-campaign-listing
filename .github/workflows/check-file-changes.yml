@@ -12,12 +12,12 @@ jobs:
       - id: files
         uses: jitterbit/get-changed-files@v1
       - run: |
-          if [ ${#steps.files.outputs.all[@]} -ne 1 ]; then
+          if [ ${{ steps.files.outputs.all[@] }} -ne 1 ]; then
               echo "Error: Array should contain exactly one file name."
               exit 1
           fi
 
-          file_name="${steps.files.outputs.all[0]}"
+          file_name="${{ steps.files.outputs.all[0] }}"
           if [[ ! "$file_name" =~ ^app_chains.*\.json$ ]]; then
               echo "Error: File name does not start with 'app_chains' or does not end with '.json'."
               exit 1
