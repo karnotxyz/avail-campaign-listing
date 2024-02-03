@@ -11,15 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sleep for 30 seconds
-        run: sleep 30s
+      - name: Sleep for 60 seconds
+        run: sleep 60s
         shell: bash
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.16.2
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_LABELS: "automerge"
+          MERGE_LABELS: ""
           MERGE_METHOD: "squash"
           BASE_BRANCHES: "main"
-          MERGE_RETRY_SLEEP: 10000
-          MERGE_RETRIES: 18
