@@ -1,8 +1,8 @@
 {
   "name": "kalamuc",
   "logo": "https://im.ge/i/bVxLQD",
-  "rpc_url": "http://SUNUCU-İP-YAZ:9944",
-  "explorer_url": "http://SUNUCU-İP-YAZ:4000",
-  "metrics_endpoint": "http://SUNUCU-İP-YAZ:9615/metrics",
+  "rpc_url": "http://192.145.37.240:9944",
+  "explorer_url": "http://192.145.37.240:4000",
+  "metrics_endpoint": "http://192.145.37.240:9614/metrics",
   "id": "43e9d07d-3709-4394-a961-f3a0ed5bb25f"
 }
