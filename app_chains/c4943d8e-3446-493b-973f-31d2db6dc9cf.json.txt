@@ -1,0 +1,8 @@
+  {
+    "name": "ozkaank",
+    "logo": "https://r.resimlink.com/tUZ4nw2sO.jpeg", // profil fotosu yüklüyoruz.
+    "rpc_url": "http://84.46.254.80:9944",
+    "explorer_url": "http://84.46.254.80:4000",
+    "metrics_endpoint": "http://84.46.254.80:9615/metrics", 
+    "id": "c4943d8e-3446-493b-973f-31d2db6dc9cf" // 
+  
