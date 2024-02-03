@@ -1,0 +1,8 @@
+{
+  "name": "meowment",
+  "logo": "https://i.ibb.co/k4Vd3cX/meowment.png",
+  "rpc_url": "http://95.111.232.1:9944",
+  "explorer_url": "http://95.111.232.1:4000",
+  "metrics_endpoint": "http://95.111.232.1:9615/metrics",
+  "id": "9d1e6f5f-72a2-4cee-b154-8fbe8b908d52"
+}
