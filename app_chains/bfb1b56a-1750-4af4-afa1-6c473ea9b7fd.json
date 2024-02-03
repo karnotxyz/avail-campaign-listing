@@ -1,0 +1,8 @@
+{
+  "name": "xinouse",
+  "logo": "https://i.ibb.co/GsWfVWW/123432432.png",
+  "rpc_url": "http://146.190.132.242:9944",
+  "explorer_url": "http://146.190.132.242:4000",
+  "metrics_endpoint": "http://146.190.132.242:9615/metrics",
+  "id": "bfb1b56a-1750-4af4-afa1-6c473ea9b7fd"
+}
