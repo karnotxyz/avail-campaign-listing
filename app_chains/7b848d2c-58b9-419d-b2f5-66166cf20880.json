@@ -1,0 +1,8 @@
+{
+  "name": "gonluzengin",
+  "logo": "https://r.resimlink.com/QIr1ZxvK8Mo.png",
+  "rpc_url": "http://49.13.20.204:9944",
+  "explorer_url": "http://49.13.20.204:4000",
+  "metrics_endpoint": "http://49.13.20.204:9615/metrics",
+  "id": "7b848d2c-58b9-419d-b2f5-66166cf20880"
+}
