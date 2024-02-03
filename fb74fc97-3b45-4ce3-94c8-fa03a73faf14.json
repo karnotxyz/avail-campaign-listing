@@ -1,8 +1,0 @@
-{
-  "name": "Altarinoglu",
-  "logo": "https://i.imgur.com/pldv67g.jpeg",
-  "rpc_url": "http://38.242.225.179:9944",
-  "explorer_url": "http://38.242.225.179:4000",
-  "metrics_endpoint": "http://38.242.225.179:9615/metrics",
-  "id": "fb74fc97-3b45-4ce3-94c8-fa03a73faf14"
-}
