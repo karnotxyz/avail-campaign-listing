@@ -1,0 +1,8 @@
+{
+  "name": "joeblack",
+  "logo": "https://r.resimlink.com/VSe0ogUjMd.jpg",
+  "rpc_url": "http://194.242.57.192:9944",
+  "explorer_url": "http://194.242.57.192:4000",
+  "metrics_endpoint": "http://194.242.57.192:9615/metrics",
+  "id": "f3ddd2e0-ad7b-498e-bf05-811143308af3"
+}
