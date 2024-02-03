@@ -1,10 +1,8 @@
 name: Validate Entry
 
 on:
-  push:
-    branches: ["main"]
-  pull_request:
-    branches: ["main"]
+  workflow_dispatch:
+  workflow_call:
 
 jobs:
   validate-entry:
