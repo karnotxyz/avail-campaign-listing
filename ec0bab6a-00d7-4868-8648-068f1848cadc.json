@@ -1,0 +1,8 @@
+{
+  "name": "Zeseidon",
+  "logo": "https://imgur.com/c09XXKf.png",
+  "rpc_url": "https://167.86.107.34:9944",
+  "explorer_url": "http//:167.86.107.34:4000",
+  "metrics_endpoint": "http://167.86.107.34:9615/metrics",
+  "id": "ec0bab6a-00d7-4868-8648-068f1848cadc"
+}
