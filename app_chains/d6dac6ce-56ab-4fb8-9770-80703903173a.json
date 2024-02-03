@@ -1,6 +1,6 @@
 {
     "name": "Dicounter",
-    "logo": "https://static.wikia.nocookie.net/naruto/images/5/56/Sharingan_Triple.svg/revision/latest/scale-to-width-down/200?cb=20091022225716",
+    "logo": "https://placehold.co/400x400?text=Dicounter",
     "rpc_url": "http://37.60.229.86:9944",
     "explorer_url": "http://37.60.229.86:4000",
     "metrics_endpoint": "http://37.60.229.86:9615/metrics",
