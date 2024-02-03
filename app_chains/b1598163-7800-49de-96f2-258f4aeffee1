@@ -1,0 +1,8 @@
+{  
+  "name": "kongar",
+  "logo": "https://r.resimlink.com/eawtF.png",  
+  "rpc_url": "http://5.189.191.45:9944",
+  "explorer_url": "http://5.189.191.45:4000",  
+  "metrics_endpoint": "http://5.189.191.45:9615/metrics",
+  "id": "b1598163-7800-49de-96f2-258f4aeffee1"
+}
