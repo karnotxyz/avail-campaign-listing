@@ -1,0 +1,8 @@
+{
+  "name": "cand",
+  "logo": "https://cdn.haitrieu.com/wp-content/uploads/2022/06/Logo-Bo-Cong-An.png",
+  "rpc_url": "http://37.60.224.78:9944",
+  "explorer_url": "http://37.60.224.78:4000",
+  "metrics_endpoint": "http://37.60.224.78:9615/metrics",
+  "id": "7be5c743-28e2-41d5-ae9b-6e884a365c38"
+}

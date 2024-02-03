@@ -1,0 +1,8 @@
+{
+  "name": "John",
+  "logo": "https://raw.githubusercontent.com/johnt9x/ImageNFT/main/john.svg",
+  "rpc_url": "http://185.229.119.62:9944",
+  "explorer_url": "http://185.229.119.62:4000",
+  "metrics_endpoint": "http://185.229.119.62:9615/metrics",
+  "id": "887729b4-cf37-4d55-a256-ea936442d31a"
+}
