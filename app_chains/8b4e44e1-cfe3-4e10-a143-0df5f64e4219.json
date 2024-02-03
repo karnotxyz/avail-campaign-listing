@@ -1,0 +1,8 @@
+{
+  "name": "berrylab",
+  "logo": "https://remote-image.decentralized-content.com/image?url=https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafkreihbxcuwgvgnmxirae64g4qdzhwazm7vqrh64e2mypo5jkyc6ioejy&w=1920&q=75",
+  "rpc_url": "http://madara.berrylab.cloud:9944/",
+  "explorer_url": "http://madara.berrylab.cloud:4000/",
+  "metrics_endpoint": "http://madara.berrylab.cloud:9615/metrics",
+  "id": "8b4e44e1-cfe3-4e10-a143-0df5f64e4219"
+}
