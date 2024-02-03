@@ -1,0 +1,8 @@
+{
+  "name": "bora",
+  "logo": "https://i.imgur.com/noe0u0T.jpeg",
+  "rpc_url": "http://62.171.133.51:9944",
+  "explorer_url": "http://62.171.133.51:4000",
+  "metrics_endpoint": "http://62.171.133.51:9615/metrics",
+  "id": "99a190d9-5591-46dd-9bc9-68c5a7bc36ab"
+}
