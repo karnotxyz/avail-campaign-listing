@@ -1,0 +1,8 @@
+{
+    "name": “burakderici”,
+    "logo": "https://r.resimlink.com/K0lw62x.jpg", // 
+    "rpc_url": "http://49.13.54.79:9944/",
+    "explorer_url": "http://49.13.54.79:4000/",
+    "metrics_endpoint": "http://49.13.54.79:9615/metrics", 
+    "id": "3b0d06bd-f6cc-401d-a020-fedbd59f3282" 
+}
