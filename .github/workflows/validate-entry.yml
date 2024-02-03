@@ -1,11 +1,5 @@
 name: Validate Entry
 
-on:
-  # push:
-  #   branches: ["main"]
-  pull_request:
-    branches: ["main"]
-
 jobs:
   validate-entry:
     runs-on: ubuntu-latest

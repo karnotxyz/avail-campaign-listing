@@ -14,3 +14,12 @@ jobs:
       - name: Run prettier
         run: |-
           npx prettier --check .
+
+  validate-entry:
+    name: Validate entriues
+    uses: ./.github/workflows/validate-entry.yml
+
+  auto-merge:
+    name: Checking merge conditions
+    uses: ./.github/workflows/auto-merge.yml
+    needs: [prettier, validate-entry]
