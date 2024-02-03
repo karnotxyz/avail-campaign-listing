@@ -1,0 +1,8 @@
+{
+  "name": "samykn",
+  "logo": "https://nationalinterest.org/sites/default/files/main_images/swafefqwe.jpeg",
+  "rpc_url": "http://91.229.245.30:9944",
+  "explorer_url": "http://91.229.245.30:4000",
+  "metrics_endpoint": "http://91.229.245.30:9615/metrics",
+  "id": "465081a4-c607-47b5-b6ea-d250a45e07ba"
+}
