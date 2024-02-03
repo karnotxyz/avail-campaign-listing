@@ -1,0 +1,8 @@
+{
+  "name": "aslirozamadara",
+  "logo": "https://www.resimupload.org/images/2024/02/03/roz.png",
+  "rpc_url": "http://38.242.213.37:9944",
+  "explorer_url": "http://38.242.213.37:4000",
+  "metrics_endpoint": "http://38.242.213.37:9615/metrics",
+  "id": "275d7d0b-ee9c-4adf-ab77-5477e1dcef24"
+}
