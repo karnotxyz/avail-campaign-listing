@@ -1,0 +1,26 @@
+name: Check file changes
+
+on:
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  validate-entry:
+    runs-on: ubuntu-latest
+
+    steps:
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+      - run: |
+          # Verify the length of the array
+          if [ ${#steps.files.outputs.all[@]} -ne 1 ]; then
+              echo "Error: Array should contain exactly one file name."
+              exit 1
+          fi
+
+          # Verify if the file name starts with "app_chains" and ends with ".json"
+          file_name="${steps.files.outputs.all[0]}"
+          if [[ ! "$file_name" =~ ^app_chains.*\.json$ ]]; then
+              echo "Error: File name does not start with 'app_chains' or does not end with '.json'."
+              exit 1
+          fi
