@@ -1,0 +1,8 @@
+{
+  "name": "eskola",
+  "logo": "https://r.resimlink.com/ne5pFVMoy3.jpg",
+  "rpc_url": "http://31.220.84.92:9944",
+  "explorer_url": "http://31.220.84.92:4000",
+  "metrics_endpoint": "http://31.220.84.92:9615/metrics",
+  "id": "24ea6282-e060-430d-b669-1a9a7f07e6b4"
+}
