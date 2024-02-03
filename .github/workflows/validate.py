@@ -117,6 +117,10 @@ def check_duplicate_urls_in_latest_entry():
             temp_file = None
             app_chain_id = file.split('.')[0]
             if app_chain_id not in IDS:
+                # check .json exists in filename at the end and is present only once
+                if not (file.endswith(".json") and file.count(".json") == 1):
+                    print(f"Error: The file {file} is not a valid JSON file.")
+                    sys.exit(1)
                 new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
             else:
                 temp_file = read_json_file(APP_CHAIN_DIRECTORY + "/" + file)
