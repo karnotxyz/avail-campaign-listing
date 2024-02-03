@@ -1,0 +1,8 @@
+{
+  "name": "ruanchengren",
+  "logo": "https://add.pics/images/2024/01/25/FKEBCNuWQAEc4l8.jpeg",
+  "rpc_url": "http://159.65.117.120:9944",
+  "explorer_url": "http://159.65.117.120:4000",
+  "metrics_endpoint": "http://159.65.117.120:9615/metrics",
+  "id": "2bddcd27-5e84-47a3-950e-e3a8f2a3349b"
+}

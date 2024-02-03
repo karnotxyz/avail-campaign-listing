@@ -1,0 +1,8 @@
+{
+  "name": "danalidol",
+  "logo": "https://i.postimg.cc/B620SQ2t/danalidol.jpg",
+  "rpc_url": "http://38.242.209.157:9944",
+  "explorer_url": "http://38.242.209.157:4000",
+  "metrics_endpoint": "http://38.242.209.157:9615/metrics",
+  "id": "dc0d86b7-afac-4155-8f47-4b5b8e9c1be8"
+}
