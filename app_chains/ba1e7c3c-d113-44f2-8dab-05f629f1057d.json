@@ -1,0 +1,8 @@
+  {
+    "name": "mepji",
+    "logo": "https://r.resimlink.com/pjYLT.png",
+    "rpc_url": "http://167.99.44.197:9944",
+    "explorer_url": "http://167.99.44.197:4000",
+    "metrics_endpoint": "http://167.99.44.197:9615/metrics", 
+    "id": "ba1e7c3c-d113-44f2-8dab-05f629f1057d" 
+  }
