@@ -21,6 +21,7 @@ jobs:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
           changed_files="${ALL_CHANGED_FILES}"
+          echo "All changed files: $changed_files"
           if [ ${ #changed_files[@] } -ne 1 ]; then
               echo "Error: Array should contain exactly one file name."
               exit 1
