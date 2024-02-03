@@ -1,0 +1,8 @@
+{
+    "name": "Hades683",
+    "logo": "https://i.ibb.co/wR0TDZq/601559.png",
+    "rpc_url": "http://84.247.132.116:9944",
+    "explorer_url": "http://84.247.132.116:4000",
+    "metrics_endpoint": "http://84.247.132.116:9615/metrics", 
+    "id": "cc30a01b-93b2-4584-b5fd-bd6c69925560"
+  }
