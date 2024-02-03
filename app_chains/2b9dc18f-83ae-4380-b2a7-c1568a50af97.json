@@ -1,0 +1,8 @@
+{
+  "name": "oldbutgold",
+  "logo": "https://imgur.com/a/BC5eEOu",
+  "rpc_url": "http://23.88.96.48:9944",
+  "explorer_url": "http://23.88.96.48:4000",
+  "metrics_endpoint": "http://23.88.96.48:9615/metrics",
+  "id": "2b9dc18f-83ae-4380-b2a7-c1568a50af97"
+}
