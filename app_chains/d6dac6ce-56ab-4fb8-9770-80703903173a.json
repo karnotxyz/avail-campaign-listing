@@ -1,0 +1,8 @@
+{
+    "name": "Dicounter",
+    "logo": "https://placehold.co/400x400?text=Dicounter",
+    "rpc_url": "http://37.60.229.86:9944",
+    "explorer_url": "http://37.60.229.86:4000",
+    "metrics_endpoint": "http://37.60.229.86:9615/metrics",
+    "id": "d6dac6ce-56ab-4fb8-9770-80703903173a"
+  }
