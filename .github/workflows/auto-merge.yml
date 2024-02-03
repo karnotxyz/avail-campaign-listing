@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Sleep for 60 seconds
+        run: sleep 60s
+        shell: bash
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.16.2
         env:
