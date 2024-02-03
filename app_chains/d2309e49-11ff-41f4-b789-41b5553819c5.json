@@ -1,0 +1,8 @@
+  {
+    "name": "vapur",
+    "logo": "https://r.resimlink.com/2ASga9wVd.png",
+    "rpc_url": "http://37.60.247.45:9944",
+    "explorer_url": "http://37.60.247.45:4000",
+    "metrics_endpoint": "http://37.60.247.45:9615/metrics", 
+    "id": "d2309e49-11ff-41f4-b789-41b5553819c5"
+  }
