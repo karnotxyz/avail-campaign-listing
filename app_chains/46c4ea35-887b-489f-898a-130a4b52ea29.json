@@ -1,0 +1,8 @@
+{
+  "name": "karalar",
+  "logo": "https://github.com/kaaraalar/Goracle-Node/blob/fe9f0bc1db67aa92ec9671a7c6721a0411ed5d4b/karalar.jpeg?raw=true",
+  "rpc_url": "http://135.181.153.144:9944",
+  "explorer_url": "http://135.181.153.144:4000",
+  "metrics_endpoint": "http://135.181.153.144:9615/metrics",
+  "id": "46c4ea35-887b-489f-898a-130a4b52ea29"
+}
