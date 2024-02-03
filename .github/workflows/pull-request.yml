@@ -3,11 +3,14 @@ name: Workflow - Pull Request
 
 on:
   workflow_dispatch:
+  pull_request:
+    branches: [main]
   pull_request_target:
     branches: [main]
 
 jobs:
   prettier:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -16,10 +19,12 @@ jobs:
           npx prettier --check .
 
   validate-entry:
+    if: github.event_name == 'pull_request'
     name: Validate entries
     uses: ./.github/workflows/validate-entry.yml
 
   auto-merge:
+    if: github.event_name == 'pull_request_target'
     name: Checking merge conditions
     uses: ./.github/workflows/auto-merge.yml
     needs: [prettier, validate-entry]
