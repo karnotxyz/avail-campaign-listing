@@ -1,6 +1,6 @@
 {
   "name": "miokumadara",
-  "logo": "https://placehold.co/600x400?text=mioku",
+  "logo": "https://placehold.co/400x400",
   "rpc_url": "https://158.220.116.240:9944",
   "explorer_url": "https://158.220.116.240:4000",
   "metrics_endpoint": "https://158.220.116.240:9615",
