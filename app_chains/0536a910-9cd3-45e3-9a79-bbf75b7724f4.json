@@ -1,0 +1,8 @@
+{
+  "name": "frost",
+  "logo": "logo-frost",
+  "rpc_url": "http://46.250.227.50:9944",
+  "explorer_url": "http://46.250.227.50:4000",
+  "metrics_endpoint": "http://46.250.227.50:9615/metrics",
+  "id": "joy"
+}
