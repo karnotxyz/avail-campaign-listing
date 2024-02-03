@@ -1,0 +1,8 @@
+{
+  "name": "Atakank",
+  "logo": "https://i.imgur.com/2UoGxct.png",
+  "rpc_url": "http://188.166.89.89:9944",
+  "explorer_url": "http://188.166.89.89:4000",
+  "metrics_endpoint": "http://188.166.89.89:9615/metrics",
+  "id": "e645bda5-89b3-4d3c-82fa-13f02503318a"
+}
