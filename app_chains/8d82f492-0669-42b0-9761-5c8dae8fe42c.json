@@ -1,0 +1,8 @@
+  {
+    "name": "efemurat",
+    "logo": "https://r.resimlink.com/gioN3.jpg",
+    "rpc_url": "http://164.92.158.140:9944",
+    "explorer_url": "http://164.92.158.140:4000",
+    "metrics_endpoint": "http://164.92.158.140:9615/metrics", 
+    "id": "8d82f492-0669-42b0-9761-5c8dae8fe42c"
+  }
