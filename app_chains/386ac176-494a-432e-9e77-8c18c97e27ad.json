@@ -1,0 +1,8 @@
+{
+  "name": "ArashAV",
+  "logo": "https://i.imgur.com/HTk3Kkp.jpg",
+  "rpc_url": "http://45.90.223.65:9944",
+  "explorer_url": "http://45.90.223.65:4000",
+  "metrics_endpoint": "http://45.90.223.65:9615/metrics",
+  "id": "386ac176-494a-432e-9e77-8c18c97e27ad"
+}
