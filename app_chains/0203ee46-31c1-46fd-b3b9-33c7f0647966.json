@@ -1,0 +1,8 @@
+{
+  "name": "aralper",
+  "logo": "https://raw.githubusercontent.com/aralper/rollapp-registry/main/devnet/aralper_4951447-1/logos/aralper_4951447-1.png",
+  "rpc_url": "http://95.217.160.43:9944",
+  "explorer_url": "http://95.217.160.43:4000",
+  "metrics_endpoint": "http://95.217.160.43:9615/metrics",
+  "id": "0203ee46-31c1-46fd-b3b9-33c7f0647966"
+}
