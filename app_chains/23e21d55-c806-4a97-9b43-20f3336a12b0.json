@@ -1,0 +1,8 @@
+{
+  "name": "Whale3",
+  "logo": "https://whale3.net/logo.jpeg",
+  "rpc_url": "http://135.181.59.175:9944",
+  "explorer_url": "http://135.181.59.175:4000",
+  "metrics_endpoint": "http://135.181.59.175:9615/metrics",
+  "id": "23e21d55-c806-4a97-9b43-20f3336a12b0"
+}
