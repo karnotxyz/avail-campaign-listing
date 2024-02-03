@@ -1,0 +1,8 @@
+{
+  "name": "samykn",
+  "logo": "https://placehold.jp/1c5f51/ffffff/400x400.png?text=Samykn",
+  "rpc_url": "http://91.229.245.30:9944",
+  "explorer_url": "http://91.229.245.30:4000",
+  "metrics_endpoint": "http://91.229.245.30:9615/metrics",
+  "id": "82e071de-d081-4e47-9ab4-29cf778c2ecb"
+}
