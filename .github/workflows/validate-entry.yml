@@ -26,3 +26,5 @@ jobs:
 
       - name: Validate Entry
         run: python .github/workflows/validate.py
+        with:
+          skipLabels: "skip-validate"
