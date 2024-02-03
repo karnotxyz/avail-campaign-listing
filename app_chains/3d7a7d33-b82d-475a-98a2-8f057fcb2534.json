@@ -1,0 +1,8 @@
+{
+  "name": "rinnet",
+  "logo": "https://raw.githubusercontent.com/co3in/Avail-madara/main/rin.png",
+  "rpc_url": "http://161.97.83.146:9944",
+  "explorer_url": "http://161.97.83.146:4000",
+  "metrics_endpoint": "http://161.97.83.146:9615/metrics",
+  "id": "3d7a7d33-b82d-475a-98a2-8f057fcb2534"
+}
