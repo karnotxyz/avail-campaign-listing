@@ -1,0 +1,8 @@
+{
+  "name": "Sharkstar",
+  "logo": "https://imgur.com/mjQ7VSu",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "https://explorer.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "5fdfda41-8c20-49cd-acb9-a150189b49cf"
+}
