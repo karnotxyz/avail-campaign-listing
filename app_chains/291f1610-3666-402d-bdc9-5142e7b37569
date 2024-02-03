@@ -1,0 +1,8 @@
+  {
+    "name":tekin86",
+    "logo": "https://r.resimlink.com/G3Sc-7tu.png", 
+    "rpc_url": "http://135.181.88.245:9944",
+    "explorer_url": "http://135.181.88.245:4000",
+    "metrics_endpoint": "http://135.181.88.245:9615/metrics", 
+    "id": "291f1610-3666-402d-bdc9-5142e7b37569"
+  }
