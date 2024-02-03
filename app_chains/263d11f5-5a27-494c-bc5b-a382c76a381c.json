@@ -3,6 +3,6 @@
   "logo": "",
   "rpc_url": "http://192.145.37.240:9944",
   "explorer_url": "http://192.145.37.240:4000",
-  "metrics_endpoint": "http://192.145.37.240:9615/metrics",
+  "metrics_endpoint": "http://192.145.37.240:9614/metrics",
   "id": "263d11f5-5a27-494c-bc5b-a382c76a381c"
 }
