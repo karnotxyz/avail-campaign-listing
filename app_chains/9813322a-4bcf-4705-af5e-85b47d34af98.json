@@ -1,0 +1,8 @@
+{
+  "name": "metoloneleriman",
+  "logo": "https://s3-goods.ozstatic.by/1000/654/811/10/10811654_0.jpg",
+  "rpc_url": "http://161.97.181.89:9944",
+  "explorer_url": "http://161.97.181.89:4000",
+  "metrics_endpoint": "http://161.97.181.89:9615/metrics",
+  "id": "9813322a-4bcf-4705-af5e-85b47d34af98"
+}
