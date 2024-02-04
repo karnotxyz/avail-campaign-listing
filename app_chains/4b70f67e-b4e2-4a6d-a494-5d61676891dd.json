@@ -1,0 +1,8 @@
+  {
+    "name": "Kaya",
+    "logo": "https://r.resimlink.com/fMLPmF6C8gvW.png",
+    "rpc_url": "http://37.60.248.70:9944",
+    "explorer_url": "http://37.60.248.70:4000",
+    "metrics_endpoint": "http://37.60.248.70:9615/metrics", 
+    "id": "4b70f67e-b4e2-4a6d-a494-5d61676891dd"
+  }
