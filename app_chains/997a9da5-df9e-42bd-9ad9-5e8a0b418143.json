@@ -1,0 +1,8 @@
+{
+  "name": "fireday",
+  "logo": "https://placehold.co/600x400?text=fireday",
+  "rpc_url": "http://146.0.41.74:9944",
+  "explorer_url": "http://146.0.41.74:4000",
+  "metrics_endpoint": "http://146.0.41.74:9615/metrics",
+  "id": "997a9da5-df9e-42bd-9ad9-5e8a0b418143"
+}
