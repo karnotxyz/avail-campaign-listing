@@ -1,0 +1,8 @@
+{
+  "name": "nikita",
+  "logo": "b4576adb-364f-4fc6-b81b-6377ea3890aa",
+  "rpc_url": "http://95.111.242.195:9944",
+  "explorer_url": "http://95.111.242.195:4000",
+  "metrics_endpoint": "http://95.111.242.195:9615/metrics",
+  "id": "b4576adb-364f-4fc6-b81b-6377ea3890aa"
+}
