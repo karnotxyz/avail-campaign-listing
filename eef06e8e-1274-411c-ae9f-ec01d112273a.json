@@ -1,0 +1,8 @@
+{
+    "name": "BigBang",
+    "logo": "https://avatars.githubusercontent.com/u/119723662?s=400&u=a21fa062a39dc304e3844359f16a88903d92261d&v=4",
+    "rpc_url": "http://Y46.20.46.202:9944",
+    "explorer_url": "http://Y46.20.46.202:4000",
+    "metrics_endpoint": "http://46.20.46.202:9615/metrics",
+    "id": "eef06e8e-1274-411c-ae9f-ec01d112273a"
+  }
