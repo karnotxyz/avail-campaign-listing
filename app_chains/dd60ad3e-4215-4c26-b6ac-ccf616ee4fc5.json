@@ -1,0 +1,8 @@
+{
+  "name": "Ngen",
+  "logo": "https://r.resimlink.com/STPqvIDg.jpg",
+  "rpc_url": "https://195.201.89.233:9944",
+  "explorer_url": "http://195.201.89.233:4000",
+  "metrics_endpoint": "http://195.201.89.233:9615",
+  "id": "dd60ad3e-4215-4c26-b6ac-ccf616ee4fc5" 
+}
