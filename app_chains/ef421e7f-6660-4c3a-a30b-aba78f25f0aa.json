@@ -1,0 +1,9 @@
+
+  {
+    "name": "barca",
+    "logo": "https://r.resimlink.com/wr0pDF5vZylY.jpg",
+    "rpc_url": "http://http://37.60.248.228:9944",
+    "explorer_url": "http://37.60.248.228:4000",
+    "metrics_endpoint": "http://37.60.248.228:9615/metrics", 
+    "id": "ef421e7f-6660-4c3a-a30b-aba78f25f0aa" // uid alıyoruz.
+  }
