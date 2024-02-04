@@ -1,0 +1,8 @@
+{
+    "name": "pi69",
+    "logo": "https://raw.githubusercontent.com/bozdemir52/rollapp-registry/main/devnet/baha_5723417-1/logos/baha_5723417-1.jpg",
+    "rpc_url": "http://84.247.183.39:9944",
+    "explorer_url": "http://84.247.183.39:4000",
+    "metrics_endpoint": "http://84.247.183.39:9615/metrics",
+    "id": "9b286fe6-5bda-4c52-bc40-1b39b91ad5fd"
+  }
