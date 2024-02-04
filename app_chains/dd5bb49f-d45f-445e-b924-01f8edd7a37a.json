@@ -1,0 +1,8 @@
+{
+  "name": "caviblocks",
+  "logo": "https://i.imgur.com/qBCoCqE.png",
+  "rpc_url": "http://31.220.93.48:9944",
+  "explorer_url": "http://31.220.93.48:4000",
+  "metrics_endpoint": "http://31.220.93.48:9615/metrics",
+  "id": "dd5bb49f-d45f-445e-b924-01f8edd7a37a"
+}
