@@ -1,8 +1,8 @@
 {
-  "name": "bayurne",
-  "logo": "http://bayur.net/logo.png",
-  "rpc_url": "http://46.250.234.22:9944",
-  "explorer_url": "http://46.250.234.22:4000",
-  "metrics_endpoint": "http://46.250.234.22:9615/metrics",
-  "id": "00dd00c8-725e-41fb-a392-2e98623cfbdd"
+  "name": "vikanren",
+  "logo": "https://i.imgur.com/Uv6CPvZ.png",
+  "rpc_url": "http://20.168.12.84:9944",
+  "explorer_url": "http://20.168.12.84:4000",
+  "metrics_endpoint": "http://20.168.12.84:9615/metrics",
+  "id": "ff08d88a-72b6-4305-b21b-49e6712f43e9"
 }
