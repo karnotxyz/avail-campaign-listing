@@ -3,6 +3,6 @@
   "logo": "https://raw.githubusercontent.com/ponthui2012/logo/main/dymlab50257491.PNG",
   "rpc_url": "http://75.119.141.44:9944",
   "explorer_url": "http://75.119.141.44:4000",
-  "metrics_endpoint": "http://75.119.141.44:9615",
+  "metrics_endpoint": "http://75.119.141.44:9715",
   "id": "bbe60717-9625-439f-a854-d889166df55b"
 }
