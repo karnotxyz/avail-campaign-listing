@@ -1,0 +1,8 @@
+{
+  "name": "akikoyuki",
+  "logo": "https://avatars.githubusercontent.com/u/128507249?s=96&v=4",
+  "rpc_url": "http://37.60.247.129:9944",
+  "explorer_url": "http://37.60.247.129:4000",
+  "metrics_endpoint": "http://37.60.247.129:9615/metrics",
+  "id": "c310b76a-dda1-4219-9321-b3208a70dd2a"
+}

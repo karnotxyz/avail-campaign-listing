@@ -1,0 +1,8 @@
+{
+  "name": "testnetnodes",
+  "logo": "https://i.imgur.com/2qYPZot.png",
+  "rpc_url": "http://65.108.212.98:9944",
+  "explorer_url": "http://65.108.212.98:4000",
+  "metrics_endpoint": "http://65.108.212.98:9615/metrics",
+  "id": "5acea53a-d823-4808-a17e-653994357b91"
+}
