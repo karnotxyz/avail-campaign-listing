@@ -1,6 +1,6 @@
 {
   "name": "BOMBADIL",
-  "logo": "BMB",
+  "logo": "https://www.talonmarks.com/wp-content/uploads/2020/08/turtles.jpg",
   "rpc_url": "http://37.60.248.219:9944",
   "explorer_url": "http://37.60.248.219:4000",
   "metrics_endpoint": "http://37.60.248.219:9615/metrics",
