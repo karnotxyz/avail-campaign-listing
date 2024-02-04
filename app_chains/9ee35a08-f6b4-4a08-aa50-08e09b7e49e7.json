@@ -1,0 +1,8 @@
+  {
+    "name": "barca",
+    "logo": "https://r.resimlink.com/wE_2QG.jpg",
+    "rpc_url": "http://37.60.248.228:9944",
+    "explorer_url": "http://37.60.248.228:4000",
+    "metrics_endpoint": "http://37.60.248.228:9615/metrics", 
+    "id": "9ee35a08-f6b4-4a08-aa50-08e09b7e49e7"
+  }
