@@ -1,0 +1,8 @@
+{
+  "name": "BOMBADIL",
+  "logo": "BMB",
+  "rpc_url": "http://37.60.248.219:9944",
+  "explorer_url": "http://37.60.248.219:4000",
+  "metrics_endpoint": "http://37.60.248.219:9615/metrics",
+  "id": "c8b8f3ea-df19-4ddd-9319-019d56358d19"
+}
