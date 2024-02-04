@@ -1,0 +1,8 @@
+{
+  "name": "Cryptofishernode",
+  "logo": "https://ibb.co/drKL5QJ",
+  "rpc_url": "http://95.217.179.134:9944/",
+  "explorer_url": "http://95.217.179.134:4000/",
+  "metrics_endpoint": "http://95.217.179.134:9615/metrics",
+  "id": "6ae2149c-1526-4208-a335-ce07245ff15b"
+}
