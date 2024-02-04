@@ -1,0 +1,8 @@
+{
+  "name": "IsmAppchain",
+  "logo": "https://i.ibb.co/pXm7THH/photo-2024-01-26-15-53-38.jpg",
+  "rpc_url": "http://69.57.163.168:9944",
+  "explorer_url": "http://69.57.163.168:4000",
+  "metrics_endpoint": "http://69.57.163.168:9615/metrics",
+  "id": "62f41609-734d-4f5c-bf6a-046f6747ca50"
+}
