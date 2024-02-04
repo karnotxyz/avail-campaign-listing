@@ -1,0 +1,8 @@
+{
+  "name": "emocan",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://164.68.110.174:9944",
+  "explorer_url": "http://164.68.110.174:4000",
+  "metrics_endpoint": "http://164.68.110.174:9615/metrics",
+  "id": "bf64e0fc-9d21-47bc-9bb4-e295393964ed"
+}
