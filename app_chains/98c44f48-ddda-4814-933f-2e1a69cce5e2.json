@@ -1,0 +1,8 @@
+{
+  "name": "osimato",
+  "logo": "https://im.ge/i/bZGsGC",
+  "rpc_url": "http://37.60.226.115:9944",
+  "explorer_url": "http://37.60.226.115:4000",
+  "metrics_endpoint": "http://37.60.226.115:9615/metrics",
+  "id": "98c44f48-ddda-4814-933f-2e1a69cce5e2"
+}
