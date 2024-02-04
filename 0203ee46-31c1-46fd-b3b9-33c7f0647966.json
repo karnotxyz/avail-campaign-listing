@@ -1,0 +1,8 @@
+{
+  "name": "osmans87",
+  "logo": "https://r.resimlink.com/Zho9Fg.png",
+  "rpc_url": "http://173.249.28.53:9944",
+  "explorer_url": "http://173.249.28.53:4000",
+  "metrics_endpoint": "http://173.249.28.53:9615/metrics",
+  "id": "0203ee46-31c1-46fd-b3b9-33c7f0647966"
+}
