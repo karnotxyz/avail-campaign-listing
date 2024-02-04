@@ -1,0 +1,12 @@
+[
+  {
+    "name": "gcr",
+    "logo": "https://i.ibb.co/jMsFJPV/gcr-5069493-1.jpg",
+    "logo": "https://avatars.githubusercontent.com/u/24765942?s=96&v=4",
+    "rpc_url": "http://144.91.79.52:9944",
+    "explorer_url": "http://144.91.79.52:4000",
+    "metrics_endpoint": "http://144.91.79.52:9615",
+    "id": "d3c84ba3-8518-40f5-8412-d1c176d9ce11"
+    "id": "a128cf6f-6e14-481a-afb7-32eeeff437d1"
+  }
+]
