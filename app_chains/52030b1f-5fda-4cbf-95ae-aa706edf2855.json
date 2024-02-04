@@ -1,0 +1,8 @@
+{
+  "name": "harunn",
+  "logo": "https://ibb.co/wdLtMMW.jpg",
+  "rpc_url": "http://109.123.243.200:9944",
+  "explorer_url": "http://109.123.243.200:4000",
+  "metrics_endpoint": "http://109.123.243.200:9615/metrics",
+  "id": "52030b1f-5fda-4cbf-95ae-aa706edf2855"
+}
