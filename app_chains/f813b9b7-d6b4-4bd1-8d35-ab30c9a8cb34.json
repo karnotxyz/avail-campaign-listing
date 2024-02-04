@@ -1,8 +1,8 @@
-  {
+{
     "name": "gcr",
     "logo": "https://avatars.githubusercontent.com/u/24765942?s=96&v=4",
     "rpc_url": "http://157.230.98.170:9944",
     "explorer_url": "http://157.230.98.170:4000",
     "metrics_endpoint": "http:///157.230.98.170:9615/metrics",
     "id": "d3c84ba3-8518-40f5-8412-d1c176d9ce11"
-  }
+}
