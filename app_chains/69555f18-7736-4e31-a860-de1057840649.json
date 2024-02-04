@@ -1,0 +1,8 @@
+{
+  "name": "blackmirror",
+  "logo": "https://im.ge/i/bJuI8S",
+  "rpc_url": "http://84.247.160.95:9944",
+  "explorer_url": "http://84.247.160.95:4000",
+  "metrics_endpoint": "http://84.247.160.95:9615/metrics",
+  "id": "69555f18-7736-4e31-a860-de1057840649"
+}
