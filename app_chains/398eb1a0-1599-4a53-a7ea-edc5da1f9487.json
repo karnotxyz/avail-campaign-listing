@@ -1,0 +1,8 @@
+{
+  "name": "0xKnowledge",
+  "logo": "https://hizliresim.com/ee8ffz9",
+  "rpc_url": "http://http://37.27.67.37:9944",
+  "explorer_url": "http://http://37.27.67.37:4000",
+  "metrics_endpoint": "http://http://37.27.67.37:9615/metrics",
+  "id": "398eb1a0-1599-4a53-a7ea-edc5da1f9487"
+}
