@@ -1,0 +1,14 @@
+{
+  "name": "avail-campaign-listing",
+  "version": "1.0.0",
+  "description": "This is the official repo for the Karnot CLI and the Avail Clash of Nodes campaign. If you want your app chain\r to be listed and ranked for the campaign, please create a PR on this repo which adds a JSON in the following\r format to listing.json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
