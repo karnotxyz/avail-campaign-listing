@@ -1,0 +1,8 @@
+{
+  "name": "alevapp",
+  "logo": "http://54.236.151.102/alev.png",
+  "rpc_url": "http://54.236.151.102:9944",
+  "explorer_url": "http://54.236.151.102:4000",
+  "metrics_endpoint": "http://54.236.151.102:9615/metrics",
+  "id": "99a5685f-759d-4918-9679-89d7cfad617c"
+}
