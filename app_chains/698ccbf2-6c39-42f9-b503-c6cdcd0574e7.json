@@ -1,0 +1,8 @@
+{
+  "name": "ayolly",
+  "logo": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+  "rpc_url": "http://149.102.159.18:9944",
+  "explorer_url": "http://149.102.159.18:4000",
+  "metrics_endpoint": "http://149.102.159.18:9615/metrics",
+  "id": "698ccbf2-6c39-42f9-b503-c6cdcd0574e7"
+}
