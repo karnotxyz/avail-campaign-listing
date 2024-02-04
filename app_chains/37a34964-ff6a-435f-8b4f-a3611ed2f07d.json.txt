@@ -1,0 +1,8 @@
+
+    "name": "avavilbank",
+    "logo": "https://r.resimlink.com/lmn2uVhU.jpg", //
+    "rpc_url": "http://37.60.229.76",
+    "explorer_url": "http://37.60.229.76",
+    "metrics_endpoint": "http://37.60.229.76/metrics", 
+    "id": "37a34964-ff6a-435f-8b4f-a3611ed2f07d" //
+  
