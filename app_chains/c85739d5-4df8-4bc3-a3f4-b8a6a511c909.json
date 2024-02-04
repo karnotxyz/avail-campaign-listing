@@ -1,0 +1,8 @@
+{
+  "name": "robbert",
+  "logo": "https://r.resimlink.com/hsKEjgkSZ67q.png",
+  "rpc_url": "http://207.180.194.201:9944",
+  "explorer_url": "http://207.180.194.201:4000",
+  "metrics_endpoint": "http://207.180.194.201:9615/metrics",
+  "id": "c85739d5-4df8-4bc3-a3f4-b8a6a511c909"
+}
