@@ -1,0 +1,8 @@
+{
+  "name": "fatjarmi_mdr",
+  "logo": "https://drive.google.com/uc?export=download&id=1sMzH_sRrUdQfpwpmgZXeJRKf83LYMiOr",
+  "rpc_url": "http://185.202.113.10:9944",
+  "explorer_url": "http://185.202.113.10:4000",
+  "metrics_endpoint": "http://185.202.113.10:9615/metrics",
+  "id": "ac00ab2f-36be-41c9-b851-d2756c652e55"
+}
