@@ -1,0 +1,8 @@
+{
+  "name": "KaraKartal",
+  "logo": "https://raw.githubusercontent.com/GmValidator/gmvalidator/main/6f91ab6289866f802d399963a090ad28.jpg",
+  "rpc_url": "http://81.0.221.49:9944",
+  "explorer_url": "http://81.0.221.49:4000",
+  "metrics_endpoint": "http://81.0.221.49:9615/metrics",
+  "id": "666bdfcd-b6f9-4c01-9fda-4fa96d7abc85"
+}
