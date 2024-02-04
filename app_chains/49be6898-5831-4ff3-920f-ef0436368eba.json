@@ -1,0 +1,8 @@
+{
+  "name": "kardelen",
+  "logo": "https://raw.githubusercontent.com/kardelencilerr/Taiko-Testnet-Node/main/kardelen.jpg?raw=true",
+  "rpc_url": "http://95.217.14.97:9944",
+  "explorer_url": "http://95.217.14.97:4000",
+  "metrics_endpoint": "http://95.217.14.97:9615/metrics",
+  "id": "49be6898-5831-4ff3-920f-ef0436368eba"
+}
