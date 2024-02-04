@@ -1,0 +1,9 @@
+{
+  "name": "baropintar",
+  "logo": "https://i.imgur.com/HBZDXsR.jpg",
+  "rpc_url": "http://178.128.111.219:9944",
+  "explorer_url": "http://178.128.111.219:4000",
+  "metrics_endpoint": "http://178.128.111.219:9615/metrics",
+  "id": "6ee57113-0e25-46e1-a1af-fe129757bd90"
+}
+
