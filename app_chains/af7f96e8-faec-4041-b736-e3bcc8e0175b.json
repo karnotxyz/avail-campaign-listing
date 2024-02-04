@@ -1,0 +1,8 @@
+{
+  "name": "brkttlv",
+  "logo": "https://github.com/kriptopoco/tirsik/blob/main/PocoNodes.png?raw=true",
+  "rpc_url": "http://37.60.249.26/:9944",
+  "explorer_url": "http://37.60.249.26/:4000",
+  "metrics_endpoint": "http://37.60.249.26/:9615/metrics",
+  "id": "af7f96e8-faec-4041-b736-e3bcc8e0175b"
+}
