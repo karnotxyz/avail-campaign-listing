@@ -1,0 +1,8 @@
+{
+  "name": "0xNodes",
+  "logo": "https://r.resimlink.com/yOkA-.png",
+  "rpc_url": "http://nodes2.0xNodes.xyz:9944",
+  "explorer_url": "http://nodes2.0xNodes.xyz:4000",
+  "metrics_endpoint": "http://nodes2.0xNodes.xyz:9615/metrics",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
