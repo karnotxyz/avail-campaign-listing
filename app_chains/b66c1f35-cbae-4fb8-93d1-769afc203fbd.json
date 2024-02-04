@@ -1,0 +1,8 @@
+{
+  "name": "rAdius",
+  "logo": "https://myhotposters.com/cdn/shop/products/mHP0489_1024x1024.jpeg?v=1571444324",
+  "rpc_url": "http://178.128.200.25:9944",
+  "explorer_url": "http://178.128.200.25:4000",
+  "metrics_endpoint": "http://178.128.200.25:9615/metrics",
+  "id": "b66c1f35-cbae-4fb8-93d1-769afc203fbd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wwanyone",
+  "logo": "https://im.ge/i/bZjJsW",
+  "rpc_url": "http://5.75.133.80:9944",
+  "explorer_url": "http://5.75.133.80:4000",
+  "metrics_endpoint": "http://5.75.133.80:9615/metrics",
+  "id": "64be357e-a752-4d87-b5a5-315531adfb32"
+}
