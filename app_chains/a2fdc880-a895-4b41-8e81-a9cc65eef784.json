@@ -1,0 +1,8 @@
+{
+    "name": "Django",
+    "logo": "https://imgur.com/a/IkTV3tQ.png",
+    "rpc_url": "http://167.172.35.227:9944",
+    "explorer_url": "http://167.172.35.227:4000",
+    "metrics_endpoint": "http://167.172.35.227:9615/metrics",
+    "id": "a2fdc880-a895-4b41-8e81-a9cc65eef784"
+}
