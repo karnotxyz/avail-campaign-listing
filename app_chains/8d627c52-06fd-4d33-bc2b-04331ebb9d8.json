@@ -1,0 +1,8 @@
+{
+  "name": "cagi",
+  "logo": "https://imgur.com/a/iO8x0Ar",
+  "rpc_url": "http://37.27.41.182:4000",
+  "explorer_url": "https://explorer.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "8d627c52-06fd-4d33-bc2b-04331ebb9d81"
+}
