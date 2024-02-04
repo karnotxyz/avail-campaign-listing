@@ -1,0 +1,8 @@
+{
+  "name": "JEONGNAM2",
+  "logo": "https://im.ge/i/bvDmWL.png",
+  "rpc_url": "http://167.86.80.153:9944",
+  "explorer_url": "http://167.86.80.153:4000",
+  "metrics_endpoint": "http://167.86.80.153:9615/metrics",
+  "id": "5c6c550b-f638-48ab-9e81-59a1efd7b2f4"
+}
