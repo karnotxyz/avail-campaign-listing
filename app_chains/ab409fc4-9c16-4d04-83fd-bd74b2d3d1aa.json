@@ -1,0 +1,8 @@
+{
+  "name": "senol10",
+  "logo": "https://r.resimlink.com/Cfbk02rJqaED.jpg",
+  "rpc_url": "http://65.21.151.133",
+  "explorer_url": "http://65.21.151.133:4000",
+  "metrics_endpoint": "http://65.21.151.133:9615/metrics",
+  "id": "ab409fc4-9c16-4d04-83fd-bd74b2d3d1aa"
+}
