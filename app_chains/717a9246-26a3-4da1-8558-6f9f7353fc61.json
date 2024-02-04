@@ -1,0 +1,8 @@
+{
+  "name": "flexiblee",
+  "logo": "https://r.resimlink.com/zTpMxJH1d8j-.jpg",
+  "rpc_url": "http://81.0.218.25:9944",
+  "explorer_url": "http://81.0.218.25:9944",
+  "metrics_endpoint": "http://81.0.218.25:9615/metrics",
+  "id": "717a9246-26a3-4da1-8558-6f9f7353fc61"
+}
