@@ -1,0 +1,8 @@
+{
+  "name": "acro",
+  "logo": "https://yt3.ggpht.com/a-/AAuE7mD0shuo20lWFLmRbYQ4TFP5QCUha-2og2KPiA=s900-mo-c-c0xffffffff-rj-k-no",
+  "rpc_url": "http://80.92.205.252:9944",
+  "explorer_url": "http://80.92.205.252:4000",
+  "metrics_endpoint": "http://80.92.205.252:9615/metrics",
+  "id": "219b7452-a74e-4fed-b04f-882bf28ba169"
+}
