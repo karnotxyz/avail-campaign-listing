@@ -5,8 +5,7 @@ import requests
 import sys
 
 APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
-LISTING_JSON_LOC = os.path.join(os.getcwd(), "listing.json")
-JSON_URL = "https://raw.githubusercontent.com/karnotxyz/avail-campaign-listing/main/listing.json"
+JSON_URL = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/contents/app_chains"
 TIMEOUT_IN_MS = 500
 
 
@@ -107,20 +106,27 @@ def check_duplicate_urls_in_latest_entry():
     new_entry = None
     print(f"entries -> {list_of_files}")
     if list_of_files is not None:
+        IDS = []
         RPC_URLS = []
         METRICS_URLS = []
         EXPLORER_URLS = []
-        IDS = []
         for entry in data:
-            RPC_URLS.append(entry["rpc_url"])
-            METRICS_URLS.append(entry["metrics_endpoint"])
-            EXPLORER_URLS.append(entry["explorer_url"])
-            IDS.append(entry["id"])
+            IDS.append(entry["name"].split('.')[0])
 
         for file in list_of_files:
+            temp_file = None
             app_chain_id = file.split('.')[0]
             if app_chain_id not in IDS:
+                # check .json exists in filename at the end and is present only once
+                if not (file.endswith(".json") and file.count(".json") == 1):
+                    print(f"Error: The file {file} is not a valid JSON file.")
+                    sys.exit(1)
                 new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
+            else:
+                temp_file = read_json_file(APP_CHAIN_DIRECTORY + "/" + file)
+                RPC_URLS.append(temp_file.get('rpc_url'))
+                METRICS_URLS.append(temp_file.get("metrics_endpoint"))
+                EXPLORER_URLS.append(temp_file.get("explorer_url"))
 
         if new_entry_loc == "":
             print("Error: entry already exists or invalid")
@@ -144,22 +150,8 @@ def check_duplicate_urls_in_latest_entry():
     return new_entry
 
 
-def append_to_json_file(data, file_path):
-    try:
-        with open(file_path, 'r+') as file:
-            file_data = json.load(file)
-            file_data.append(data)
-            file.seek(0)
-            json.dump(file_data, file, indent=4)
-        print(f"Data appended successfully to {file_path}")
-    except Exception as e:
-        print(f"Error in appending to file: {e}")
-        sys.exit(1)
-
-
 if __name__ == "__main__":
     latest_entry = check_duplicate_urls_in_latest_entry()
     if latest_entry:
         check_required_keys(latest_entry)
         check_url_status_code(latest_entry)
-        append_to_json_file(latest_entry, LISTING_JSON_LOC)
