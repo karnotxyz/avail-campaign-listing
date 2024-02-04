@@ -136,6 +136,9 @@ def check_duplicate_urls_in_latest_entry():
         if not new_entry:
             print("Error: Latest entry does not")
             sys.exit(1)
+        if app_chain_id != new_entry["id"]:
+            print(f"Error: File Name & App Chain Id is not same. ID-> {new_entry['id']}, FileName -> {app_chain_id}.")
+            sys.exit(1)
         if new_entry and new_entry["rpc_url"] in RPC_URLS:
             print(f"Error: The RPC URL {new_entry['rpc_url']} is already present in the JSON file.")
             sys.exit(1)
