@@ -1,0 +1,8 @@
+ {
+    "name": "Tommasso",
+    "logo": "https://imgur.com/a/5JriraP",
+    "rpc_url": "http://167.172.248.49:9944",
+    "explorer_url": "http://167.172.248.49:4000",
+    "metrics_endpoint": "http://167.172.248.49:9615/metrics",
+    "id": "5a4490e3-649e-479a-851f-52c4d53f2ed7"
+  }
