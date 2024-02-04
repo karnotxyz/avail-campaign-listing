@@ -1,0 +1,8 @@
+{
+  "name": "cryptovault",
+  "logo": "https://i.ibb.co/h8NwXbW/photo-2024-02-02-22-08-51.png",
+  "rpc_url": "http://37.27.40.147:9944",
+  "explorer_url": "http://37.27.40.147:4000",
+  "metrics_endpoint": "http://37.27.40.147:9615/metrics",
+  "id": "3588cd80-21c8-4c10-91c4-c67a46b8f937"
+}
