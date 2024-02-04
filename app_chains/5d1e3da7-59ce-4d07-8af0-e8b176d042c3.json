@@ -1,0 +1,8 @@
+{
+  "name": "likerare",
+  "logo": "https://i.imgur.com/1oV7fT2.jpeg",
+  "rpc_url": "http://37.27.42.133:9944",
+  "explorer_url": "http://37.27.42.133:4000",
+  "metrics_endpoint": "http://37.27.42.133:9615/metrics",
+  "id": "5d1e3da7-59ce-4d07-8af0-e8b176d042c3"
+}

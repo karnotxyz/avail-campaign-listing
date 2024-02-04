@@ -1,0 +1,8 @@
+{
+  "name": "phonglinh",
+  "logo": "https://i.imgur.com/2GQZeBi.jpg",
+  "rpc_url": "http://45.140.185.248:9944",
+  "explorer_url": "http://45.140.185.248:4000",
+  "metrics_endpoint": "http://45.140.185.248:9615/metrics",
+  "id": "ecb13267-98af-452b-aa2c-14a61a804a6b"
+}
