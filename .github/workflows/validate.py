@@ -4,7 +4,7 @@ import os
 import requests
 import sys
 
-APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
+APP_CHAIN_DIRECTORY = "/workspaces/avail-campaign-listing/app_chains"
 JSON_URL = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/contents/app_chains"
 TIMEOUT_IN_MS = 500
 
@@ -110,6 +110,7 @@ def check_duplicate_urls_in_latest_entry():
         RPC_URLS = []
         METRICS_URLS = []
         EXPLORER_URLS = []
+        new_entry_app_chain_id = None
         for entry in data:
             IDS.append(entry["name"].split('.')[0])
 
@@ -122,6 +123,7 @@ def check_duplicate_urls_in_latest_entry():
                     print(f"Error: The file {file} is not a valid JSON file.")
                     sys.exit(1)
                 new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
+                new_entry_app_chain_id = file.split('.')[0]
             else:
                 temp_file = read_json_file(APP_CHAIN_DIRECTORY + "/" + file)
                 RPC_URLS.append(temp_file.get('rpc_url'))
@@ -136,7 +138,7 @@ def check_duplicate_urls_in_latest_entry():
         if not new_entry:
             print("Error: Latest entry does not")
             sys.exit(1)
-        if app_chain_id != new_entry["id"]:
+        if new_entry_app_chain_id and new_entry_app_chain_id != new_entry["id"]:
             print(f"Error: File Name & App Chain Id is not same. ID-> {new_entry['id']}, FileName -> {app_chain_id}.")
             sys.exit(1)
         if new_entry and new_entry["rpc_url"] in RPC_URLS:
