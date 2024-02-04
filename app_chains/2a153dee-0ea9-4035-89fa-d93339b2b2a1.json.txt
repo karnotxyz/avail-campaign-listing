@@ -1,8 +1,8 @@
-  {
-    "name": "kriptosekici",
-    "logo": "https://r.resimlink.com/zw8HLB.jpg", //
-    "rpc_url": "http://5.161.229.139:9944",
-    "explorer_url": "http://5.161.229.139:4000",
-    "metrics_endpoint": "http://5.161.229.139:9615/metrics", 
-    "id": "2a153dee-0ea9-4035-89fa-d93339b2b2a1" // 
-  }
+{
+  "name": "kriptosekici",
+  "logo": "https://r.resimlink.com/zw8HLB.jpg",
+  "rpc_url": "http://5.161.229.139:9944",
+  "explorer_url": "http://5.161.229.139:4000",
+  "metrics_endpoint": "http://5.161.229.139:9615/metrics", 
+  "id": "2a153dee-0ea9-4035-89fa-d93339b2b2a1" 
+}
