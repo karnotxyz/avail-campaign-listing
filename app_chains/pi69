@@ -1,0 +1,9 @@
+e02b3927-c4fd-4273-ab98-c26694dee260.json
+{
+    "name": "pi69",
+    "logo": "https://r.resimlink.com/bhO4CBcT7p.jpg",
+    "rpc_url": "http://84.247.183.39:9944",
+    "explorer_url": "http://84.247.183.39:4000",
+    "metrics_endpoint": "http://84.247.183.39:9615/metrics",
+    "id": "e02b3927-c4fd-4273-ab98-c26694dee260"
+  }
