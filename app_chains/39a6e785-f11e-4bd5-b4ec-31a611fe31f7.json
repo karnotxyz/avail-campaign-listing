@@ -1,6 +1,6 @@
 {
     "name": "hamidk297",
-    "logo": https://d2357je2x03wmv.cloudfront.net/f2ft08%2Fpreview%2F55801635%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1707077114&Signature=c2-w-Mul0ZkOH0lvn7jQwJOL2fYGMh0uxA9Dvq60zjkMoziK1~aVe8~0u2JGlMo7h97ANyE30Ek6Ie8bi-kXwcYr9eNPi1ySKZvQPWRUoor4Sj1-LJ2LifwoKmQ~La-8EOAL7k0OEpGQ7~33QYUS1QXQBolc0fHFXdQSLdJidAD0mYG5PdIjIIdkKZ27dmchNepzkX4-KPcNbi~POwtx7eQnZy8Xy-9giFlLRbzxcv5IghijpCJf08u~e4M-u9b5N8LXW0DHDsePXUF6o104hUNLA9zEF74hufHPCi5ms6mrWNdi9QTwojWyQzCJQdjptn2pfDd3YF54s0e5yzHXyQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ,
+    "logo": "https://placehold.co/400x400",
     "rpc_url": "http://Your_IP:9944",
     "explorer_url": "http://Your_IP:9615",
     "metrics_endpoint": "http://Your_IP:9615/metrics",
