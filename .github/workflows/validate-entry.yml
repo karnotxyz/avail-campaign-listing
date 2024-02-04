@@ -23,4 +23,4 @@ jobs:
           pip install requests
 
       - name: Validate Entry
-        run: python .github/workflows/validate.py
+           python .github/workflows/validate.py
