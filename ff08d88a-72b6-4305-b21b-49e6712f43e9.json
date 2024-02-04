@@ -1,6 +1,6 @@
 {
   "name": "vikanren",
-  "logo": "https://i.imgur.com/Uv6CPvZ.png",
+  "logo": "https://imgur.com/Uv6CPvZ.png",
   "rpc_url": "http://20.168.12.84:9944",
   "explorer_url": "http://20.168.12.84:4000",
   "metrics_endpoint": "http://20.168.12.84:9615/metrics",
