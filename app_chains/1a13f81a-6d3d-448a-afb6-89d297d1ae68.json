@@ -1,0 +1,8 @@
+{
+  "name": "kamikaze",
+  "logo": "https://r.resimlink.com/F32qEdIGk.png",
+  "rpc_url": "http://37.27.35.222:9944",
+  "explorer_url": "http://37.27.35.222:4000",
+  "metrics_endpoint": "http://37.27.35.222:9615/metrics",
+  "id": "1a13f81a-6d3d-448a-afb6-89d297d1ae68"
+}
