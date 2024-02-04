@@ -1,0 +1,8 @@
+{
+  "name": "SATOSHIART",
+  "logo": "https://r.resimlink.com/Us98myWDQM.png",
+  "rpc_url": "http://5.161.136.175:9944",
+  "explorer_url": "http://5.161.136.175:4000",
+  "metrics_endpoint": "http://5.161.136.175:9615/metrics",
+  "id": "09cc6cfc-a5bd-4131-8775-43dc1d8fc816"
+}
