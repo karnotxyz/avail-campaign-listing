@@ -4,7 +4,7 @@ import os
 import requests
 import sys
 
-APP_CHAIN_DIRECTORY = "/workspaces/avail-campaign-listing/app_chains"
+APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
 JSON_URL = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/contents/app_chains"
 TIMEOUT_IN_MS = 500
 
