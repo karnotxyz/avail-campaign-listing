@@ -1,0 +1,8 @@
+{
+    "name": "practicer",
+    "logo": "https://i.imgur.com/9wbvOXF.png",
+    "rpc_url": "http://128.140.106.208:9944",
+    "explorer_url": "http://128.140.106.208:4000",
+    "metrics_endpoint": "http://128.140.106.208:9615/metrics",
+    "id": "74573166-ecde-4948-9f61-82e744c979a3"
+  }
