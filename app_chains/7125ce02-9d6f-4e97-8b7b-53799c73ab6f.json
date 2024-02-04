@@ -1,0 +1,8 @@
+  {
+    "name": "gulya",
+    "logo": "https://r.resimlink.com/e3sf6xIq.jpg",
+    "rpc_url": "http://95.217.211.64:9944",
+    "explorer_url": "http://95.217.211.64:4000",
+    "metrics_endpoint": "http://95.217.211.64:9615/metrics", 
+    "id": "7125ce02-9d6f-4e97-8b7b-53799c73ab6f"
+  }
