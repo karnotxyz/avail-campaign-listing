@@ -1,0 +1,8 @@
+{
+  "name": "purgatory",
+  "logo": "https://r.resimlink.com/7UMA_xbLEfG.jpg",
+  "rpc_url": "http://109.205.183.41:9944",
+  "explorer_url": "http://109.205.183.41:4000",
+  "metrics_endpoint": "http://109.205.183.41:9615/metrics",
+  "id": "f9898c3f-0432-4cda-bd47-d5690b4aa3ff"
+}
