@@ -1,8 +1,8 @@
 {
   "name": "miokumadara",
   "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://158.220.116.240:9944",
-  "explorer_url": "https://158.220.116.240:4000",
-  "metrics_endpoint": "https://158.220.116.240:9615",
-  "id": "80f26b1a-3b18-4042-b3bd-99aa746cf986"
+  "rpc_url": "http://158.220.116.240:9944",
+  "explorer_url": "http://158.220.116.240:4000",
+  "metrics_endpoint": "http://158.220.116.240:9615/metrics",
+  "id": "7bc860af-6c33-47ce-a0c6-f0e55851581c"
 }
