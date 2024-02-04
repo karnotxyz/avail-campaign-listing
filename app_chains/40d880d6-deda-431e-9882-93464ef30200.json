@@ -1,0 +1,8 @@
+{
+  "name": "Gokay",
+  "logo": "https://r.resimlink.com/EAXkj7ta.png",
+  "rpc_url": "http://37.60.245.181:9944",
+  "explorer_url": "http://37.60.245.181:4000",
+  "metrics_endpoint": "http://37.60.245.181:9615/metrics",
+  "id": "40d880d6-deda-431e-9882-93464ef30200"
+}

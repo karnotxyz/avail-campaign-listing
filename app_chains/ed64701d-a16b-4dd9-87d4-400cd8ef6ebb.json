@@ -1,0 +1,8 @@
+{
+  "name": "ynranil",
+  "logo": "https://resimlink.com/-KCz0xrNgd5",
+  "rpc_url": "http://45.79.184.174:9944",
+  "explorer_url": "http://45.79.184.174:4000",
+  "metrics_endpoint": "http://45.79.184.174:9615/metrics",
+  "id": "ed64701d-a16b-4dd9-87d4-400cd8ef6ebb"
+}

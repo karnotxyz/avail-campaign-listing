@@ -1,0 +1,8 @@
+{
+  "name": "Itachi",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://65.108.232.174:9944",
+  "explorer_url": "http://65.108.232.174:4000",
+  "metrics_endpoint": "http://65.108.232.174:9615/metrics",
+  "id": "760f32c8-05a5-41ce-b677-227510979e5b"
+}
