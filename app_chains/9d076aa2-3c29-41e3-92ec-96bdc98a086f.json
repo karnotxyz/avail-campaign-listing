@@ -1,0 +1,8 @@
+ {
+    "name": "DOCGUIRA",
+    "logo": "https://i.ibb.co/MVxYJ2g/midou-bakria.png",
+    "rpc_url": "http://84.247.161.114:9944",
+    "explorer_url": "http://84.247.161.114:4000",
+    "metrics_endpoint": "http://84.247.161.114:9615/metrics", 
+    "id": "9d076aa2-3c29-41e3-92ec-96bdc98a086f"
+  }
