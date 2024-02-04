@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Django",
+    "logo": "https://github.com/dymensionxyz/rollapp-registry/blob/main/devnet/django_5053643-1/logos/django_5053643-1.png?raw=true",
+    "rpc_url": "http://167.172.35.227:9944/",
+    "explorer_url": "http://167.172.35.227:4000/",
+    "metrics_endpoint": "http://167.172.35.227:9615/",
+    "id": "e0d20842-7f66-4b73-b93d-c89734161619"
+  }
+]
