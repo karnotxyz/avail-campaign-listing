@@ -1,0 +1,8 @@
+  {
+    "name": "nazoli",
+    "logo": "https://r.resimlink.com/fHQTWwUF.jpg", 
+    "rpc_url": "http:// 35.223.82.182:9944",
+    "explorer_url": "http:// 35.223.82.182:4000",
+    "metrics_endpoint": "http:// 35.223.82.182:9615/metrics", 
+    "id": "140c5109-8541-4f77-87a7-8b30f95e3323" 
+  }
