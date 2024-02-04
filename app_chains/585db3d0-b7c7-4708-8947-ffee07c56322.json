@@ -1,8 +1,0 @@
-{
-    "name": "jackerchan",
-    "logo": "https://raw.githubusercontent.com/nodeopsdev/img/main/nodeops_white_400x400.png",
-    "rpc_url": "http://185.245.183.212:9944",
-    "explorer_url": "http://185.245.183.212:4000",
-    "metrics_endpoint": "http://185.245.183.212:9615/metrics",
-    "id": "585db3d0-b7c7-4708-8947-ffee07c56322"
-}
