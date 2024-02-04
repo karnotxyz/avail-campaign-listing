@@ -1,0 +1,8 @@
+{
+    "name": "Cryptonaito",
+    "logo": "https://i.ibb.co/37ngjQ8/cryptonaito-4461454-1-Copy.png",
+    "rpc_url": "http://62.171.176.47:9944",
+    "explorer_url": "http://62.171.176.47:4000",
+    "metrics_endpoint": "http://62.171.176.47:9615/metrics",
+    "id": "ab06b808-596c-480d-b6a9-993702ae959a"
+  }
