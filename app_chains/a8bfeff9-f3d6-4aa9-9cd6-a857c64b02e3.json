@@ -2,7 +2,7 @@
   "name": "dogasezer0x",
   "logo": "https://raw.githubusercontent.com/0xmaximal/logos/main/1_XoDAQzSsPhmLBN2PbnJ77g.png",
   "rpc_url": "http://37.60.244.143:9944",
-  "explorer_url": "37.60.244.143:4000",
-  "metrics_endpoint": "37.60.244.143:9615/metrics",
+  "explorer_url": "http://37.60.244.143:4000",
+  "metrics_endpoint": "http://37.60.244.143:9615/metrics",
   "id": "a8bfeff9-f3d6-4aa9-9cd6-a857c64b02e3"
 }
