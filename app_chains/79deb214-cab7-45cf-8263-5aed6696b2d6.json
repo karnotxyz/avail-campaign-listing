@@ -1,0 +1,8 @@
+{
+  "name": "HippoMD",
+  "logo": "https://r.resimlink.com/vMclAhOkiG.jpeg",
+  "rpc_url": "http://144.91.119.38:9944",
+  "explorer_url": "http://144.91.119.38:4000",
+  "metrics_endpoint": "http://144.91.119.38:9615/metrics",
+  "id": "79deb214-cab7-45cf-8263-5aed6696b2d6"
+}
