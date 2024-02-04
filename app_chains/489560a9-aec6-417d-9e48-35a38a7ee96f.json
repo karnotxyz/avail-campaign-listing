@@ -1,0 +1,8 @@
+{
+  "name": "kjnodes_rollapp",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/d6f1e63ac25d855dad5d1d5915988205_360_360.jpg",
+  "rpc_url": "https://rpc.madara.kjnodes.com",
+  "explorer_url": "https://explorer.madara.kjnodes.com",
+  "metrics_endpoint": "https://metrics.madara.kjnodes.com/metrics",
+  "id": "489560a9-aec6-417d-9e48-35a38a7ee96f"
+}
