@@ -1,0 +1,8 @@
+{
+    "name": "Fractalia",
+    "logo": "https://r.resimlink.com/hkW0yF8.png",
+    "rpc_url": "http://5.78.83.5:9944",
+    "explorer_url": "http://5.78.83.5:4000",
+    "metrics_endpoint": "http://5.78.83.5:9615/metrics", 
+    "id": "2cb1386a-3fc3-4c89-87f1-04ad46fa2edd" 
+  }
