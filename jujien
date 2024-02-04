@@ -1,8 +1,0 @@
-{
-  "name": "jujien",
-  "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F300404237658680138%2F&psig=AOvVaw2HgOi11G7WH6vNYzd1CaNe&ust=1707064190084000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjzlufLj4QDFQAAAAAdAAAAABAJ",
-  "rpc_url": "http://157.90.148.79:9944",
-  "explorer_url": "http://157.90.148.79:4000",
-  "metrics_endpoint": "http://157.90.148.79/metrics",
-  "id": "5f7487fa-993a-4b52-acac-f7d56f43d547"
-}
