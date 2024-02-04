@@ -1,0 +1,8 @@
+{
+  "name": "bbarca",
+  "logo": "https://r.resimlink.com/vi8ka67J1.jpg",
+  "rpc_url": "http://37.60.248.228:9944",
+  "explorer_url": "http://37.60.248.228:4000",
+  "metrics_endpoint": "http://37.60.248.228:9615",
+  "id": "d4c45053-c30e-436d-9155-a69dfe164bae"
+}
