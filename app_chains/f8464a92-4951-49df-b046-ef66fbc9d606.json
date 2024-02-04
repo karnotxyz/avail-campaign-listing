@@ -1,0 +1,8 @@
+{
+  "name": "kaloe",
+  "logo": "https://cdn.pixabay.com/photo/2024/01/15/19/40/animal-8510775_1280.jpg",
+  "rpc_url": "http://149.102.159.16:9944",
+  "explorer_url": "http://149.102.159.16:4000",
+  "metrics_endpoint": "http://149.102.159.16:9615/metrics",
+  "id": "f8464a92-4951-49df-b046-ef66fbc9d606"
+}
