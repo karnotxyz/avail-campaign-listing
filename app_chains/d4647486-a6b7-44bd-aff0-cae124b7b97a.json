@@ -1,0 +1,8 @@
+{
+  "name": "fromua",
+  "logo": "https://im.ge/i/bRxh8F",
+  "rpc_url": "http://158.220.122.64:9944",
+  "explorer_url": "http://158.220.122.64:4000",
+  "metrics_endpoint": "http://158.220.122.64:9615/metrics",
+  "id": "d4647486-a6b7-44bd-aff0-cae124b7b97a"
+}
