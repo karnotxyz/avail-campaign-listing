@@ -3,6 +3,6 @@
   "logo": "https://im.ge/i/bSSxwf",
   "rpc_url": "http://184.174.39.155:9944",
   "explorer_url": "http://184.174.39.155:4000",
-  "metrics_endpoint": "http://184.174.39.155:9615",
+  "metrics_endpoint": "http://184.174.39.155:9615/metrics",
   "id": "b9f95876-d820-4ade-94a5-3a9c85e9c4d9"
 }
