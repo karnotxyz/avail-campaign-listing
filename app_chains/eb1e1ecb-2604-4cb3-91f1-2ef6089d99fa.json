@@ -1,0 +1,8 @@
+{
+  "name": "peyruznode",
+  "logo": "https://i.imgur.com/v7ojUbV.jpg",
+  "rpc_url": "http://159.65.123.40:9944",
+  "explorer_url": "http://159.65.123.40:4000",
+  "metrics_endpoint": "http://159.65.123.40:9615/metrics",
+  "id": "eb1e1ecb-2604-4cb3-91f1-2ef6089d99fa"
+}
