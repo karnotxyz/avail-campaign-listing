@@ -1,0 +1,8 @@
+{
+  "name": "HippoMD",
+  "logo": "https://ibb.co/c12Cs4N",
+  "rpc_url": "http://144.91.119.38:9944",
+  "explorer_url": "http://144.91.119.38:4000",
+  "metrics_endpoint": "http://144.91.119.38:9615/metrics",
+  "id": "480f9c03-2c1f-4931-9249-f0b7b8ccebb4"
+}
