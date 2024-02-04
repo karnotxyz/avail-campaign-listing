@@ -110,6 +110,7 @@ def check_duplicate_urls_in_latest_entry():
         RPC_URLS = []
         METRICS_URLS = []
         EXPLORER_URLS = []
+        new_entry_app_chain_id = None
         for entry in data:
             IDS.append(entry["name"].split('.')[0])
 
@@ -122,6 +123,7 @@ def check_duplicate_urls_in_latest_entry():
                     print(f"Error: The file {file} is not a valid JSON file.")
                     sys.exit(1)
                 new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
+                new_entry_app_chain_id = file.split('.')[0]
             else:
                 temp_file = read_json_file(APP_CHAIN_DIRECTORY + "/" + file)
                 RPC_URLS.append(temp_file.get('rpc_url'))
@@ -135,6 +137,9 @@ def check_duplicate_urls_in_latest_entry():
         new_entry = read_json_file(new_entry_loc)
         if not new_entry:
             print("Error: Latest entry does not")
+            sys.exit(1)
+        if new_entry_app_chain_id and new_entry_app_chain_id != new_entry["id"]:
+            print(f"Error: File Name & App Chain Id is not same. ID-> {new_entry['id']}, FileName -> {new_entry_app_chain_id}.")
             sys.exit(1)
         if new_entry and new_entry["rpc_url"] in RPC_URLS:
             print(f"Error: The RPC URL {new_entry['rpc_url']} is already present in the JSON file.")

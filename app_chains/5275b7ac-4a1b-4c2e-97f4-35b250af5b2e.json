@@ -1,0 +1,8 @@
+{
+  "name": "NTB|ReguideWiki",
+  "logo": "https://github.com/kushin101094/rollapp-registry/blob/main/devnet/kushin_1010-2/logos/kushin_1010-2.png",
+  "rpc_url": "http://85.239.240.227:9944",
+  "explorer_url": "http://85.239.240.227:4000",
+  "metrics_endpoint": "http://85.239.240.227:9615/metrics",
+  "id": "5275b7ac-4a1b-4c2e-97f4-35b250af5b2e"
+}
