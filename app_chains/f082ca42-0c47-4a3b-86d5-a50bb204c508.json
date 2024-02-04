@@ -1,0 +1,8 @@
+{
+  "name": "linhdo",
+  "logo": "https://i.imgur.com/ZOg4XSj.jpg",
+  "rpc_url": "http://109.123.243.178:9944",
+  "explorer_url": "http://109.123.243.178:4000",
+  "metrics_endpoint": "http://109.123.243.178:9615/metrics",
+  "id": "f082ca42-0c47-4a3b-86d5-a50bb204c508"
+}
