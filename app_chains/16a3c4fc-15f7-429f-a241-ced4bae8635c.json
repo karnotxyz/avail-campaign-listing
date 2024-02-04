@@ -1,7 +1,7 @@
 {
   "name": "cryptoflamexyz",
   "logo": "https://i.ibb.co/kJRqs2F/AVAIL-MADARA.png",
-  "rpc_url": "http://194.163.133.24:9944",
+  "rpc_url": "https://194.163.133.24:9944",
   "explorer_url": "http://194.163.133.24:4000",
   "metrics_endpoint": "http://194.163.133.24:9615/metrics",
   "id": "16a3c4fc-15f7-429f-a241-ced4bae8635c"
