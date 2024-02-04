@@ -1,0 +1,8 @@
+{
+  "name": "orihurah",
+  "logo": "https://im.ge/i/bnDtsf",
+  "rpc_url": "http://95.111.227.235:9944",
+  "explorer_url": "http://95.111.227.235:4000",
+  "metrics_endpoint": "http://95.111.227.235:9615/metrics",
+  "id": "a3ede861-51c8-4806-8c98-13349d851d6a"
+}
