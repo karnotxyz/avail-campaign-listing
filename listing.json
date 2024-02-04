@@ -1,8 +1,0 @@
-  {
-  "name": "JRAMadara",
-  "logo": "http://jracryptos.com/logo.png",
-  "rpc_url": "http://madara.jracryptos.xyz:9944",
-  "explorer_url": "http://madara.jracryptos.xyz:4000",
-  "metrics_endpoint": "http://madara.jracryptos.xyz:9615/metrics",
-  "id": "27d9df05-dc50-4081-a286-4b4efc13c917"
-  }
