@@ -1,8 +1,8 @@
 {
   "name": "kamuscrypto",
-  "logo": "http://bayur.net/logo.png",
-  "rpc_url": "http://46.250.234.22:9944",
-  "explorer_url": "http://46.250.234.22:4000",
-  "metrics_endpoint": "http://46.250.234.22:9615/metrics",
-  "id": "00dd00c8-725e-41fb-a392-2e98623cfbdd"
+  "logo": "https://im.ge/i/bOrn8G",
+  "rpc_url": "http://84.46.242.118:9944",
+  "explorer_url": "http://84.46.242.118:4000",
+  "metrics_endpoint": "http://84.46.242.118:9615/metrics",
+  "id": "6044316b-f53c-4977-8cf4-ac2f2dec3a91"
 }
