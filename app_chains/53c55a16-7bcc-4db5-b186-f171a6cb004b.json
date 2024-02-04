@@ -1,0 +1,8 @@
+{
+  "name": "Khacbao",
+  "logo": "https://im.ge/i/bJujPX",
+  "rpc_url": "https://167.86.117.221:9944",
+  "explorer_url": "https://167.86.117.221:4000",
+  "metrics_endpoint": "https://167.86.117.221:9615/metrics",
+  "id": "53c55a16-7bcc-4db5-b186-f171a6cb004b"
+}
