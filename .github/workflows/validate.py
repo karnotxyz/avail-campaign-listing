@@ -160,3 +160,7 @@ if __name__ == "__main__":
     if latest_entry:
         check_required_keys(latest_entry)
         check_url_status_code(latest_entry)
+try:
+    response = requests.get("http://" + obj["explorer_url"] + "/blocks/1", timeout=TIMEOUT_IN_MS)
+except requests.exceptions.RequestException as e:
+    print(f"Error: URL not working - {str(e)}")
