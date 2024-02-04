@@ -1,0 +1,8 @@
+{
+    "name": "hodor",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Appalachian_State_Mountaineers_logo.svg/150px-Appalachian_State_Mountaineers_logo.svg.png",
+    "rpc_url": "http://176.9.200.167:9944",
+    "explorer_url": "http://176.9.200.167:4000",
+    "metrics_endpoint": "http://176.9.200.167:9615",
+    "id": "2ffef456-fc2d-4e2a-941f-80cb484151fc"
+  }
