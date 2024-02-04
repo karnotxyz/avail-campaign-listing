@@ -1,0 +1,8 @@
+{
+  "name": "GreenNode",
+  "logo": "https://raw.githubusercontent.com/0xmaximalist/logos/main/1_XoDAQzSsPhmLBN2PbnJ77g.png",
+  "rpc_url": "http://77.85.211.29:9944",
+  "explorer_url": "http://77.85.211.29:4000",
+  "metrics_endpoint": "http://77.85.211.29:9615/metrics",
+  "id": "0ce96271-507c-4cf8-9b69-898327f81248"
+}
