@@ -1,0 +1,8 @@
+{
+  "name": "Carvail",
+  "logo": "https://i.imgur.com/Fqsg4tx.png",
+  "rpc_url": "http://37.60.244.91:9944",
+  "explorer_url": "http://37.60.244.91:4000",
+  "metrics_endpoint": "http://37.60.244.91:9615/metrics",
+  "id": "239f94db-7382-4ddd-8576-ecec88eba9fd"
+}
