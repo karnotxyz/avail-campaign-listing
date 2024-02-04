@@ -1,0 +1,8 @@
+{
+    "name": “keysersoze”,
+    "logo": "https://r.resimlink.com/aYo2rR0x.jpeg", 
+    "rpc_url": "http://167.235.76.166:9944",
+    "explorer_url": "http://167.235.76.166:4000",
+    "metrics_endpoint": "http://167.235.76.166:9615/metrics", 
+    "id": "831f2304-4c73-49a1-8fdc-62162528c316" 
+  }
