@@ -1,0 +1,8 @@
+  {
+    "name": "emocan",
+    "logo": "https://r.resimlink.com/t1z7eiIu.png",
+    "rpc_url": "http://164.68.110.174:9944",
+    "explorer_url": "http://164.68.110.174:4000",
+    "metrics_endpoint": "http://164.68.110.174:9615/metrics", 
+    "id": "19f9a4a9-bb22-4bce-bdfe-e94ddc338dc4"
+  }
