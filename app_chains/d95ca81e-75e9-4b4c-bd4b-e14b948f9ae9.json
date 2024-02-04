@@ -1,0 +1,8 @@
+{
+  "name": "maxalisan",
+  "logo": "https://r.resimlink.com/F-3MR7rdg0h.png",
+  "rpc_url": "http://195.201.144.109:9944",
+  "explorer_url": "http://195.201.144.109:4000",
+  "metrics_endpoint": "http://195.201.144.109:9615/metrics",
+  "id": "d95ca81e-75e9-4b4c-bd4b-e14b948f9ae9"
+}
