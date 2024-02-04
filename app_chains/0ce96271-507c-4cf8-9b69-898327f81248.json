@@ -1,8 +1,8 @@
 {
-   "name":"GreenNode",
-   "logo":"https://i.ibb.co/9g1tqxx/f6e93bd9f1732825ed3c3df55b8750fe.jpg",
-   "rpc_url":"http://77.85.211.29:9944",
-   "explorer_url":"http://77.85.211.29:4000",
-   "metrics_endpoint":"http://77.85.211.29:9615/metrics",
-   "id":"0ce96271-507c-4cf8-9b69-898327f81248"
+   "name": "GreenNode",
+   "logo": "https://i.ibb.co/9g1tqxx/f6e93bd9f1732825ed3c3df55b8750fe.jpg",
+   "rpc_url": "http://77.85.211.29:9944",
+   "explorer_url": "http://77.85.211.29:4000",
+   "metrics_endpoint": "http://77.85.211.29:9615/metrics",
+   "id": "0ce96271-507c-4cf8-9b69-898327f81248"
 }
