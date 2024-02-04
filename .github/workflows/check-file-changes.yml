@@ -1,0 +1,33 @@
+name: Check file changes
+
+on:
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  check-file-changes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+
+      - name: List all changed files
+        env:
+          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        run: |
+          IFS=', ' read -r -a changed_files_array <<< "$ALL_CHANGED_FILES"
+          echo "All changed files: $changed_files_array"
+          echo "All changed files length: ${#changed_files_array[@]}"
+
+          if [ ${#changed_files_array[@]} -ne 1 ]; then
+              echo "Error: Array should contain exactly one file name."
+              exit 1
+          fi
+
+          file_name="${changed_files_array[0]}"
+          if [[ ! "$file_name" =~ ^app_chains.*\.json$ ]]; then
+              echo "Error: Only a '.json' file must be added in the app_chains folder."
+              exit 1
+          fi
