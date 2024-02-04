@@ -1,8 +1,8 @@
 {
-  "name": "muratefe2",
-  "logo": "https://r.resimlink.com/gioN3.jpg",
-  "rpc_url": "http://137.184.181.28:9944",
-  "explorer_url": "http://137.184.181.28:4000",
-  "metrics_endpoint": "http://137.184.181.28:9615/metrics",
-  "id": "5738ea5e-f55e-4597-8362-dd212c28e414"
+  "name": "qianbi321",
+  "logo": "https://i.imgur.com/hexiXj0.jpg",
+  "rpc_url": "http://47.242.170.214:9944",
+  "explorer_url": "http://47.242.170.214:4000",
+  "metrics_endpoint": "http://47.242.170.214:9615/metrics",
+  "id": "0952a43f-99e7-46f5-86f1-6072dad55e89"
 }
