@@ -1,0 +1,8 @@
+{
+  "name": "mustafaiciren",
+  "logo": "https://i.imgur.com/K8zyWEL.png",
+  "rpc_url": "http://135.181.82.151:9944",
+  "explorer_url": "http://135.181.82.151:4000",
+  "metrics_endpoint": "http://135.181.82.151:9615/metrics",
+  "id": "fc342ce4-3df2-4aa6-9ca0-5c04348edced"
+}
