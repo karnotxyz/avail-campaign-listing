@@ -1,8 +1,0 @@
-{
-    "name": "Green App",
-    "logo": "https://i.ibb.co/0hXzD50/164123233212956.png",
-    "rpc_url": "http://77.85.211.29:9944",
-    "explorer_url": "http://77.85.211.29:4000",
-    "metrics_endpoint": "http://77.85.211.29:9615/metrics", 
-    "id": "d3e8f0a3-f4fb-4a9c-9826-17465249d681"
-  }
