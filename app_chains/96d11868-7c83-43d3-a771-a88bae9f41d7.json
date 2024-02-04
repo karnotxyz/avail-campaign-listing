@@ -1,0 +1,8 @@
+{
+ "name": "blackmirror",
+ "logo": "https://r.resimlink.com/ZoQwTFM6vOaU.jpg",
+ "rpc_url": "http://84.247.160.95:9944",
+ "explorer_url": "http://84.247.160.95:4000",
+ "metrics_endpoint": "http://84.247.160.95:9615/metrics",
+ "id": "96d11868-7c83-43d3-a771-a88bae9f41d7"
+}
