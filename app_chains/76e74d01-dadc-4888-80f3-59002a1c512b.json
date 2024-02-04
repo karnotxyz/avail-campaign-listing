@@ -1,0 +1,8 @@
+{
+  "name": "atlas",
+  "logo": "https://imgur.com/r8uhvof.jpg",
+  "rpc_url": "http://84.247.179.124:9944",
+  "explorer_url": "http://84.247.179.124:4000",
+  "metrics_endpoint": "http://84.247.179.124:9615/metrics",
+  "id": "76e74d01-dadc-4888-80f3-59002a1c512b"
+}
