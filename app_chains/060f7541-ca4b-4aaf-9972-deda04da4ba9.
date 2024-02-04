@@ -1,6 +1,6 @@
 {
   "name": "aras",
-  "logo": "https://i.imgur.com/5FGtPw8.png/",
+  "logo": "https://i.imgur.com/5FGtPw8.png",
   "rpc_url": "http://173.249.31.160:9944/",
   "explorer_url": "http://173.249.31.160:4000/",
   "metrics_endpoint": "http://173.249.31.160:9615/metrics",
