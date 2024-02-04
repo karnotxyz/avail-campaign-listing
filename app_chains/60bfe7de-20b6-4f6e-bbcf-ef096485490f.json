@@ -1,0 +1,8 @@
+{
+  "name": "ReGuideLAB",
+  "logo": "https://im.ge/i/bvtEpF",
+  "rpc_url": "http://75.119.141.44:9944",
+  "explorer_url": "http://75.119.141.44:4000",
+  "metrics_endpoint": "http://75.119.141.44:9615/metrics",
+  "id": "60bfe7de-20b6-4f6e-bbcf-ef096485490f"
+}
