@@ -1,0 +1,8 @@
+{
+  "name": “Lucy123",
+  "logo": "https://www.pngall.com/wp-content/uploads/5/Poodle-Transparent.png",
+  "rpc_url": "http://207.180.208.186:9944",
+  "explorer_url": "http://207.180.208.186:4000",
+  "metrics_endpoint": "http://207.180.208.186:9615/metrics",
+  "id": "7199b6c6-9637-45a7-966f-a1675c7f9734"
+}
