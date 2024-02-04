@@ -1,0 +1,8 @@
+{
+  "name": "LynchNode",
+  "logo": "https://i.ibb.co/yYNgFVv/Logo.png",
+  "rpc_url": "http://37.60.224.162:9944",
+  "explorer_url": "http://37.60.224.162:4000",
+  "metrics_endpoint": "http://37.60.224.162:9615/metrics",
+  "id": "36c4d0e8-c6a2-4369-b088-9d718e2ec0a1"
+}
