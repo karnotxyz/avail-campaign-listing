@@ -1,0 +1,8 @@
+  {
+    "name": "ynranil",
+    "logo": "https://resimlink.com/-KCz0xrNgd5", // profil fotosu yüklüyoruz.
+    "rpc_url": "http://45.79.184.174:9944",
+    "explorer_url": "http://45.79.184.174:4000",
+    "metrics_endpoint": "http://45.79.184.174:9615/metrics", 
+    "id": "b911b08c-20a4-48da-9ebd-d98c8ac66e80" // uid alıyoruz.
+  }
