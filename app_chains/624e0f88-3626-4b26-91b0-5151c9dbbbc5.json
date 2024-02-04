@@ -1,0 +1,8 @@
+{
+  "name": "cosmos",
+  "logo": "https://imgur.com/7bHOZ9p.jpg",
+  "rpc_url": "http://31.220.98.36:9944",
+  "explorer_url": "http://31.220.98.36:4000",
+  "metrics_endpoint": "http://31.220.98.36:9615/metrics",
+  "id": "624e0f88-3626-4b26-91b0-5151c9dbbbc5"
+}
