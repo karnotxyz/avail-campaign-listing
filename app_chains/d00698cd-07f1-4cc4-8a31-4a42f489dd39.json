@@ -1,0 +1,8 @@
+{
+  "name": "asliroza",
+  "logo": "https://www.resimupload.org/images/2024/02/04/roz.png",
+  "rpc_url": "http://95.217.3.172:9944",
+  "explorer_url": "http://95.217.3.172:4000",
+  "metrics_endpoint": "http://95.217.3.172:9615/metrics",
+  "id": "d00698cd-07f1-4cc4-8a31-4a42f489dd39"
+}
