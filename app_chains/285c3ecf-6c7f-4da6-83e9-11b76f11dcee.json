@@ -1,0 +1,8 @@
+{
+  "name": "0xRockW3",
+  "logo": "https://i.imgur.com/sXNT1pn.png",
+  "rpc_url": "http://5.189.158.74:9944",
+  "explorer_url": "http://5.189.158.74:4000",
+  "metrics_endpoint": "http://5.189.158.74:9615/metrics",
+  "id": "285c3ecf-6c7f-4da6-83e9-11b76f11dcee"
+}
