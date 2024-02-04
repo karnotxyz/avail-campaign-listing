@@ -1,0 +1,8 @@
+{
+  "name": "beefswap",
+  "logo": "https://placehold.co/600x400/orange/white",
+  "rpc_url": "http://192.168.0.103:9944/",
+  "explorer_url": "http://192.168.0.103:4000/",
+  "metrics_endpoint": "http://192.168.0.103:9615/metrics",
+  "id": "5ab8e9db-944c-432b-8299-71e6fa43c811"
+}
