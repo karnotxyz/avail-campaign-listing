@@ -1,0 +1,8 @@
+{
+  "name": "kagesama",
+  "logo": "https://r.resimlink.com/eVT0J78BFG.png",
+  "rpc_url": "http://167.235.247.52:9944",
+  "explorer_url": "http://167.235.247.52:4000",
+  "metrics_endpoint": "http://167.235.247.52:9615/metrics",
+  "id": "8588a851-a084-4b6f-98e3-56055a6c5997"
+}
