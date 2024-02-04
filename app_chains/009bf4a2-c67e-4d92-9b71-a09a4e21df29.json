@@ -1,0 +1,8 @@
+{
+  "name": "onuravail",
+  "logo": "http://r.resimlink.com/lpaKFh.png",
+  "rpc_url": "http://173.249.25.79:9944",
+  "explorer_url": "http://173.249.25.79:4000",
+  "metrics_endpoint": "http://173.249.25.79:9615/metrics",
+  "id": "009bf4a2-c67e-4d92-9b71-a09a4e21df29"
+}
