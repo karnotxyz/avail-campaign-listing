@@ -1,0 +1,8 @@
+{
+  "name": "zaza",
+  "logo": "https://r.resimlink.com/ijmIxo_RSUel.jpg",
+  "rpc_url": "http://34.170.235.177:9944",
+  "explorer_url": "http://34.170.235.177:4000",
+  "metrics_endpoint": "http://34.170.235.177:9615/metrics",
+  "id": "e49b67e1-7072-4885-884e-7ef4116a3639"
+}
