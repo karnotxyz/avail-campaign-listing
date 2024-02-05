@@ -1,0 +1,8 @@
+{
+  "name": "puzzel",
+  "logo": "https://placehold.co/400x400/black/darkred?text=PUM",
+  "rpc_url": "161.97.73.235:9944",
+  "explorer_url": "161.97.73.235:4000",
+  "metrics_endpoint": "http://161.97.73.235:9615/metrics",
+  "id": "694e1140-68a9-449d-a812-d3e0ade92856 "
+}
