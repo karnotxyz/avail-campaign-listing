@@ -1,0 +1,8 @@
+{
+  "name": "islam7070",
+  "logo": "https://r.resimlink.com/uemU3RkIs.png",
+  "rpc_url": "http://207.180.194.21:9944",
+  "explorer_url": "http://207.180.194.21:4000",
+  "metrics_endpoint": "http://207.180.194.21:9615/metrics",
+  "id": "fdac7a65-9601-4cd1-a0c3-af5c18cc9470"
+}
