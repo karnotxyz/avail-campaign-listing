@@ -1,0 +1,8 @@
+{
+  "name": "hestya",
+  "logo": "https://lofrev.net/wp-content/photos/2016/08/random_logo_1.png",
+  "rpc_url": "http://89.58.59.83:9944",
+  "explorer_url": "http://89.58.59.83:4000",
+  "metrics_endpoint": "http://89.58.59.83:9615/metrics",
+  "id": "47d8f391-1371-4eca-8ac9-b0d62139b3ad"
+}
