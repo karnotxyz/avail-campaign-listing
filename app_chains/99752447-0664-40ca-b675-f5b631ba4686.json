@@ -1,0 +1,8 @@
+{
+  "name": "redhat",
+  "logo": "https://r.resimlink.com/jWemu.jpg",
+  "rpc_url": "http://138.201.111.131:9944",
+  "explorer_url": "http://138.201.111.131:4000",
+  "metrics_endpoint": "http://138.201.111.131:9615/metrics",
+  "id": "99752447-0664-40ca-b675-f5b631ba4686"
+}
