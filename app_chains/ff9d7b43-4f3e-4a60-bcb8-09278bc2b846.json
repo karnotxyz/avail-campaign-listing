@@ -3,6 +3,6 @@
     "logo": "https://hizliresim.com/441cw3b",
     "rpc_url": "http://149.102.136.176:9944",
     "explorer_url": "http://149.102.136.176:4000",
-    "metrics_endpoint": "149.102.136.176:9615/metrics", 
+    "metrics_endpoint": "149.102.136.176:9615/metrics",
     "id": "ff9d7b43-4f3e-4a60-bcb8-09278bc2b846"
   }
