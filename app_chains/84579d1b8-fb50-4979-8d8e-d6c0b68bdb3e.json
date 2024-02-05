@@ -1,0 +1,8 @@
+{
+    "name": “MadaraSezgiApp,
+    "logo": "https://r.resimlink.com/mCMRgTa.png",
+    "rpc_url": "http://95.217.15.216:9944",
+    "explorer_url": "http://95.217.15.216:4000",
+    "metrics_endpoint": "http://95.217.15.216:9615/metrics", 
+    "id": "84579d1b8-fb50-4979-8d8e-d6c0b68bdb3e"
+  }
