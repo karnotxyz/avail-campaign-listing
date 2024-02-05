@@ -1,0 +1,8 @@
+{
+  "name": "Decipher3d",
+  "logo": "https://i.ibb.co/2cjB8P4/pfp-twitter.png",
+  "rpc_url": "http://37.60.246.43:9944/",
+  "explorer_url": "http://37.60.246.43:4000/",
+  "metrics_endpoint": "http://37.60.246.43:9615/metrics",
+  "id": "937f2b41-46a0-40fb-b81d-230664edfd93"
+}
