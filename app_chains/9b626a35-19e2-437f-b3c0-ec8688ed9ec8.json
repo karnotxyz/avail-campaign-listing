@@ -1,6 +1,6 @@
 {
   "name": "F5 Nodes",
-  "logo": "https://i.imgur.com/8V28jQr.png",
+  "logo": "https://f5nodes.com/logo.jpg",
   "rpc_url": "https://95.217.13.157:9944",
   "explorer_url": "https://95.217.13.157:4000",
   "metrics_endpoint": "https://95.217.13.157:9615/metrics",
