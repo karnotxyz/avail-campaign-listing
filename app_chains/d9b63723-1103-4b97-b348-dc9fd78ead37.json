@@ -1,0 +1,8 @@
+{
+  "name": "eko",
+  "logo": "https://ibb.co/XS1sTbw",
+  "rpc_url": "http://34.76.20.27:9944",
+  "explorer_url": "http://34.76.20.27:4000",
+  "metrics_endpoint": "http://34.76.20.27:9615/metrics",
+  "id": "d9b63723-1103-4b97-b348-dc9fd78ead37"
+}
