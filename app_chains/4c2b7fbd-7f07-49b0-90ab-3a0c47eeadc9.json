@@ -1,0 +1,8 @@
+{
+  "name": "cyxdfg",
+  "logo": "https://avail-1257774372.cos.na-siliconvalley.myqcloud.com/cyxdfg.png",
+  "rpc_url": "http://43.153.33.91:9944",
+  "explorer_url": "http://43.153.33.91:4000",
+  "metrics_endpoint": "http://43.153.33.91:9615/metrics",
+  "id": "4c2b7fbd-7f07-49b0-90ab-3a0c47eeadc9"
+}
