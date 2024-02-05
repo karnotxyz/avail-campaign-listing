@@ -1,0 +1,8 @@
+  {
+    "name": "avail-1",
+    "logo": "https://r.resimlink.com/CKzuW.jpg",
+    "rpc_url": "http://37.27.13.205:9944",
+    "explorer_url": "http://37.27.13.205:4000",
+    "metrics_endpoint": "http://37.27.13.205:9615/metrics", 
+    "id": "0842abfb-da8d-415d-9793-ec4d969c0163"
+  }
