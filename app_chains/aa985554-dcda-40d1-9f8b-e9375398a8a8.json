@@ -1,0 +1,15 @@
+{
+
+  "name": "CJNode",
+
+  "logo": "Appchain-Logo-WebAdress",
+
+  "rpc_url": "https://194.59.247.129:9944",
+
+  "explorer_url": "https://194.59.247.129:4000",
+
+  "metrics_endpoint": "https://194.59.247.129:9615/metrics",
+
+  "id": "aa985554-dcda-40d1-9f8b-e9375398a8a8"
+
+}
