@@ -1,0 +1,8 @@
+{
+  "name": "cryptovault",
+  "logo": "https://i.imgur.com/DuReVuF.png",
+  "rpc_url": "http://5.161.205.140:9944",
+  "explorer_url": "http://5.161.205.140:4000",
+  "metrics_endpoint": "http://5.161.205.140:9615/metrics",
+  "id": "443486f1-a3ad-4720-ac56-95adfa3c7f3f"
+}
