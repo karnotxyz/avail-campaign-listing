@@ -1,0 +1,8 @@
+{
+  "name": "jesriley",
+  "logo": "https://ibb.co/qskmFL0",
+  "rpc_url": "http://91.107.208.211:9944",
+  "explorer_url": "http://91.107.208.211:4000",
+  "metrics_endpoint": "http://91.107.208.211:9615/metrics",
+  "id": "f2d0ec63-9786-49a2-b6b0-3e08f6de4d8b"
+}
