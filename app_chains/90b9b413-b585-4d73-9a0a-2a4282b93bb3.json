@@ -1,0 +1,8 @@
+{
+  "name": "appoid",
+  "logo": "https://i.imgur.com/D3QP8LC.jpeg",
+  "rpc_url": "http://217.76.50.74:9944",
+  "explorer_url": "http://217.76.50.74:4000",
+  "metrics_endpoint": "http://217.76.50.74:9615/metrics",
+  "id": "90b9b413-b585-4d73-9a0a-2a4282b93bb3"
+}
