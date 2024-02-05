@@ -27,7 +27,7 @@ jobs:
           fi
 
           file_name="${changed_files_array[0]}"
-          if [[ ! "$file_name" =~ ^app_chains.*\.json$ ]]; then
+          if [[ ! "$file_name" =~ ^42a2e2f1-d685-4cf3-8a4d-c0560026a394.*\.json$ ]]; then
               echo "Error: Only a '.json' file must be added in the app_chains folder."
               exit 1
           fi
