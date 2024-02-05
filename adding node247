@@ -1,0 +1,8 @@
+}
+"name": "node247",
+  "logo": "n/a",
+  "rpc_url": "http://84.247.172.23:9944",
+  "explorer_url": "http://84.247.172.23:4000",
+  "metrics_endpoint": "http://84.247.172.23:9615/metrics",
+  "id": "2c740bf5-ffd0-4a7e-b209-f9ece50de13b"
+}
