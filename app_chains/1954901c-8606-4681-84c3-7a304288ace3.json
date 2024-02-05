@@ -1,8 +1,8 @@
-  {
-    "name": "EnsKs",
-    "logo": "https://r.resimlink.com/Dpc0qv.jpg",
-    "rpc_url": "http://5.104.87.111:9944",
-    "explorer_url": "http://5.104.87.111:4000",
-    "metrics_endpoint": "http://5.104.87.111:9615/metrics", 
-    "id": "1954901c-8606-4681-84c3-7a304288ace3"
-  }
+{
+  "name": "EnsKs",
+  "logo": "https://r.resimlink.com/Dpc0qv.jpg",
+  "rpc_url": "http://5.104.87.111:9944",
+  "explorer_url": "http://5.104.87.111:4000",
+  "metrics_endpoint": "http://5.104.87.111:9615/metrics", 
+  "id": "1954901c-8606-4681-84c3-7a304288ace3"
+}
