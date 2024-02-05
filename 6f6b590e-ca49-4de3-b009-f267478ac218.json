@@ -1,0 +1,8 @@
+{
+  "name": "cryptovault",
+  "logo": "https://i.ibb.co/h8NwXbW/photo-2024-02-02-22-08-51.png",
+  "rpc_url": "https://5.78.74.15:9944",
+  "explorer_url": "https://5.78.74.15:4000",
+  "metrics_endpoint": "https://5.78.74.15:9615/metrics",
+  "id": "6f6b590e-ca49-4de3-b009-f267478ac218"
+}
