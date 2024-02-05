@@ -1,0 +1,8 @@
+{
+  "name": "EmberStake",
+  "logo": "https://emberstake.xyz/logo.png",
+  "rpc_url": "http://karnot-avail.emberstake.xyz:9944/",
+  "explorer_url": "http://karnot-avail.emberstake.xyz:4000/",
+  "metrics_endpoint": "http://karnot-avail.emberstake.xyz:9615/metrics",
+  "id": "6a4c980d-cfb9-4b29-95a7-ec1f7c567d7e"
+}
