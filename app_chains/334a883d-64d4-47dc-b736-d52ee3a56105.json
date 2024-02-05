@@ -1,0 +1,11 @@
+{"ws_provider":"wss://goldberg.avail.tools:443/ws","mode":"sovereign","seed":"0x2cd0538b1a9196af82d1ba0a6805f7c8222fdb8ecf61316a9028a60f434076ba","app_id":0,"address":"5DLkNExctghM6pTELoe3CfCYKk8GPaAzwT94J>
+
+
+  {
+    "name": "blackfriday",
+    "logo": "https://r.resimlink.com/8tTld.jpg",
+    "rpc_url": "http://95.216.188.138:9944",
+    "explorer_url": "http://95.216.188.138:4000",
+    "metrics_endpoint": "http://95.216.188.138:9615/metrics", 
+    "id": "334a883d-64d4-47dc-b736-d52ee3a56105"
+  }
