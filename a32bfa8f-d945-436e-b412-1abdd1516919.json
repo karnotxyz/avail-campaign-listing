@@ -1,6 +1,6 @@
 {
   "name": "mascook",
-  "logo": "https://raw.githubusercontent.com/0xMirza/avail-campaign-listing/main/mascook.png",
+  "logo": "https://raw.githubusercontent.com/0xMirza/Eigen-stuff/main/mascook.png",
   "rpc_url": "http://84.247.177.136:9944",
   "explorer_url": "http://84.247.177.136:4000",
   "metrics_endpoint": "http://84.247.177.136:9615/metrics",
