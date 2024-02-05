@@ -1,0 +1,8 @@
+{
+  "name": "0xcadabra",
+  "logo": "https://i.ibb.co/jGT8dD7/ape3.webp",
+  "rpc_url": "http://34.136.148.129:9944",
+  "explorer_url": "http://34.136.148.129:4000",
+  "metrics_endpoint": "http://34.136.148.129:9615/metrics",
+  "id": "7313d22f-837a-42db-93d3-a19d3089cf4c"
+}
