@@ -1,0 +1,8 @@
+{
+  "name": "skittle",
+  "logo": "https://i.postimg.cc/mZqP8G4V/75.png",
+  "rpc_url": "http://101.33.45.144:9944",
+  "explorer_url": "http://101.33.45.144:4000",
+  "metrics_endpoint": "http://101.33.45.144:9615/metrics",
+  "id": "772f8cbb-9c14-4888-bdd4-fb6e481364de"
+}
