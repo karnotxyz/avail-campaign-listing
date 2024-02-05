@@ -1,0 +1,8 @@
+{
+  "name": "kriptoboss",
+  "logo": "https://r.resimlink.com/uOsSB.png",
+  "rpc_url": "http://95.217.159.206:9944",
+  "explorer_url": "http://95.217.159.206:4000",
+  "metrics_endpoint": "http://95.217.159.206:9615/metrics",
+  "id": "0d7ebe7c-ead9-4711-81ea-bcdbb86b6787"
+}
