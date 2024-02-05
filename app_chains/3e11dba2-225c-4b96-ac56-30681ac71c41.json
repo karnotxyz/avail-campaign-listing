@@ -1,0 +1,10 @@
+./target/release/madara explorer --host=137.184.176.242
+
+  {
+    "name": "cahit",
+    "logo": "https://r.resimlink.com/sIdcqtx8SH.jpg", 
+    "rpc_url": "http://137.184.176.242:9944",
+    "explorer_url": "http://137.184.176.242:4000",
+    "metrics_endpoint": "http://137.184.176.242:9615/metrics", 
+    "id": "3e11dba2-225c-4b96-ac56-30681ac71c41"
+  }
