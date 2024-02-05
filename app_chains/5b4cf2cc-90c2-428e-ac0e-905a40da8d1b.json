@@ -1,0 +1,8 @@
+{
+  "name": "ShinAPP",
+  "logo": "https://www.pngegg.com/vi/search?q=b%C3%BAt+ch%C3%AC+Shin+chan",
+  "rpc_url": "http://161.97.86.31:9944",
+  "explorer_url": "http://161.97.86.31:4000",
+  "metrics_endpoint": "http://161.97.86.31:9615/metrics",
+  "id": "5b4cf2cc-90c2-428e-ac0e-905a40da8d1b"
+}
