@@ -1,0 +1,8 @@
+{
+  "name": "baba",
+  "logo": "https://imgur.com/a/6TyZj0i",
+  "rpc_url": "http://5.75.155.76:9944",
+  "explorer_url": "http://5.75.155.76:4000",
+  "metrics_endpoint": "http://5.75.155.76:9615/metrics",
+  "id": "209e6cdd-3684-4304-9c65-cbca27cb8dd3"
+}
