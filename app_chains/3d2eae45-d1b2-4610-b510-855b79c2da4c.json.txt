@@ -1,0 +1,8 @@
+  {
+    "name": "Unbroken",
+    "logo": "https://r.resimlink.com/X249nFZmlu_.jpg", // 
+    "rpc_url": "http:// 137.184.35.234:9944",
+    "explorer_url": "http:// 137.184.35.234:4000",
+    "metrics_endpoint": "http:// 137.184.35.234:9615/metrics", 
+    "id": "3d2eae45-d1b2-4610-b510-855b79c2da4c" // 
+  }
