@@ -1,0 +1,8 @@
+{
+    "name": “TheRez”,
+    "logo": "https://ibb.co/bPW0V5q",
+    "rpc_url": "http://88.99.20.140:9944",
+    "explorer_url": "http://88.99.20.140:4000/",
+    "metrics_endpoint": "http://88.99.20.140/:9615/metrics", 
+    "id": "6eab117f-ba04-447b-b3a1-4037bed5a831"
+  }
