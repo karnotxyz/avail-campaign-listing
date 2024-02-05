@@ -1,0 +1,8 @@
+{
+  "name": "farukape",
+  "logo": "https://r.resimlink.com/vpf47BE.png",
+  "rpc_url": "http://38.242.253.35:9944",
+  "explorer_url": "http://38.242.253.35:4000",
+  "metrics_endpoint": "http://38.242.253.35:9615/metrics",
+  "id": "6b6d5887-a6a1-4afa-80fc-3214ae4407d7"
+}
