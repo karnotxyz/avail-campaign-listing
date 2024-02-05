@@ -1,0 +1,8 @@
+{
+    "name": "kalantar20",
+    "logo": "https://r.resimlink.com/dTZ8vEQ4.jpg",
+    "rpc_url": "https://49.12.58.103:9944",
+    "explorer_url": "https://49.12.58.103:4000",
+    "metrics_endpoint": "https://49.12.58.103:9615/metrics",
+    "id": "b022033b-7bf1-46bc-91b0-8aebde10c9c9"
+}
