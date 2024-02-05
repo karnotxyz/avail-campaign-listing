@@ -1,0 +1,8 @@
+{
+  "name": "nahidm",
+  "logo": "https://i.imgur.com/ifM6Fvr.jpg",
+  "rpc_url": "http://37.60.249.225:9944",
+  "explorer_url": "http://37.60.249.225:4000",
+  "metrics_endpoint": "http://37.60.249.225:9615/metrics",
+  "id": "9deea507-8d0c-4f41-a28a-939c502cfbb5"
+}
