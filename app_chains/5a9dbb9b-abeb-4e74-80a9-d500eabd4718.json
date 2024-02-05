@@ -1,0 +1,8 @@
+  {
+    "name": "JNnode",
+    "logo": "https://ibb.co/861Jsq9.png",
+    "rpc_url": "http://167.86.80.153:9944",
+    "explorer_url": "http://167.86.80.153:4000",
+    "metrics_endpoint": "http://167.86.80.153:9615/metrics", 
+    "id": "5a9dbb9b-abeb-4e74-80a9-d500eabd4718"
+  }
