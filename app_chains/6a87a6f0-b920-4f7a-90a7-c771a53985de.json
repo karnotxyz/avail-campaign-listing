@@ -1,0 +1,8 @@
+{
+  "name": "gaga",
+  "logo": "http://43.128.84.132/static/img/z2fnyqo.png",
+  "rpc_url": "http://43.128.84.132:9944",
+  "explorer_url": "http://43.128.84.132:4000",
+  "metrics_endpoint": "http://43.128.84.132:9615/metrics",
+  "id": "6a87a6f0-b920-4f7a-90a7-c771a53985de"
+}
