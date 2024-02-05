@@ -1,0 +1,8 @@
+{
+    "name": "Hexskrt",
+    "logo": "https://pbs.twimg.com/profile_images/1630038909383221248/L5QoJE4s_400x400.jpg",
+    "rpc_url": "https://rpc.madara.hexnodes.co",
+    "explorer_url": "http://explorer.madara.hexnodes.co",
+    "metrics_endpoint": "https://metrics.madara.hexnodes.co",
+    "id": "2978e9a9-cedd-4c0d-bc02-8392fc02dd54"
+  }
