@@ -1,0 +1,8 @@
+{
+    "name": "KLOB",
+    "logo": "https://ibb.co/VLW3q87",
+    "rpc_url": "http://161.97.64.239:9944",
+    "explorer_url": "http://161.97.64.239:4000",
+    "metrics_endpoint": "http://161.97.64.239:9615/metrics",
+    "id": "f9bfb6b2-cc2a-4e3f-9bb4-f405eab2fe28"
+  }
