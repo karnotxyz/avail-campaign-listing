@@ -1,0 +1,8 @@
+{
+  "name": "Emily",
+  "logo": "https://i.imgur.com/yhn6A4b.jpg",
+  "rpc_url": "http://47.236.20.54:9944",
+  "explorer_url": "http://47.236.20.54:4000",
+  "metrics_endpoint": "http://47.236.20.54:9615/metrics",
+  "id": "5c8636d1-3a47-4bdb-a566-a0aa5627ded4"
+}

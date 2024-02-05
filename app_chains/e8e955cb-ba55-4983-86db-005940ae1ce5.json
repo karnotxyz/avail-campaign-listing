@@ -1,0 +1,8 @@
+{
+  "name": "sulemns",
+  "logo": "https://r.resimlink.com/5MpNPygj0Q.jpg",
+  "rpc_url": "http://24.144.80.233:9944",
+  "explorer_url": "http://24.144.80.233:4000",
+  "metrics_endpoint": "http://24.144.80.233:9615/metrics",
+  "id": "e8e955cb-ba55-4983-86db-005940ae1ce5"
+}
