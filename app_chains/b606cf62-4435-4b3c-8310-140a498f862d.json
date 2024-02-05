@@ -1,0 +1,8 @@
+{
+  "name": "faruk",
+  "logo": "https://i.imgur.com/kxJVCmI.png",
+  "rpc_url": "http://38.242.253.35:9944",
+  "explorer_url": "http://38.242.253.35:4000",
+  "metrics_endpoint": "http://38.242.253.35:9615/metrics",
+  "id": "b606cf62-4435-4b3c-8310-140a498f862d"
+}
