@@ -1,0 +1,8 @@
+{
+    "name": "pumbacheh",
+    "logo": "https://placehold.co/400x400/black/darkred?text=PUM",
+    "rpc_url": "https://161.97.73.235:9944",
+    "explorer_url": "https://161.97.73.235:4000",
+    "metrics_endpoint": "https://161.97.73.235:9615/metrics",
+    "id": "6a6616f3-ef0f-439d-8dc4-3dbb46dbba60"
+  }
