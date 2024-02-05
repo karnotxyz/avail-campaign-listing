@@ -1,0 +1,8 @@
+{
+  "name": "tlptkmn",
+  "logo": "https://i.imgur.com/4d2d17p.png",
+  "rpc_url": "http://80.65.211.208:9944",
+  "explorer_url": "http://80.65.211.208:4000",
+  "metrics_endpoint": "http://80.65.211.208:9615/metrics",
+  "id": "9bedfa1d-e0de-48ca-a868-b86c776c93a9"
+}
