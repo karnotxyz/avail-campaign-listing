@@ -1,8 +1,8 @@
-  {
+{
     "name": "Iighcrypto",
-    "logo": "https://r.resimlink.com/udMEiWq0gDlL.jpg", 
-    "rpc_url": http://84.247.160.205:9944",
+    "logo": "https://r.resimlink.com/udMEiWq0gDlL.jpg",
+    "rpc_url": "http://84.247.160.205:9944",
     "explorer_url": "http://84.247.160.205:4000",
-    "metrics_endpoint": "http://84.247.160.205:9615/metrics", 
-    "id": "98ef666f-9b18-4d1f-8cc8-dc54fea5d155" //
+    "metrics_endpoint": "http://84.247.160.205:9615/metrics",
+    "id": "98ef666f-9b18-4d1f-8cc8-dc54fea5d155"
   }
