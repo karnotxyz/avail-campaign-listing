@@ -14,6 +14,7 @@ jobs:
       - name: Run prettier
         run: |-
           npx prettier --check .
+          npx prettier --write .
 
   validate-entry:
     name: Validate entries
