@@ -1,8 +1,8 @@
 {
   "name": "0xornidazol",
   "logo": "https://raw.githubusercontent.com/nonstear754/Logo/main/01-cat-names-nationalgeographic_1525054.jpg?raw=true",
-  "rpc_url": "http://5.104.87.109/:9944",
-  "explorer_url": "http://5.104.87.109/:4000",
-  "metrics_endpoint": "http://5.104.87.109/:9615/metrics",
+  "rpc_url": "https://5.104.87.109/:9944",
+  "explorer_url": "https://5.104.87.109/:4000",
+  "metrics_endpoint": "https://5.104.87.109/:9615/metrics",
   "id": "f3c85fea-b006-4581-8062-42aa73227014"
 }
