@@ -1,0 +1,8 @@
+{
+  "name": "SillyPig",
+  "logo": "https://i.ibb.co/TPzXG3K/844f3d6cfb7848ac9c7e5fc07ea7c314.webp",
+  "rpc_url": "http://43.133.162.173:9944",
+  "explorer_url": "http://43.133.162.173:4000",
+  "metrics_endpoint": "http://43.133.162.173:9615/metrics",
+  "id": "498810f5-b827-4404-9a59-e8e284972680"
+}
