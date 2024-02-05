@@ -1,0 +1,8 @@
+{
+  "name": "validatorvn",
+  "logo": "https://raw.githubusercontent.com/NodeValidatorVN/GuideNode/main/logo.png",
+  "rpc_url": "http://113.189.10.129:9944",
+  "explorer_url": "http://113.189.10.129:4000",
+  "metrics_endpoint": "http://113.189.10.129:9615/metrics",
+  "id": "b097398e-7174-414f-8230-3d4354603bf2"
+}
