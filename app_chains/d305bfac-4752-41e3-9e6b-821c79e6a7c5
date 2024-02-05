@@ -1,8 +1,0 @@
-{
-  "name": "pumuckl",
-  "logo": "https://placehold.co/600x400/black/darkred?text=PUM",
-  "rpc_url": "http://161.97.73.235:9944",
-  "explorer_url": "http://161.97.73.235:4000",
-  "metrics_endpoint": "http://161.97.73.235:9615/metrics",
-  "id": "d305bfac-4752-41e3-9e6b-821c79e6a7c5"
-}
