@@ -1,0 +1,7 @@
+ {
+   "name": "b4rc4",
+   "logo": "https://r.resimlink.com/rkoeh.jpg",
+   "rpc_url": "http://37.60.248.228:9944",
+   "explorer_url": "http://37.60.248.228:4000",
+   "metrics_endpoint": "http://37.60.248.228:9615/metrics", 
+   "id": "0f6ff835-cf72-4c69-839a-9c934871c0a5"
