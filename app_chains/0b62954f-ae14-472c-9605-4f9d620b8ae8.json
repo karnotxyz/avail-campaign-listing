@@ -1,8 +1,8 @@
 {
   "name": "rkrk",
   "logo": "https://i.ibb.co/nRrJpb4/DALL-E-2024-02-05-21-27.png",
-  "rpc_url": "http://38.242.239.229/",
-  "explorer_url": "http://38.242.239.229/",
-  "metrics_endpoint": "http://38.242.239.229/",
+  "rpc_url": "http://38.242.239.229:4000/",
+  "explorer_url": "http://38.242.239.229:4000/",
+  "metrics_endpoint": "http://38.242.239.229:4000/",
   "id": "0b62954f-ae14-472c-9605-4f9d620b8ae8"
 }
