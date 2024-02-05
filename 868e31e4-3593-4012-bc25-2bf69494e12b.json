@@ -1,0 +1,8 @@
+{
+  "name": "5Caro6mkjLBysj2ofFmm7Mx7Qm1Bjix6gPkB2ko5UAvxqDRy",
+  "logo": "parsa78",
+  "rpc_url": "http://172.86.68.133:9944",
+  "explorer_url": "http://172.86.68.133:4000",
+  "metrics_endpoint": "http://172.86.68.133:9615/metrics",
+  "id": "868e31e4-3593-4012-bc25-2bf69494e12b"
+}
