@@ -1,0 +1,8 @@
+{
+  "name": "Boomplay",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksOleB8Bln27lHcPmvcJWMT5jBYZ-9XhPgw&usqp=CAU",
+  "rpc_url": "http://84.247.173.161:9944",
+  "explorer_url": "http://84.247.173.161:4000",
+  "metrics_endpoint": "http://84.247.173.161:9615/metrics",
+  "id": "f7017d11-58cd-488e-8449-4dffa2b1b3bc"
+}
