@@ -1,0 +1,8 @@
+{
+  "name": "ayanyu",
+  "logo": "https://i.imgur.com/jjNau3r.jpeg",
+  "rpc_url": "http://62.171.129.81:9944",
+  "explorer_url": "http://62.171.129.81:4000",
+  "metrics_endpoint": "http://62.171.129.81:9615/metrics",
+  "id": "bd973cf2-58f2-403b-b6bf-c6672c572cdd"
+}

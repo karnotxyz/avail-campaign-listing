@@ -1,0 +1,8 @@
+{
+  "name": "delidumrul",
+  "logo": "https://raw.githubusercontent.com/dumanoglu1/rollapp-registry/main/devnet/delidumrul_4145370-1/logos/delidumrul_4145370-1.jpg",
+  "rpc_url": "http://37.27.33.248:9944",
+  "explorer_url": "http://37.27.33.248:4000",
+  "metrics_endpoint": "http://37.27.33.248:9615/metrics",
+  "id": "d2a53739-c542-4508-b0fb-db6ad5ae2913"
+}
