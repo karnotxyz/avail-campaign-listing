@@ -1,0 +1,8 @@
+{
+    "name": "fullpower",
+    "logo": "https://ibb.co/5FVSFmZ",
+    "rpc_url": "https://159.69.109.157:9944",
+    "explorer_url": "https://159.69.109.157:4000",
+    "metrics_endpoint": "https://159.69.109.157:9615",
+    "id": "66cc9ce7-8dca-415d-b840-d8b5dbcc797e"
+  }
