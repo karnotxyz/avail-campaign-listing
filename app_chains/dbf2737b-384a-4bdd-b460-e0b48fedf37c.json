@@ -1,0 +1,8 @@
+{
+  "name": "aomdm",
+  "logo": "<logo 链接,比如我的 https://i.imgur.com/0KUHPnZ.png>",
+  "rpc_url": "http://62.171.147.22:9944",
+  "explorer_url": "http://62.171.147.22:4000",
+  "metrics_endpoint": "http://62.171.147.22:9615/metrics",
+  "id": "dbf2737b-384a-4bdd-b460-e0b48fedf37c"
+}
