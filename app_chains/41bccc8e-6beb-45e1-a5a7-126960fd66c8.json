@@ -3,6 +3,6 @@
   "logo": "https://i.imgur.com/h6DtSwY.png",
   "rpc_url": "http://38.242.253.35:9944",
   "explorer_url": "http://38.242.253.35:4000",
-  "metrics_endpoint": "http://38.242.253.35Z:9615/metrics",
+  "metrics_endpoint": "http://38.242.253.35:9615/metrics",
   "id": "41bccc8e-6beb-45e1-a5a7-126960fd66c8"
 }
