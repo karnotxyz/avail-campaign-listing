@@ -1,0 +1,8 @@
+{
+  "name": "Stilucky  ",
+  "logo": "https://ibb.co/Bqg7GB3",
+  "rpc_url": "https://27.79.159.130:9944",
+  "explorer_url": "https://27.79.159.130:4000",
+  "metrics_endpoint": "https://27.79.159.130:9615/metrics",
+  "id": "c9bda402-9c81-4f11-9f91-a99344450753"
+}
