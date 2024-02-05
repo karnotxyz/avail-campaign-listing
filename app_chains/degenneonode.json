@@ -1,8 +1,0 @@
-{
-  "name": "DegenNeoNode",
-  "logo": "https://ibb.co/XbF5z2W",
-  "rpc_url": "https://85.31.60.69:9944",
-  "explorer_url": "https://85.31.60.69:4000",
-  "metrics_endpoint": "https://85.31.60.69:9615/metrics",
-  "id": "15dba84a-699f-4541-bd9f-e1e91e0b461c"
-}
