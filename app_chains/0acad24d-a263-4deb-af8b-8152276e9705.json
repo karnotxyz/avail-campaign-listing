@@ -1,0 +1,8 @@
+{
+  "name": "beacon",
+  "logo": "https://imgur.com/MXlfY0h.png",
+  "rpc_url": "http://84.247.179.118:9944",
+  "explorer_url": "http://84.247.179.118:4000",
+  "metrics_endpoint": "http://84.247.179.118:9615/metrics",
+  "id": "0acad24d-a263-4deb-af8b-8152276e9705"
+}
