@@ -15,6 +15,7 @@ jobs:
         run: |-
           npx prettier --check .
           npx prettier --write .
+          
   validate-entry:
     name: Validate entries
     uses: ./.github/workflows/validate-entry.yml
