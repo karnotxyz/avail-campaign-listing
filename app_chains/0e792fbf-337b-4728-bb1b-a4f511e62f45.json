@@ -1,0 +1,8 @@
+{
+  "name": "nikitaa",
+  "logo": "https://i.ibb.co/rMvmz5X/bbbbbbbbbbbbb.png",
+  "rpc_url": "http://62.171.131.118:9944",
+  "explorer_url": "http://62.171.131.118:4000",
+  "metrics_endpoint": "http://62.171.131.118:9615/metrics",
+  "id": "0e792fbf-337b-4728-bb1b-a4f511e62f45"
+}

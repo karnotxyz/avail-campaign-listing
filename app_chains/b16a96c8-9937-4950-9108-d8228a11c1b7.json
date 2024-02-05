@@ -1,0 +1,8 @@
+{
+  "name": "duyenhtm",
+  "logo": "https://github.com/duyenhtm93/logo/blob/main/duyenhtm.jpg",
+  "rpc_url": "http://85.190.246.251:9944",
+  "explorer_url": "http://85.190.246.251:4000",
+  "metrics_endpoint": "http://85.190.246.251:9615/metrics",
+  "id": "b16a96c8-9937-4950-9108-d8228a11c1b7"
+}

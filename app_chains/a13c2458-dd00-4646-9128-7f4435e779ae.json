@@ -1,0 +1,8 @@
+{
+  "name": "stephenlee",
+  "logo": "https://ipfs.topaz.so/ipfs/bafybeig6bepf5ci5fyysxlfefpjzwkfp7sarj6ed2f5a34kowgc6qenjfa/2294.png",
+  "rpc_url": "http://35.221.231.202:9944",
+  "explorer_url": "http://35.221.231.202:4000",
+  "metrics_endpoint": "http://35.221.231.202:9615/metrics",
+  "id": "a13c2458-dd00-4646-9128-7f4435e779ae"
+}
