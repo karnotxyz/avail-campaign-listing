@@ -1,0 +1,8 @@
+{
+  "name": "amata",
+  "logo": "https://i.imgur.com/fJi1eC4.png",
+  "rpc_url": "http://5.161.205.140:9944",
+  "explorer_url": "http://5.161.205.140:4000",
+  "metrics_endpoint": "http://5.161.205.140:9615/metrics",
+  "id": "56aa20cf-6951-486d-a755-828b65e06650"
+}
