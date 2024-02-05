@@ -1,8 +1,8 @@
 {
   "name": "F5 Nodes",
   "logo": "https://f5nodes.com/logo.jpg",
-  "rpc_url": "https://95.217.13.157:9944",
-  "explorer_url": "https://95.217.13.157:4000",
-  "metrics_endpoint": "https://95.217.13.157:9615/metrics",
+  "rpc_url": "http://95.217.13.157:9944",
+  "explorer_url": "http://95.217.13.157:4000",
+  "metrics_endpoint": "http://95.217.13.157:9615/metrics",
   "id": "9b626a35-19e2-437f-b3c0-ec8688ed9ec8"
 }
