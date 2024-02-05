@@ -1,0 +1,8 @@
+{
+  "name": "searchfi",
+  "logo": "https://i.namu.wiki/i/Fb3bMIoPYeETrlbSVoTrTmNCdMHpx1UzkGQZDqdwMO1MuvycMo0FG_h572gvmETHH040NfC4typcIocNNDF7AxnUiyuGBK569kUsq5rGd3j46bUsGN4wcO3bN8qb1_mhvUZXg3CIVwaK8i25zGEMFQ.webp",
+  "rpc_url": "http://161.97.64.45:9944",
+  "explorer_url": "http://161.97.64.45:4000",
+  "metrics_endpoint": "http://161.97.64.45:9615/metrics",
+  "id": "e8b4f809-80e7-4ab0-9798-a01184298175"
+}
