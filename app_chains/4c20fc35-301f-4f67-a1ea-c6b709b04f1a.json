@@ -1,0 +1,8 @@
+{
+  "name": "chippy-chippy",
+  "logo": "https://i.ytimg.com/vi/Utd1IThbhLg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDdroeEkcoGMZWAeYc1z2i-BBj9QA",
+  "rpc_url": "http://85.144.84.55:9944",
+  "explorer_url": "http://85.144.84.55:4000",
+  "metrics_endpoint": "http://85.144.84.55:9615/metrics",
+  "id": "4c20fc35-301f-4f67-a1ea-c6b709b04f1a"
+}
