@@ -1,0 +1,8 @@
+{
+  "name": "thuongdh",
+  "logo": "https://i.ibb.co/h9WmKXK/6bd9f848-6d07-4042-919e-e2e187005f49.jpg",
+  "rpc_url": "http://195.201.148.24:9944/",
+  "explorer_url": "http://195.201.148.24:4000/",
+  "metrics_endpoint": "http://195.201.148.24:9615/metrics",
+  "id": "6fec6a03-146f-41c8-84df-c23bd3778bc1"
+}
