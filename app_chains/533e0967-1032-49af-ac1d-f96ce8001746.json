@@ -1,0 +1,8 @@
+{
+  "name": "kkad8972",
+  "logo": "https://i.imgur.com/3NKK99x.jpg",
+  "rpc_url": "http://147.45.41.193:9944",
+  "explorer_url": "http://147.45.41.193:4000",
+  "metrics_endpoint": "http://147.45.41.193:9615/metrics",
+  "id": "533e0967-1032-49af-ac1d-f96ce8001746"
+}
