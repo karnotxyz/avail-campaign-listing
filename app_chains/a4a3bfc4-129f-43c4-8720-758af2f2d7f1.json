@@ -1,0 +1,8 @@
+{
+    "name": “kuzeydurden”,
+    "logo": "https://r.resimlink.com/HEwMLO.jpeg", // profil fotosu yüklüyoruz.
+    "rpc_url": "http:/128.199.40.211:9944",
+    "explorer_url": "http://128.199.40.211:4000",
+    "metrics_endpoint": "http://128.199.40.211:9615/metrics", 
+    "id": "a4a3bfc4-129f-43c4-8720-758af2f2d7f1" // uid alıyoruz.
+  }
