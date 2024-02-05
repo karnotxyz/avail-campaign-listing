@@ -1,0 +1,8 @@
+{
+  "name": "MoMoApp",
+  "logo": "https://i.ibb.co/bXVPTQD/MOMO-App.png",
+  "rpc_url": "http://89.117.79.41:9944",
+  "explorer_url": "http://89.117.79.41:4000",
+  "metrics_endpoint": "http://89.117.79.41:9615/metrics",
+  "id": "66890415-3a93-4a89-860f-c453b3077ecf"
+}
