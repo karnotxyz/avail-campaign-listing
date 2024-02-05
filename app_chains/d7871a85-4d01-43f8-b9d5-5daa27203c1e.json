@@ -1,8 +1,0 @@
-{
-  "name": "ditsy",
-  "logo": "https://ibb.co/BTHRHfb",
-  "rpc_url": "http://173.212.201.112:9944",
-  "explorer_url": "http://173.212.201.112:4000",
-  "metrics_endpoint": "http://173.212.201.112:9615/metrics",
-  "id": "d7871a85-4d01-43f8-b9d5-5daa27203c1e"
-}
