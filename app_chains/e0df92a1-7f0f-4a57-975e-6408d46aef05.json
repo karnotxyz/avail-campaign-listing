@@ -1,0 +1,8 @@
+  {
+    "name": "avail",
+    "logo": "https://r.resimlink.com/DNQinsEj1at.jpg",
+    "rpc_url": "http://IPADRESIN:9944",
+    "explorer_url": "http://37.27.2.242:4000",
+    "metrics_endpoint": "http://37.27.2.242:9615/metrics", 
+    "id": "e0df92a1-7f0f-4a57-975e-6408d46aef05" // 
+  }
