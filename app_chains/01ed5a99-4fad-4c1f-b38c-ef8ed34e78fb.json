@@ -1,8 +1,8 @@
 {
-	"name": "chiricato",
-    "logo": "https://i.im.ge/2024/01/26/buMVIT.chiricato.png",
-    "rpc_url": "http://62.171.153.92:9944/",
-    "explorer_url": "http://62.171.153.92:4000/",
-    "metrics_endpoint": "http://62.171.153.92:9615/",
-    "id": "01ed5a99-4fad-4c1f-b38c-ef8ed34e78fb"
+  "name": "chiricato",
+  "logo": "https://i.im.ge/2024/01/26/buMVIT.chiricato.png",
+  "rpc_url": "http://62.171.153.92:9944",
+  "explorer_url": "http://62.171.153.92:4000",
+  "metrics_endpoint": "http://62.171.153.92:9615/metrics",
+  "id": "01ed5a99-4fad-4c1f-b38c-ef8ed34e78fb"
 }
