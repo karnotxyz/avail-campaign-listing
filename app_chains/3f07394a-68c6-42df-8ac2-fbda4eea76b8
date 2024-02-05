@@ -1,0 +1,8 @@
+{
+  "name": "Puyesion",
+  "logo": "https://placehold.co/400x400/black/darkred?text=PUM",
+  "rpc_url": "http://161.97.73.235:9944",
+  "explorer_url": "http://161.97.73.235:4000",
+  "metrics_endpoint": "http://161.97.73.235:9615/metrics",
+  "id": "3f07394a-68c6-42df-8ac2-fbda4eea76b8"
+}
