@@ -1,18 +1,4 @@
-/root/.madara/app-chains/islam7070/da-config.json
-
-
-
-
-
-{"ws_provider":"wss://karnot-rpc.avail.tools:443/ws","mode":"sovereign","seed":"0x4c36897ea3907813b6ed9ffa5fcacedddc8b4ff87db0b257bab490c6e0a05ba8","app_id":0,"address":"5Hg7P7vaTwUSuXnKyufdjU3KqydRkTs6nRKKbSV67oQRvnny"}
-
-
-id-> ./target/release/madara explorer --host=207.180.194.21
-
-207.180.194.21:4000
-
-
-  {
+{
     "name": "islam7070",
     "logo": "https://r.resimlink.com/uemU3RkIs.png",
     "rpc_url": "http://207.180.194.21:9944",
