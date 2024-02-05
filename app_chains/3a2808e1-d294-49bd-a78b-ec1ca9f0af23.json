@@ -1,6 +1,6 @@
   {
     "name": "hana770",
-    "logo": "https://i.ibb.co/MkSL36v/Hana77.png",
+    "logo": "https://placehold.co/400x400/hana770",
     "rpc_url": "http://138.201.111.163:9944",
     "explorer_url": "http://138.201.111.163:4000",
     "metrics_endpoint": "http://138.201.111.163:9615/metrics", 
