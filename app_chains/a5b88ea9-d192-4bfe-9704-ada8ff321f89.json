@@ -1,0 +1,8 @@
+{
+  "name": "candir",
+  "logo": "https://r.resimlink.com/rvMkw_5bViB.jpg",
+  "rpc_url": "http://65.21.151.133:9944",
+  "explorer_url": "http://65.21.151.133:4000",
+  "metrics_endpoint": "http://65.21.151.133:9615/metrics",
+  "id": "a5b88ea9-d192-4bfe-9704-ada8ff321f89"
+}
