@@ -1,0 +1,8 @@
+{
+  "name": "forger",
+  "logo": "https://i.postimg.cc/dQT9mD2k/anhedsxyz.png",
+  "rpc_url": "http://158.220.88.90:9944",
+  "explorer_url": "http://158.220.88.90:4000",
+  "metrics_endpoint": "http://158.220.88.90:9615/metrics",
+  "id": "d040a5fb-dd9d-4114-8057-c377e05fad38"
+}
