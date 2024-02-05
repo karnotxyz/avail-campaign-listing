@@ -1,0 +1,8 @@
+{
+  "name": "miles",
+  "logo": " https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://192.168.3.20:9944",
+  "explorer_url": "http://192.168.3.20:4000",
+  "metrics_endpoint": "http://192.168.3.20:9615/metrics",
+  "id": "80120cad-2481-42c4-b3ea-2e0f3ae49762"
+}
