@@ -1,0 +1,8 @@
+{
+  "name": "MGA",
+  "logo": "https://i.imgur.com/KFvAhsx.png",
+  "rpc_url": "http://84.247.136.217:9944",
+  "explorer_url": "http://84.247.136.217:4000",
+  "metrics_endpoint": "http://84.247.136.217:9615/metrics",
+  "id": "7877284c-df13-423f-b963-69d35a42b2f1"
+}

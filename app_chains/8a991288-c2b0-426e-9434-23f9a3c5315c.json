@@ -1,0 +1,8 @@
+{
+  "name": "namvnb",
+  "logo": "https://github.com/vnbnode/binaries/blob/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://84.247.128.207:9944",
+  "explorer_url": "http://84.247.128.207:4000",
+  "metrics_endpoint": "http://84.247.128.207:9615/metrics",
+  "id": "8a991288-c2b0-426e-9434-23f9a3c5315c"
+}
