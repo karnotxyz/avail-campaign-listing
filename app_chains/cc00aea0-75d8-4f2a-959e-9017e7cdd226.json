@@ -1,0 +1,8 @@
+{
+  "name": "ehsantabli",
+  "logo": "https://r.resimlink.com/4MlV2.jpg",
+  "rpc_url": "http://94.130.151.98:9944",
+  "explorer_url": "http://94.130.151.98:4000",
+  "metrics_endpoint": "http://94.130.151.98:9615/metrics",
+  "id": "cc00aea0-75d8-4f2a-959e-9017e7cdd226"
+}
