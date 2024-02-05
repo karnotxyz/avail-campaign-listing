@@ -1,0 +1,8 @@
+{
+  "name": "luic21",
+  "logo": "https://r.resimlink.com/eH3yBQn.png",
+  "rpc_url": "http://167.71.74.156:9944",
+  "explorer_url": "http://167.71.74.156:4000",
+  "metrics_endpoint": "http://167.71.74.156:9615/metrics",
+  "id": "e860df29-deeb-44cb-a7a7-aa1aeb6d9527"
+}
