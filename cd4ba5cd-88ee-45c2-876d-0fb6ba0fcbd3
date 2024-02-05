@@ -1,0 +1,8 @@
+{
+  "name": "sayi",
+  "logo": "https://placehold.co/400x400/black",
+  "rpc_url": "http://185.209.162.174:9944",
+  "explorer_url": "http://185.209.162.174:4000",
+  "metrics_endpoint": "http://185.209.162.174:9615/metrics",
+  "id": "cd4ba5cd-88ee-45c2-876d-0fb6ba0fcbd3"
+}
