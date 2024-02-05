@@ -1,0 +1,8 @@
+{
+  "name": "vanpham",
+  "logo": "https://im.ge/i/cMQpTm",
+  "rpc_url": "http://42.96.11.196:9944",
+  "explorer_url": "http://42.96.11.196:4000",
+  "metrics_endpoint": "http://42.96.11.196:9615/metrics",
+  "id": "8cd981cb-ea74-4d5c-9968-5b6c68a76202"
+}
