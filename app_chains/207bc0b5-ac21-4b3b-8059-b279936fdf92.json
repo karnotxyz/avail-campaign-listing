@@ -1,7 +1,7 @@
 {
   "name": "vaji83",
   "logo": "https://r.resimlink.com/heCxiIFZ.png",
-  "rpc_url": "http://213.202.208.2:9944/",
+  "rpc_url": "https://213.202.208.2:9944/",
   "explorer_url": "http://213.202.208.2:4000/",
   "metrics_endpoint": "http://213.202.208.2:9615/metrics",
   "id": "207bc0b5-ac21-4b3b-8059-b279936fdf92"
