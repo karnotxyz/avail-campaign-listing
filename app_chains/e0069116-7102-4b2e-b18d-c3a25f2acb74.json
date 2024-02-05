@@ -1,0 +1,8 @@
+{
+  "name": "farukape",
+  "logo": "https://i.imgur.com/kxJVCmI.png",
+  "rpc_url": "http://38.242.253.35:9944",
+  "explorer_url": "http://38.242.253.35:4000",
+  "metrics_endpoint": "http://38.242.253.35:9615/metrics",
+  "id": "e0069116-7102-4b2e-b18d-c3a25f2acb74"
+}
