@@ -1,0 +1,8 @@
+{
+    "name": "icarus",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/92775789/302277801-ce3bc114-c9bf-484f-9194-f373671d6653.png",
+    "rpc_url": "http://88.119.167.42:9944",
+    "explorer_url": "http://88.119.167.42:4000",
+    "metrics_endpoint": "http://88.119.167.42:9615/metric",
+    "id": "30a5dcf0-cd18-45c4-9c18-bcb922795a39"
+  }
