@@ -1,0 +1,8 @@
+{
+  "name": "kgur",
+  "logo": "https://raw.githubusercontent.com/kgur88/project-5/main/Tool-Undertow.jpg",
+  "rpc_url": "http://84.247.190.30:9944",
+  "explorer_url": "http://84.247.190.30:4000",
+  "metrics_endpoint": "http://84.247.190.30:9615/metrics",
+  "id": "e45893c1-36c3-4661-8806-53703a9a7131"
+}
