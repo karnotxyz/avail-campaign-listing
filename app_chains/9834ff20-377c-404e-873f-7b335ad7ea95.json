@@ -1,0 +1,8 @@
+{
+  "name": "jemjemi",
+  "logo": "https://i.imgur.com/aee6mhn.jpeg",
+  "rpc_url": "http://217.76.52.178:9944",
+  "explorer_url": "http://217.76.52.178:4000",
+  "metrics_endpoint": "http://217.76.52.178:9615/metrics",
+  "id": "9834ff20-377c-404e-873f-7b335ad7ea95"
+}
