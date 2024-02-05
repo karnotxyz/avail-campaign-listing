@@ -3,6 +3,6 @@
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/b6edff8071d680b725ea9831264f4705_360_360.jpg",
   "rpc_url": "http://85.239.246.200:36641",
   "explorer_url": "http://85.239.246.200:4000",
-  "metrics_endpoint": "http://85.239.246.200:45543",
+  "metrics_endpoint": "http://85.239.246.200:45543/metrics",
   "id": "3b38a4df-bb8d-41a9-92bf-e741c7ec8849"
-  }
+}
