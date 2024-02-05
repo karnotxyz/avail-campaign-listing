@@ -1,0 +1,8 @@
+{
+  "name": "nollore",
+  "logo": "https://i.imgur.com/CCtdN4z.png",
+  "rpc_url": "https://185.188.249.149:9944",
+  "explorer_url": "https://185.188.249.149:4000",
+  "metrics_endpoint": "https://185.188.249.149:9615/metrics",
+  "id": "2368b3ec-e3b9-40ad-9ad9-4ebf36e884bd"
+}
