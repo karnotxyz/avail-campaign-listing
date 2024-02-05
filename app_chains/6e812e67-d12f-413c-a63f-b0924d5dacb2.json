@@ -1,0 +1,8 @@
+{
+  "name": "mewwchain",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/meww_5192460-1/logos/meww_5192460-1.jpg",
+  "rpc_url": "http://45.85.147.211:9944",
+  "explorer_url": "http://45.85.147.211:4000",
+  "metrics_endpoint": "http://45.85.147.211:9615/metrics",
+  "id": "6e812e67-d12f-413c-a63f-b0924d5dacb2"
+}

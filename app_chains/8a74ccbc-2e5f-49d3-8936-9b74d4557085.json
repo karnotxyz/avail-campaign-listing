@@ -1,0 +1,8 @@
+{
+  "name": "bachho",
+  "logo": "http://static.bachho003-internal.quest/images/bachho_2175095-1.png",
+  "rpc_url": "http://185.197.194.207:9944",
+  "explorer_url": "https://ep.bachho003-internal.quest/",
+  "metrics_endpoint": "https://ep.bachho003-internal.quest/metrics",
+  "id": "8a74ccbc-2e5f-49d3-8936-9b74d4557085"
+}
