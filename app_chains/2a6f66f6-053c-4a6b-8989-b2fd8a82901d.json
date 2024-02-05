@@ -1,0 +1,8 @@
+{
+  "name": "ali47",
+  "logo": "https://github.com/alii47/grin/blob/master/ali47.jpg?raw=true",
+  "rpc_url": "http://37.27.34.37:9944",
+  "explorer_url": "http://37.27.34.37:4000",
+  "metrics_endpoint": "http://37.27.34.37:9615/metrics",
+  "id": "2a6f66f6-053c-4a6b-8989-b2fd8a82901d"
+}
