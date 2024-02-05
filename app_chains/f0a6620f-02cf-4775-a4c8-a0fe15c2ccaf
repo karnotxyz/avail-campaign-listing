@@ -1,8 +1,0 @@
-{
-  "name": "hieuwb",
-  "logo": "https://im.ge/i/bJjVdp",
-  "rpc_url": "http://104.197.87.67:9944",
-  "explorer_url": "http://104.197.87.67:4000",
-  "metrics_endpoint": "http://104.197.87.67:9615/metrics",
-  "id": "f0a6620f-02cf-4775-a4c8-a0fe15c2ccaf"
-}
