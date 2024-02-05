@@ -1,0 +1,8 @@
+{
+  "name": "Rio",
+  "logo": "https://i.imgur.com/xm1MlDP.png",
+  "rpc_url": "http://95.111.253.137:9944",
+  "explorer_url": "http://95.111.253.137:4000",
+  "metrics_endpoint": "http://95.111.253.137:9615/metrics",
+  "id": "00bb27a9-fda9-4a6d-ae02-995fb9220c17"
+}
