@@ -1,0 +1,8 @@
+{
+  "name": "hutter",
+  "logo": "https://i.imgur.com/w8q9xuG.jpeg",
+  "rpc_url": "http://65.21.243.9:9944",
+  "explorer_url": "http://65.21.243.9:4000",
+  "metrics_endpoint": "http://65.21.243.9:9615/metrics",
+  "id": "3e3830e2-4893-4cee-b0bb-0b668d6b55fa"
+}
