@@ -1,0 +1,8 @@
+{
+  "name": "frtjk",
+  "logo": "https://r.resimlink.com/Z0K49Asy18Fc.jpg",
+  "rpc_url": "http://146.190.49.240:9944",
+  "explorer_url": "http://146.190.49.240:4000",
+  "metrics_endpoint": "http://146.190.49.240:9615/metrics",
+  "id": "2c35de51-de6b-4505-8da7-34f32ca80a68"
+}
