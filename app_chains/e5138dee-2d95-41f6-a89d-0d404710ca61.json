@@ -1,0 +1,8 @@
+{
+  "name": "fromagerie",
+  "logo": "https://ibb.co/kqj4M0w",
+  "rpc_url": "https://82.66.59.148:9944",
+  "explorer_url": "https://82.66.59.148:4000",
+  "metrics_endpoint": "https://82.66.59.148:9615",
+  "id": "e5138dee-2d95-41f6-a89d-0d404710ca61"
+}
