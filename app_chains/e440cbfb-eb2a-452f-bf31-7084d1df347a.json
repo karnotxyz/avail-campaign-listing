@@ -1,0 +1,8 @@
+{
+  "name": "vivaldi1993",
+  "logo": "https://raw.githubusercontent.com/vivaldi1993/logo/main/monley.png",
+  "rpc_url": "http://38.242.138.65:9944",
+  "explorer_url": "http://38.242.138.65:4000",
+  "metrics_endpoint": "http://38.242.138.65:9615/metrics",
+  "id": "e440cbfb-eb2a-452f-bf31-7084d1df347a"
+}
