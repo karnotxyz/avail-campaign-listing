@@ -1,0 +1,8 @@
+{
+  "name": "liava",
+  "logo": "https://resimlink.com/-Cx5pEoY",
+  "rpc_url": "http://49.12.35.213:9944",
+  "explorer_url": "http://49.12.35.213:4000",
+  "metrics_endpoint": "http://49.12.35.213:9615/metrics",
+  "id": "e559c025-506f-42a4-bde5-89bdb6f0dbea.json"
+}
