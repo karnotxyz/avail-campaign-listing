@@ -1,0 +1,8 @@
+{
+    "name": "Tommasso",
+    "logo": "https://r.resimlink.com/Aslai2FLI0.png",
+    "rpc_url": "167.172.248.49:9944",
+    "explorer_url": "167.172.248.49:4000",
+    "metrics_endpoint": "167.172.248.49:9615/metrics", 
+    "id": "5b99d90e-5bc8-4aa0-99ca-e475042b30ea"
+  }
