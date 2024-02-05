@@ -1,0 +1,8 @@
+{
+  "name": "niloki",
+  "logo": "https://avatars.githubusercontent.com/u/102181017?s=400&u=55c76493106ccaa63f7164928e93b8dc4984b54f&v=4",
+  "rpc_url": "http://65.109.108.150:9944",
+  "explorer_url": "http://65.109.108.150:4000",
+  "metrics_endpoint": "http://65.109.108.150:9615/metrics",
+  "id": "9052e720-e542-49bf-b0fb-ff8fe5e0ea0f"
+}
