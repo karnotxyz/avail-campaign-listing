@@ -1,0 +1,8 @@
+{
+    "name": "polka",
+    "logo": "https://r.resimlink.com/6zZuCj.png",
+    "rpc_url": "http://128.140.91.94:9944",
+    "explorer_url": "http://128.140.91.94:4000",
+    "metrics_endpoint": "http://128.140.91.94:9615/metrics", 
+    "df5e91b7-6476-4da1-b499-88edef4f75cc"
+  }
