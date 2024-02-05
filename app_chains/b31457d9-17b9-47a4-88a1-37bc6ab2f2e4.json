@@ -1,0 +1,8 @@
+{
+  "name": "Shadow",
+  "logo": "https://i.imgur.com/mMf0Jw2.jpg",
+  "rpc_url": "http://8.217.89.129:9944",
+  "explorer_url": "http://8.217.89.129:4000",
+  "metrics_endpoint": "http://8.217.89.129:9615/metrics",
+  "id": "b31457d9-17b9-47a4-88a1-37bc6ab2f2e4"
+}
