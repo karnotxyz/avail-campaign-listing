@@ -1,0 +1,8 @@
+{
+  "name": "apwon",
+  "logo": "https://i.imgur.com/pMCAcpD.jpeg",
+  "rpc_url": "http://84.46.248.131:9944",
+  "explorer_url": "http://84.46.248.131:4000",
+  "metrics_endpoint": "http://84.46.248.131:9615/metrics",
+  "id": "75dea7ea-deea-4920-8008-0224a614b7cb"
+}
