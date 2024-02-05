@@ -1,0 +1,8 @@
+{
+  "name": "khoi_2",
+  "logo": "https://i.imgur.com/8mX1Qu0.jpg",
+  "rpc_url": "http://109.205.183.32:9944",
+  "explorer_url": "http://109.205.183.32:4000",
+  "metrics_endpoint": "http://109.205.183.32:9615/metrics",
+  "id": "a29be944-68df-4ed9-a760-72d2fda968ba"
+}
