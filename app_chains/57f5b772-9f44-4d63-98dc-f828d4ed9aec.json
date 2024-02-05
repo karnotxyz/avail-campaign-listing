@@ -1,0 +1,8 @@
+{
+  "name": "oibek",
+  "logo": "https://github.com/Core-Node-Team/Services/blob/main/.gitbook/assets/core1.png?raw=true",
+  "rpc_url": "http://185.209.223.103:9944",
+  "explorer_url": "http://185.209.223.103:4000",
+  "metrics_endpoint": "http://185.209.223.103:9615/metrics",
+  "id": "57f5b772-9f44-4d63-98dc-f828d4ed9aec"
+}
