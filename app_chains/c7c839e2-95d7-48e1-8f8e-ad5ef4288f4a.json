@@ -1,0 +1,8 @@
+{
+  "name": "0xnana",
+  "logo": "http://ibb.co/MSXJGVN",
+  "rpc_url": "http://34.118.90.7:9944",
+  "explorer_url": "http://34.118.90.7:4000",
+  "metrics_endpoint": "http://34.118.90.7:9615/metrics",
+  "id": "c7c839e2-95d7-48e1-8f8e-ad5ef4288f4a"
+}
