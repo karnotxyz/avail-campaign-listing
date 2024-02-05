@@ -1,0 +1,8 @@
+{
+  "name": "hokutono1",
+  "logo": "https://placehold.jp/400x400.png",
+  "rpc_url": "http://124.219.138.175:9944",
+  "explorer_url": "http://124.219.138.175:4000",
+  "metrics_endpoint": "http://124.219.138.175:9615/metrics",
+  "id": "4f00976f-9d51-43ea-8bce-f686f86df5e2"
+}
