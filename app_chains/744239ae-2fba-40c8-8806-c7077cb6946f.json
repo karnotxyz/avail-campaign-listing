@@ -1,0 +1,8 @@
+{
+  "name": "madserhan",
+  "logo": "https://r.resimlink.com/rtp4VJLdsS.png",
+  "rpc_url": "http://159.69.49.234:9944",
+  "explorer_url": "http://159.69.49.234:4000",
+  "metrics_endpoint": "http://159.69.49.234:9615/metrics", 
+  "id": "744239ae-2fba-40c8-8806-c7077cb6946f"
+}
