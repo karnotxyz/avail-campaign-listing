@@ -1,0 +1,8 @@
+{
+  "name": "ocean",
+  "logo": "https://i.imgur.com/kkkw2AF.jpeg",
+  "rpc_url": "http://194.233.80.167:9944",
+  "explorer_url": "http://194.233.80.167:4000",
+  "metrics_endpoint": "http://194.233.80.167:9615/metrics",
+  "id": "122a3dea-d471-4691-a299-5c5ca02fa50e"
+}
