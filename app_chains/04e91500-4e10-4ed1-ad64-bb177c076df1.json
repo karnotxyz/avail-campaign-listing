@@ -1,0 +1,8 @@
+{
+  "name": "Kaya",
+  "logo": "https://r.resimlink.com/diKTs.png",
+  "rpc_url": "http://37.60.248.70:9944",
+  "explorer_url": "http://37.60.248.70:4000",
+  "metrics_endpoint": "http://37.60.248.70:9615/metrics",
+  "id": "04e91500-4e10-4ed1-ad64-bb177c076df1"
+}
