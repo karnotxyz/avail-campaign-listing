@@ -1,0 +1,8 @@
+{
+    "name": "thebursin",
+    "logo": "https://r.resimlink.com/lm6-0YaWL.jpg",
+    "rpc_url": "http://82.115.19.60:9944",
+    "explorer_url": "http://82.115.19.60:4000/",
+    "metrics_endpoint": "http://82.115.19.60:9615/metrics",
+    "id": "9dd2bf41-70b5-4da3-918e-775ad3fd8605"
+}
