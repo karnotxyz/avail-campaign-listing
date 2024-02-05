@@ -1,0 +1,8 @@
+{
+  "name": "omer95",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://95.217.159.24:9944",
+  "explorer_url": "http://95.217.159.24:4000",
+  "metrics_endpoint": "http://95.217.159.24:9615/metrics",
+  "id": "9af8eff7-fc7e-4dc3-8d44-ddfac962c444"
+}
