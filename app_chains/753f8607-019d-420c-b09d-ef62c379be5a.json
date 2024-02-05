@@ -1,8 +1,8 @@
   {
     "name": "Test",
-    "logo": "[url=https://ibb.co/gTpWZp5][img]https://i.ibb.co/gTpWZp5/asdsa.png[/img][/url]", // profil fotosu yüklüyoruz.
+    "logo": "[url=https://ibb.co/gTpWZp5][img]https://i.ibb.co/gTpWZp5/asdsa.png[/img][/url]",
     "rpc_url": "http://37.60.254.30:9944",
     "explorer_url": "http://37.60.254.30:4000",
     "metrics_endpoint": "http://37.60.254.30:9615/metrics", 
-    "id": "753f8607-019d-420c-b09d-ef62c379be5a" // uid alıyoruz.
+    "id": "753f8607-019d-420c-b09d-ef62c379be5a"
   }
