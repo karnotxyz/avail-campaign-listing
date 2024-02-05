@@ -1,0 +1,8 @@
+{
+  "name": "vivaldi1993",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/102872293/302399550-89f93c04-9d93-48f3-b091-1830a03a1596.png",
+  "rpc_url": "http://38.242.138.65:9944",
+  "explorer_url": "http://38.242.138.65:4000",
+  "metrics_endpoint": "http://38.242.138.65:9615/metrics",
+  "id": "64cd9f24-5b3a-4406-b314-97f836b05f95"
+}
