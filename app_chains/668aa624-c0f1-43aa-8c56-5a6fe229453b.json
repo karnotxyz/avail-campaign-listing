@@ -1,8 +1,8 @@
   {
     "name": "burcu",
     "logo": "https://i.imgur.com/fG4QDNq.jpeg",
-    "rpc_url": "http://88.247.161.2:9944",
-    "explorer_url": "http://88.247.161.2:4000",
-    "metrics_endpoint": "http://88.247.161.2:9615/metrics",
+    "rpc_url": "http://192.168.1.103:9944",
+    "explorer_url": "http://192.168.1.103:4000",
+    "metrics_endpoint": "http://192.168.1.103:9615/metrics",
     "id": "668aa624-c0f1-43aa-8c56-5a6fe229453b"
   }    
