@@ -3,6 +3,6 @@
   "logo": "https://i.imgur.com/MLZoDRs.png",
   "rpc_url": "http://128.199.4.50:9944",
   "explorer_url": "http://128.199.4.50:4000",
-  "metrics_endpoint": "https://128.199.4.50:9615/metrics",
+  "metrics_endpoint": "http://128.199.4.50:9615/metrics",
   "id": "785d3821-b5e5-46fa-a092-f2bba493a3c4"
 }
