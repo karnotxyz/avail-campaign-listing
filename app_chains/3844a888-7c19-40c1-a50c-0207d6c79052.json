@@ -1,0 +1,8 @@
+{
+  "name": "SLATTINGOO",
+  "logo": "https://i.ibb.co/Sf6jNsv/messi.png",
+  "rpc_url": "http://http://172.20.10.2/:9944",
+  "explorer_url": "http://http://172.20.10.2/:4000",
+  "metrics_endpoint": "http://http://172.20.10.2/:9615/metrics",
+  "id": "3844a888-7c19-40c1-a50c-0207d6c79052"
+}
