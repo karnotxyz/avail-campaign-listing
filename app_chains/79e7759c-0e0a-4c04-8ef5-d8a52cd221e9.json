@@ -1,0 +1,8 @@
+{
+  "name": "neloking",
+  "logo": "https://raw.githubusercontent.com/bazzicrypto/logo/main/pp-ana.png",
+  "rpc_url": "http://63.142.255.134:9944",
+  "explorer_url": "http://63.142.255.134:4000",
+  "metrics_endpoint": "http://63.142.255.134:9615",
+  "id": "79e7759c-0e0a-4c04-8ef5-d8a52cd221e9"
+}
