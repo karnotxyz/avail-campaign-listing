@@ -1,0 +1,8 @@
+{
+  "name": "Pixeland",
+  "logo": "https://i.postimg.cc/mgp9MmNn/pixeland-9416678-1.png",
+  "rpc_url": "http://37.60.231.169:9944",
+  "explorer_url": "http://37.60.231.169:4000",
+  "metrics_endpoint": "http://37.60.231.169:9615/metrics",
+  "id": "dc80236e-1295-4c3b-b3bb-f45274abbad2"
+}

@@ -1,0 +1,17 @@
+name: Prettier Code Formatter
+
+on: [push, pull_request]
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Prettier
+      uses: creyD/prettier_action@v3.3
+      with:
+        prettier_options: --write **/*.{js,jsx,ts,tsx,json,css,md}
+        commit_message: 'chore: format code'
+        commit_options: '--no-verify --signoff'
+        commit: true # Set to true if you want the action to commit changes
+        file_pattern: '.'
