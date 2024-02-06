@@ -4,11 +4,11 @@
 
   "logo": "https://ibb.co/Y8ry0tM",
 
-  "rpc_url": "http://37.60.246.222:9944",
+  "rpc_url": "https://37.60.246.222:9944",
 
-  "explorer_url": "http://37.60.246.222:4000",
+  "explorer_url": "https://37.60.246.222:4000",
 
-  "metrics_endpoint": "http://37.60.246.222:9615/metrics",
+  "metrics_endpoint": "https://37.60.246.222:9615/metrics",
 
   "id": "e78d8bbe-583e-4df3-aa15-5ae6c8012597"
 
