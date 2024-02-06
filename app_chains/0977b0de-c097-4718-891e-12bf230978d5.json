@@ -1,0 +1,8 @@
+  {
+    "name": "StakeSQUID",
+    "logo": "https://imgur.com/a/w1ydyPh.png",
+    "rpc_url": "http://165.232.36.244:9944",
+    "explorer_url": "http://165.232.36.244:4000",
+    "metrics_endpoint": "http://165.232.36.244:9615/metrics",
+    "id": "0977b0de-c097-4718-891e-12bf230978d5"
+  }
