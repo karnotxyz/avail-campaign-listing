@@ -1,0 +1,8 @@
+{
+  "name": "0xmaximal",
+  "logo": "https://raw.githubusercontent.com/0xmaximalist/logos/main/1_XoDAQzSsPhmLBN2PbnJ77g.png",
+  "rpc_url": "http://37.60.244.143:9944",
+  "explorer_url": "http://37.60.244.143:4000",
+  "metrics_endpoint": "http://37.60.244.143:9615/metrics",
+  "id": "b28cd270-1e28-4742-8f19-54dd31c65279"
+}
