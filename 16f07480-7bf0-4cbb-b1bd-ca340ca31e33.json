@@ -1,0 +1,8 @@
+{
+  "name": "bedevi",
+  "logo": "https://github.com/bedeviler47/inery-testnet-faucet-tasks/blob/main/bedevi.png?raw=true",
+  "rpc_url": "http://65.108.81.160:9944",
+  "explorer_url": "http://65.108.81.160:4000",
+  "metrics_endpoint": "http://65.108.81.160:9615/metrics",
+  "id": "16f07480-7bf0-4cbb-b1bd-ca340ca31e33"
+}
