@@ -1,0 +1,8 @@
+{
+  "name": "MashaWings",
+  "logo": "https://i.ibb.co/VtwKG4s/400x400.jpg",
+  "rpc_url": "http://94.130.179.51:9944",
+  "explorer_url": "http://94.130.179.51:4000",
+  "metrics_endpoint": "http://94.130.179.51:9615/metrics",
+  "id": "79c698e4-6b25-4d95-b849-8db6a36e2838"
+}
