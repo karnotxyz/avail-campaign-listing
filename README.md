@@ -11,8 +11,9 @@ format to listing.json.
     "rpc_url": "http://63.142.255.134:9944",
     "explorer_url": "http://63.142.255.134:4000",
     "metrics_endpoint": "http://63.142.255.134:9615/metrics", 
-    "id": "62ce075a-1664-44f8-8f32-06e5a4fffe6d"
+    "id": "62ce075a-1664-44f8-8f32-06e5a4fffe6d" //
   }
+
 ```
 
 ## Details
