@@ -1,0 +1,8 @@
+{
+  "name": "arkham",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/arkham_9193196-1/logos/arkham_9193196-1.jpeg",
+  "rpc_url": "https://a1.arkhamthelight.xyz",
+  "explorer_url": "https://a3.arkhamthelight.xyz",
+  "metrics_endpoint": "https://a2.arkhamthelight.xyz/metrics",
+  "id": "54260a91-e2af-464a-8bd9-d827fd5f4626"
+}
