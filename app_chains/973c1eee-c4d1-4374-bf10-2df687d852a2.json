@@ -1,8 +1,8 @@
 {
-    "name": "oldboysr",
-    "logo": "https://r.resimlink.com/LvlKijC-s8Y2.png",
-    "rpc_url": "http://144.91.77.115:9944",
-    "explorer_url": "http://144.91.77.115:4000",
-    "metrics_endpoint": "http://144.91.77.115:9615/metrics", 
-    "id": "973c1eee-c4d1-4374-bf10-2df687d852a2"
-  }
+  "name": "oldboysr",
+  "logo": "https://r.resimlink.com/LvlKijC-s8Y2.png",
+  "rpc_url": "http://144.91.77.115:9944",
+  "explorer_url": "http://144.91.77.115:4000",
+  "metrics_endpoint": "http://144.91.77.115:9615/metrics",
+  "id": "973c1eee-c4d1-4374-bf10-2df687d852a2"
+}
