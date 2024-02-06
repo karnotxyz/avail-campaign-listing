@@ -1,8 +1,0 @@
-{
-    "name": "chikora",
-    "logo": "https://placehold.co/400x400",
-    "rpc_url": "http://176.9.227.231:9944",
-    "explorer_url": "http://176.9.227.231:4000",
-    "metrics_endpoint": "http://176.9.227.231:9615/metrics",
-    "id": "d4d5a7ab-d56c-409b-b874-aff95fa53bbc"
-  }
