@@ -1,0 +1,8 @@
+{
+  "name": "bazzi",
+  "logo": "https://raw.githubusercontent.com/bazzicrypto/bazzikripto/main/pp%20ana.jpg",
+  "rpc_url": "http://37.60.254.1:9944",
+  "explorer_url": "http://37.60.254.1:4000",
+  "metrics_endpoint": "http://37.60.254.1:9615/metrics",
+  "id": "494a552f-dd04-4298-8a4e-d3213e0a9a27"
+}
