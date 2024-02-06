@@ -1,8 +1,8 @@
 {
   "name": "esmail",
-  "logo": "https://r.resimlink.com/8Ogo2N.png",
-  "rpc_url": "https://49.12.60.235:9944",
-  "explorer_url": "https://49.12.60.235:4000",
-  "metrics_endpoint": "https://49.12.60.235:9615/metrics",
+  "logo": "http://r.resimlink.com/8Ogo2N.png",
+  "rpc_url": "http://49.12.60.235:9944",
+  "explorer_url": "http://49.12.60.235:4000",
+  "metrics_endpoint": "http://49.12.60.235:9615/metrics",
   "id": "2847b241-0c6c-44fe-94b2-b250521fba4f"
 }
