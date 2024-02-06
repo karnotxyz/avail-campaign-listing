@@ -1,6 +1,6 @@
 {
   "name": "kemaj_appchain",
-  "logo": "https://olive-similar-dingo-168.mypinata.cloud/ipfs/QmfAELkD9QoW5bRPc2NNQkYSPQcNZ9xCrzPBQ53aTUTFMY",
+  "logo": "https://olive-similar-dingo-168.mypinata.cloud/ipfs/QmfMBYU21f3JJH9tpe1b1t2jKKX1giqam5uMJdVo8xMayX",
   "rpc_url": "http://158.220.117.8:9944",
   "explorer_url": "http://158.220.117.8:4000",
   "metrics_endpoint": "http://158.220.117.8:9615/metrics",
