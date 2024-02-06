@@ -1,8 +1,8 @@
 {
   "name": "salar",
-  "logo": "https://r.resimlink.com/-4w908i.jpg",
-  "rpc_url": "https://173.249.57.128:9944",
-  "explorer_url": "https://173.249.57.128:4000",
-  "metrics_endpoint": "https://173.249.57.128:9615/metrics",
+  "logo": "http://r.resimlink.com/GuoZ2B1_.png",
+  "rpc_url": "http://173.249.57.128:9944",
+  "explorer_url": "http://173.249.57.128:4000",
+  "metrics_endpoint": "http://173.249.57.128:9615/metrics",
   "id": "a035ef64-748f-4788-9a59-470585c4a4df"
 }
