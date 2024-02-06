@@ -1,0 +1,8 @@
+{
+  "name": "ndimbati",
+  "logo": "https://r.resimlink.com/nUOLK.png",
+  "rpc_url": "http://95.216.198.114:9944",
+  "explorer_url": "http://95.216.198.114:4000",
+  "metrics_endpoint": "http://95.216.198.114:9615/metrics",
+  "id": "a80b3d59-afa6-4fa1-9a06-f9e04a6af604"
+}
