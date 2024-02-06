@@ -1,0 +1,8 @@
+{
+  "name": "0xKnowledgE",
+  "logo": "https://i.imgur.com/5mcFNPd.png",
+  "rpc_url": "http://37.27.67.37:9944",
+  "explorer_url": "http://37.27.67.37:4000",
+  "metrics_endpoint": "http://37.27.67.37:9615/metrics",
+  "id": "629fbec6-524a-4530-a69e-74997be908a7"
+}
