@@ -1,0 +1,8 @@
+{
+"name": "availmuzo",
+"logo": "https://r.resimlink.com/1aMSU.png",
+"rpc_url": "http://146.190.22.222:9944",
+"explorer_url": "http://146.190.22.222:4000",
+"metrics_endpoint": "http://146.190.22.222:9615/metrics", 
+"id": "fd182263-971c-46a6-aa87-ec740223ff77" 
+}
