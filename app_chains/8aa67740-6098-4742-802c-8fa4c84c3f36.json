@@ -1,0 +1,8 @@
+{
+    "name": "avestal",
+    "logo": "https://r.resimlink.com/I0tGrRuHWiJ.png", // 
+    "rpc_url": "http://37.60.250.106:9944",
+    "explorer_url": "http://37.60.250.106:4000",
+    "metrics_endpoint": "http://37.60.250.106:9615/metrics", 
+    "id": "8aa67740-6098-4742-802c-8fa4c84c3f36" //
+  }
