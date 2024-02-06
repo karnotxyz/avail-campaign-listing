@@ -1,0 +1,8 @@
+{
+  "name": "lihxgcyxeenb",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/lihxgcyxeenb.png",
+  "rpc_url": "http://49.51.182.191:9944",
+  "explorer_url": "http://49.51.182.191:4000",
+  "metrics_endpoint": "http://49.51.182.191:9615/metrics",
+  "id": "59961d8f-c8cb-4ccd-8f62-7810aae55232"
+}
