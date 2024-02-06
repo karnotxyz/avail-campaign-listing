@@ -1,0 +1,8 @@
+{
+  "name": "ovvsett",
+  "logo": "https://i.ibb.co/Sf6jNsv/messi.png",
+  "rpc_url": "http://172.17.0.1:9944",
+  "explorer_url": "http://172.17.0.1:4000",
+  "metrics_endpoint": "http://172.17.0.1:9615/metrics",
+  "id": "52b0f60c-0297-4f30-bb99-594684f7cf22"
+}
