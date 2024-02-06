@@ -1,0 +1,8 @@
+{
+  "name": "igubee",
+  "logo": "https://github.com/igubee/Testnet-TR/blob/main/116573402.jpg?raw=true",
+  "rpc_url": "http://65.21.146.117:9944",
+  "explorer_url": "http://65.21.146.117:4000",
+  "metrics_endpoint": "http://65.21.146.117:9615/metrics",
+  "id": "8ff832de-d828-4f2b-859b-817468561db8"
+}
