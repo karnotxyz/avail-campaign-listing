@@ -1,0 +1,8 @@
+{
+  "name": "Arturs",
+  "logo": "https://placehold.co/400x400/black/darkred?text=ART",
+  "rpc_url": "http://94.250.202.226:9944",
+  "explorer_url": "http://94.250.202.226:4000",
+  "metrics_endpoint": "http://94.250.202.226:9615/metrics",
+  "id": "6aed3153-1e14-4b01-8422-2cbbae1163ae"
+}
