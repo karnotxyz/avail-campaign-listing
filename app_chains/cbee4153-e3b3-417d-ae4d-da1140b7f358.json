@@ -1,0 +1,8 @@
+{
+  "name": "laksApp",
+  "logo": "https://i.ibb.co/mc32gdn/nsrtj-baby-yoda-on-a-kimono-with-a-katana-realistic-zbrush-vray-3d2f6560-5c20-44c3-8fba-b7c50986982d.png",
+  "rpc_url": "http://62.171.179.197:9944",
+  "explorer_url": "http://62.171.179.197:4000",
+  "metrics_endpoint": "http://62.171.179.197:9615/metrics",
+  "id": "cbee4153-e3b3-417d-ae4d-da1140b7f358"
+}
