@@ -1,0 +1,8 @@
+{
+    "name": "jhons7",
+    "logo": "https://r.resimlink.com/ylYXJ2ir1jT.jpg",
+    "rpc_url": "65.109.232.129:9944",
+    "explorer_url": "65.109.232.129:4000",
+    "metrics_endpoint": "65.109.232.129:9615/metrics", 
+    "id": "a4525361-44f0-4fe9-a663-8c02a6928c46" // uid alıyoruz.
+  }
