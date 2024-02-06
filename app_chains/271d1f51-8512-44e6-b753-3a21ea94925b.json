@@ -1,0 +1,8 @@
+{
+  "name": "jujien",
+  "logo": "https://png.pngtree.com/png-clipart/20231116/ourmid/pngtree-2024-happy-new-year-dragon-cute-illustration-chinese-png-image_10604304.png",
+  "rpc_url": "http://157.90.148.79:9944",
+  "explorer_url": "http://157.90.148.79:4000",
+  "metrics_endpoint": "http://157.90.148.79:9615/metrics",
+  "id": "271d1f51-8512-44e6-b753-3a21ea94925b"
+}
