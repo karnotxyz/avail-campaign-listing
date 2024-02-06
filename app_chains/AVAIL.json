@@ -1,0 +1,8 @@
+{
+    "name": "zkfarhad",
+    "logo": "https://www.beytoote.com/images/stories/computer/images-urls1-7.jpg",
+    "rpc_url": "https://37.60.237.31:9944",
+    "explorer_url": "https://37.60.237.31:4000",
+    "metrics_endpoint": "https://37.60.237.31:9615",
+    "id": "e31ee781-3103-43b9-9607-4260bb4b995c"
+  }
