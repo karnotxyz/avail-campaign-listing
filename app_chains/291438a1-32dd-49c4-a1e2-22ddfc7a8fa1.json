@@ -1,8 +1,8 @@
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "kartlos",
+  "logo": "https://i.imgur.com/ZEFRWqy.png",
+  "rpc_url": "http://37.60.253.238:9944",
+  "explorer_url": "http://37.60.253.238:4000",
+  "metrics_endpoint": "http://37.60.253.238:9615/metrics",
+  "id": "291438a1-32dd-49c4-a1e2-22ddfc7a8fa1"
 }
