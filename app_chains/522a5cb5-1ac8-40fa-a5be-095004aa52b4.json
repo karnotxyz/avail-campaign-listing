@@ -1,0 +1,8 @@
+{
+    "name": "hand",
+    "logo": "https://i.ibb.co/gjcvhcM/logomove.png",
+    "rpc_url": "http://95.217.236.2:9944",
+    "explorer_url": "http://95.217.236.2:4000",
+    "metrics_endpoint": "http://95.217.236.2:9615/metrics",
+    "id": "522a5cb5-1ac8-40fa-a5be-095004aa52b4"
+}
