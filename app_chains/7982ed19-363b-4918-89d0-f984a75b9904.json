@@ -1,8 +1,0 @@
-{
-  "name": "canoplos",
-  "logo": "https://imgur.com/odlwnn4",
-  "rpc_url": "http://78.187.201.236:9944",
-  "explorer_url": "http://78.187.201.236:4000",
-  "metrics_endpoint": "http://S78.187.201.236:9615/metrics",
-  "id": "7982ed19-363b-4918-89d0-f984a75b9904"
-}
