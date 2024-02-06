@@ -1,0 +1,8 @@
+{
+  "name": "megumii_chan",
+  "logo": "https://k.megumii.xyz/img/a.png",
+  "rpc_url": "https://rpc.mad.megumii.xyz:443",
+  "explorer_url": "https://exp.mad.megumii.xyz",
+  "metrics_endpoint": "https://met.mad.megumii.xyz/metrics",
+  "id": "b622073c-be21-11ee-a506-0242ac120002"
+}
