@@ -1,0 +1,8 @@
+{
+  "name": "ravenous",
+  "logo": "https://raw.githubusercontent.com/semihdemir98/Cat/master/Screenshot_541.png",
+  "rpc_url": "http://194.163.171.234:9944",
+  "explorer_url": "http://194.163.171.234:4000",
+  "metrics_endpoint": "http://194.163.171.234:9615/metrics",
+  "id": "2b27bdf4-2ab8-49a5-9449-a49f6df861e1"
+}
