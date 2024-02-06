@@ -1,0 +1,8 @@
+{
+"name": "Lucy123",
+"logo": "https://github.com/vnbnode/binaries/blob/main/Logo/VNBnode.jpg",
+"rpc_url": "http://207.180.208.186:9944",
+"explorer_url": "http://207.180.208.186:4000",
+"metrics_endpoint": "http://207.180.208.186:9615/metrics",
+"id": "7cd4508e-e95b-4ea0-a7c6-f34a43f5551b"
+}
