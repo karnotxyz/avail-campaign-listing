@@ -1,8 +1,0 @@
-{
-  "name": "App İsminiz",
-  "logo": "https://placehold.co/400x400", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
-  "rpc_url": "http://SUNUCU IP ADRESIN:9944",
-  "explorer_url": "http://SUNUCU IP ADRESIN:4000",
-  "metrics_endpoint": "http://SUNUCU IP ADRESIN:9615",
-  "id": "ccb32ccd-a275-4615-ab27-d2cc40b6af80"
-}
