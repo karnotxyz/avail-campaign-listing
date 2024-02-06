@@ -1,0 +1,8 @@
+{
+  "name": "Zeljavail",
+  "logo": "https://r.resimlink.com/Tl1jZEN0ns.jpeg",
+  "rpc_url": "http://159.65.40.176:9944",
+  "explorer_url": "http://159.65.40.176:4000",
+  "metrics_endpoint": "http://159.65.40.176:9615/metrics",
+  "id": "ad92ee47-c4c3-4f41-a9e4-f0112f778f16"
+}
