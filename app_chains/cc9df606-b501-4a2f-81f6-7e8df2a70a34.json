@@ -1,0 +1,8 @@
+{
+  "name": "a1testnet25",
+  "logo": "https://i.imgur.com/OWcq8gn.png",
+  "rpc_url": "http://5.161.229.112:9944",
+  "explorer_url": "http://5.161.229.112:4000",
+  "metrics_endpoint": "http://5.161.229.112:9615/metrics",
+  "id": "cc9df606-b501-4a2f-81f6-7e8df2a70a34"
+}

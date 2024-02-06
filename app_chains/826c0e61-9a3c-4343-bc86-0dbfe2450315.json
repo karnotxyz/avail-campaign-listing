@@ -1,0 +1,8 @@
+{
+  "name": "MARS1F_KARNOT",
+  "logo": "https://raw.githubusercontent.com/longthienvy/logo/main/400x400.png",
+  "rpc_url": "http://144.91.115.107:9944",
+  "explorer_url": "http://144.91.115.107:4000",
+  "metrics_endpoint": "http://144.91.115.107:9615/metrics",
+  "id": "826c0e61-9a3c-4343-bc86-0dbfe2450315"
+}

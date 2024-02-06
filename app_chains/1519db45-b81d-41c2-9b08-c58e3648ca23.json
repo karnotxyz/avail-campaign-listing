@@ -1,0 +1,8 @@
+{
+  "name": "chronos",
+  "logo": "https://imgur.com/x2I4chV.jpg",
+  "rpc_url": "http://158.220.88.213:9944",
+  "explorer_url": "http://158.220.88.213:4000",
+  "metrics_endpoint": "http://158.220.88.213:9615/metrics",
+  "id": "1519db45-b81d-41c2-9b08-c58e3648ca23"
+}
