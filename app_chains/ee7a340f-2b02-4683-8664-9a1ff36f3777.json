@@ -1,0 +1,8 @@
+{
+  "name": "nasser215",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/142977821/302556934-ea60f986-ce2a-45b2-82cb-6439480c1f0d.png",
+  "rpc_url": "http://84.247.129.112:9944",
+  "explorer_url": "http://84.247.129.112:4000",
+  "metrics_endpoint": "http://84.247.129.112:9615",
+  "id": "ee7a340f-2b02-4683-8664-9a1ff36f3777"
+}
