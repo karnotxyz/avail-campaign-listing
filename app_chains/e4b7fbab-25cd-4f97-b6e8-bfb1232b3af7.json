@@ -1,0 +1,8 @@
+{
+  "name": "mrcatvmx",
+  "logo": "https://i.ibb.co/JHNKC9P/Cipher-logo1.jpg",
+  "rpc_url": "http://37.60.236.235:9944",
+  "explorer_url": "http://37.60.236.235:4000",
+  "metrics_endpoint": "http://37.60.236.235:9615/metrics",
+  "id": "e4b7fbab-25cd-4f97-b6e8-bfb1232b3af7"
+}
