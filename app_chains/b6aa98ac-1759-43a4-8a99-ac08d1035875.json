@@ -1,8 +1,8 @@
- {
-    "name": "Trance",
-    "logo": "https://r.resimlink.com/U94PjsyQMW.png",
-    "rpc_url": "http://195.87.27.26:9944",
-    "explorer_url": "http://195.87.27.26:4000",
-    "metrics_endpoint": "http://195.87.27.26:9615/metrics", 
-    "id": "b6aa98ac-1759-43a4-8a99-ac08d1035875"
- }
+{
+  "name": "Trance",
+  "logo": "https://r.resimlink.com/U94PjsyQMW.png",
+  "rpc_url": "http://195.87.27.26:9944",
+  "explorer_url": "http://195.87.27.26:4000",
+  "metrics_endpoint": "http://195.87.27.26:9615/metrics", 
+  "id": "b6aa98ac-1759-43a4-8a99-ac08d1035875"
+}
