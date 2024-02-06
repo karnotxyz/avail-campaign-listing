@@ -1,0 +1,8 @@
+{
+  "name": "alsosad",
+  "logo": "https://ibb.co/PhRq94g",
+  "rpc_url": "http://37.60.240.183:9944",
+  "explorer_url": "http://37.60.240.183:4000",
+  "metrics_endpoint": "http://37.60.240.183:9615/metrics",
+  "id": "331a8b2b-d01c-4dcf-8053-2a30c74d1f5f"
+}
