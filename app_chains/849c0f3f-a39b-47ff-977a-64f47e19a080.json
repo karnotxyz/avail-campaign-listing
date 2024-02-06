@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://imgur.com/voQm9AA.png",
+  "rpc_url": "http://164.92.132.253:9944",
+  "explorer_url": "http://164.92.132.253:4000",
+  "metrics_endpoint": "http://164.92.132.253/metrics",
+  "id": "849c0f3f-a39b-47ff-977a-64f47e19a080"
+}
