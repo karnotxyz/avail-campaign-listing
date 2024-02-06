@@ -1,8 +1,8 @@
 {
-  "name": "berk",
-  "logo": "https://r.resimlink.com/fL8rnQvaNOs.jpg",
-  "rpc_url": "https://161.97.143.116:9944",
-  "explorer_url": "https://161.97.143.116:4000",
-  "metrics_endpoint": "https://161.97.143.116:9615",
-  "id": "0b614ef9-eef1-4a45-8957-f748c0f34e48"
+"name": "berk",
+"logo": "https://r.resimlink.com/fL8rnQvaNOs.jpg",
+"rpc_url": "https://161.97.143.116:9944",
+"explorer_url": "https://161.97.143.116:4000",
+"metrics_endpoint": "https://161.97.143.116:9615/metrics",
+"id": "0b614ef9-eef1-4a45-8957-f748c0f34e48"
 }
