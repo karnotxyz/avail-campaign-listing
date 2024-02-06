@@ -1,0 +1,8 @@
+{
+    "name": "tina",
+    "logo": "<https://i.imgur.com/0KUHPnZ.png",
+    "rpc_url": "http://95.217.182.175:9944",
+    "explorer_url": "http://95.217.182.175:4000",
+    "metrics_endpoint": "http://95.217.182.175:9615/metrics",
+    "id": "48e9ab30-c7c2-4066-bf42-dfa6e50180a0"
+  }
