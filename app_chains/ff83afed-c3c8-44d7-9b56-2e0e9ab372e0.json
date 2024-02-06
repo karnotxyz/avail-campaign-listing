@@ -1,8 +1,8 @@
 {
-"name": "kksa",
-"logo": "https://imgur.com/a/LB49eUr",
-"rpc_url": "http://173.249.54.251:9944",
-"explorer_url": "http://173.249.54.251:4000",
-"metrics_endpoint": "http://173.249.54.251:9615/metrics",
-"id": "ff83afed-c3c8-44d7-9b56-2e0e9ab372e0"
+  "name": "kksa",
+  "logo": "https://imgur.com/a/LB49eUr",
+  "rpc_url": "http://173.249.54.251:9944",
+  "explorer_url": "http://173.249.54.251:4000",
+  "metrics_endpoint": "http://173.249.54.251:9615/metrics",
+  "id": "ff83afed-c3c8-44d7-9b56-2e0e9ab372e0"
 }
