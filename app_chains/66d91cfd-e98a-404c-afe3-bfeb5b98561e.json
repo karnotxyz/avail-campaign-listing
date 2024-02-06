@@ -1,0 +1,8 @@
+{
+  "name": "madarabyone",
+  "logo": "https://ibb.co/vQFd1nK",
+  "rpc_url": "http://64.226.112.141:9944",
+  "explorer_url": "http://64.226.112.141:4000",
+  "metrics_endpoint": "http://64.226.112.141:9615",
+  "id": "66d91cfd-e98a-404c-afe3-bfeb5b98561e"
+}
