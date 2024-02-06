@@ -1,8 +1,8 @@
 {
   "name": "Ramcal",
   "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/128219196/302624337-8b27cfda-b907-4965-82c5-0d1398c646db.png",
-  "rpc_url": "https://185.218.125.164:9944",
-  "explorer_url": "https://185.218.125.164:4000",
-  "metrics_endpoint": "https://185.218.125.164:9615/metrics",
+  "rpc_url": "http://185.218.125.164:9944",
+  "explorer_url": "http://185.218.125.164:4000",
+  "metrics_endpoint": "http://185.218.125.164:9615/metrics",
   "id": "4a24ba1e-1560-47d1-8d89-627f772ccd50"
 }
