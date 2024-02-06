@@ -1,7 +1,7 @@
 {
   "name": "Node39",
   "logo": "https://raw.githubusercontent.com/Node39TOP/BOT-Telegram/main/logo-png-400-400.png",
-  "rpc_url": "http://65.108.85.151:9944/",
+  "rpc_url": "http://65.108.85.151:9944",
   "explorer_url": "http://65.108.85.151:4000",
   "metrics_endpoint": "http://65.108.85.151:9615/metrics",
   "id": "1b175683-ba58-46f2-b515-8d3ddafc5994"
