@@ -1,0 +1,8 @@
+{
+  "name": "yamtarlee",
+  "logo": "https://i.im.ge/2024/02/07/cS0LzK.avail.png",
+  "rpc_url": "http://167.86.72.219:9944",
+  "explorer_url": "http://167.86.72.219:4000",
+  "metrics_endpoint": "http://167.86.72.219:9615/metrics",
+  "id": "c70dc191-245c-487d-b8b4-8f42a7560577"
+}
