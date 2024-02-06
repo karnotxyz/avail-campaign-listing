@@ -1,0 +1,8 @@
+{
+  "name": "red",
+  "logo": "https://raw.githubusercontent.com/MrReddington19/Pickles/main/IMG_7813.JPG?token=GHSAT0AAAAAACN2VF4NGOGDRKWVICXSRCXCZOBNYSQ",
+  "rpc_url": "http://62.171.165.39:9944",
+  "explorer_url": "http://62.171.165.39:4000",
+  "metrics_endpoint": "http://62.171.165.39:9615/metrics",
+  "id": "6157d04f-1007-4c8a-abcd-7eae01b9676e"
+}
