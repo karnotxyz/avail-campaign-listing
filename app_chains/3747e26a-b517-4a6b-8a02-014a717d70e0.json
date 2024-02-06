@@ -1,0 +1,8 @@
+{
+  "name": "madaraet",
+  "logo": "https://r.resimlink.com/MD0kiSWQ_.jpg",
+  "rpc_url": "http://49.13.9.139:9944",
+  "explorer_url": "http://49.13.9.139:4000",
+  "metrics_endpoint": "http://49.13.9.139:9615",
+  "id": "3747e26a-b517-4a6b-8a02-014a717d70e0"
+}
