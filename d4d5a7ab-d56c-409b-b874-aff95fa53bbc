@@ -1,8 +1,0 @@
-{
-  "name": "Your_appchain_name",
-  "logo": "Your_Logo_URL",
-  "rpc_url": "http://Your_IP:9944",
-  "explorer_url": "http://Your_IP:4000",
-  "metrics_endpoint": "http://Your_IP:9615/metrics",
-  "id": "uid"
-}
