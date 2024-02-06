@@ -1,0 +1,8 @@
+{
+  "name": "ScuttleCrab",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://207.180.192.214:9944",
+  "explorer_url": "http://207.180.192.214:4000",
+  "metrics_endpoint": "http://207.180.192.214:9615/metrics",
+  "id": "4bd2d0df-77d9-4289-a073-29394dd51a77"
+}
