@@ -1,6 +1,6 @@
 {
   "name": "Hardbrick",
-  "logo": "https://placehold.co/400x400",
+  "logo": "https://avatars.githubusercontent.com/u/25790579?v=4",
   "rpc_url":"http://31.220.56.36:9944",
   "explorer_url": "http://31.220.56.36:4000",
   "metrics_endpoint": "http://31.220.56.36:9615/metrics",
