@@ -1,8 +1,0 @@
-{
-  "name": "ispep",
-  "logo": "https://i.ibb.co/M1yHJmQ/24478-1.png", 
-  "rpc_url": "http://157.90.225.79:9944",
-  "explorer_url": "http://157.90.225.79:4000",
-  "metrics_endpoint": "http://157.90.225.79:9615/metrics", 
-  "id": "71a7d759-64d1-4f3e-8e2f-dd5c87cd232c"
-}
