@@ -2,7 +2,7 @@
   "name": "willloh1314",
   "logo": "https://imgur.com/a/n2gnJA0",
   "rpc_url": "http://173.249.49.103:9944",
-  "explorer_url": "http://173.249.49.103p:4000",
+  "explorer_url": "http://173.249.49.103:4000",
   "metrics_endpoint": "http://173.249.49.103:9615/metrics",
   "id": "f0f671eb-954e-4725-917f-a75e2fdc8eb9"
 }
