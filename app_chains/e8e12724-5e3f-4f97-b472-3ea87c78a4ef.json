@@ -1,0 +1,8 @@
+{
+  "name": "kamrancoin",
+  "logo": "https://r.resimlink.com/PQe7tm.png",
+  "rpc_url": "http://3.76.213.148:9944",
+  "explorer_url": "http://3.76.213.148:4000",
+  "metrics_endpoint": "http://3.76.213.148:9615",
+  "id": "e8e12724-5e3f-4f97-b472-3ea87c78a4ef"
+}
