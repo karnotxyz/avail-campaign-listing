@@ -1,0 +1,8 @@
+{
+  "name": "eaddaa",
+  "logo": "https://i.imgur.com/eyhladU.jpg",
+  "rpc_url": "http://194.146.12.149:9944",
+  "explorer_url": "http://194.146.12.149:4000",
+  "metrics_endpoint": "http://194.146.12.149:9615/metrics",
+  "id": "a49cd86a-74ee-49bb-931a-2e0e0c886067"
+}

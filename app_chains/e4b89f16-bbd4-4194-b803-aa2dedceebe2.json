@@ -1,0 +1,8 @@
+{
+  "name": "appyups",
+  "logo": "https://i.imgur.com/jyMGw08.png",
+  "rpc_url": "http://52.180.153.101:9944",
+  "explorer_url": "http://52.180.153.101:4000",
+  "metrics_endpoint": "http://52.180.153.101:9615/metrics",
+  "id": "e4b89f16-bbd4-4194-b803-aa2dedceebe2"
+}

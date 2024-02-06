@@ -1,8 +1,0 @@
-{
-  "name": "Decd",
-  "logo": "https://im.ge/i/b2YjCz",
-  "rpc_url": "http://65.108.207.83:9944",
-  "explorer_url": "http://65.108.207.83:4000",
-  "metrics_endpoint": "http://65.108.207.83:9615/metrics",
-  "id": "15b226b3-26de-4556-bdfe-c73e5dcd8177"
-}

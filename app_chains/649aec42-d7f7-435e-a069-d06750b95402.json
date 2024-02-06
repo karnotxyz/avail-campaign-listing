@@ -1,0 +1,8 @@
+{
+  "name": "longpd91",
+  "logo": "https://i.ibb.co/WvpfvWB/photo-2021-04-08-00-29-15-2.jpg",
+  "rpc_url": "http://217.76.55.238:9944",
+  "explorer_url": "http://217.76.55.238:4000",
+  "metrics_endpoint": "http://217.76.55.238:9615/metrics",
+  "id": "649aec42-d7f7-435e-a069-d06750b95402"
+}

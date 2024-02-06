@@ -1,0 +1,8 @@
+{
+  "name": "ashtray",
+  "logo": "https://raw.githubusercontent.com/ashtray34/rollapp-registry/main/asht_2446192-1/logos/asht_2446192-1.png",
+  "rpc_url": "http://95.216.208.125:9944",
+  "explorer_url": "http://95.216.208.125:4000",
+  "metrics_endpoint": "http://95.216.208.125:9615/metrics",
+  "id": "bc011df5-50d0-4aca-ad91-cd60b32a5683"
+}

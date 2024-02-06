@@ -1,0 +1,8 @@
+{
+  "name": "velocity",
+  "logo": "https://placehold.co/550x550/yellow/darked?text=Velocity",
+  "rpc_url": "http://91.103.253.189:9944",
+  "explorer_url": "http://91.103.253.189:4000",
+  "metrics_endpoint": "http://91.103.253.189:9615/metrics",
+  "id": "86c76440-ee0a-4631-a84d-820e62df2e3c"
+}

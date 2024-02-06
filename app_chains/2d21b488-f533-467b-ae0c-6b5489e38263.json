@@ -1,0 +1,8 @@
+{
+  "name": "gibran",
+  "logo": "https://raw.githubusercontent.com/superadit98/rollapp-registry/main/devnet/gibran_3156666-1/logo/gibran_3156666-1.jpg",
+  "rpc_url": "http://128.199.77.99:9944",
+  "explorer_url": "http://128.199.77.99:4000",
+  "metrics_endpoint": "http://128.199.77.99:9615/metrics",
+  "id": "2d21b488-f533-467b-ae0c-6b5489e38263"
+}
