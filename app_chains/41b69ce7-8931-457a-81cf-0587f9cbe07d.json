@@ -1,0 +1,8 @@
+{
+  "name": "bashibozuk",
+  "logo": "https://imgur.com/a/vERleB1",
+  "rpc_url": "http://135.181.89.110:9944",
+  "explorer_url": "http://135.181.89.110:4000",
+  "metrics_endpoint": "http://135.181.89.110:9615/metrics",
+  "id": "41b69ce7-8931-457a-81cf-0587f9cbe07d"
+}
