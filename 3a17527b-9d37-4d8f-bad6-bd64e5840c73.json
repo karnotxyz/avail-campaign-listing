@@ -1,0 +1,8 @@
+{
+   "name": "skystone",
+   "logo": "https://r.resimlink.com/Y4UCTG0mi6N.png",
+   "rpc_url": "http://167.86.76.5:9944",
+   "explorer_url": "http://167.86.76.5:4000",
+   "metrics_endpoint": "http://167.86.76.5:9615",
+   "id": "3a17527b-9d37-4d8f-bad6-bd64e5840c73"
+}
