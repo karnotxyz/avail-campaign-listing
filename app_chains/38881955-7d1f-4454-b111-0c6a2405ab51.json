@@ -4,5 +4,5 @@
   "rpc_url": "http://104.248.4.234:9944",
   "explorer_url": "http://104.248.4.234:4000",
   "metrics_endpoint": "http://104.248.4.234:9615/metrics",
-  "id": "38881955-7d1f-4454-b111-0c6a2405ab51.json"
+  "id": "38881955-7d1f-4454-b111-0c6a2405ab51"
 }
