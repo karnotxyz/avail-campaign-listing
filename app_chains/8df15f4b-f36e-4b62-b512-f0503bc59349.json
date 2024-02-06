@@ -1,0 +1,8 @@
+{
+  "name": "Alximik",
+  "logo": "https://i.ibb.co/DMNDfS7/alx.png",
+  "rpc_url": "http://185.219.142.216:9944",
+  "explorer_url": "http://185.219.142.216:4000",
+  "metrics_endpoint": "http://185.219.142.216:9615/metrics",
+  "id": "8df15f4b-f36e-4b62-b512-f0503bc59349"
+}
