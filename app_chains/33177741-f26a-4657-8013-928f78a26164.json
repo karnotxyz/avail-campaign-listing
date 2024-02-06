@@ -1,0 +1,8 @@
+{
+  "name": "RRRPMIAN",
+  "logo": "https://r.resimlink.com/EBz4QDqP3_rC.png",
+  "rpc_url": "http://18.184.59.70:9944",
+  "explorer_url": "http://18.184.59.70:4000",
+  "metrics_endpoint": "http://18.184.59.70:9615/metrics",
+  "id": "33177741-f26a-4657-8013-928f78a26164"
+}
