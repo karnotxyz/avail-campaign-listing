@@ -1,0 +1,8 @@
+{
+  "name": "hellopeter",
+  "logo": "https://i.imgur.com/lbmeMiW.jpg",
+  "rpc_url": "http://91.107.193.34:9944",
+  "explorer_url": "http://91.107.193.34:4000",
+  "metrics_endpoint": "http://91.107.193.34:9615/metrics",
+  "id": "09011b49-9abb-481e-9e5d-27c286d5ebf6"
+}
