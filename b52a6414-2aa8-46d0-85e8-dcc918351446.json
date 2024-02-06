@@ -1,0 +1,8 @@
+{
+  "name": "comrat",
+  "logo": "https://raw.githubusercontent.com/comrat32/rollapp-registry/main/devnet/availcm_3683991-1/logos/availcm_3683991-1.jpg",
+  "rpc_url": "http://35.228.152.227:9944",
+  "explorer_url": "http://35.228.152.227:4000",
+  "metrics_endpoint": "http://35.228.152.227:9615/metrics",
+  "id": "b52a6414-2aa8-46d0-85e8-dcc918351446"
+}
