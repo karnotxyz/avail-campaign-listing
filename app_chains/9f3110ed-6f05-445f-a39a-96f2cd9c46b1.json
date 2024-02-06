@@ -1,7 +1,7 @@
 {
   "name": "Hardbrick",
   "logo": "https://avatars.githubusercontent.com/u/25790579?v=4",
-  "rpc_url":"http://31.220.56.36:9944",
+  "rpc_url": "http://31.220.56.36:9944",
   "explorer_url": "http://31.220.56.36:4000",
   "metrics_endpoint": "http://31.220.56.36:9615/metrics",
   "id": "9f3110ed-6f05-445f-a39a-96f2cd9c46b1"
