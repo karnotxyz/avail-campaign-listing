@@ -1,0 +1,8 @@
+{
+    "name": "aichaindev",
+    "logo": "https://i.ibb.co/0cqdhHh/PHOTO-2024-02-07-02-37-38.jpg",
+    "rpc_url": "http://172.86.67.36:9944",
+    "explorer_url": "http://172.86.67.36:4000",
+    "metrics_endpoint": "http://172.86.67.36:9615",
+    "id": "c847a899-a416-49e6-adef-19f73591ebf5"
+  }
