@@ -1,0 +1,8 @@
+{
+  "name": "falcon84",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/121810004/302383293-e8667252-6130-4922-9900-bb115bf0964a.png",
+  "rpc_url": "http://95.164.6.153:9944",
+  "explorer_url": "http://95.164.6.153:4000",
+  "metrics_endpoint": "http://95.164.6.153:9615/metrics",
+  "id": "d3efc59e-985a-449f-8155-eec30e259c43"
+}
