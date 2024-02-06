@@ -1,0 +1,8 @@
+{
+ "name": "cebiko",
+ "logo": "https://r.resimlink.com/FpkWzmejv.jpg",
+ "rpc_url": "http://167.86.121.168:9944",
+ "explorer_url": "http://167.86.121.168:4000",
+ "metrics_endpoint": "http://167.86.121.168:9615",
+ "id": "23dfd33d-fb8f-420d-a13a-d6270ac66393"
+}
