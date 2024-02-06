@@ -1,0 +1,8 @@
+{
+  "name": "EkkoNodes",
+  "logo": "https://i.ibb.co/BPGQSCm/Ekko-Nodes.png",
+  "rpc_url": "http://207.180.199.46:9944",
+  "explorer_url": "http://207.180.199.46:4000",
+  "metrics_endpoint": "http://207.180.199.46:9615/metrics",
+  "id": "b1c46321-46b6-407d-acba-49e2bf3c70a1"
+}
