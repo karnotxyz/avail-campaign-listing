@@ -1,0 +1,8 @@
+{
+  "name": "sokrates",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://161.97.73.149:9944",
+  "explorer_url": "http://161.97.73.149:4000",
+  "metrics_endpoint": "http://161.97.73.149:9615/metrics",
+  "id": "a1eccfee-cd48-4ec4-b3da-a44151594734"
+}

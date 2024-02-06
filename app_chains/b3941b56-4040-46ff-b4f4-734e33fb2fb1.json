@@ -1,0 +1,8 @@
+{
+  "name": "Node2Earn",
+  "logo": "https://i.ibb.co/CMSgFZy/ticker.jpg",
+  "rpc_url": "http://167.86.118.157:9944",
+  "explorer_url": "http://167.86.118.157:4000",
+  "metrics_endpoint": "http://167.86.118.157:9615/metrics",
+  "id": "b3941b56-4040-46ff-b4f4-734e33fb2fb1"
+}

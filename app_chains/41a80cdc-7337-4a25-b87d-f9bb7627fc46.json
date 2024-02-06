@@ -1,0 +1,8 @@
+{
+  "name": "bankai",
+  "logo": "https://r.resimlink.com/uGm6ZcxbqvT.png",
+  "rpc_url": "http://37.27.7.71:9944",
+  "explorer_url": "http://37.27.7.71:4000",
+  "metrics_endpoint": "http://37.27.7.71:9615/metrics",
+  "id": "41a80cdc-7337-4a25-b87d-f9bb7627fc46"
+}
