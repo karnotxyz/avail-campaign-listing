@@ -1,0 +1,8 @@
+{
+  "name": "TRUMP",
+  "logo": "https://i.ibb.co/5hJXKKY/madara-logo.jpg",
+  "rpc_url": "http://37.60.250.65:9944",
+  "explorer_url": "http://37.60.250.65:4000",
+  "metrics_endpoint": "http://37.60.250.65:9615/metrics",
+  "id": "5810108d-e070-4d50-81a1-23df653ffd16"
+}
