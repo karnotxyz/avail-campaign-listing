@@ -1,0 +1,8 @@
+{
+  "name": "AvailXazrael",
+  "logo": "https://i.hizliresim.com/1xi4txh.png", 
+  "rpc_url": "http://49.12.77.29:9944",
+  "explorer_url": "http://49.12.77.29:4000",
+  "metrics_endpoint": "http://49.12.77.29:9615/metrics", 
+  "id": "8d761e5d-17fa-42ef-a935-9fc0e387f09d"
+}
