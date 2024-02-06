@@ -1,0 +1,8 @@
+{
+  "name": "bazzi",
+  "logo": "https://raw.githubusercontent.com/bazzicrypto/noo/main/t6yk0zF.png", 
+  "rpc_url": "https://37.60.254.1:9944",
+  "explorer_url": "https://37.60.254.1:4000",
+  "metrics_endpoint": "https://37.60.254.1:9615/metrics",
+  "id": "5108603a-53d2-42e8-b146-f967aff132b0"
+}
