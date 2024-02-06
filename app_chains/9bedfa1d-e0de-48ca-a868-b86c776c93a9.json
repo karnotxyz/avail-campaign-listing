@@ -1,0 +1,8 @@
+{
+  "name": "tlptkmn",
+  "logo": "https://r.resimlink.com/bP2KGj.jpg",
+  "rpc_url": "http://73.249.55.155:9944",
+  "explorer_url": "http://73.249.55.155:4000",
+  "metrics_endpoint": "http://73.249.55.155:9615/metrics",
+  "id": "9bedfa1d-e0de-48ca-a868-b86c776c93a9"
+}
