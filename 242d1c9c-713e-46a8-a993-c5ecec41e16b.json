@@ -3,6 +3,6 @@
   "logo": "http://65.108.130.157/zgt.png",
   "rpc_url": "http://65.108.130.157:9944",
   "explorer_url": "http://65.108.130.157:4000",
-  "metrics_endpoint": "65.108.130.157:9615",
+  "metrics_endpoint": "http://65.108.130.157:9615/metrics",
   "id": "242d1c9c-713e-46a8-a993-c5ecec41e16b"
 }
