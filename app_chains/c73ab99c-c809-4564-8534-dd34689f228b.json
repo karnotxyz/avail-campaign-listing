@@ -1,0 +1,8 @@
+{
+  "name": "veli49",
+  "logo": "https://r.resimlink.com/qcaM5gC.jpg"
+  "rpc_url": "http://64.23.164.146:9944",
+  "explorer_url": "http://64.23.164.146:4000",
+  "metrics_endpoint": "http://64.23.164.146:9615/metrics", 
+  "id": "c73ab99c-c809-4564-8534-dd34689f228b"
+}
