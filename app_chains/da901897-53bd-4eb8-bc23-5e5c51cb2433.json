@@ -1,0 +1,8 @@
+{
+  "name": "kortaneth",
+  "logo": "https://r.resimlink.com/5D80kfGJIPgt.png",
+  "rpc_url": "http://37.60.245.194:9944",
+  "explorer_url": "http://37.60.245.194:4000",
+  "metrics_endpoint": "http://37.60.245.194:9615/metrics",
+  "id": "da901897-53bd-4eb8-bc23-5e5c51cb2433"
+}
