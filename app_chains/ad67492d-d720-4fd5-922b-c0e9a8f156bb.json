@@ -1,3 +1,7 @@
+npm install -g prettier
+npx prettier --write app_chains/ad67492d-d720-4fd5-922b-c0e9a8f156bb.json
+npx prettier --check .
+npx prettier@3.2.5 --check .
 {
   "name": "pptulliana",
   "logo": "https://imgur.com/a/RGIQabM",
