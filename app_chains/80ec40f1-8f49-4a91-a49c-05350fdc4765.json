@@ -1,0 +1,8 @@
+{
+  "name": "mustisizm",
+  "logo": "https://raw.githubusercontent.com/mustisizm/deneme-1/main/rulman.png",
+  "rpc_url": "http://116.202.26.79:9944",
+  "explorer_url": "http://116.202.26.79:4000",
+  "metrics_endpoint": "http://116.202.26.79:9615/metrics",
+  "id": "80ec40f1-8f49-4a91-a49c-05350fdc4765"
+}
