@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://i.ibb.co/JHNKC9P/Cipher-logo1.jpg",
+  "rpc_url": "http://144.91.69.108/:9944",
+  "explorer_url": "http://144.91.69.108:4000",
+  "metrics_endpoint": "http://144.91.69.108:9615/metrics",
+  "id": "ab559ba7-c0f7-418a-9933-9fcd3681081d"
+}
