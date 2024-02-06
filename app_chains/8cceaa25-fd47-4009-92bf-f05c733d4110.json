@@ -1,0 +1,8 @@
+{
+  "name": "orihurah",
+  "logo": "https://avatars.githubusercontent.com/u/15769222",
+  "rpc_url": "http://95.111.227.235:9944",
+  "explorer_url": "http://95.111.227.235:4000",
+  "metrics_endpoint": "http://95.111.227.235:9615/metrics",
+  "id": "8cceaa25-fd47-4009-92bf-f05c733d4110"
+}
