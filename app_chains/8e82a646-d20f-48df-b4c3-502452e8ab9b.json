@@ -1,1 +1,9 @@
 
+{
+  "name": "sumnode",
+  "logo": "https://raw.githubusercontent.com/ThanhSum/x1-file/main/IMG_1411.png",
+  "rpc_url": "http://65.109.143.78:9944",
+  "explorer_url": "http://65.109.143.78:4000",
+  "metrics_endpoint": "http://65.109.143.78:9615/metrics",
+  "id": "8e82a646-d20f-48df-b4c3-502452e8ab9b"
+}
