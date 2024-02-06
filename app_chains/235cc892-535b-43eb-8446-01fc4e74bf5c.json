@@ -1,0 +1,8 @@
+{
+  "name": "dalgax",
+  "logo": "https://i.ibb.co/6bFHLwY/400x400.png",
+  "rpc_url": "http://84.247.143.54:9944",
+  "explorer_url": "http://84.247.143.54:4000",
+  "metrics_endpoint": "http://84.247.143.54:9615/metrics",
+  "id": "235cc892-535b-43eb-8446-01fc4e74bf5c"
+}
