@@ -1,0 +1,8 @@
+{
+  "name": "pangdong",
+  "logo": "https://live.staticflickr.com/65535/53509724646_15f6fd6c93.jpg",
+  "rpc_url": "http://43.134.93.60:9944",
+  "explorer_url": "http://43.134.93.60:4000",
+  "metrics_endpoint": "http://43.134.93.60:9615/metrics",
+  "id": "a4c8f0ab-90e8-4bd1-8426-eb72bf2dcfea"
+}

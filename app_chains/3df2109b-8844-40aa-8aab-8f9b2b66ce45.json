@@ -1,0 +1,8 @@
+{
+  "name": "mini_labs",
+  "logo": "https://i.ibb.co/c1WWPYB/minilabs.png",
+  "rpc_url": "http://57.129.5.233:9944",
+  "explorer_url": "http://57.129.5.233:4000",
+  "metrics_endpoint": "http://57.129.5.233:9615/metrics",
+  "id": "3df2109b-8844-40aa-8aab-8f9b2b66ce45"
+}
