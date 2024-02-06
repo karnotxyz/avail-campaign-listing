@@ -1,0 +1,8 @@
+{
+  "name": "ScuttleCrab",
+  "logo": "https://i.ibb.co/89HWJXs/logo400x400.png",
+  "rpc_url": "http://207.180.192.214:9944",
+  "explorer_url": "http://207.180.192.214:4000",
+  "metrics_endpoint": "http://207.180.192.214:9615/metrics",
+  "id": "03aea535-391d-4b1d-8cb9-79fcf5d89d12"
+}
