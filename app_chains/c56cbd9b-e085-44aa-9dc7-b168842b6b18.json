@@ -1,8 +1,8 @@
 {
-  "name": "HoodRun",
-  "logo": "https://i.imgur.com/Y1VJncy.png",
-  "rpc_url": "http://135.181.26.15:9944",
-  "explorer_url": "http://135.181.26.15:4000",
-  "metrics_endpoint": "http://135.181.26.15:9615/metrics",
-  "id": "812de564-4f60-4ea0-b35f-5e7143769fbc"
+  "name": "sahir",
+  "logo": "https://r.resimlink.com/XeqBHf1mvd.png",
+  "rpc_url": "http://49.12.34.79:9944",
+  "explorer_url": "http://49.12.34.79:4000",
+  "metrics_endpoint": "http://49.12.34.79:9615/metrics",
+  "id": "c56cbd9b-e085-44aa-9dc7-b168842b6b18"
 }
