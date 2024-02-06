@@ -1,0 +1,8 @@
+{
+    "name": "maus",
+    "logo": "https://i1.wp.com/comic.highlightzone.de/wp-content/uploads/2016/02/0003-17.jpg?w=561",
+    "rpc_url": "http://45.139.227.112:9944",
+    "explorer_url": "http://45.139.227.112:4000",
+    "metrics_endpoint": "http://45.139.227.112:9615/metrics",
+    "id": "878b1332-8772-4480-ae42-5ad922f3d35c"
+  }
