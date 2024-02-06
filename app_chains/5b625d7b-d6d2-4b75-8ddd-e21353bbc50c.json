@@ -1,0 +1,8 @@
+{
+  "name": "aoodo",
+  "logo": "https://i.imgur.com/Eo4UiEE.jpeg",
+  "rpc_url": "http://185.205.244.134:9944",
+  "explorer_url": "http://185.205.244.134:4000",
+  "metrics_endpoint": "http://185.205.244.134:9615/metrics",
+  "id": "5b625d7b-d6d2-4b75-8ddd-e21353bbc50c"
+}
