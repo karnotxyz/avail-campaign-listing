@@ -1,8 +1,0 @@
-{
-    "name": "chikora",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/95563850/302690717-733b4b28-3f19-4581-93ff-da630ba307ef.png",
-    "rpc_url": "http://176.9.227.231:9944",
-    "explorer_url": "http://176.9.227.231:4000",
-    "metrics_endpoint": "http://176.9.227.231:9615/metrics",
-    "id": "a7985590-90f3-415d-bdb6-d9069a0614b4"
-  }
