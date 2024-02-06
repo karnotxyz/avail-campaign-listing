@@ -1,8 +1,8 @@
 {
   "name": "Solo",
-  "logo": "https://i.imgur.com/GuYuUjn.jpeg",
-  "rpc_url": "http://49.13.201.42:9944",
-  "explorer_url": "http://49.13.201.42:4000",
-  "metrics_endpoint": "http://49.13.201.42:9615/metrics",
+  "logo": "https://ibb.co/m9bWYdP",
+  "rpc_url": "http://37.60.252.43:9944",
+  "explorer_url": "http://37.60.252.43:4000",
+  "metrics_endpoint": "http://37.60.252.43:9615/metrics",
   "id": "e6273b2c-d506-4cac-a5ca-f2d740d980c5"
 }
