@@ -1,8 +1,8 @@
-  {
-    "name": "Goeye",
-    "logo": "https://i.ibb.co/6XGh4Nj/1683094588410-1.jpg",
-    "rpc_url": "http://128.140.94.209:9944",
-    "explorer_url": "http://128.140.94.209:4000",
-    "metrics_endpoint": "http://128.140.94.209:9615/metrics",
-    "id": "5870a311-1560-4501-9485-2ecc72549283"
-  }
+{
+  "name": "Goeye",
+  "logo": "https://i.ibb.co/6XGh4Nj/1683094588410-1.jpg",
+  "rpc_url": "http://128.140.94.209:9944",
+  "explorer_url": "http://128.140.94.209:4000",
+  "metrics_endpoint": "http://128.140.94.209:9615/metrics",
+  "id": "5870a311-1560-4501-9485-2ecc72549283"
+}
