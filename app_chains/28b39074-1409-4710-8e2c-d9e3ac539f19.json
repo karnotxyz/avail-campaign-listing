@@ -1,0 +1,8 @@
+{
+"name": "Jahoel",
+"logo": "https://r.resimlink.com/jNSJGx-f.jpg",
+"rpc_url": "http://195.201.22.137:9944",
+"explorer_url": "http://195.201.22.137:4000",
+"metrics_endpoint": "http://http://195.201.22.137:9615/metrics",
+"id": "28b39074-1409-4710-8e2c-d9e3ac539f19"
+}
