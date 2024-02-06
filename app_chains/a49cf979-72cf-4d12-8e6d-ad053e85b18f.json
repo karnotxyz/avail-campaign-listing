@@ -1,8 +1,8 @@
 {
   "name": "cryptobox",
   "logo": "https://imgur.com/a/kHxavhM",
-  "rpc_url": "http://183.253.73.84:9944",
-  "explorer_url": "http://183.253.73.84:4000",
-  "metrics_endpoint": "http://183.253.73.84:9615/metrics",
+  "rpc_url": "http://43.134.20.157:9944",
+  "explorer_url": "http://43.134.20.157:4000",
+  "metrics_endpoint": "http://43.134.20.157:9615/metrics",
   "id": "a49cf979-72cf-4d12-8e6d-ad053e85b18f"
 }
