@@ -1,6 +1,6 @@
 {
   "name": "EkkoNodes",
-  "logo": "https://i.ibb.co/BPGQSCm/Ekko-Nodes.png",
+  "logo": "https://raw.githubusercontent.com/Ekkoo09/logo/main/EkkoNodes%20(1).png",
   "rpc_url": "http://207.180.199.46:9944",
   "explorer_url": "http://207.180.199.46:4000",
   "metrics_endpoint": "http://207.180.199.46:9615/metrics",
