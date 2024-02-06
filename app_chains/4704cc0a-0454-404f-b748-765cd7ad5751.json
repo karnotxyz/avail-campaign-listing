@@ -1,0 +1,8 @@
+{
+  "name": "Scuttle_Crab",
+  "logo": "https://raw.githubusercontent.com/Xvirionz/Eigenlayer/main/logo400x400.png",
+  "rpc_url": "http://207.180.192.214:9944",
+  "explorer_url": "http://207.180.192.214:4000",
+  "metrics_endpoint": "http://207.180.192.214:9615/metrics",
+  "id": "4704cc0a-0454-404f-b748-765cd7ad5751"
+}
