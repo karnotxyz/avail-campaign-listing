@@ -1,0 +1,9 @@
+  {
+    "name": "nazliemr",
+    "logo": "https://r.resimlink.com/yNdrOF65QfkD.jpg", 
+    "rpc_url": "http://95.216.205.253:9944",
+    "explorer_url": "http://95.216.205.253:4000",
+    "metrics_endpoint": "http://95.216.205.253:9615/metrics", 
+    "id": "9b78cfa8-9352-44a2-9ca0-bff3eb1f35dc" 
+  }
+
