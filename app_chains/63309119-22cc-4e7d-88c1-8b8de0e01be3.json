@@ -1,0 +1,7 @@
+{
+  "name": "MamiAvail",
+  "logo": "https://hizliresim.com/iae8o3c",
+  "rpc_url": "http://173.249.44.191:9944",
+  "explorer_url": "http://173.249.44.191:4000",
+  "metrics_endpoint": "http://173.249.44.191:9615/metrics",
+  "id": "63309119-22cc-4e7d-88c1-8b8de0e01be3"
