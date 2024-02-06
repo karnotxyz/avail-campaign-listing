@@ -1,0 +1,8 @@
+{
+  "name": "ertan",
+  "logo": "https://r.resimlink.com/Idx_tiH0sn4.png",
+  "rpc_url": "http://49.13.129.222:9944",
+  "explorer_url": "http://49.13.129.222:4000/",
+  "metrics_endpoint": "http://49.13.129.222:9615",
+  "id": "e7e6d1cd-4d24-4572-8745-610d02823670" 
+}
