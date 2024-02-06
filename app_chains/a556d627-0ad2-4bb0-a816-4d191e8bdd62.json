@@ -1,8 +1,8 @@
 {
-    "name": "young",
-    "logo": "https://i.imgur.com/0KUHPnZ.png",
-    "rpc_url": "http://144.126.215.211:9944",
-    "explorer_url": "http://144.126.215.211:4000",
-    "metrics_endpoint": "http://144.126.215.211:9615/metrics",
-    "id": "a556d627-0ad2-4bb0-a816-4d191e8bdd62"
- }
+  "name": "young",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://144.126.215.211:9944",
+  "explorer_url": "http://144.126.215.211:4000",
+  "metrics_endpoint": "http://144.126.215.211:9615/metrics",
+  "id": "a556d627-0ad2-4bb0-a816-4d191e8bdd62"
+}
