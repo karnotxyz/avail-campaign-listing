@@ -1,0 +1,8 @@
+{
+  "name": "node247",
+  "logo": "https://i.postimg.cc/mgnw8b1G/download.jpg",
+  "rpc_url": "http://84.247.172.23:9944",
+  "explorer_url": "http://84.247.172.23:4000",
+  "metrics_endpoint": "http://84.247.172.23:9615/metrics",
+  "id": "78cd27c3-78da-436e-b659-0ee67d64b5ae"
+}
