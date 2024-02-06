@@ -1,0 +1,8 @@
+{
+  "name": "sparkhub",
+  "logo": "https://r.resimlink.com/v3qozZ61N.jpg",
+  "rpc_url": "http://62.171.170.147:9944",
+  "explorer_url": "http://62.171.170.147:4000",
+  "metrics_endpoint": "http://62.171.170.147:9615",
+  "id": "377cbca6-f538-490a-b2f7-b50abddd13ad"
+}
