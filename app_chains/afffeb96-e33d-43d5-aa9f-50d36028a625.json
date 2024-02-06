@@ -1,0 +1,8 @@
+{
+  "name": "niko112",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/niko112.png",
+  "rpc_url": "http://43.130.39.66:9944",
+  "explorer_url": "http://43.130.39.66:4000",
+  "metrics_endpoint": "http://43.130.39.66:9615/metrics",
+  "id": "afffeb96-e33d-43d5-aa9f-50d36028a625"
+}
