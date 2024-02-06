@@ -1,0 +1,8 @@
+{
+    "name": "ESPRESSO",
+    "logo": "https://https://r.resimlink.com/3PsRd_A.png",
+    "rpc_url": "http://128.140.68.147",
+    "explorer_url": "http://128.140.68.147:4000",
+    "metrics_endpoint": "http://128.140.68.147:9615/metrics", 
+    "12934f3f-fa03-4ec7-b54d-60240c311d05"
+  }
