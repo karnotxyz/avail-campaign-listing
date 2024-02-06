@@ -1,0 +1,8 @@
+{
+  "name": "madrid",
+  "logo": "https://i.imgur.com/xNqYZbT.png",
+  "rpc_url": "http://164.92.149.244:9944",
+  "explorer_url": "http://164.92.149.244:4000",
+  "metrics_endpoint": "http://164.92.149.244:9615/metrics",
+  "id": "6a4c6e78-fae4-4592-80de-517446fde09f"
+}
