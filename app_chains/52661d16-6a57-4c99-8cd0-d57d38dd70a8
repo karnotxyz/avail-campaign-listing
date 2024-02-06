@@ -1,0 +1,8 @@
+{
+  "name": "pptulliana",
+  "logo": "https://r.resimlink.com/SgDLH5do.jpg",
+  "rpc_url": "http://37.60.226.3:9944",
+  "explorer_url": "http://37.60.226.3:4000",
+  "metrics_endpoint": http://37.60.226.3:9615/metrics",
+  "id": "52661d16-6a57-4c99-8cd0-d57d38dd70a8"
+}
