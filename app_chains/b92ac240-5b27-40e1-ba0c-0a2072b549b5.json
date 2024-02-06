@@ -1,0 +1,8 @@
+{
+  "name": "ScuttleCrab",
+  "logo": "https://imgur.com/PHjwaGs",
+  "rpc_url": "http://207.180.192.214:9944",
+  "explorer_url": "http://207.180.192.214:4000",
+  "metrics_endpoint": "http://207.180.192.214:9615/metrics",
+  "id": "b92ac240-5b27-40e1-ba0c-0a2072b549b5"
+}
