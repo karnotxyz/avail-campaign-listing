@@ -1,0 +1,8 @@
+{
+  "name": "pazib_",
+  "logo": "https://i.im.ge/2024/02/06/cuncOT.bra.jpg",
+  "rpc_url": "http://95.111.247.189:9944",
+  "explorer_url": "http://95.111.247.189:4000",
+  "metrics_endpoint": "http://95.111.247.189:9615/metrics",
+  "id": "63fa33ca-db65-406c-b2f0-ed8e08ab2f07"
+}
