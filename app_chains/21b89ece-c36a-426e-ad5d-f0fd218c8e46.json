@@ -1,0 +1,8 @@
+{
+  "name": "nekosan",
+  "logo": "https://i.imgur.com/pLzMzT5.jpg",
+  "rpc_url": "http://161.97.66.80:9944",
+  "explorer_url": "http://161.97.66.80:4000",
+  "metrics_endpoint": "http://161.97.66.80:9615/metrics",
+  "id": "21b89ece-c36a-426e-ad5d-f0fd218c8e46"
+}
