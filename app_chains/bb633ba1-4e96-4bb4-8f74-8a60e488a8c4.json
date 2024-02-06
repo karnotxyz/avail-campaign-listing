@@ -1,0 +1,8 @@
+{
+  "name": "ShinAPP",
+  "logo": "https://i.imgur.com/fJi1eC4.png",
+  "rpc_url": "http://161.97.86.31:9944",
+  "explorer_url": "http://161.97.86.31:4000",
+  "metrics_endpoint": "http://161.97.86.31/metrics",
+  "id": "bb633ba1-4e96-4bb4-8f74-8a60e488a8c4"
+}
