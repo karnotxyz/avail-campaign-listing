@@ -1,0 +1,8 @@
+{
+  "name": "minhphi",
+  "logo": "https://i.ibb.co/D4Z79Mb/2-SEn7-E5-S-400x400.jpg",
+  "rpc_url": "http://95.217.211.94:9944",
+  "explorer_url": "http://95.217.211.94:4000",
+  "metrics_endpoint": "http://95.217.211.94:9615/metrics",
+  "id": "570f2249-1d3d-4ac9-a92f-da004fd4d24d"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dotsam",
+  "logo": "https://r.resimlink.com/UwbP8lMAui-1.jpg",
+  "rpc_url": "http://104.128.190.132:9944",
+  "explorer_url": "http://104.128.190.132:4000",
+  "metrics_endpoint": "http://104.128.190.132:9615/metrics",
+  "id": "e12e6d1b-7925-43b9-869f-f2d3ace9ca42"
+}
