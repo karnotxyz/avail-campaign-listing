@@ -1,0 +1,8 @@
+{
+  "name": "TheRez",
+  "logo": "http://r.resimlink.com/vmnHBXAcw7Q.jpeg",
+  "rpc_url": "http://88.99.20.140:9944",
+  "explorer_url": "http://88.99.20.140:4000",
+  "metrics_endpoint": "http://88.99.20.140:9615/metrics",
+  "id": "00b58f9d-47bb-4362-9436-effdef87d485"
+}
