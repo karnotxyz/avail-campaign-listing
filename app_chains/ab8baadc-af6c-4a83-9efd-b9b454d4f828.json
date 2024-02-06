@@ -1,7 +1,7 @@
 {
   "name": "ogeleka",
   "logo": "https://i.ibb.co/GV3YXLt/og.png",
-  "rpc_url": "http://173.249.19.155:9944/",
+  "rpc_url": "http://173.249.19.155:9944",
   "explorer_url": "http://173.249.19.155:4000",
   "metrics_endpoint": "http://173.249.19.155:9615/metrics",
   "id": "ab8baadc-af6c-4a83-9efd-b9b454d4f828"
