@@ -1,8 +1,8 @@
 {
   "name": "algobird",
   "logo": "https://drive.google.com/file/d/1sGe71LL-_2MRMxRt1-7T4p1UpRC0GQWa/view?usp=sharing",
-  "rpc_url": "http://37.60.262.183:9944",
-  "explorer_url": "http://37.60.262.183:4000",
-  "metrics_endpoint": "http://37.60.262.183:9615/metrics",
+  "rpc_url": "http://37.60.252.183:9944",
+  "explorer_url": "http://37.60.252.183:4000",
+  "metrics_endpoint": "http://37.60.252.183:9615/metrics",
   "id": "05bddda7-2935-4a50-b0be-db71a27e625b"
 }
