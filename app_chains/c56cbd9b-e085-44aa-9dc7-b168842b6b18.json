@@ -1,0 +1,8 @@
+{
+  "name": "sahir",
+  "logo": "https://r.resimlink.com/XeqBHf1mvd.png",
+  "rpc_url": "http://49.12.34.79:9944",
+  "explorer_url": "http://49.12.34.79:4000",
+  "metrics_endpoint": "http://49.12.34.79:9615/metrics",
+  "id": "c56cbd9b-e085-44aa-9dc7-b168842b6b18"
+}
