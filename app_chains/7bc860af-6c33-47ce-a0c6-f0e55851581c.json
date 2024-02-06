@@ -1,0 +1,8 @@
+{
+  "name": "miokumadara",
+  "logo": "https://imagetwist.com/97mdnh523em6/unnamed__2_.jpg",
+  "rpc_url": "http://89.116.29.122:9944",
+  "explorer_url": "http://89.116.29.122:4000",
+  "metrics_endpoint": "http://89.116.29.122:9615/metrics",
+  "id": "7bc860af-6c33-47ce-a0c6-f0e55851581c"
+}
