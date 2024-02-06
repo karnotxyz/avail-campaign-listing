@@ -1,0 +1,8 @@
+{
+  "name": "pptulliana",
+  "logo": "https://imgur.com/a/8gtTi5g",
+  "rpc_url": "http://37.60.226.3:9944",
+  "explorer_url": "http://37.60.226.3:4000",
+  "metrics_endpoint": "http://37.60.226.3:9615/metrics",
+  "id": "a48608ed-8761-42d6-a00c-63bb9912e377"
+}
