@@ -1,0 +1,8 @@
+{
+  "name": "Osmium",
+  "logo": "https://ibb.co/BNnLR59",
+  "rpc_url": "http://http://95.111.226.101:9944",
+  "explorer_url": "http://95.111.226.101:4000",
+  "metrics_endpoint": "http://95.111.226.101:9615",
+  "id": "8755c9bf-944a-4a4e-9ddf-3363596b776f"
+}
