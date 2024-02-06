@@ -1,0 +1,8 @@
+{
+  "name": "zulal",
+  "logo": "https://imgur.com/a/EjoQ5mS",
+  "rpc_url": "http://185.211.6.119:9944",
+  "explorer_url": "http://185.211.6.119:4000",
+  "metrics_endpoint": "http://185.211.6.119:9615/metrics",
+  "id": "161b91d3-fdc4-4eec-889b-0a87b2a04328"
+}
