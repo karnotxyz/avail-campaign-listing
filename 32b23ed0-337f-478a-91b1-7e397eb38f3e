@@ -1,0 +1,8 @@
+{
+"name": "salar",
+"logo": "http://r.resimlink.com/GuoZ2B1_.png",
+"rpc_url": "http://173.249.57.128:9944",
+"explorer_url": "http://173.249.57.128:4000",
+"metrics_endpoint": "http://173.249.57.128:9615/metrics",
+"id": "32b23ed0-337f-478a-91b1-7e397eb38f3e"
+}
