@@ -1,0 +1,8 @@
+{
+  "name": "xtestnet",
+  "logo": "https://imgur.com/a/XUso0cy",
+  "rpc_url": "http://155.133.27.170:9944",
+  "explorer_url": "http://155.133.27.170:4000",
+  "metrics_endpoint": "http://155.133.27.170:9615/metrics",
+  "id": "1ab2b4cf-06a7-4895-85d1-6c0062c291c2"
+}
