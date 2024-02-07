@@ -1,0 +1,8 @@
+{
+    "name": "Captainsilver",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/121454076/302806909-fbfd7756-331c-4d49-9816-a69183dfe7a0.png",
+    "rpc_url": "http://49.12.60.48:9944",
+    "explorer_url": "http://49.12.60.48:4000",
+    "metrics_endpoint": "http://49.12.60.48:9615",
+    "id": "2291d675-9fe1-426f-9251-01464af0002d"
+  }
