@@ -1,0 +1,8 @@
+  {
+    "name": "ehsan",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/132379852/300193067-0c76b76d-4d0e-4ccf-9924-fcaf84ad9acd.png",
+    "rpc_url": "http://91.230.110.77:9944",
+    "explorer_url": "http://91.230.110.77:4000",
+    "metrics_endpoint": "http://91.230.110.77:9615/metrics",
+    "id": "36bb0479-23d3-4de8-b239-d1ce9bff846c"
+  }
