@@ -1,0 +1,8 @@
+{
+  "name": "kizilboga",
+  "logo": "https://r.resimlink.com/mvYdsPyBTnD.png",
+  "rpc_url": "http://173.249.63.141:9944",
+  "explorer_url": "http://173.249.63.141:4000",
+  "metrics_endpoint": "http://173.249.63.141:9615/metrics",
+  "id": "98624643-f54f-4b13-a708-ae4340bb782a"
+}
