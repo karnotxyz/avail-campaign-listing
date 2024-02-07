@@ -1,0 +1,8 @@
+{
+  "name": "kristoboys",
+  "logo": "https://ibb.co/YTCLNf0",
+  "rpc_url": "http://88.198.165.205:9944",
+  "explorer_url": "http://88.198.165.205:4000",
+  "metrics_endpoint": "http://88.198.165.205:9615/metrics",
+  "id": "5e1e1783-2760-4fb1-add9-06bb50e5d63e"
+}
