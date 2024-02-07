@@ -1,0 +1,8 @@
+{
+  "name": "jonnode",
+  "logo": "https://resimlink.com/oSheb6OKJP",
+  "rpc_url": "http://149.102.128.190:9944",
+  "explorer_url": "http://149.102.128.190:4000",
+  "metrics_endpoint": "http://149.102.128.190:9615/metrics",
+  "id": "084f2f39-d769-4adf-ad25-5d43c710948b"
+}
