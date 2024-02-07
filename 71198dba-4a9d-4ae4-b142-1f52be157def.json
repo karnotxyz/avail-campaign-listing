@@ -1,0 +1,8 @@
+{
+  "name": ya2ın",
+  "logo": "https://r.resimlink.com/T1GNofcCqMy.jpg",
+  "rpc_url": "http://65.21.147.74:9944",
+  "explorer_url": "http://65.21.147.74:4000",
+  "metrics_endpoint": "http://65.21.147.74:9615/metrics",
+  "id": "71198dba-4a9d-4ae4-b142-1f52be157def"
+}
