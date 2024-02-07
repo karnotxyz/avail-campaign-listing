@@ -1,8 +1,8 @@
 {
-  "name": "Your_appchain_name",
+  "name": "peyote",
   "logo": "https://placehold.co/400x400/yellow/red?text=peyote",
   "rpc_url": "http://167.86.104.33:9944",
   "explorer_url": "http://167.86.104.33:4000",
   "metrics_endpoint": "http://167.86.104.33:9615/metrics",
-  "id": "uid"
+  "id": "6da2a4f3-088f-4ded-a9fc-d2393fc84781"
 }
