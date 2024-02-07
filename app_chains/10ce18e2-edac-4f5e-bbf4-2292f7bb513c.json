@@ -1,0 +1,8 @@
+{
+  "name": "alpertiryaki",
+  "logo": "https://drive.google.com/file/d/1t3QR1ueXo-vrpF7JgI9MLs1Jpe3yysb5/view",
+  "rpc_url": "http://159.223.211.17:9944",
+  "explorer_url": "http://159.223.211.17:4000",
+  "metrics_endpoint": "http://159.223.211.17:9615",
+  "id": "10ce18e2-edac-4f5e-bbf4-2292f7bb513c"
+}
