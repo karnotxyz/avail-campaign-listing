@@ -1,0 +1,8 @@
+{
+  "name": "alkadeta",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/dc39f2b14345c1f2016545f1ddb63705_360_360.jpg",
+  "rpc_url": "http://88.198.230.110:9944",
+  "explorer_url": "http://88.198.230.110:4000",
+  "metrics_endpoint": "http://88.198.230.110:9615/metrics",
+  "id": "995163b0-624c-4e9d-8e0e-ca77a758a5f5"
+}

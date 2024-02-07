@@ -26,6 +26,26 @@ format to listing.json.
 ## PR instructions
 
 1. Checkout from the main branch
-2. Create a PR with the name "✨ Adding <app_chain_name>"
+2. Create a UUID. You can use an online [generator](https://www.uuidgenerator.net/).
+3. Create a file with the name `<uuid>.json` inside the `app_chains` folder (`uuid` is the id generated in step 1).
+4. Enter all the details mentioned above inside the JSON file.
+5. Create a PR with the name "✨ Adding <app_chain_name>"
+6. Wait for all CI checks to pass
+7. If all your CI checks are passing, your branch should automatically merge.
 
-Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/1).
+Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/195).
+
+## FAQs
+
+### How to fix prettier?
+
+Install npx and run `npx prettier@latest --write .` on the repo root.
+
+### My `validate-entry` check keeps failing
+
+Make sure all your entrypoints (`rpc_url`, `explorer_url`, `metrics_endpoint`) are up and working correctly.
+
+### My `check-file-changes` check keeps failing
+
+Make sure that you're only adding one file in your PR. This should be a .json file in the above mentioned
+format and should be inside the `app_chains` folder.

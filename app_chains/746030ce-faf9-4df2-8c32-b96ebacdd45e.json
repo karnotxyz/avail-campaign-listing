@@ -1,0 +1,8 @@
+{
+  "name": "Elysion",
+  "logo": "https://i.imgur.com/fGo9geu.png",
+  "rpc_url": "http://45.94.209.37:9944",
+  "explorer_url": "http://45.94.209.37:4000",
+  "metrics_endpoint": "http://45.94.209.37:9615/metrics",
+  "id": "746030ce-faf9-4df2-8c32-b96ebacdd45e"
+}
