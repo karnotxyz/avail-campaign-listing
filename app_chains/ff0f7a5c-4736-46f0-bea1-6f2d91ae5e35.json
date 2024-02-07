@@ -1,1 +1,8 @@
-{"pandoc-api-version":[1,22,2,1],"meta":{},"blocks":[{"t":"Para","c":[{"t":"Str","c":"{"}]},{"t":"Para","c":[{"t":"Str","c":"\"name\":"},{"t":"Space"},{"t":"Str","c":"\"osmanates\","}]},{"t":"Para","c":[{"t":"Str","c":"\"logo\":"},{"t":"Space"},{"t":"Str","c":"\"https://r.resimlink.com/L2O5fUpMKGYJ.png\","}]},{"t":"Para","c":[{"t":"Str","c":"\"rpc_url\":"},{"t":"Space"},{"t":"Str","c":"\"http://165.232.83.115:9944\","}]},{"t":"Para","c":[{"t":"Str","c":"\"explorer_url\":"},{"t":"Space"},{"t":"Str","c":"\"http://165.232.83.115:4000\","}]},{"t":"Para","c":[{"t":"Str","c":"\"metrics_endpoint\":"},{"t":"Space"},{"t":"Str","c":"\"http://165.232.83.115:9615/metrics\","}]},{"t":"Para","c":[{"t":"Str","c":"\"id\":"},{"t":"Space"},{"t":"Str","c":"\"ff0f7a5c-4736-46f0-bea1-6f2d91ae5e35\""}]},{"t":"Para","c":[{"t":"Str","c":"}"}]}]}
+{
+"name": "osmanates\",
+"logo": "https://r.resimlink.com/L2O5fUpMKGYJ.png",
+"rpc_url": "http://165.232.83.115:9944",
+"explorer_url": "http://165.232.83.115:4000",
+"metrics_endpoint": "http://165.232.83.115:9615/metrics",
+"id": "ff0f7a5c-4736-46f0-bea1-6f2d91ae5e35"
+}
