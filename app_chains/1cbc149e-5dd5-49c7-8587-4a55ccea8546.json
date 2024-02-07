@@ -1,0 +1,8 @@
+{
+  "name": "crazy",
+  "logo": "https://0test123.oss-cn-hangzhou.aliyuncs.com/%E5%9B%BE%E7%89%87/crazy_5644716-1.jpg",
+  "rpc_url": "https://rpc.mychain.xyz",
+  "explorer_url": "https://explorer.mychain.xyz",
+  "metrics_endpoint": "https://metrics.mychain.xyz",
+  "id": "1cbc149e-5dd5-49c7-8587-4a55ccea8546"
+}
