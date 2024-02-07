@@ -1,8 +1,8 @@
 {
-    "name": "mohsen",
-    "logo": "https://ibb.co/Wkk7ShP",
-    "rpc_url": "http://192.168.136.91:9944",
-    "explorer_url": "http://192.168.136.91:4000",
-    "metrics_endpoint": "http://192.168.136.91:9615/metrics",
-    "id": "5efe9238-742a-49da-8a79-6daf16b74a08"
+  "name": "mohsen",
+  "logo": "https://ibb.co/Wkk7ShP",
+  "rpc_url": "http://192.168.136.91:9944",
+  "explorer_url": "http://192.168.136.91:4000",
+  "metrics_endpoint": "http://192.168.136.91:9615/metrics",
+  "id": "5efe9238-742a-49da-8a79-6daf16b74a08"
 }
