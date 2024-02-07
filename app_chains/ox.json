@@ -1,0 +1,8 @@
+{
+    "name": "oxsoltani",
+    "logo": "https://placehold.co/400x400",
+    "rpc_url": "https://161.97.159.6:63173/",
+    "explorer_url": "https://161.97.159.6:4000/",
+    "metrics_endpoint": "https://161.97.159.6:63172",
+    "id": "767ed702-cfa2-4993-981c-f59d29c40a9f"
+  }

@@ -1,0 +1,8 @@
+{
+    "name": "oxsoltani",
+    "logo": "https://placehold.vo/400*400/black/darkred?text=NFM",
+    "rpc_url": "http://161.97.159.6:63173",
+    "explorer_url": "http://161.97.159.6:4000",
+    "metrics_endpoint": "http://161.97.159.6:9615/metrics",
+    "id": "ff528d14-22d6-4c96-a72d-1e4f33f3022d"
+  }
