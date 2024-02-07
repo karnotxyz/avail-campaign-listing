@@ -1,8 +1,8 @@
 {
   "name": "zuruyu",
   "logo": "https://i.ibb.co/jkn70Df/logo-colored400x400.png",
-  "rpc_url": "http://65.108.156.16:9944/",
-  "explorer_url": "http://65.108.156.16:4000/",
+  "rpc_url": "http://65.108.156.16:9944",
+  "explorer_url": "http://65.108.156.16:4000",
   "metrics_endpoint": "http://65.108.156.16:9615/metrics",
   "id": "b6981e6d-42e0-4e8c-b077-5c36ed36262b"
 }
