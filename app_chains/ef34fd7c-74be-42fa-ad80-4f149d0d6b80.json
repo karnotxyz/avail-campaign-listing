@@ -1,0 +1,15 @@
+{
+
+  "name": "elite",
+
+  "logo": "https://i.postimg.cc/Nj4GDJsK/12291250-Wavy-Tech-30-Single-03.jpg",
+
+  "rpc_url": "https://"185.189.27.109":9944",
+
+  "explorer_url": "https://"185.189.27.109":4000",
+
+  "metrics_endpoint": "https://"185.189.27.109":9615/metrics",
+
+  "id": "ef34fd7c-74be-42fa-ad80-4f149d0d6b80"
+
+}
