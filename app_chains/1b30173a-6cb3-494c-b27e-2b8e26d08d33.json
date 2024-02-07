@@ -1,0 +1,8 @@
+{
+  "name": "opium",
+  "logo": "https://i.imgur.com/yZslTrN.jpeg",
+  "rpc_url": "http://173.249.3.49:9944",
+  "explorer_url": "http://173.249.3.49:4000",
+  "metrics_endpoint": "http://173.249.3.49:9615/metrics",
+  "id": "1b30173a-6cb3-494c-b27e-2b8e26d08d33"
+}

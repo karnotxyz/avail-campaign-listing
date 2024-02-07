@@ -1,0 +1,8 @@
+{
+  "name": "redk4n",
+  "logo": "https://resimlink.com/ZaQ51B-jby0",
+  "rpc_url": "http://167.86.74.87:9944",
+  "explorer_url": "http://167.86.74.87:4000",
+  "metrics_endpoint": "http://167.86.74.87:9615/metrics",
+  "id": "a4e82348-7f7b-438b-b6db-bfa00922febe"
+}

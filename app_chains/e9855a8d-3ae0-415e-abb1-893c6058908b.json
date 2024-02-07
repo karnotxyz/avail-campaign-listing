@@ -1,0 +1,8 @@
+{
+  "name": "SECARD",
+  "logo": "https://placehold.co/400x400/purple/white?text=SECARD\nNode",
+  "rpc_url": "http://89.233.108.200:9944/",
+  "explorer_url": "http://89.233.108.200:4000",
+  "metrics_endpoint": "http://89.233.108.200:9615/metrics",
+  "id": "e9855a8d-3ae0-415e-abb1-893c6058908b"
+}

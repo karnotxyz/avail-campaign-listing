@@ -1,0 +1,8 @@
+{
+  "name": "monolith",
+  "logo": "https://imgur.com/p3MRvZC.jpg",
+  "rpc_url": "http://84.247.179.125:9944",
+  "explorer_url": "http://84.247.179.125:4000",
+  "metrics_endpoint": "http://84.247.179.125:9615/metrics",
+  "id": "5ee32932-7723-496c-b1ec-df0eaae7b0ea"
+}

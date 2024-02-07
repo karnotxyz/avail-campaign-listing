@@ -1,0 +1,8 @@
+{
+  "name": "landak",
+  "logo": "https://i.ibb.co/nsjXVnG/landak.jpg",
+  "rpc_url": "http://173.249.34.226:9944",
+  "explorer_url": "http://173.249.34.226:4000",
+  "metrics_endpoint": "http://173.249.34.226:9615/metrics",
+  "id": "64a3b133-5d0e-4019-9e98-867a3f5fe7ee"
+}

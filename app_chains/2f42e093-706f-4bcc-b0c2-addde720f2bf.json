@@ -1,0 +1,8 @@
+{
+  "name": "figo7877",
+  "logo": "https://imgur.com/a/6dHarN4",
+  "rpc_url": "http://5.161.186.59:9944",
+  "explorer_url": "http://5.161.186.59:4000",
+  "metrics_endpoint": "http://5.161.186.59:9615/metrics",
+  "id": "2f42e093-706f-4bcc-b0c2-addde720f2bf"
+}

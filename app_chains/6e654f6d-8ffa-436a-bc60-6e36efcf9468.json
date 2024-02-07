@@ -1,0 +1,8 @@
+{
+  "name": "jaifaim",
+  "logo": "https://github.com/vichne-zade/Goracle-Node-Kurulumu/blob/main/jaifaim_5451332-1.png?raw=true",
+  "rpc_url": "http://65.108.56.160:9944",
+  "explorer_url": "http://65.108.56.160:4000",
+  "metrics_endpoint": "http://65.108.56.160:9615/metrics",
+  "id": "6e654f6d-8ffa-436a-bc60-6e36efcf9468"
+}

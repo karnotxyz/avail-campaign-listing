@@ -1,0 +1,8 @@
+{
+  "name": "binchain",
+  "logo": "https://s2.loli.net/2024/01/27/2MnDTFKbmCNxyUG.png",
+  "rpc_url": "http://142.171.229.142:9944",
+  "explorer_url": "http://142.171.229.142:4000",
+  "metrics_endpoint": "http://142.171.229.142:9615/metrics",
+  "id": "c2fff379-ece4-49fb-8189-5e7357bac7a6"
+}
