@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://i.ibb.co/6Dd5Jgc/madarax.png",
+  "rpc_url": "194.163.145.210:9944",
+  "explorer_url": "194.163.145.210:4000",
+  "metrics_endpoint": "194.163.145.210:9615/metrics",
+  "id": "95de9f4d-d2f7-4579-8eb1-43a8f7b74e41"
+}
