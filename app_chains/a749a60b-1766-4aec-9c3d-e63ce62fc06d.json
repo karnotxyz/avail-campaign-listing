@@ -1,0 +1,8 @@
+{
+  "name": "armagdon",
+  "logo": "https://r.resimlink.com/uQrePf3Tz.jpg",
+  "rpc_url": "http://49.12.57.36:9944",
+  "explorer_url": "http://49.12.57.36:4000",
+  "metrics_endpoint": "http://49.12.57.36:9615/metrics",
+  "id": "a749a60b-1766-4aec-9c3d-e63ce62fc06d"
+}
