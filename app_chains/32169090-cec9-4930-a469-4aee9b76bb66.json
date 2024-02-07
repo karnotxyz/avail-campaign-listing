@@ -1,0 +1,8 @@
+{
+  "name": "nirvana",
+  "logo": "https://fastcdn.uscloudmedia.com/transformers/validatorPics/4279f9a0e77b4ed8ae32cd98f541865b.jpg",
+  "rpc_url": "http://162.19.171.159:9944",
+  "explorer_url": "http://162.19.171.159:4000",
+  "metrics_endpoint": "http://162.19.171.159:9615/metrics",
+  "id": "32169090-cec9-4930-a469-4aee9b76bb66"
+}
