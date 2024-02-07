@@ -1,0 +1,8 @@
+{
+  "name": "grudgingm",
+  "logo": "http://43.130.245.142/logo.jpg",
+  "rpc_url": "http://43.130.245.142:9944",
+  "explorer_url": "http://43.130.245.142:4000",
+  "metrics_endpoint": "http://43.130.245.142:9615/metrics",
+  "id": "c508c1fd-20fe-428c-bc17-c7b03fff9340"
+}
