@@ -1,0 +1,8 @@
+{
+  "name": "berkeozkara",
+  "logo": "https://imgur.com/a/4ZBT0lC",
+  "rpc_url": "http://161.97.67.97:9944",
+  "explorer_url": "http://161.97.67.97:4000",
+  "metrics_endpoint": "http://161.97.67.97:9615/metrics",
+  "id": "850c3f72-6293-443f-a118-13ad2f932d22"
+}
