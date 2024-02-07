@@ -1,0 +1,8 @@
+{
+  "name": "VNBnode-hainam",
+  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://207.180.208.186:9944",
+  "explorer_url": "http://207.180.208.186:4000",
+  "metrics_endpoint": "http://207.180.208.186:9615/metrics",
+  "id": "c349c971-02d8-477e-ad3d-fe480b3b6a9c"
+}
