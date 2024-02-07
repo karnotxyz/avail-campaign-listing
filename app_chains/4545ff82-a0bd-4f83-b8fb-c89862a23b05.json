@@ -1,0 +1,8 @@
+{
+  "name": "arin",
+  "logo": "https://r.resimlink.com/6mPcl9h8fD.png",
+  "rpc_url": "http://84.247.187.202:9944",
+  "explorer_url": "http://84.247.187.202:4000",
+  "metrics_endpoint": "http://84.247.187.202:9615/metrics",
+  "id": "4545ff82-a0bd-4f83-b8fb-c89862a23b05"
+}
