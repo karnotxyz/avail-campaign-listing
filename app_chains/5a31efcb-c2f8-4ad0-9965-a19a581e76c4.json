@@ -1,0 +1,8 @@
+{
+  "name": "SANGWOOK3",
+  "logo": "https://ibb.co/cwvZKSs",
+  "rpc_url": "http://173.212.192.86:9944",
+  "explorer_url": "http://173.212.192.86:4000",
+  "metrics_endpoint": "http://173.212.192.86:9615/metrics",
+  "id": "5a31efcb-c2f8-4ad0-9965-a19a581e76c4"
+}
