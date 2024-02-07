@@ -1,0 +1,8 @@
+{
+  "name": "APE",
+  "logo": "https://i.imgur.com/CQC2vwg.png",
+  "rpc_url": "http://147.45.42.64:9944",
+  "explorer_url": "http://147.45.42.64:4000",
+  "metrics_endpoint": "http://147.45.42.64:9615/metrics",
+  "id": "21d8b298-e7c3-4f00-b7f7-c3662a85be06"
+}

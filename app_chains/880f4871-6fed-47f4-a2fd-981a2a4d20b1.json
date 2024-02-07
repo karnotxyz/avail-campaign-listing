@@ -1,0 +1,8 @@
+{
+  "name": "infinity",
+  "logo": "https://r.resimlink.com/fTNM-_D2A.jpg",
+  "rpc_url": "http://162.0.224.6:9944",
+  "explorer_url": "http://162.0.224.6:4000",
+  "metrics_endpoint": "http://162.0.224.6:9615/metrics",
+  "id": "880f4871-6fed-47f4-a2fd-981a2a4d20b1"
+}

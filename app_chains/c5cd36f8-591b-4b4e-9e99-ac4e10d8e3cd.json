@@ -1,0 +1,8 @@
+{
+  "name": "madara-scriptmoney",
+  "logo": "https://arweave.net/ggsVKCm8_vm2CfgeT1dyCejrDGIgu9pKoTCfi26mok4&w=400&q=75",
+  "rpc_url": "http://103.218.240.160:9944",
+  "explorer_url": "http://103.218.240.160:4000",
+  "metrics_endpoint": "http://103.218.240.160:9615/metrics",
+  "id": "c5cd36f8-591b-4b4e-9e99-ac4e10d8e3cd"
+}
