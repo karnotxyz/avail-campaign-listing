@@ -1,0 +1,8 @@
+{
+  "name": "Rezo",
+  "logo": "https://r.resimlink.com/1WKE0LFH.png",
+  "rpc_url": "http://193.163.200.248:9944",
+  "explorer_url": "http://193.163.200.248:4000",
+  "metrics_endpoint": "http://193.163.200.248:9615/metrics",
+  "id": "e9255d83-dbdf-46e7-9860-e37609206400"
+}
