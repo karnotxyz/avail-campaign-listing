@@ -1,0 +1,8 @@
+{
+  "name": "alpermat",
+  "logo": "https://r.resimlink.com/rYcA-fngj.png",
+  "rpc_url": "http://134.122.58.125:9944",
+  "explorer_url": "http://134.122.58.125:4000",
+  "metrics_endpoint": "http://134.122.58.125:9615/metrics",
+  "id": "eda4b901-4498-4678-ae37-0ffc377fd87a"
+}
