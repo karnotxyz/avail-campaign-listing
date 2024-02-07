@@ -1,0 +1,8 @@
+{
+  "name": "naruto",
+  "logo": "https://i.postimg.cc/4NQvB87F/kjUrcx7N.jpg",
+  "rpc_url": "http://64.23.156.91:9944",
+  "explorer_url": "http://64.23.156.91:4000",
+  "metrics_endpoint": "http://64.23.156.91:9615/metrics",
+  "id": "c5b9e249-3b76-4593-b763-edbbae9e764a"
+}
