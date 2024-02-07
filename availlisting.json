@@ -1,6 +1,6 @@
 {
     "name": "pouyan",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/87922204/302973738-0270ae97-b71b-4cb8-b30f-32de4aec2b1d.png",
+    "logo": "http://github-production-user-asset-6210df.s3.amazonaws.com/87922204/302973738-0270ae97-b71b-4cb8-b30f-32de4aec2b1d.png",
     "rpc_url": "http:49.12.60.35:9944",
     "explorer_url": "http:49.12.60.35:4000",
     "metrics_endpoint": "http:49.12.60.35:9615",
