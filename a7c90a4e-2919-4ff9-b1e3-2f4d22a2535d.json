@@ -1,0 +1,8 @@
+{
+    "name": "babayaroo",
+    "logo": "https://r.resimlink.com/aQW2Och.png",
+    "rpc_url": "http://65.108.146.145:9944/",
+    "explorer_url": "http://65.108.146.145:4000",
+    "metrics_endpoint": "http://65.108.146.145:9615/metrics",
+    "id": "a7c90a4e-2919-4ff9-b1e3-2f4d22a2535d"
+  }
