@@ -1,8 +1,8 @@
 {
-  "name": "bluecloud",
+  "name": "bluecloudhhhh",
   "logo": "https://placehold.co/400x400",
   "rpc_url": "http://85.214.234.221:9944",
   "explorer_url": "http://85.214.234.221:4000",
-  "metrics_endpoint": "http://85.214.234.221:9615/metrics",
+  "metrics_endpoint": "http://85.214.234.225:9615/metrics",
   "id": "a1b5c334-5972-4569-afc6-1e2d75bd014f"
 }
