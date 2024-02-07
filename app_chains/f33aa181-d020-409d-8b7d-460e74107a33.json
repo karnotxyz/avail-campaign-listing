@@ -1,0 +1,8 @@
+{
+  "name": "tahtaci",
+  "logo": "https://r.resimlink.com/HIfAbzK5.jpeg",
+  "rpc_url": "http://5.189.157.220:9944",
+  "explorer_url": "http://5.189.157.220:4000",
+  "metrics_endpoint": "http://5.189.157.220:9615",
+  "id": "f33aa181-d020-409d-8b7d-460e74107a33"
+}
