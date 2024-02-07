@@ -1,0 +1,8 @@
+{
+  "name": "node101",
+  "logo": "https://pbs.twimg.com/profile_images/1554895314888409088/aLSLvUTQ_400x400.jpg",
+  "rpc_url": "http://173.212.216.104:9944",
+  "explorer_url": "http://173.212.216.104:4000",
+  "metrics_endpoint": "http://173.212.216.104:9615/metrics",
+  "id": "978e9153-b936-4973-b218-2ea5997dc902"
+}
