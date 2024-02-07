@@ -1,0 +1,8 @@
+{
+  "name": "onursuz",
+  "logo": "https://i.imgur.com/6q9PCaG.jpeg",
+  "rpc_url": "http://65.21.189.216:9944",
+  "explorer_url": "http://65.21.189.216:4000",
+  "metrics_endpoint": "http://65.21.189.216:9615/metrics",
+  "id": "79994863-8e23-488b-bd2b-c4320309a138"
+}
