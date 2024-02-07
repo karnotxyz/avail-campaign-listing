@@ -1,0 +1,8 @@
+{
+  "name": "lukaa",
+  "logo": "https://r.resimlink.com/uTRkIUL.png",
+  "rpc_url": "http://158.220.83.186:9944",
+  "explorer_url": "http://158.220.83.186:4000",
+  "metrics_endpoint": "http://158.220.83.186:9615/metrics",
+  "id": "0d22753c-19db-43ec-bf72-2079c889e7bb"
+}
