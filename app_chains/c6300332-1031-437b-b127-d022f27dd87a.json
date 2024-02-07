@@ -1,0 +1,8 @@
+{
+  "name": "sairensu",
+  "logo": "https://i.ibb.co/QbGr9W9/HCRt-IJf-V-400x400-png.png",
+  "rpc_url": "https://164.68.111.223:9944",
+  "explorer_url": "http://164.68.111.223:4000",
+  "metrics_endpoint": "https://164.68.111.223:9615/metrics",
+  "id": "c6300332-1031-437b-b127-d022f27dd87a"
+}
