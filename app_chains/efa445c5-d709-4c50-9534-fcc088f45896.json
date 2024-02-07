@@ -1,0 +1,8 @@
+{
+  "name": "Blacnku",
+  "logo": "https://i.imgur.com/S8nPJPS.png",
+  "rpc_url": "http://184.174.38.19:9944",
+  "explorer_url": "http://184.174.38.19:4000",
+  "metrics_endpoint": "http://184.174.38.19:9615/metrics",
+  "id": "efa445c5-d709-4c50-9534-fcc088f45896"
+}
