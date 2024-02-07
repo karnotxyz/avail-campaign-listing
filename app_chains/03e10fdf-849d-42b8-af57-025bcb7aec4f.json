@@ -1,0 +1,8 @@
+{
+	"name": "IceWater",
+	"logo": "https://i.seadn.io/s/raw/files/66cf3855530f7f69c681cd21347f0ae0.png?auto=format&dpr=1&w=1920",
+	"rpc_url": "http://185.192.97.64:9944",
+	"explorer_url": "http://185.192.97.64:4000",
+	"metrics_endpoint": "http://185.192.97.64:9615/metrics",
+	"id": "03e10fdf-849d-42b8-af57-025bcb7aec4f"
+}
