@@ -1,0 +1,8 @@
+{
+  "name": "jetzz",
+  "logo": "https://r.resimlink.com/QWztYg.png",
+  "rpc_url": "http://206.189.4.81:9944",
+  "explorer_url": "http://206.189.4.81:4000",
+  "metrics_endpoint": "http://206.189.4.81:9615",
+  "id": "d0b0e439-53d6-497c-8236-cb4e0feb92a4"
+}
