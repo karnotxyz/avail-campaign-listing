@@ -1,0 +1,8 @@
+{
+  "name": "flightches",
+  "logo": "http://43.133.165.17/logo.jpg",
+  "rpc_url": "http://43.133.165.17:9944",
+  "explorer_url": "http://43.133.165.17:4000",
+  "metrics_endpoint": "http://43.133.165.17:9615/metrics",
+  "id": "3850d657-9d5e-4e33-aa9b-b6a5b3a55dfc"
+}
