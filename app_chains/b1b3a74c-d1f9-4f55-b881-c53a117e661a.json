@@ -1,0 +1,8 @@
+{
+  "name": "alfan",
+  "logo": "https://ibb.co/qJY4618",
+  "rpc_url": "https://173.249.16.40:9944",
+  "explorer_url": "https://173.249.16.40:4000",
+  "metrics_endpoint": "https://173.249.16.40/metrics",
+  "id": "b1b3a74c-d1f9-4f55-b881-c53a117e661a"
+}
