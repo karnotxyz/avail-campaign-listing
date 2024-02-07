@@ -1,0 +1,8 @@
+{
+  "name": "dikacream",
+  "logo": "https://imgur.com/a/ptAOxef",
+  "rpc_url": "http://65.21.241.31:9944",
+  "explorer_url": "http://65.21.241.31:4000",
+  "metrics_endpoint": "http://65.21.241.31:9615/metrics",
+  "id": "17fbe1b8-e146-4900-a1bd-c336cb55881f"
+}
