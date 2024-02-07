@@ -1,0 +1,7 @@
+{
+  "name": "Pharmalidiyar12",
+  "logo": "https://r.resimlink.com/pwe3gd9s.jpg", 
+  "rpc_url": "http://146.190.153.18:9944",
+  "explorer_url": "http://146.190.153.18:4000",
+  "metrics_endpoint": "http://146.190.153.18:9615",
+  "id": "91cc3541-6e2f-4f09-bf22-fa6e8e20d50e" 
