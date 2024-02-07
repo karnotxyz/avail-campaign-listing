@@ -1,0 +1,8 @@
+{
+  "name": "omer95",
+  "logo": "https://github.com/davoreis/interchain-queries/blob/main/photo_2021-11-23_22-56-00.jpg",
+  "rpc_url": "http://95.217.159.24:9944",
+  "explorer_url": "http://95.217.159.24:4000",
+  "metrics_endpoint": "http://95.217.159.24:9615/metrics",
+  "id": "761655cd-32b9-4e3c-9c09-0be1d5b224c3"
+}
