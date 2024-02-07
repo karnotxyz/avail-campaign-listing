@@ -1,0 +1,8 @@
+{
+  "name": "SANGWOOK3",
+  "logo": "https://pbs.twimg.com/profile_images/1621160149703626753/GP4Ax_UA_400x400.jpg",
+  "rpc_url": "http://173.212.192.86:9944",
+  "explorer_url": "http://173.212.192.86:4000",
+  "metrics_endpoint": "http://173.212.192.86:9615/metrics",
+  "id": "470d822a-0882-4775-9969-50e0559e413b"
+}
