@@ -1,0 +1,8 @@
+{
+  "name": "MelioBTR",
+  "logo": "https://r.resimlink.com/6TSGeF.png",
+  "rpc_url": "http://65.21.146.237:9944",
+  "explorer_url": "http://65.21.146.237:4000",
+  "metrics_endpoint": "http://65.21.146.237:9615/metrics",
+  "id": "6d6c462e-1492-4c9d-8410-4c086a062d13"
+}
