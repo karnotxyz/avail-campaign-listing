@@ -1,0 +1,8 @@
+  {
+  "name": "soficat",
+  "logo": "https://pbs.twimg.com/profile_images/1751002419566104577/KT6LKsIc_400x400.jpg",
+  "rpc_url": "http://49.13.147.234:9944",
+  "explorer_url": "http://49.13.147.234:4000",
+  "metrics_endpoint": "http://49.13.147.234:9615/metrics",
+  "id": "4be9205e-da3b-4e3f-bde3-77c3aeb22d39"
+  }
