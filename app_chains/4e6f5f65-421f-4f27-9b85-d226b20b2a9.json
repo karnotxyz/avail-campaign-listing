@@ -1,0 +1,7 @@
+{
+  "name": "ugur",
+  "logo": "https://r.resimlink.com/leEWypIu38.jpg"
+  "rpc_url": "65.108.83.25:9944",
+  "explorer_url": "65.108.83.25:4000",
+  "metrics_endpoint": "65.108.83.25:9615",
+  "id": "4e6f5f65-421f-4f27-9b85-d226b20b2a9e"
