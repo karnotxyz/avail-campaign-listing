@@ -1,0 +1,8 @@
+{
+  "name": "Feron",
+  "logo": "https://i.im.ge/2024/02/07/cdcg40.Logo.png",
+  "rpc_url": "https://http://161.97.76.226:9944",
+  "explorer_url": "http://161.97.76.226:4000",
+  "metrics_endpoint": "http://161.97.76.226:9615/metrics",
+  "id": "b24ed3f8-1976-435d-8c2c-d7c6e9325287"
+}
