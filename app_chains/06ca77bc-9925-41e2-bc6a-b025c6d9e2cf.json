@@ -1,0 +1,8 @@
+{
+  "name": "hojat",
+  "logo": "https://r.resimlink.com/bGVKDtenI.jpg",
+  "rpc_url": "http://161.97.159.6:9944",
+  "explorer_url": "http://161.97.159.6:4000",
+  "metrics_endpoint": "http://161.97.159.6:9615/metrics",
+  "id": "06ca77bc-9925-41e2-bc6a-b025c6d9e2cf"
+}
