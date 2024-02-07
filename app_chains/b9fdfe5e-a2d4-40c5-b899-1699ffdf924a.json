@@ -1,0 +1,8 @@
+{
+  "name": “iservisnet”,
+  "logo": "https://r.resimlink.com/qC5ATEirej.png“,
+  "rpc_url": "http://167.99.221.207:9944",
+  "explorer_url": "http://167.99.221.207:4000",
+  "metrics_endpoint": "http://167.99.221.207:9615/metrics",
+  "id": "b9fdfe5e-a2d4-40c5-b899-1699ffdf924a"
+}
