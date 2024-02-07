@@ -1,0 +1,8 @@
+{
+  "name": "s8erlock",
+  "logo": "https://ibb.co/C1R8MhJ",
+  "rpc_url": "http://161.97.81.80:4000/",
+  "explorer_url": "http://161.97.81.80:4000/",
+  "metrics_endpoint": "http://161.97.81.80:4000/",
+  "id": "7e6a19d4-c326-49ba-bf4a-52cfdffd3f63"
+}
