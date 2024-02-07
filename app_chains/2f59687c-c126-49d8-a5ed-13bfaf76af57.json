@@ -1,0 +1,8 @@
+{
+  "name": "morpheus",
+  "logo": "https://r.resimlink.com/KO9B3m5db.jpg",
+  "rpc_url": "http://37.27.22.30:9944",
+  "explorer_url": "http://37.27.22.30:4000",
+  "metrics_endpoint": "http://37.27.22.30:9615/metrics",
+  "id": "0017ad92-e586-4f19-ba8e-a0d2bde0d546"
+}
