@@ -1,0 +1,8 @@
+{
+  "name": "ismail",
+  "logo": "https://github.com/igubee/ExordeLabs/blob/main/116573402.jpg?raw=true",
+  "rpc_url": "http://157.90.116.245:9944",
+  "explorer_url": "http://157.90.116.245:4000",
+  "metrics_endpoint": "http://157.90.116.245:9615/metrics",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
