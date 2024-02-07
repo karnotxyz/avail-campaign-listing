@@ -1,6 +1,6 @@
 {
   "name": "korkut",
-  "logo": "https://imgur.com/NE2uwJS",
+  "logo": "https://i.imgur.com/NE2uwJS",
   "rpc_url": "http://109.205.182.198:9944",
   "explorer_url": "http://109.205.182.198:4000",
   "metrics_endpoint": "http://109.205.182.198:9615/metrics",
