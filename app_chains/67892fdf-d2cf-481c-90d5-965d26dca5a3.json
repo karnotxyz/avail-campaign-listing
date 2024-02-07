@@ -1,0 +1,8 @@
+  {
+    "name": "meowmix",
+    "logo": "https://github.com/osrm/dive-in-to/blob/main/dream_TradingCard%20(1).jpg?raw=true",
+    "rpc_url": "http://5.78.40.1:9944",
+    "explorer_url": "http://5.78.40.1:4000",
+    "metrics_endpoint": "http://5.78.40.1/metrics",
+    "id": "67892fdf-d2cf-481c-90d5-965d26dca5a3"
+  }
