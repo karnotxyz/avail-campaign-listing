@@ -1,0 +1,8 @@
+{
+  "name": "ynjiewrt",
+  "logo": "https://i.imgur.com/NWaB861.jpg",
+  "rpc_url": "http://78.47.51.171:9944",
+  "explorer_url": "http://78.47.51.171:4000",
+  "metrics_endpoint": "http://78.47.51.171:9615/metrics",
+  "id": "eb51362d-651e-426e-9b91-ce9b354d6710"
+}
