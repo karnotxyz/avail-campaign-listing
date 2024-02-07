@@ -1,0 +1,8 @@
+{
+ "name": "osmanates",
+  "logo": "https://r.resimlink.com/L2O5fUpMKGYJ.png",
+  "rpc_url": "http://165.232.83.115:9944",
+  "explorer_url": "http://165.232.83.115:4000",
+  "metrics_endpoint": "http://165.232.83.115:9615/metrics",
+  "id": "ff0f7a5c-4736-46f0-bea1-6f2d91ae5e35"
+}
