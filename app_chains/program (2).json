@@ -1,0 +1,8 @@
+{
+    "name": "yutab",
+    "logo": "https://ibb.co/jwmp6B4",
+    "rpc_url": "https://84.247.187.82.:9944",
+    "explorer_url": "https://84.247.187.82.:4000",
+    "metrics_endpoint": "https://84.247.187.82.9615/metrics",
+    "id": "63302842-e8ff-4167-9027-d31689150d41"
+  }
