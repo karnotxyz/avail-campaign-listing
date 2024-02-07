@@ -1,0 +1,7 @@
+{
+  "name": "vortfi",
+  "rpc_url": "http://104.237.9.207:9944",
+  "explorer_url": "http://37.60.236.235:4000",
+  "metrics_endpoint": "http://37.60.236.235:9615/metrics",
+  "id": "ae5e772a-03a7-4588-8dc1-5179e6ce4e58"
+}
