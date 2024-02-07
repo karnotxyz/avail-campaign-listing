@@ -3,6 +3,6 @@
     "logo": "https://iili.io/J1xQf3b.md.jpg",
     "rpc_url": "http://161.97.98.226:9944",
     "explorer_url": "http://161.97.98.226:4000",
-    "metrics_endpoint": "http://161.97.98.226:9615/metrics",
+    "metrics_endpoint": "http://161.97.98.226:9615/metrics"
     "id": "fc1ebabd-5bf8-4e01-ac1d-6257f80ea002"
 }
