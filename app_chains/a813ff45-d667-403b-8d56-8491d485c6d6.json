@@ -1,0 +1,8 @@
+{
+  "name": "Madhakan",
+  "logo": "https://r.resimlink.com/kift6.jpg",
+  "rpc_url": "http://65.21.2.242:9944",
+  "explorer_url": "http://65.21.2.242:4000",
+  "metrics_endpoint": "http://65.21.2.242:9615/metrics",
+  "id": "a813ff45-d667-403b-8d56-8491d485c6d6"
+}
