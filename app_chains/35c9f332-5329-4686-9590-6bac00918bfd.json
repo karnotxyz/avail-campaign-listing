@@ -1,8 +1,8 @@
 {
   "name": "shiesty",
   "logo": "https://ibb.co/TBBHnfW",
-  "rpc_url": "http://41.208.144.14:9944",
-  "explorer_url": "http://41.208.144.14:4000",
-  "metrics_endpoint": "http://41.208.144.14:9615/metrics",
+  "rpc_url": "http://192.168.0.71:9944",
+  "explorer_url": "http://192.168.0.71:4000",
+  "metrics_endpoint": "http://192.168.0.71:9615/metrics",
   "id": "35c9f332-5329-4686-9590-6bac00918bfd"
 }
