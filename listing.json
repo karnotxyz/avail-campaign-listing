@@ -1,0 +1,8 @@
+{
+    "name": "jonnode",
+    "logo": "https://im.ge/i/cduXMa",
+    "rpc_url": "http://149.102.128.190:9944",
+    "explorer_url": "http://149.102.128.190:4000",
+    "metrics_endpoint": "http://149.102.128.190:9615/metrics",
+    "id": "506e3ca7-e31b-41a6-9815-77473d70a1d3"
+  }
