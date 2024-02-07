@@ -1,0 +1,8 @@
+{
+  "name": "gemgym1",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/56671244/303055100-6899ac8f-102b-4b5e-82d7-631911e99f59.png",
+  "rpc_url": "http://5.182.87.254:9944",
+  "explorer_url": "http://5.182.87.254:4000",
+  "metrics_endpoint": "http://5.182.87.254:9615/metrics",
+  "id": "5c0b50d2-04d0-429b-b5b4-88a7312bfba6"
+}
