@@ -1,0 +1,8 @@
+{
+  "name": "kaemi",
+  "logo": "https://i.imgur.com/vHhVmra.jpg",
+  "rpc_url": "http://69.87.218.97:9944",
+  "explorer_url": "http://69.87.218.97:4000",
+  "metrics_endpoint": "http://69.87.218.97:9615/metrics",
+  "id": "c5f89904-735e-4ce2-9c29-876eb598898e"
+}
