@@ -1,0 +1,8 @@
+{
+  "name": "mstfsvnc",
+  "logo": "https://r.resimlink.com/IGYoSQg.webp",
+  "rpc_url": "http://5.75.182.94:9944",
+  "explorer_url": "http://5.75.182.94:4000",
+  "metrics_endpoint": "http://5.75.182.94:9615",
+  "id": "9d3b7219-c92d-4967-bb16-e7450db98a05" 
+}
