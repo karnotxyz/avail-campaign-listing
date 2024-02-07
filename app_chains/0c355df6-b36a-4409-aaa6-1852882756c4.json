@@ -1,8 +1,8 @@
-{
+ {
     "name": "meur",
     "logo": "https://r.resimlink.com/Rl9VWpd1B.png",
     "rpc_url": "http://185.202.238.51:9944/",
     "explorer_url": "http://185.202.238.51:4000/",
     "metrics_endpoint": "http://185.202.238.51:9615/metrics",
     "id": "0c355df6-b36a-4409-aaa6-1852882756c4"
-}
+ }
