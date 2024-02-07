@@ -1,1 +1,8 @@
-{"encoded":"wIenOQJm7b6FQkrM/u2DamFklOmXH6RtBbv/IkXFHRUAgAAAAQAAAAgAAADhJxIs1THS59KcAy4R5jvQBHH+i93Grb3viM0pXGViUBoUg9lAZzwzb3pH/m9EF18lLsQto2GdpKR5GLKtUtWycH+agbVlZmIiYKxZLjN8M0faNC/OhkvcS/+CU6BpAgq80Mf5k9gMZ33igGbyLLE8eTcrBFiKsqyPUiiFGJclKa/YvHKmfFTQ01B3mQn9IWDny2zVyzt0Wwh6OxRc","encoding":{"content":["pkcs8","sr25519"],"type":["scrypt","xsalsa20-poly1305"],"version":"3"},"address":"5GmbBMDuiS5FUdihnW8MYsUqQbpJNcJwv2ZJraNEMaB8GJLY","meta":{"genesisHash":"0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae","isHardware":false,"name":"avail node","tags":[],"whenCreated":1707311238513}}
+{
+  "name": "Availemir",
+  "logo": "https://r.resimlink.com/-gj6bEsPO7fv.png",
+  "rpc_url": "http://164.92.160.112:9944",
+  "explorer_url": "http://164.92.160.112:4000",
+  "metrics_endpoint": "http://164.92.160.112:9615",
+  "id": "02074013-f25b-4b99-a389-a39206476019"
+}
