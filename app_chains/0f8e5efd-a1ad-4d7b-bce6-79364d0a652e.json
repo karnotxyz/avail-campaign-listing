@@ -1,0 +1,8 @@
+{
+  "name": "madaraplb",
+  "logo": "https://i.postimg.cc/VSDKSp14/fruit.jpg",
+  "rpc_url": "http://161.97.100.85:9944",
+  "explorer_url": "http://161.97.100.85:4000",
+  "metrics_endpoint": "http://161.97.100.85:9615/metrics",
+  "id": "0f8e5efd-a1ad-4d7b-bce6-79364d0a652e"
+}

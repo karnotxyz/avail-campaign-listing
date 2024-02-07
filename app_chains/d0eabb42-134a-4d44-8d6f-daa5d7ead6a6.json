@@ -1,0 +1,8 @@
+{
+  "name": "hisaoing",
+  "logo": "https://i.im.ge/2024/02/05/befAi9.images.png",
+  "rpc_url": "http://43.156.202.209:9944",
+  "explorer_url": "http://43.156.202.209:4000",
+  "metrics_endpoint": "http://43.156.202.209:9615/metrics",
+  "id": "d0eabb42-134a-4d44-8d6f-daa5d7ead6a6"
+}
