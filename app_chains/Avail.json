@@ -1,0 +1,8 @@
+{
+    "name": "SinA",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/103168440/303139480-688e2796-d446-43e7-a70b-6143ced77247.png",
+    "rpc_url": "http://49.12.60.34:9944",
+    "explorer_url": "http://49.12.60.34:4000",
+    "metrics_endpoint": "metrics_endpoint": "http://49.12.60.34:9615/metrics",
+    "id": "02d1f3c3-e59b-447a-8e7e-6c626ddedf52"
+  }
