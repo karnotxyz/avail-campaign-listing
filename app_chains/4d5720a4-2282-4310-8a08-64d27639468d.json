@@ -1,0 +1,8 @@
+{
+	"name": "jijicats",
+	"logo": "https://i.ibb.co/sj8p8cB/usamimi400.png",
+	"rpc_url": "http://38.242.231.236:9944",
+	"explorer_url": "http://38.242.231.236:4000",
+	"metrics_endpoint": "http://38.242.231.236:9615/metrics",
+	"id": "4d5720a4-2282-4310-8a08-64d27639468d"
+}
