@@ -1,6 +1,6 @@
 {
-  "name": "rollap-isim",
-  "logo": "logo-linkiniz",
+  "name": "deneme",
+  "logo": "https://r.resimlink.com/h2GVuZ_6mWr.png",
   "rpc_url": "65.108.51.242:9944",
   "explorer_url": "65.108.51.242:4000",
   "metrics_endpoint": "65.108.51.242:9615/metrics",
