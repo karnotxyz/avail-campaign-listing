@@ -1,0 +1,8 @@
+{
+    "name": "armagdon",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/109453970/302891493-d9ea4800-883d-43e3-9e61-d2d587aed8af.png",
+    "rpc_url": "https://49.12.57.36:9944",
+    "explorer_url": "https://49.12.57.36:4000",
+    "metrics_endpoint": "https://49.12.57.36:9615",
+    "id": "0c534860-26cd-4cb9-bd8a-b7c6d2e81a77"
+  }
