@@ -1,0 +1,8 @@
+{
+  "name": "se7en",
+  "logo": "https://preprod-usea1-goerli-operator-metadata.s3.amazonaws.com/0x14f74e8c765ce166068f6cb264f795aa9a1b1bec/logo.png",
+  "rpc_url": "http://217.196.98.21:9944",
+  "explorer_url": "http://217.196.98.21:4000",
+  "metrics_endpoint": "http://217.196.98.21:9615/metrics",
+  "id": "9f11ff60-4dac-4a23-b565-cab2713ef581"
+}
