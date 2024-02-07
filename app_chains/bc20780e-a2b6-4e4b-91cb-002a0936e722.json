@@ -1,0 +1,8 @@
+{
+  "name": "Dilan",
+  "logo": "https://raw.githubusercontent.com/Cryptoerdo/rollapp-registry/main/dilan_5309912-1/logos/dilan_5309912-1.jpg",
+  "rpc_url": "http://167.86.70.89:9944",
+  "explorer_url": "http://167.86.70.89:4000",
+  "metrics_endpoint": "http://167.86.70.89:9615/metrics",
+  "id": "1dcb6a31-3d3d-4cdb-84d4-1799a9c8faa2"
+}
