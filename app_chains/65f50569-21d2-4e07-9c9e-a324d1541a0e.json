@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://r.resimlink.com/7UWmRLaf.jpg",
+  "rpc_url": "http://65.21.245.131:9944",
+  "explorer_url": "http://65.21.245.131:4000",
+  "metrics_endpoint": "http://65.21.245.131:9615",
+  "id": "65f50569-21d2-4e07-9c9e-a324d1541a0e"
+}
