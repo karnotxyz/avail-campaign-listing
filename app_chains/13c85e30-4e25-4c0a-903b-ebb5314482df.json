@@ -1,0 +1,8 @@
+{
+  "name": "tionsin",
+  "logo": "https://s2.loli.net/2024/02/02/5cpkZxdzGCLsyEU.png",
+  "rpc_url": "http://107.189.159.17:9944",
+  "explorer_url": "http://107.189.159.17:4000",
+  "metrics_endpoint": "http://107.189.159.17:9615/metrics",
+  "id": "13c85e30-4e25-4c0a-903b-ebb5314482df"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Adam_VNBnode",
+  "logo": "https://github.com/vnbnode/binaries/blob/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://154.53.45.184:9944",
+  "explorer_url": "http://154.53.45.184:4000",
+  "metrics_endpoint": "http://154.53.45.184:9615/metrics",
+  "id": "d35f0739-2327-477a-acfd-0bddde8d884a"
+}

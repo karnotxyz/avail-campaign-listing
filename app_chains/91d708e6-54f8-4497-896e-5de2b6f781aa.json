@@ -1,0 +1,8 @@
+{
+  "name": "tkmadara",
+  "logo": "https://i.seadn.io/s/raw/files/e0e31d0e204c0e99f229eabfa8609cf4.png",
+  "rpc_url": "http://109.123.230.157:9944",
+  "explorer_url": "http://109.123.230.157:4000/",
+  "metrics_endpoint": "http://109.123.230.157:9615/metrics",
+  "id": "91d708e6-54f8-4497-896e-5de2b6f781aa"
+}
