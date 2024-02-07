@@ -1,0 +1,8 @@
+{
+  "name": "zklsdmodular",
+  "logo": "https://i.imgur.com/bufypCP.jpeg",
+  "rpc_url": "http://49.13.204.8:9944",
+  "explorer_url": "http://49.13.204.8:4000",
+  "metrics_endpoint": "http://49.13.204.8:9615/metrics",
+  "id": "105e6e53-3c02-4f7e-bac3-c000217b6725"
+}
