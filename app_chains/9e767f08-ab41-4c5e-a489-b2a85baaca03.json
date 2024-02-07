@@ -1,19 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2759
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red27\green27\blue27;\red247\green247\blue247;\red111\green90\blue30;
-\red181\green0\blue19;}
-{\*\expandedcolortbl;;\cssrgb\c14118\c14118\c14118;\cssrgb\c97647\c97647\c97647;\cssrgb\c51373\c42353\c15686;
-\cssrgb\c76863\c10196\c8627;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \{ \
-  \cf4 \strokec4 "nome" \cf2 \strokec2 :  \cf5 \strokec5 \'93madara\'94 \cf2 \strokec2 , \
-  \cf4 \strokec4 "logo" \cf2 \strokec2 :  \cf5 \strokec5 "https://i.ibb.co/QbVcm0p/cipmail.jpg" \cf2 \strokec2 , \
-  \cf4 \strokec4 "rpc_url" \cf2 \strokec2 :  \cf5 \strokec5 "https://192.5.152.112:9944\'94\cf2 \strokec2 , \
-  \cf4 \strokec4 "explorer_url" \cf2 \strokec2 :  \cf5 \strokec5 "https:// 192.5.152.112:4000\'94\cf2 \strokec2 , \
-  \cf4 \strokec4 "metrics_endpoint" \cf2 \strokec2 :  \cf5 \strokec5 "https://192.5.152.112:9615/metrics\'94 \cf2 \strokec2 , \
-  \cf4 \strokec4 "id" \cf2 \strokec2 :  \cf5 \strokec5 "9e767f08-ab41-4c5e-a489-b2a85baaca03" \cf2 \strokec2 \
-\}}
+{ 
+  "nome" :  "madara" , 
+  "logo" :  "https://i.ibb.co/QbVcm0p/cipmail.jpg" , 
+  "rpc_url" :  "https://192.5.152.112:9944" , 
+  "explorer_url" :  "https://192.5.152.112:4000" , 
+  "metrics_endpoint" :  "https://192.5.152.112:9615/metrics" , 
+  "id" :  "9e767f08-ab41-4c5e-a489-b2a85baaca03" 
+}
