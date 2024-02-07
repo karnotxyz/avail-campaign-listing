@@ -1,0 +1,8 @@
+{
+  "name": "basam",
+  "logo": "https://i.ibb.co/DQ8JnLh/xroott.jpg",
+  "rpc_url": "http://35.184.146.140:9944",
+  "explorer_url": "http://35.184.146.140:4000",
+  "metrics_endpoint": "http://35.184.146.140:9615/metrics",
+  "id": "13676e24-59f0-43c9-aa26-1e0ed4e37c08"
+}
