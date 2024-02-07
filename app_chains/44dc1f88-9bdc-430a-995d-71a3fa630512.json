@@ -3,6 +3,6 @@
   "logo": "https://i.ibb.co/mC6qNtm/dollaro-occhio.jpg",
   "rpc_url": "http://193.203.15.65:9944",
   "explorer_url": "http://193.203.15.65:4000",
-  "metrics_endpoint": "http://193.203.15:9615/metrics",
+  "metrics_endpoint": "http://193.203.15.65:9615/metrics",
   "id": "44dc1f88-9bdc-430a-995d-71a3fa630512"
 }
