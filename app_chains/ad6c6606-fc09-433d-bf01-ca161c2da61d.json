@@ -1,0 +1,8 @@
+{
+  "name": "jhnpaulNODES",
+  "logo": "https://ibb.co/yX8JLqY",
+  "rpc_url": "http://185.180.220.144:9944/",
+  "explorer_url": "http://185.180.220.144:4000",
+  "metrics_endpoint": "http://185.180.220.144:9615/metrics",
+  "id": "ad6c6606-fc09-433d-bf01-ca161c2da61d"
+}
