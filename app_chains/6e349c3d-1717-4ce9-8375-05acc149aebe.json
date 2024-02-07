@@ -1,8 +1,0 @@
-{
-  "name": "algebra",
-  "logo": "https://ibb.co/ZgmY9dp",
-  "rpc_url": "http://134.122.50.169:9944",
-  "explorer_url": "http://134.122.50.169:4000",
-  "metrics_endpoint": "http://134.122.50.169:9615/metrics",
-  "id": "6e349c3d-1717-4ce9-8375-05acc149aebe"
-}
