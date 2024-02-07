@@ -1,0 +1,8 @@
+{
+  "name": "VNBnode-dhailong",
+  "logo": "https://docs.vnbnode.com/img/logo.svg",
+  "rpc_url": "http://207.180.208.186:9944",
+  "explorer_url": "http://207.180.208.186:4000",
+  "metrics_endpoint": "207.180.208.186:9615/metrics",
+  "id": "376c9245-4543-4ddb-88af-a19feb63ae9c"
+}
