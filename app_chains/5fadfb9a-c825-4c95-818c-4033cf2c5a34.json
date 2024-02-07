@@ -1,0 +1,8 @@
+{
+  "name": "miarose",
+  "logo": "https://i.im.ge/2024/01/27/b2zgdx.LOGO.jpg",
+  "rpc_url": "http://84.247.186.144:9944",
+  "explorer_url": "http://84.247.186.144:4000",
+  "metrics_endpoint": "http://84.247.186.144:9615/metrics",
+  "id": "5fadfb9a-c825-4c95-818c-4033cf2c5a34"
+}
