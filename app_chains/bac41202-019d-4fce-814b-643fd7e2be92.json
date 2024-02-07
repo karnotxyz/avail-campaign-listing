@@ -1,6 +1,6 @@
 {
   "name": "qavurdagli",
-  "logo": "https://github.com/QavurDagli/rollapp-registry/blob/main/qavurdagli_3181994-1/logos/qavurdagli_3181994-1.png",
+  "logo": "https://raw.githubusercontent.com/QavurDagli/rollapp-registry/main/qavurdagli_3181994-1/logos/qavurdagli_3181994-1.png?raw=true",
   "rpc_url": "http://81.0.220.178:9944",
   "explorer_url": "http://81.0.220.178:4000",
   "metrics_endpoint": "http://81.0.220.178:9615/metrics",
