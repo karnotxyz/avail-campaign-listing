@@ -1,0 +1,8 @@
+{
+  "name": "sownderpa",
+  "logo": "http://124.156.222.114/logo.jpg",
+  "rpc_url": "http://124.156.222.114:9944",
+  "explorer_url": "http://124.156.222.114:4000",
+  "metrics_endpoint": "http://124.156.222.114:9615/metrics",
+  "id": "7a20100b-3122-46ea-b89d-6cb524edcdf6"
+}
