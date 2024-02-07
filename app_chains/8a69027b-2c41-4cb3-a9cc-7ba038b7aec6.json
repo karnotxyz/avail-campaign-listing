@@ -1,0 +1,8 @@
+  {
+    "name": "gollo5",
+    "logo": "https://r.resimlink.com/ZmLhY2tCw.png",
+    "rpc_url": "http://65.108.253.166:9944",
+    "explorer_url": "http://65.108.253.166:4000",
+    "metrics_endpoint": "http://65.108.253.166:9615/metrics", 
+    "id": "8a69027b-2c41-4cb3-a9cc-7ba038b7aec6"
+  }
