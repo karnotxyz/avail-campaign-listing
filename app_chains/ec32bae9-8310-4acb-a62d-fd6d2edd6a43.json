@@ -1,0 +1,8 @@
+{
+  "name": "54169",
+  "logo": "https://cdn.pixabay.com/photo/2023/12/12/18/10/duck-8445697_1280.jpg",
+  "rpc_url": "http://74.48.73.4:9944",
+  "explorer_url": "http://74.48.73.4:4000",
+  "metrics_endpoint": "http://74.48.73.4:9615/metrics",
+  "id": "ec32bae9-8310-4acb-a62d-fd6d2edd6a43"
+}
