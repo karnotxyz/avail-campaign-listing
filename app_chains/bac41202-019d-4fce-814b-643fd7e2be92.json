@@ -1,1 +1,8 @@
-
+{
+  "name": "qavurdagli",
+  "logo": "https://avatars.githubusercontent.com/u/84801169?v=4",
+  "rpc_url": "http://81.0.220.178:9944",
+  "explorer_url": "http://81.0.220.178:4000",
+  "metrics_endpoint": "http://81.0.220.178:9615/metrics",
+  "id": "bac41202-019d-4fce-814b-643fd7e2be92"
+}
