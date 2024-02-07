@@ -1,8 +1,8 @@
 {
   "name": "thangnguyen",
   "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://158.220.119.39:9944",
-  "explorer_url": "https://158.220.119.39:4000",
-  "metrics_endpoint": "https://158.220.119.39:9615/metrics",
+  "rpc_url": "http://158.220.119.39:9944",
+  "explorer_url": "http://158.220.119.39:4000",
+  "metrics_endpoint": "http://158.220.119.39:9615/metrics",
   "id": "fe020cb2-fc89-43c8-86b2-ed4399492b6f"
 }
