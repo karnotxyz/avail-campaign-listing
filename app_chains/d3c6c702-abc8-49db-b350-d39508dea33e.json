@@ -1,0 +1,8 @@
+{
+  "name": "heartop",
+  "logo": "https://imgur.com/a/EIpPKyR.png",
+  "rpc_url": "http://157.90.110.93:9944",
+  "explorer_url": "http://157.90.110.93:4000",
+  "metrics_endpoint": "http://157.90.110.93:9615/metrics",
+  "id": "d3c6c702-abc8-49db-b350-d39508dea33e"
+}
