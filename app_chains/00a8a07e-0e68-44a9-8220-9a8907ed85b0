@@ -1,8 +1,0 @@
-{
-  "name": "AstroNodes",
-  "logo": "https://i.im.ge/2023/12/26/x5oHXL.logo-head-dark.png",
-  "rpc_url": "http://49.13.8.1:9944/",
-  "explorer_url": "http://49.13.8.1:4000/",
-  "metrics_endpoint": "http://49.13.8.1:9615/",
-  "id": "00a8a07e-0e68-44a9-8220-9a8907ed85b0"                                                                                                                                                                                      
-}
