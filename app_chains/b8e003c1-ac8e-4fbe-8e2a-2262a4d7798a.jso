@@ -1,0 +1,8 @@
+{
+  "name": "Kocasinan",
+  "logo": "https://r.resimlink.com/oHq4z.jpg",
+  "rpc_url": "http://128.140.65.46:9944",
+  "explorer_url": "http://128.140.65.46:4000",
+  "metrics_endpoint": "http://128.140.65.46:9615/metrics",
+  "id": "b8e003c1-ac8e-4fbe-8e2a-2262a4d7798a"
+}
