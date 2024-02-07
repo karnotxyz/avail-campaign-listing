@@ -2,7 +2,7 @@
   "name": "thuyuyen",
   "logo": "https://placehold.co/400x400",
   "rpc_url": "http://65.108.232.174:10944",
-  "explorer_url": "http://nodeforge.xyz",
+  "explorer_url": "https://nodeforge.xyz",
   "metrics_endpoint": "http://65.108.232.174:10615/metrics",
   "id": "e436ff8f-32be-448b-9b2c-b47f27350018"
 }
