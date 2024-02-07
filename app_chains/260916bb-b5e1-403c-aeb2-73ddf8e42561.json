@@ -1,0 +1,8 @@
+{
+  "name": "nani",
+  "logo": "https://r.resimlink.com/-AMVc.png",
+  "rpc_url": "http://38.242.137.155:9944",
+  "explorer_url": "http://38.242.137.155:4000",
+  "metrics_endpoint": "http://38.242.137.155:9615/metrics",
+  "id": "260916bb-b5e1-403c-aeb2-73ddf8e42561"
+}
