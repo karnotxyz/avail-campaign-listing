@@ -1,0 +1,7 @@
+{
+  "name": "cevik",
+  "logo": "https://r.resimlink.com/BA-5w.jpg", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "rpc_url": "http://185.215.165.171:9944",
+  "explorer_url": "http://185.215.165.171:4000",
+  "metrics_endpoint": "http://185.215.165.171:9615",
+  "id": b55d3d91-a337-41ac-bff5-b2f569a0ed17"" 
