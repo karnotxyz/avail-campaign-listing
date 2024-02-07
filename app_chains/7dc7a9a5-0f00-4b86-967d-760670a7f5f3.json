@@ -1,8 +1,8 @@
 {
-  "name": "my_app_chain",
+  "name": "Sakulta",
   "logo": "https://i.imgur.com/ZEFRWqy.png",
   "rpc_url": "http://185.188.249.150:9944",
   "explorer_url": "http://185.188.249.150:4000",
   "metrics_endpoint": "http://185.188.249.150:9615/metrics",
-  "id": "9b206e8d-42d6-4709-9155-ce749d5f5e29"
+  "id": "7dc7a9a5-0f00-4b86-967d-760670a7f5f3"
 }
