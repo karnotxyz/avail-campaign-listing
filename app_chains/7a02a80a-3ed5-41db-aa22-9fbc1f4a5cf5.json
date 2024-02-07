@@ -1,0 +1,8 @@
+{
+  "name": "saytwo",
+  "logo": "https://images.pexels.com/photos/12082454/pexels-photo-12082454.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "rpc_url": "http://147.45.74.138:9944",
+  "explorer_url": "http://147.45.74.138:4000",
+  "metrics_endpoint": "http:147.45.74.138:9615/metrics",
+  "id": "7a02a80a-3ed5-41db-aa22-9fbc1f4a5cf5"
+}
