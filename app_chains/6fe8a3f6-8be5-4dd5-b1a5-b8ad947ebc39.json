@@ -1,0 +1,8 @@
+{
+  "name": “0xCallmeOzzy”,
+  "logo": "https://r.resimlink.com/L2O5fUpMKGYJ.png",
+  "rpc_url": "http://178.62.203.111:9944",
+  "explorer_url": "http://178.62.203.111:4000",
+  "metrics_endpoint": "http://178.62.203.111:9615/metrics",
+  "id": "6fe8a3f6-8be5-4dd5-b1a5-b8ad947ebc39"
+}
