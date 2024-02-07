@@ -1,0 +1,8 @@
+{
+  "name": "fivecent",
+  "logo": "https://i.imgur.com/B0IOIzj.png",
+  "rpc_url": "http://194.163.145.210:9944",
+  "explorer_url": "http://194.163.145.210:4000",
+  "metrics_endpoint": "http://194.163.145.210:9615/metrics",
+  "id": "e0bbf5db-744c-4688-b215-6aa5325471a0"
+}
