@@ -1,0 +1,8 @@
+  {
+    "name": "crbaa",
+    "logo": "https://imgur.com/a/d7U8kvA",
+    "rpc_url": "http://95.217.218.202:9944",
+    "explorer_url": "http://95.217.218.202:4000",
+    "metrics_endpoint": "http://95.217.218.202:9615/metrics",
+    "id": "5857e5c7-57be-4c3b-9c51-a6df55964dd7"
+  }
