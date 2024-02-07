@@ -1,0 +1,8 @@
+{
+    "name": "Asgar1993",
+    "logo": "https://raw.githubusercontent.com/saeedaslani72/Logomain/main/lofy.png",
+    "rpc_url": "http://5.189.165.125:9944",
+    "explorer_url": "http://5.189.165.125:4000",
+    "metrics_endpoint": "http://5.189.165.125/metrics",
+    "id": "6b8a89b1-a04e-4dd1-98c1-68910d54b5a3"
+  }
