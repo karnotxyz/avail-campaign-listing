@@ -1,0 +1,8 @@
+{
+  "name": "purpurzo",
+  "logo": "http://124.156.226.154/logo.jpg",
+  "rpc_url": "http://124.156.226.154:9944",
+  "explorer_url": "http://124.156.226.154:4000",
+  "metrics_endpoint": "http://124.156.226.154:9615/metrics",
+  "id": "fd5f4caf-534a-4793-a101-e361168bf1a2"
+}
