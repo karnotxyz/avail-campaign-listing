@@ -1,8 +1,8 @@
 {
   "name": "kaminami",
-  "logo": "https://r.resimlink.com/FnPQ9.png",
-  "rpc_url": "http://193.36.85.154:9944",
-  "explorer_url": "http://193.36.85.154:4000",
-  "metrics_endpoint": "http://193.36.85.154:9615/metrics",
+  "logo": "https://r.resimlink.com/gFnPQ9.png",
+  "rpc_url": "http://191.32.85.154:9944",
+  "explorer_url": "http://191.32.85.154:4000",
+  "metrics_endpoint": "http://191.32.85.154:9615/metrics",
   "id": "15bab197-e6a5-4207-a46a-a7f22bf1b194"
 }
