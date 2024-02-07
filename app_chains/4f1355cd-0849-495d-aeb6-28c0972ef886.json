@@ -1,0 +1,8 @@
+{
+  "name": "Yanz_Stake",
+  "logo": "https://imgur.com/O6Ew7xX.png",
+  "rpc_url": "http://206.189.88.55:9944",
+  "explorer_url": "http://206.189.88.55:4000",
+  "metrics_endpoint": "http://206.189.88.55:9615/metrics",
+  "id": "4f1355cd-0849-495d-aeb6-28c0972ef886"
+}
