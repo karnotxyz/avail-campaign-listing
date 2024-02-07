@@ -1,0 +1,8 @@
+{
+  "name": "madara-fatman",
+  "logo": "https://pbs.twimg.com/profile_images/1733049204082184192/JhOo6_rc_400x400.png",
+  "rpc_url": "http://158.220.113.127:9944",
+  "explorer_url": "http://158.220.113.127:4000",
+  "metrics_endpoint": "http://158.220.113.127/metrics",
+  "id": "4d667b5a-70f3-4f50-9d52-0e4a2010005e"
+}
