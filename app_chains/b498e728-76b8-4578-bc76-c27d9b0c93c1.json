@@ -1,0 +1,8 @@
+{
+  "name": "LinkedYan",
+  "logo": "https://i.imgur.com/ENb1TGJ.jpeg",
+  "rpc_url": "http://114.79.18.248:9944",
+  "explorer_url": "http://114.79.18.248:4000",
+  "metrics_endpoint": "http://114.79.18.248:9615/metrics",
+  "id": "b498e728-76b8-4578-bc76-c27d9b0c93c1"
+}
