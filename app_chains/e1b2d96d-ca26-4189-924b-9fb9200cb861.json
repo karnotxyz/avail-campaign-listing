@@ -1,0 +1,8 @@
+{
+  "name": "elrond",
+  "logo": "https://r.resimlink.com/u1Q5_.png",
+  "rpc_url": "http://65.109.13.124:9944",
+  "explorer_url": "http://65.109.13.124:4000",
+  "metrics_endpoint": "65.109.13.124:9615/metrics",
+  "id": "e1b2d96d-ca26-4189-924b-9fb9200cb861"
+}
