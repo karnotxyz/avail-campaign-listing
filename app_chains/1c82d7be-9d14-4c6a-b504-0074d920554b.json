@@ -1,0 +1,8 @@
+{
+  "name": "EscolaCripto",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHRvgLmkaAHgx4_vHutor0D3jwSND7gPa0hj9scF9xA&s",
+  "rpc_url": "http://89.116.225.3:9944",
+  "explorer_url": "http://89.116.225.3:4000",
+  "metrics_endpoint": "http://89.116.225.3:9615/metrics",
+  "id": "1c82d7be-9d14-4c6a-b504-0074d920554b"
+}

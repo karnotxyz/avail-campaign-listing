@@ -1,0 +1,8 @@
+{
+  "name": "NodesRun",
+  "logo": "https://i.imgur.com/FfvuVJm.jpg",
+  "rpc_url": "http://49.13.83.155:9944",
+  "explorer_url": "http://49.13.83.155:4000",
+  "metrics_endpoint": "http://49.13.83.155:9615/metrics",
+  "id": "74d39d63-ce58-4560-9a28-48d349bd02b5"
+}

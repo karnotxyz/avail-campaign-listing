@@ -1,0 +1,8 @@
+{
+  "name": "mssnodes",
+  "logo": "https://raw.githubusercontent.com/mesahin001/mesahin/main/sahin400.png",
+  "rpc_url": "http://38.242.129.240:9944",
+  "explorer_url": "http://38.242.129.240:4000",
+  "metrics_endpoint": "http://38.242.129.240:9615/metrics",
+  "id": "9dfd1ce6-3362-41c2-bcbb-12bf5be2a89b"
+}

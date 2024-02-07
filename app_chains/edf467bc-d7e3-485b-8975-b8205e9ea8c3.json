@@ -1,0 +1,8 @@
+{
+  "name": "erayg",
+  "logo": "https://r.resimlink.com/AQS1T.png",
+  "rpc_url": "http://167.86.101.86:9944",
+  "explorer_url": "http://167.86.101.86:4000",
+  "metrics_endpoint": "http://167.86.101.86:9615/metrics",
+  "id": "edf467bc-d7e3-485b-8975-b8205e9ea8c3"
+}
