@@ -1,8 +1,0 @@
-{
-  "name": "morker",
-  "logo": "https://r.resimlink.com/OcSVP.png",
-  "rpc_url": "http://185.182.187.61:9944",
-  "explorer_url": "http://185.182.187.61:4000",
-  "metrics_endpoint": "http://185.182.187.61:9615/metrics",
-  "id": "1d2c02d5-a46c-4fbc-83d9-8d541ac1b3e4" 
-}
