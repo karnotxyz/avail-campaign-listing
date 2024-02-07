@@ -1,0 +1,8 @@
+{
+  "name": "schisse",
+  "logo": "https://imgur.com/a/cpTvb5A",
+  "rpc_url": "http://37.60.234.113:9944",
+  "explorer_url": "http://37.60.234.113:4000",
+  "metrics_endpoint": "37.60.234.113:9615/metrics",
+  "id": "c058ef8a-9bcb-4299-ba04-620b593853c9"
+}
