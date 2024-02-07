@@ -1,0 +1,8 @@
+{
+  "name": "dikacream",
+  "logo": "https://ibb.co/GnL60PH",
+  "rpc_url": "http://65.21.241.31:9944",
+  "explorer_url": "http://65.21.241.31:4000",
+  "metrics_endpoint": "http://65.21.241.31:9615/metrics",
+  "id": "17fbe1b8-e865-4900-a1bd-c146cb55881f"
+}
