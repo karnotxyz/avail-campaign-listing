@@ -1,0 +1,8 @@
+{
+  "name": "rodeo",
+  "logo": "https://imgur.com/a/jlzYrJe",
+  "rpc_url": "http:/146.190.46.90:9944",
+  "explorer_url": "http://146.190.46.90:4000",
+  "metrics_endpoint": "http://146.190.46.90:9615/metrics",
+  "id": "1006ec9c-205f-48b1-b76d-c3a6cb6fb242"
+}
