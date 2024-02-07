@@ -1,0 +1,8 @@
+{
+  "name": "iman1995",
+  "logo": "https://imgur.com/a/sRf27y5",
+  "rpc_url": "http://144.91.87.113:9944",
+  "explorer_url": "http://144.91.87.113:4000",
+  "metrics_endpoint": "http://144.91.87.113:9615/metrics",
+  "id": "e64bdaaa-94e8-4ef5-aacd-d6f21e7ba09d"
+}

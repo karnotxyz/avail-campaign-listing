@@ -1,0 +1,8 @@
+{
+  "name": "medjed",
+  "logo": "https://im.ge/i/bncZCG",
+  "rpc_url": "http://194.163.168.145:9944",
+  "explorer_url": "http://194.163.168.145:4000",
+  "metrics_endpoint": "http://194.163.168.145:9615/metrics",
+  "id": "ba7f0741-b9ae-4c65-bacc-d7a991e5763e"
+}
