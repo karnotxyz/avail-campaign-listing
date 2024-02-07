@@ -1,0 +1,8 @@
+{
+  "name": "Rated",
+  "logo": "https://i.ibb.co/YcQ3T6c/ml5k7sf5s-2ep6f4t-jpg-jwruct.jpg",
+  "rpc_url": "http://65.21.24.181:9944",
+  "explorer_url": "http://65.21.24.181:4000",
+  "metrics_endpoint": "http://65.21.24.181:9615/metrics",
+  "id": "fab10b2b-037d-4089-84e6-2db252241155"
+}
