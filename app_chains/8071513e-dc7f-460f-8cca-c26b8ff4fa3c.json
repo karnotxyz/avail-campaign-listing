@@ -1,0 +1,8 @@
+{
+  "name": "madaraolduk",
+  "logo": "https://r.resimlink.com/cvQ74AupskqV.jpg",
+  "rpc_url": "http://65.21.2.242:9944",
+  "explorer_url": "http://65.21.2.242:4000",
+  "metrics_endpoint": "http://65.21.2.242:9615",
+  "id": "8071513e-dc7f-460f-8cca-c26b8ff4fa3c"
+}
