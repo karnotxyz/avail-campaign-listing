@@ -2,7 +2,7 @@
   "nome" :  "finalyxre" , 
   "logo" :  "https://i.ibb.co/QbVcm0p/cipmail.jpg" , 
   "rpc_url" :  "https://194.5.152.112:9944" , 
-  "explorer_url" :  "https://194.5.152.112:4000" , 
-  "metrics_endpoint" :  "https://194.5.152.112:9615/metrics" , 
+  "explorer_url" :  "http://194.5.152.112:4000" , 
+  "metrics_endpoint" :  "http://194.5.152.112:9615/metrics" , 
   "id" :  "9e767f08-ab41-4c5e-a489-b2a85baaca03" 
 }
