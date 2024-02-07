@@ -1,0 +1,8 @@
+{
+  "name": "karasakal",
+  "logo": "https://imgur.com/voQm9AA.png",
+  "rpc_url": "http://167.172.94.145:9944",
+  "explorer_url": "http://167.172.94.145:4000",
+  "metrics_endpoint": "167.172.94.145/metrics",
+  "id": "5cc693e8-1260-4ab3-964d-42266af8b159"
+}
