@@ -1,6 +1,6 @@
 {
   "name": "legion",
-  "logo": "https://r.resimlink.com/cwnze.jpg?v=80a66f1cdf2e2ab9f6b24bd9f3c37cc5",
+  "logo": "https://r.resimlink.com/cwnze.jpg",
   "rpc_url": "http://194.163.191.166:9944",
   "explorer_url": "http://194.163.191.166:4000",
   "metrics_endpoint": "http://194.163.191.166:9615/metrics",
