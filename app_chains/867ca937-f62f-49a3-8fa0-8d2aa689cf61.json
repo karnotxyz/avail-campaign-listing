@@ -1,0 +1,8 @@
+{
+  "name": "kral",
+  "logo": "https://raw.githubusercontent.com/Kral001/My-Testnet-Nodes/main/Exorde%20Labs/5818.png",
+  "rpc_url": "http://http://207.180.221.214:9944",
+  "explorer_url": "http://http://207.180.221.214:4000",
+  "metrics_endpoint": "http://http://207.180.221.214:9615/metrics",
+  "id": "867ca937-f62f-49a3-8fa0-8d2aa689cf61"
+}
