@@ -1,0 +1,8 @@
+{
+  "name": "mstfsvnc",
+  "logo": "https://pbs.twimg.com/profile_images/1749753066193104896/yOC2YHD6_400x400.jpg”,
+  "rpc_url": "http://5.75.182.94:9944",
+  "explorer_url": "http://5.75.182.94:4000",
+  "metrics_endpoint": "http://5.75.182.94:9615",
+  "id": "3fa0c5fe-f027-40db-97e4-fdaf0b14b58f" 
+}
