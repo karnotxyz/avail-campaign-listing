@@ -1,6 +1,6 @@
 {
-  "name": “Northomerica”,
-  "logo": "https://r.resimlink.com/sIkqND.png“,
+  "name": "NorthOmerica",
+  "logo": "https://r.resimlink.com/sIkqND.png",
   "rpc_url": "http://143.198.41.159:9944",
   "explorer_url": "http://143.198.41.159:4000",
   "metrics_endpoint": "http://143.198.41.159:9615/metrics",
