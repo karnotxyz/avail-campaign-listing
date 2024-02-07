@@ -1,0 +1,8 @@
+{
+  "name": "loadpending",
+  "logo": "https://i.imgur.com/9mqGIJK.jpg",
+  "rpc_url": "http://162.55.41.9:9944",
+  "explorer_url": "http://162.55.41.9:4000",
+  "metrics_endpoint": "http://162.55.41.9:9615/metrics",
+  "id": "76985eb4-2e9a-4aac-8798-1e2ae9d01f2d"
+}
