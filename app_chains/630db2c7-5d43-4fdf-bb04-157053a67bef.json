@@ -1,0 +1,8 @@
+{
+  "name": "Apple Chain",
+  "logo": "https://pbs.twimg.com/profile_images/1622308068192288768/MB7pS-QY_400x400.jpg",
+  "rpc_url": "http://43.156.247.95:9944",
+  "explorer_url": "http://43.156.247.95:4000",
+  "metrics_endpoint": "http://43.156.247.95:9615/metrics",
+  "id": "630db2c7-5d43-4fdf-bb04-157053a67bef"
+}
