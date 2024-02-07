@@ -4,5 +4,5 @@
   "rpc_url": "http://49.12.60.45:9944",
   "explorer_url": "http://49.12.60.45:4000",
   "metrics_endpoint": "http://49.12.60.45:9615/metrics",
-  "id": "d7772aa0-c966-49d2-80d7-b4597c5d10e4",
+  "id": "d7772aa0-c966-49d2-80d7-b4597c5d10e4"
 }
