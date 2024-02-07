@@ -1,0 +1,8 @@
+{
+  "name": "hana770",
+  "logo": "https://https://r.resimlink.com/dH0wLInz.png",
+  "rpc_url": "http://138.201.111.163:9944",
+  "explorer_url": "http://138.201.111.163:4000",
+  "metrics_endpoint": "http://138.201.111.163:9615/metrics",
+  "id": "3a2808e1-d294-49bd-a78b-ec1ca9f0af23"
+}
