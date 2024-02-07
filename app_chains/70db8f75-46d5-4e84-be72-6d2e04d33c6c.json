@@ -1,0 +1,8 @@
+{
+  "name": "barsava",
+  "logo": "https://i.pinimg.com/736x/12/07/6b/12076bec3823958ca8f30be7c06fb506.jpg",
+  "rpc_url": "https://69.30.202.210:9944",
+  "explorer_url": "https://69.30.202.210:4000",
+  "metrics_endpoint": "https://69.30.202.210:9615",
+  "id": "70db8f75-46d5-4e84-be72-6d2e04d33c6c"
+}
