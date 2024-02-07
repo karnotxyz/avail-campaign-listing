@@ -1,0 +1,8 @@
+{
+  "name": "korkut",
+  "logo": "https://imgur.com/a/juPU8gE",
+  "rpc_url": "http://109.205.182.198:9944",
+  "explorer_url": "http://109.205.182.198:4000",
+  "metrics_endpoint": "http://109.205.182.198:9615/metrics",
+  "id": "33b93ec0-3ae5-44fe-89c5-2dec72d0e2ea"
+}
