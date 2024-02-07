@@ -1,0 +1,8 @@
+  {
+    "name": "crbaa",
+    "logo": "https://pbs.twimg.com/profile_images/1661060356083531806/QLJigTqg_400x400.png",
+    "rpc_url": "http://95.217.218.202:9944",
+    "explorer_url": "http://95.217.218.202:4000",
+    "metrics_endpoint": "http://95.217.218.202:9615/metrics",
+    "id": "f8936a71-23ac-44c3-b19f-193fd7fa6efd"
+  }
