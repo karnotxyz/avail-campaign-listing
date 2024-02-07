@@ -1,8 +1,8 @@
 {
     "name": "armagdon",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/109453970/302891493-d9ea4800-883d-43e3-9e61-d2d587aed8af.png",
+    "logo": "https://r.resimlink.com/E2KLP.png",
     "rpc_url": "http://49.12.57.36:9944",
     "explorer_url": "http://49.12.57.36:4000",
-    "metrics_endpoint": "http://49.12.57.36:9615",
-    "id": "a343d34f-adff-457c-8f58-fd12ecfbeccb"
+    "metrics_endpoint": "http://49.12.57.36:9615/metrics",
+    "id": "db34b331-06b0-4153-9f3f-833671aa7b9f"
   }
