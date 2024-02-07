@@ -1,0 +1,8 @@
+{
+  "name": "MadaraGenesisNode",
+  "logo": "https://i.imgur.com/nkBOVGb.png",
+  "rpc_url": "http://95.216.174.250:9944",
+  "explorer_url": "http://95.216.174.250:4000",
+  "metrics_endpoint": "http://95.216.174.250:9615/metrics",
+  "id": "e041d58d-012f-484f-9fad-9a02d133dfd4"
+}
