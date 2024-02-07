@@ -1,0 +1,8 @@
+{
+ "name": "pouyan",
+ "logo": "https://ibb.co/M2SHmFx",
+ "rpc_url": "http://49.12.60.35:9944",
+ "explorer_url": "http://49.12.60.35:4000",
+ "metrics_endpoint": "http://49.12.60.35:9615/metrics",
+ "id": "a578c161-9305-4d07-8953-4101292fb70b"
+}
