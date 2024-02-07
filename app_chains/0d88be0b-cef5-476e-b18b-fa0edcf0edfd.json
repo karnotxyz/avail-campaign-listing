@@ -1,0 +1,8 @@
+{
+  "name": "ekenos",
+  "logo": "https://raw.githubusercontent.com/ekenosx/ekenos/main/Ekran%20Resmi%202024-02-07%2018.44.14.png",
+  "rpc_url": "http://37.60.254.10:9944",
+  "explorer_url": "http://37.60.254.10:4000",
+  "metrics_endpoint": "http://37.60.254.10:9615/metrics",
+  "id": "0d88be0b-cef5-476e-b18b-fa0edcf0edfd"
+}
