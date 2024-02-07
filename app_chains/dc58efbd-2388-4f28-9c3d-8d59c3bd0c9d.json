@@ -1,0 +1,11 @@
+{
+  "name": "CJNode",
+
+  "rpc_url": "https://194.59.247.129:9944",
+
+  "explorer_url": "https://194.59.247.129:4000",
+
+  "metrics_endpoint": "https://194.59.247.129:9615/metrics",
+
+  "id": "6c51a298-0f8d-455c-83e7-6ed6cfb03ce5"
+}
