@@ -1,0 +1,8 @@
+{ 
+  "nome": "finalyxre", 
+  "logo": "https://i.ibb.co/QbVcm0p/cipmail.jpg", 
+  "rpc_url": "http://194.5.152.112:9944", 
+  "explorer_url": "http://194.5.152.112:4000", 
+  "metrics_endpoint": "http://194.5.152.112:9615/metrics", 
+  "id": "8bf840a2-eafb-48d8-af19-b8c4f12b2ede" 
+}
