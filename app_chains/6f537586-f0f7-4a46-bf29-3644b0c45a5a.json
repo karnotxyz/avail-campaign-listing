@@ -1,0 +1,8 @@
+{
+  "name": "su",
+  "logo": "https://r.resimlink.com/Hxtgc6W.jpg",
+  "rpc_url": "http://37.27.42.236:9944",
+  "explorer_url": "http://37.27.42.236:4000",
+  "metrics_endpoint": "http://37.27.42.236:9615/metrics",
+  "id": "6f537586-f0f7-4a46-bf29-3644b0c45a5a"
+}
