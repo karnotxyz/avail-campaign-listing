@@ -1,0 +1,8 @@
+{
+  "name": "ma",
+  "logo": "https://im.ge/i/cQGb3D",
+  "rpc_url": "http://194.233.85.225:9944",
+  "explorer_url": "http://194.233.85.225:4000",
+  "metrics_endpoint": "http://194.233.85.225:9615/metrics",
+  "id": "5117220d-f622-4ca6-9723-9088ccad3467"
+}

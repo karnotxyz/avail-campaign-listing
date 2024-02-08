@@ -1,0 +1,8 @@
+{
+  "name": "ridze",
+  "logo": "https://ibb.co/mTVfCKp",
+  "rpc_url": "http://128.199.35.30:9944",
+  "explorer_url": "http://128.199.35.30:4000",
+  "metrics_endpoint": "http://128.199.35.30:9615/metrics",
+  "id": "432789f5-39b1-4383-af84-7aa2b416ff01"
+}
