@@ -1,0 +1,9 @@
+
+{
+  "name": "wizzy",
+  "logo": "https://i.postimg.cc/WpknRpGp/wizzy-logo.png",
+  "rpc_url": "http://37.60.247.175:9944",
+  "explorer_url": "http://37.60.247.175:4000",
+  "metrics_endpoint": "http://37.60.247.175:9615/metrics",
+  "id": "103af673-37a9-4efc-9ea3-4553054a6238"
+}
