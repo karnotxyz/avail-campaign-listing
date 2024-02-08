@@ -1,0 +1,8 @@
+{
+  "name": "madaraNode",
+  "logo": "https://r.resimlink.com/ryaUH4KBR.jpg",
+  "rpc_url": "http://167.235.130.1:9944",
+  "explorer_url": "http://167.235.130.1:4000",
+  "metrics_endpoint": "http://167.235.130.1:9615",
+  "id": "F4BD1232-097C-48B1-8948-F4F4A244493A"
+}
