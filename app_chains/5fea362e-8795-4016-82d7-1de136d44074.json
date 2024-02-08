@@ -1,0 +1,8 @@
+{
+  "name": "tonjukuk",
+  "logo": "https://pbs.twimg.com/profile_images/1750969944412459008/Zlh1wDaX_400x400.jpg",
+  "rpc_url": "https://89.116.26.130:9944/",
+  "explorer_url": "http://89.116.26.130:4000/",
+  "metrics_endpoint": "http://89.116.26.130:9615/metrics",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
