@@ -1,0 +1,8 @@
+{
+  "name": "shironeko",
+  "logo": "https://ibb.co/wwtpkJ4/logo-colored400x400.png",
+  "rpc_url": "http://84.246.85.155:9944",
+  "explorer_url": "http://84.246.85.155:4000",
+  "metrics_endpoint": "http://84.246.85.155:9615/metrics",
+  "id": "c69333a1-6a92-4999-b970-57dce3645c14"
+}
