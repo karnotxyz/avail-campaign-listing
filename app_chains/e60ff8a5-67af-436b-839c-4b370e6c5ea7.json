@@ -1,0 +1,8 @@
+{
+  "name": "pouyan",
+  "logo": "https://r.resimlink.com/dKOa3y58.png",
+  "rpc_url": "http://49.12.60.35:9944",
+  "explorer_url": "http://49.12.60.35:4000",
+  "metrics_endpoint": "http://49.12.60.35:9615/metrics",
+  "id": "e60ff8a5-67af-436b-839c-4b370e6c5ea7"
+}
