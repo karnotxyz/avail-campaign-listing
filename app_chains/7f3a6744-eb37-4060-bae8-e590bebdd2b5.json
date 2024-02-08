@@ -1,0 +1,8 @@
+{
+  "name": "CQRSAPP",
+  "logo": "https://raw.githubusercontent.com/DiscoverMyself/rollapp-registry/d1f94638ddc2229a35e231bfc0301df84fb6951d/devnet/quadblock_2484029-1/logos/quadblock_2484029-1.png",
+  "rpc_url": "http://203.156.231.27:9944",
+  "explorer_url": "http://203.156.231.27:4000",
+  "metrics_endpoint": "http://203.156.231.27:9615/metrics",
+  "id": "7f3a6744-eb37-4060-bae8-e590bebdd2b5"
+}
