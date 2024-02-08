@@ -1,0 +1,8 @@
+{
+ "name": "RojaRes",
+ "logo": "https://r.resimlink.com/Vs-wamgjx.jpg",
+ "rpc_url": "http://95.217.18.49:9944",
+ "explorer_url": "http://95.217.18.49:4000",
+ "metrics_endpoint": "http://95.217.18.49:9615",
+ "id": "4e2fb793-f745-42ae-8c44-9585e5e5cd2e" 
+}
