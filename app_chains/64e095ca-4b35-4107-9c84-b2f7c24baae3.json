@@ -1,8 +1,8 @@
-{ 
-  "name" :  "kinoko" , 
-  "logo" :  "https://i.ibb.co/y0vdc8J/898333673970085938.png" , 
-  "rpc_url" :  "http://185.196.21.66:9944" , 
-  "explorer_url" :  "http://185.196.21.66:4000" , 
-  "metrics_endpoint" :  "http://185.196.21.66:9615/metrics" , 
-  "id" :  "64e095ca-4b35-4107-9c84-b2f7c24baae3" 
+{
+  "name": "kinoko",
+  "logo": "https://i.ibb.co/y0vdc8J/898333673970085938.png",
+  "rpc_url": "http://185.196.21.66:9944",
+  "explorer_url": "http://185.196.21.66:4000",
+  "metrics_endpoint": "http://185.196.21.66:9615/metrics",
+  "id": "64e095ca-4b35-4107-9c84-b2f7c24baae3"
 }
