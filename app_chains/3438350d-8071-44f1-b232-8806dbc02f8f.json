@@ -1,0 +1,8 @@
+{
+  "name": "karimima",
+  "logo": "https://r.resimlink.com/UvBzN.jpg",
+  "rpc_url": "http://148.251.162.82:9944/",
+  "explorer_url": "http://148.251.162.82:4000",
+  "metrics_endpoint": "http://148.251.162.82:9615/metrics",
+  "id": "3438350d-8071-44f1-b232-8806dbc02f8f"
+}
