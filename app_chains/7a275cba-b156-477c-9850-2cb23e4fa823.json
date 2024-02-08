@@ -1,0 +1,8 @@
+{
+  "name": "clover",
+  "logo": "https://i.etsystatic.com/30289585/r/il/cff729/3708790120/il_fullxfull.3708790120_1hht.jpg",
+  "rpc_url": "http://161.35.24.178:9944",
+  "explorer_url": "http://161.35.24.178:4000",
+  "metrics_endpoint": "http://161.35.24.178:9615/metrics",
+  "id": "7a275cba-b156-477c-9850-2cb23e4fa823"
+}
