@@ -1,0 +1,8 @@
+{
+  "name": "LyVietAnh",
+  "logo": "https://github.com/anhvietly/rollapp-registry/blob/main/devnet/lyvietanh_9109031-1/logos/lyvietanh_9109031-1.jpg",
+  "rpc_url": "http://31.220.83.34:9944",
+  "explorer_url": "http://31.220.83.34:4000",
+  "metrics_endpoint": "http://31.220.83.34:9615/metrics",
+  "id": "a334bc0a-0562-4d0f-b7dc-bbcf4220cca5"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "totjsr",
+  "logo": "/logos/totjsr.jpg",
+  "rpc_url": "http://157.90.143.152:9944",
+  "explorer_url": "http://157.90.143.152:4000",
+  "metrics_endpoint": "http://157.90.143.152:9615/metrics",
+  "id": "644f9be2-4ac7-4cb7-8ab1-a6ea1168521b"
+}

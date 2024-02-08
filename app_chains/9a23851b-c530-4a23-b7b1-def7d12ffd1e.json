@@ -1,0 +1,8 @@
+{
+  "name": "aphros",
+  "logo": "https://i.postimg.cc/gjd4X60t/76.png",
+  "rpc_url": "http://129.226.203.95:9944",
+  "explorer_url": "http://129.226.203.95:4000",
+  "metrics_endpoint": "http://129.226.203.95:9615/metrics",
+  "id": "9a23851b-c530-4a23-b7b1-def7d12ffd1e"
+}

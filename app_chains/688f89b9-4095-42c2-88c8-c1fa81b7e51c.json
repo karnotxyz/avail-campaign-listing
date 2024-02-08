@@ -1,0 +1,8 @@
+{
+  "name": "NijatChain",
+  "logo": "https://r.resimlink.com/vbAK028QDL6I.jpg",
+  "rpc_url": "http://104.248.207.59:9944",
+  "explorer_url": "http://104.248.207.59:4000",
+  "metrics_endpoint": "http://104.248.207.59:9615/metrics",
+  "id": "688f89b9-4095-42c2-88c8-c1fa81b7e51c"
+}
