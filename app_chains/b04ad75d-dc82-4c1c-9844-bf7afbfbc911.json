@@ -1,0 +1,8 @@
+{
+  "name": "munjichain",
+  "logo": "https://ibb.co/R0PQYtF",
+  "rpc_url": "http://109.123.251.182:9944",
+  "explorer_url": "http://109.123.251.182:4000",
+  "metrics_endpoint": "http://109.123.251.182:9615/metrics",
+  "id": "b04ad75d-dc82-4c1c-9844-bf7afbfbc911"
+}
