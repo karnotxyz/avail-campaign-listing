@@ -1,0 +1,8 @@
+{
+  "name": "parafmax",
+  "logo": "https://r.resimlink.com/v4s5Nyd_rJ-V.png",
+  "rpc_url": "https://95.216.221.63:9944",
+  "explorer_url": "https://95.216.221.63:4000",
+  "metrics_endpoint": "https://95.216.221.63:9615/metrics",
+  "id": "deae0fcb-6477-4fd3-8ffa-28041934dad4"
+}
