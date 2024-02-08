@@ -1,0 +1,8 @@
+{
+  "name": "tanthi",
+  "logo": "https://avatars.githubusercontent.com/u/107537094?u=9461f81997b965fef208428fe0222cad4ed6a4f5&v=4",
+  "rpc_url": "http://86.48.2.3:9944",
+  "explorer_url": "http://86.48.2.3:4000",
+  "metrics_endpoint": "http://86.48.2.3:9615/metrics",
+  "id": "41b9ddb3-c332-416f-9a7c-98198757262e"
+}
