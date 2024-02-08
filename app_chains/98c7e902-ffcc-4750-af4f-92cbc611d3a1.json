@@ -1,0 +1,8 @@
+{
+  "name": "taylan",
+  "logo": "https://ibb.co/9nSGtzv",
+  "rpc_url": "http://135.181.35.78:9944",
+  "explorer_url": "http://135.181.35.78:4000",
+  "metrics_endpoint": "http://135.181.35.78:9615/metrics",
+  "id": "98c7e902-ffcc-4750-af4f-92cbc611d3a1"
+}
