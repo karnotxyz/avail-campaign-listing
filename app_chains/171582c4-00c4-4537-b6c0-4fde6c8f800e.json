@@ -1,6 +1,6 @@
 {
-  "name": "tanim",
-  "logo": "https://ibb.co/DW0hzVx/400x400.png",
+  "name": "Tanim",
+  "logo": "https://ibb.co/DW0hzVx/logo-colored400x400.png",
   "rpc_url": "https://43.131.38.49:9944",
   "explorer_url": "http://43.131.38.49:4000",
   "metrics_endpoint": "http://43.131.38.49:9615/metrics",
