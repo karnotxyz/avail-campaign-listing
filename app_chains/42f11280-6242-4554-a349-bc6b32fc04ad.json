@@ -1,6 +1,6 @@
 {
   "name": "gintoki",
-  "logo": "https://i.ibb.co/vB7kHxj/gintoki.jpg",
+  "logo": "https://raw.githubusercontent.com/gintoki27/testing/main/gintoki2.jpg",
   "rpc_url": "http://185.231.204.151:9944",
   "explorer_url": "http://185.231.204.151:4000",
   "metrics_endpoint": "http://185.231.204.151:9615/metrics",
