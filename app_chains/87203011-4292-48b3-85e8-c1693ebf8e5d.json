@@ -1,0 +1,8 @@
+{
+    "name": "rebelappchain",
+    "logo": "https://easyupload.io/etyw7p",
+    "rpc_url": "http://79.137.196.145:9944",
+    "explorer_url": "http://79.137.196.145:4000",
+    "metrics_endpoint": "http://79.137.196.145:9615/metrics",
+    "id": "87203011-4292-48b3-85e8-c1693ebf8e5d"
+  }
