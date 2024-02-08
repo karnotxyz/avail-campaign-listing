@@ -1,0 +1,8 @@
+{
+  "name": "kazandiran",
+  "logo": "https://i.hizliresim.com/ps02jf8.jpg",
+  "rpc_url": "93.177.103.207:9944",
+  "explorer_url": "http://93.177.103.207:4000/:4000",
+  "metrics_endpoint": "http://93.177.103.207:9615/metrics",
+  "id": "599c8286-8d1b-4818-9db3-70f7b7a1b2d7"
+}
