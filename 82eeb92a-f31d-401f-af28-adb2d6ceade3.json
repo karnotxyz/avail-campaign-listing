@@ -1,0 +1,8 @@
+{
+  "name": "elvolution",
+  "logo": "https://i.ibb.co/NFJtbcK/elvis-personal-logo-icon.jpg",
+  "rpc_url": "http://84.247.178.93:9944",
+  "explorer_url": "http://84.247.178.93:4000",
+  "metrics_endpoint": "http://84.247.178.93:9615/metrics",
+  "id": "82eeb92a-f31d-401f-af28-adb2d6ceade3"
+}
