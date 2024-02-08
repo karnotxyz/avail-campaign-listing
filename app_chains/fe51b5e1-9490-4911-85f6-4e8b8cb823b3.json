@@ -1,0 +1,8 @@
+{
+  "name": "ccnom",
+  "logo": "https://i.imgur.com/jtq77jX.jpeg",
+  "rpc_url": "http://185.207.251.165:9944",
+  "explorer_url": "http://185.207.251.165:4000/",
+  "metrics_endpoint": "http://185.207.251.165:9615/metrics",
+  "id": "fe51b5e1-9490-4911-85f6-4e8b8cb823b3"
+}

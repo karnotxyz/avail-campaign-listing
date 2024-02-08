@@ -1,0 +1,8 @@
+{
+  "name": "shanex",
+  "logo": "https://imgur.com/pfm9hli",
+  "rpc_url": "http://147.45.40.22:9944",
+  "explorer_url": "http://147.45.40.22:4000",
+  "metrics_endpoint": "http://147.45.40.22:9615/metrics",
+  "id": "b374ca23-8310-45b5-8242-d222d86eacfb"
+}
