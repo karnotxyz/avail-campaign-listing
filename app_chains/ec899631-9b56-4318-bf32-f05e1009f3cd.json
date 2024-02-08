@@ -1,0 +1,8 @@
+{
+  "name": "miarose",
+  "logo": "http://postimg.cc/PC1zZv9s", 
+  "rpc_url": "http://84.247.186.144:9944",
+  "explorer_url": "http://84.247.186.144:4000",
+  "metrics_endpoint": "http://84.247.186.144:9615/metrics",
+  "id": "ec899631-9b56-4318-bf32-f05e1009f3cd"
+}
