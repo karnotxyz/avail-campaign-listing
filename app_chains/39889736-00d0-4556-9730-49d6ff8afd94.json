@@ -1,8 +1,8 @@
 {
-  "name": "blacktokyo",
-  "logo": "https://ibb.co/frHm06n",
-  "rpc_url": "https://65.109.169.152:9944",
-  "explorer_url": "https://65.109.169.152:4000",
-  "metrics_endpoint": "https://65.109.169.152:9615/metrics",
-  "id": "39889736-00d0-4556-9730-49d6ff8afd94"
+ "name": "blacktokyo",
+ "logo": "https://ibb.co/frHm06n",
+ "rpc_url": "http://65.109.169.152:9944",
+ "explorer_url": "http://65.109.169.152:4000",
+ "metrics_endpoint": "http://65.109.169.152:9615/metrics",
+ "id": "39889736-00d0-4556-9730-49d6ff8afd94"
 }
