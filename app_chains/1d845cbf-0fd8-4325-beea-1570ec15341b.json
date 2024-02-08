@@ -1,0 +1,8 @@
+{
+  "name": "legion",
+  "logo": "https://i.ibb.co/QdXyjcC/legion.jpg",
+  "rpc_url": "http://194.163.191.166:9944",
+  "explorer_url": "http://194.163.191.166:4000",
+  "metrics_endpoint": "http://194.163.191.166:9615/metrics",
+  "id": "1d845cbf-0fd8-4325-beea-1570ec15341b"
+}
