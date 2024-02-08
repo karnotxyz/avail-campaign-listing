@@ -1,0 +1,8 @@
+{
+  "name": "baher",
+  "logo": "http://43.134.43.112:8080/static/images/logo.png",
+  "rpc_url": "http://43.134.43.112:9944",
+  "explorer_url": "http://43.134.43.112:4000",
+  "metrics_endpoint": "http://43.134.43.112:9615/metrics",
+  "id": "ef66eea2-2226-4373-9bef-2cc452154c03"
+}

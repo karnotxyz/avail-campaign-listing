@@ -1,0 +1,8 @@
+{
+  "name": "SmartSpace",
+  "logo": "https://i.imgur.com/b8w2A8y.jpg",
+  "rpc_url": "http://34.145.120.89:9944",
+  "explorer_url": "http://34.145.120.89:4000",
+  "metrics_endpoint": "http://34.145.120.89:9615/metrics",
+  "id": "5f714c96-2d9a-43ae-909d-946b357c0913"
+}

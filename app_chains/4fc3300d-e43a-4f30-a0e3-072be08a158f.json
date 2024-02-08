@@ -1,0 +1,8 @@
+{
+  "name": "Weslow",
+  "logo": "https://imgur.com/a/nFIiRIM.png",
+  "rpc_url": "http://185.230.138.64:9944",
+  "explorer_url": "http://185.230.138.64:4000",
+  "metrics_endpoint": "http://185.230.138.64:9615/metrics",
+  "id": "4fc3300d-e43a-4f30-a0e3-072be08a158f"
+}
