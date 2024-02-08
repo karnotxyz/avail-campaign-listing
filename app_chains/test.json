@@ -1,0 +1,8 @@
+{
+  "name": "juyocrypto",
+  "logo": "https://ibb.co/SRKWYtJ",
+  "rpc_url": "http://161.97.100.160.:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "6c97579a-4c10-4dc3-a4fe-0510d9b6d364"
+}
