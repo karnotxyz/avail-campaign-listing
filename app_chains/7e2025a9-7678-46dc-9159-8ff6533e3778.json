@@ -1,0 +1,8 @@
+{
+"name": “kaisuhan”,
+"logo": "https://i.imgur.com/Ny15X6i.png",
+"rpc_url": "http://5.78.113.145:9944",
+"explorer_url": "http://5.78.113.145:4000",
+"metrics_endpoint": "http://5.78.113.145:9615/metrics",
+"id": "7e2025a9-7678-46dc-9159-8ff6533e3778"
+}
