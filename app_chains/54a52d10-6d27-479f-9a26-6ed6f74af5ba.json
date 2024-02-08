@@ -1,8 +1,8 @@
 {
   "name": "erulganteng",
   "logo": "https://i.imgur.com/RMx7OTU.png",
-  "rpc_url": "http://95.143.196.12:9944",
-  "explorer_url": "http://95.143.196.12:4000",
-  "metrics_endpoint": "http://95.143.196.12:9615/metrics",
+  "rpc_url": "https://95.143.196.12:9944",
+  "explorer_url": "https://95.143.196.12:4000",
+  "metrics_endpoint": "https://95.143.196.12:9615/metrics",
   "id": "54a52d10-6d27-479f-9a26-6ed6f74af5ba"
 }
