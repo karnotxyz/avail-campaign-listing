@@ -1,0 +1,8 @@
+{
+  "name": "korosh",
+  "logo": "https://r.resimlink.com/Peq6H.jpg",
+  "rpc_url": "http://161.97.70.62:4000/",
+  "explorer_url": "http://161.97.70.62:4000/",
+  "metrics_endpoint": "http://161.97.70.62:4000/",
+  "id": "0d05c2d8-fb1e-4660-856e-82fd31643ef7"
+}
