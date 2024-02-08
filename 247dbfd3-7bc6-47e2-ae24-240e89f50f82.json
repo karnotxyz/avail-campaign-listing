@@ -1,0 +1,8 @@
+{
+  "name": "ya2ın2",
+  "logo": "https://r.resimlink.com/Y_kKc.jpg",
+  "rpc_url": "https://173.249.51.170:9944",
+  "explorer_url": "https://173.249.51.170:4000",
+  "metrics_endpoint": "https://173.249.51.170:9615/metrics",
+  "id": "247dbfd3-7bc6-47e2-ae24-240e89f50f82"
+}
