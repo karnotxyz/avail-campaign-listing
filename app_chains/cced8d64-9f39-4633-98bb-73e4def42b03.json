@@ -1,0 +1,8 @@
+{
+  "name": "utku58",
+  "logo": "https://r.resimlink.com/07HhW.jpg",
+  "rpc_url": "http://62.171.151.199:9944",
+  "explorer_url": "http://62.171.151.199:4000",
+  "metrics_endpoint": "62.171.151.199:9615/metrics",
+  "id": "cced8d64-9f39-4633-98bb-73e4def42b03"
+}
