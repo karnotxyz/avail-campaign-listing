@@ -1,0 +1,8 @@
+{
+  "name": "gokde",
+  "logo": "https://r.resimlink.com/dVetY6h.png", 
+  "rpc_url": "75.119.157.200:9944",
+  "explorer_url": "75.119.157.200:4000",
+  "metrics_endpoint": "75.119.157.200:9615",
+  "id": ""
+  }
