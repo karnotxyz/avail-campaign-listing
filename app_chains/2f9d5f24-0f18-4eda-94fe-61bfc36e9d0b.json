@@ -1,6 +1,6 @@
 {
   "name": "legion",
-  "logo": "https://r.resimlink.com/cwnze.jpg",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/95421603/303040927-631f0339-c722-4227-9347-facdab76ca50.png",
   "rpc_url": "http://194.163.191.166:9944",
   "explorer_url": "http://194.163.191.166:4000",
   "metrics_endpoint": "http://194.163.191.166:9615/metrics",
