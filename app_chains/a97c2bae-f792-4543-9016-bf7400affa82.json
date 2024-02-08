@@ -1,0 +1,8 @@
+{
+  "name": "kegee",
+  "logo": "http://43.131.248.91/static/img/kegee.png",
+  "rpc_url": "http://43.131.248.91:9944",
+  "explorer_url": "http://43.131.248.91:4000",
+  "metrics_endpoint": "http://43.131.248.91:9615/metrics",
+  "id": "a97c2bae-f792-4543-9016-bf7400affa82"
+}
