@@ -1,0 +1,8 @@
+{
+    "name": "Phenomen",
+    "logo": "https://i.postimg.cc/L6N0N36N/Phenomen.png",
+    "rpc_url": "http://213.239.217.25:9944",
+    "explorer_url": "http://213.239.217.25:4000",
+    "metrics_endpoint": "http://213.239.217.25:9615",
+    "id": "44a2df11-68b7-4810-96d9-bc754c1c4d9b"
+}
