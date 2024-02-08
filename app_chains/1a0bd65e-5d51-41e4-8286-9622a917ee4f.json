@@ -1,0 +1,8 @@
+{
+  "name": "mdapp",
+  "logo": "https://i.imgur.com/VDWhCvo.jpg",
+  "rpc_url": "http://5.75.132.222:9944",
+  "explorer_url": "http://5.75.132.222:4000",
+  "metrics_endpoint": "http://5.75.132.222:9615/metrics",
+  "id": "1a0bd65e-5d51-41e4-8286-9622a917ee4f"
+}
