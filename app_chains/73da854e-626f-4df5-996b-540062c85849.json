@@ -1,8 +1,8 @@
 {
-    "name": "Pheron",
-    "logo": "https://iili.io/Jcou0MP.jpg",
-    "rpc_url": "http://195.3.222.134:9944",
-    "explorer_url": "http://195.3.222.134:4000",
-    "metrics_endpoint": "http://195.3.222.134:9616/metrics",
-    "id": "73da854e-626f-4df5-996b-540062c85849"
+  "name": "Pheron",
+  "logo": "https://iili.io/Jcou0MP.jpg",
+  "rpc_url": "http://195.3.222.134:9944",
+  "explorer_url": "http://195.3.222.134:4000",
+  "metrics_endpoint": "http://195.3.222.134:9616/metrics",
+  "id": "73da854e-626f-4df5-996b-540062c85849"
 }
