@@ -1,0 +1,8 @@
+{
+  "name": “mdlog”,
+  "logo": "https://i.imgur.com/MVqIBAn.png",
+  "rpc_url": "http://158.220.98.135:9944",
+  "explorer_url": "http://158.220.98.135:4000",
+  "metrics_endpoint": "http://1158.220.98.135:9615/metrics",
+  "id": "ec02e345-bb26-4dd0-9f52-a07e995f22da"
+}
