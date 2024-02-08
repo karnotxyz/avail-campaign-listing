@@ -1,0 +1,8 @@
+ {
+    "name": "Mrnoorian",
+    "logo": "https://r.resimlink.com/r4bhIYq.png",
+    "rpc_url": "http://49.12.60.49:9944",
+    "explorer_url": "http://49.12.60.49:4000",
+    "metrics_endpoint": "http://49.12.60.49:9615/metrics", 
+    "id": "194c3b00-39f8-4754-9467-038f8435533a"
+  }
