@@ -1,9 +1,8 @@
-
 {
-	  "name": "<nbmrjun>",
-	    "logo": "https://i.imgur.com/0KUHPnZ.png",
-	      "rpc_url": "http://167.179.112.90:9944",
-	        "explorer_url": "http://167.179.112.90:4000",
-		  "metrics_endpoint": "http://167.179.112.90:9615/metrics",
-		    "id": "7ec26344-86d5-4912-b66b-d7f7039eebcf"
+  "name": "<nbmrjun>",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://167.179.112.90:9944",
+  "explorer_url": "http://167.179.112.90:4000",
+  "metrics_endpoint": "http://167.179.112.90:9615/metrics",
+  "id": "7ec26344-86d5-4912-b66b-d7f7039eebcf"
 }
