@@ -1,0 +1,8 @@
+{
+    "name": "panxinyang",
+    "logo": "https://i.imgur.com/eqJOy6J.png",
+    "rpc_url": "http://149.50.101.155:9944",
+    "explorer_url": "http://149.50.101.155:4000",
+    "metrics_endpoint": "http://149.50.101.155:9615/metrics",
+    "id": "acff9696-f8ec-4dc0-b6b3-13388477b97e"
+}
