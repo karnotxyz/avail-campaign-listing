@@ -1,0 +1,8 @@
+{
+  "name": "jujimal",
+  "logo": "https://haycafe.vn/wp-content/uploads/2022/08/hinh-anh-rong-con-mau-vang.jpg",
+  "rpc_url": "http://128.140.110.150:9944",
+  "explorer_url": "http://128.140.110.150:4000",
+  "metrics_endpoint": "http://128.140.110.150:9615/metrics",
+  "id": "f951965d-499b-48ee-a5ee-35de71d23c4f"
+}
