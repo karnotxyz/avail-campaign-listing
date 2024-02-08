@@ -1,8 +1,0 @@
-{
-  "name": "ShinHoang",
-  "logo": "https://rare-gallery.com/thumbnail/30012-Jhin-League-of-LegendsJhin-League-of-Legends-4k.jpg",
-  "rpc_url": "http://5.189.187.37:9944",
-  "explorer_url": "http://5.189.187.37:4000",
-  "metrics_endpoint": "http://5.189.187.37:9615/metrics",
-  "id": "81098fc6-26b2-47c6-9e55-dc64fb37c5eb"
-}
