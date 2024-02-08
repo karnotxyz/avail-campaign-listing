@@ -1,6 +1,6 @@
 {
     "name": "100guc",
-    "logo": "https://imgur.com/a/HTUVUuk", 
+    "logo": "https://i.imgur.com/ItJO5xo.jpg", 
     "rpc_url": "167.172.100.94:9944",
     "explorer_url": "167.172.100.94:4000",
     "metrics_endpoint": "167.172.100.94:9615/metrics",
