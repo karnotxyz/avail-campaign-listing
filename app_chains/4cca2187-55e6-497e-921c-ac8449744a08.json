@@ -1,0 +1,8 @@
+{
+  "name": "lisam",
+  "logo": "https://raw.githubusercontent.com/Lisaavail/avail-campaign-listing/main/lisa.png",
+  "rpc_url": "http://193.46.243.43:9944",
+  "explorer_url": "http://193.46.243.43:4000",
+  "metrics_endpoint": "http://193.46.243.43:9615/metrics",
+  "id": "4cca2187-55e6-497e-921c-ac8449744a08"
+}
