@@ -1,8 +1,8 @@
 {
   "name": "divergen",
-  "logo": "https://ibb.co/HT4VJ84",
-  "rpc_url": "http://84.246.85.12:9944/",
-  "explorer_url": "http://84.246.85.12:4000/",
+  "logo": "https://ibb.co/HT4VJ84.png",
+  "rpc_url": "http://84.246.85.12:9944",
+  "explorer_url": "http://84.246.85.12:4000",
   "metrics_endpoint": "http://84.246.85.12:9615/metrics",
   "id": "a72815ec-ac57-499e-a709-d91c5d2c6041"
 }
