@@ -1,8 +1,0 @@
-{
-  "name": "baba",
-  "logo": "https://r.resimlink.com/ji4k9ofy.png",
-  "rpc_url": "http://5.75.155.76:9944",
-  "explorer_url": "http://5.75.155.76:4000",
-  "metrics_endpoint": "http://5.75.155.76:9615/metrics",
-  "id": "cc0ace93-affd-4988-a95f-0046206a8f9d"
-}
