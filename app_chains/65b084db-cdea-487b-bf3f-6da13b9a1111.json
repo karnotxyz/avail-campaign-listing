@@ -1,0 +1,8 @@
+{
+  "name": "sunucu_adi",
+  "logo": "https://r.resimlink.com/qkPWGUVwSd1T.png",
+  "rpc_url": "http://111.111.111.11:9944",
+  "explorer_url": "http://111.111.111.11:4000",
+  "metrics_endpoint": "http://111.111.111.11:9615/metrics",
+  "id": "65b084db-cdea-487b-bf3f-6da13b9a1111"
+}
