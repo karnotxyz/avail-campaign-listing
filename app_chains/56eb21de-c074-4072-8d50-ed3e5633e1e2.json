@@ -1,8 +1,0 @@
-{
-    "name": "residentevil",
-    "logo": "https://imgur.com/ayscj8y",
-    "rpc_url": "http://161.97.76.101:9944",
-    "explorer_url": "http://161.97.76.101:4000",
-    "metrics_endpoint": "http://161.97.76.101:9615/metrics",
-    "id": "56eb21de-c074-4072-8d50-ed3e5633e1e2"
-}
