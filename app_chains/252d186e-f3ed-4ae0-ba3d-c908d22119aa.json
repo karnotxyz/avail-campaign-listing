@@ -1,0 +1,8 @@
+{
+  "name": "ENNODE",
+  "logo": "https://ibb.co/mR00FY3",
+  "rpc_url": "http://161.97.99.246:9944",
+  "explorer_url": "http://161.97.99.246:4000",
+  "metrics_endpoint": "http://161.97.99.246:9615/metrics",
+  "id": "252d186e-f3ed-4ae0-ba3d-c908d22119aa"
+}

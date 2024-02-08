@@ -1,0 +1,8 @@
+{
+  "name": "amir89",
+  "logo": "https://r.resimlink.com/Tm7DH.jpg",
+  "rpc_url": "http://103.75.199.147:9944",
+  "explorer_url": "http://103.75.199.147:4000",
+  "metrics_endpoint": "http://103.75.199.147:9615/metrics",
+  "id": "1582cc65-b69a-4281-84d6-af1ed08390bf"
+}
