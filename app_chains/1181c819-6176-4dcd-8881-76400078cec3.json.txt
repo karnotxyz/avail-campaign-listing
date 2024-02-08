@@ -1,0 +1,8 @@
+{
+  "name": "tcode",
+  "logo": "https://I.ibb.co/c6BWBDD/logo-colored400x400.png",
+  "rpc_url": "https://207.180.250.204:9944",
+  "explorer_url": "https://207.180.250.204:4000",
+  "metrics_endpoint": "https://207.180.250.204:9615/metrics",
+  "id": "1181c819-6176-4dcd-8881-76400078cec3"
+}
