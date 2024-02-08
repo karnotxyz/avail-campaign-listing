@@ -1,0 +1,8 @@
+{
+  "name": "alba",
+  "logo": "https://r.resimlink.com/G60pBNzl5Lf4.png",
+  "rpc_url": "http://84.247.182.250:9944",
+  "explorer_url": "http://84.247.182.250:4000",
+  "metrics_endpoint": "http://84.247.182.250:9615/metrics",
+  "id": "7262afde-3460-4e45-aefd-948469af120f"
+}

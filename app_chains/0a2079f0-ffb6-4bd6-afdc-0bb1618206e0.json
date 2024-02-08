@@ -1,0 +1,8 @@
+{
+  "name": "pierreneter",
+  "logo": "https://avatars.githubusercontent.com/u/12815768?v=4",
+  "rpc_url": "http://madara-avail-1.p10node.com:9944",
+  "explorer_url": "http://madara-avail-1.p10node.com:4000",
+  "metrics_endpoint": "http://madara-avail-1.p10node.com:9615/metrics",
+  "id": "0a2079f0-ffb6-4bd6-afdc-0bb1618206e0"
+}

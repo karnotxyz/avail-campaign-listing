@@ -1,0 +1,8 @@
+{
+  "name": "silent",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://65.108.56.46:9944",
+  "explorer_url": "http://65.108.56.46:4000",
+  "metrics_endpoint": "http://65.108.56.46:9615/metrics",
+  "id": "d0a850e3-f34f-49cf-a5ee-bf4c9bfbc91b"
+}
