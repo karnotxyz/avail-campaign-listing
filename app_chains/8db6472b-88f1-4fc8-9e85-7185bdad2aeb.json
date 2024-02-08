@@ -1,8 +1,8 @@
 {
-   "name": "mosm",
-   "logo": "https://i.imgur.com/duzzl6w.jpg",
-   "rpc_url": "http://89.116.25.34:9944",
-   "explorer_url": "http://89.116.25.34:4000",
-   "metrics_endpoint": "http://89.116.25.34:9615/metrics",
-   "id": "8db6472b-88f1-4fc8-9e85-7185bdad2aeb"
+  "name": "mosm",
+  "logo": "https://i.imgur.com/duzzl6w.jpg",
+  "rpc_url": "http://89.116.25.34:9944",
+  "explorer_url": "http://89.116.25.34:4000",
+  "metrics_endpoint": "http://89.116.25.34:9615/metrics",
+  "id": "8db6472b-88f1-4fc8-9e85-7185bdad2aeb"
   }
