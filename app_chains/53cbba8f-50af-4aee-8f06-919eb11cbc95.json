@@ -1,0 +1,8 @@
+{
+  "name": "0xwedo",
+  "logo": "https://i.im.ge/2024/02/08/cLiFPJ.wedo.png",
+  "rpc_url": "http://109.123.233.22:9944",
+  "explorer_url": "http://109.123.233.22:4000",
+  "metrics_endpoint": "http://109.123.233.22:9615/metrics",
+  "id": "53cbba8f-50af-4aee-8f06-919eb11cbc95"
+}
