@@ -1,0 +1,8 @@
+{
+    "name": "Parsa",
+    "logo": "https://raw.githubusercontent.com/parsasbr/User-assets/main/Parsa-Logo.png",
+    "rpc_url": "http://5.75.207.153:9944",
+    "explorer_url": "http://5.75.207.153:4000",
+    "metrics_endpoint": "http://5.75.207.153:9615/metrics",
+    "id": "f734d7f4-65c0-4b9c-95af-67aaf02f1c86"
+  }
