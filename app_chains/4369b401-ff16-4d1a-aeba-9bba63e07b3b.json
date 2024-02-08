@@ -1,0 +1,8 @@
+{
+  "name": "btcturk1",
+  "logo": "https://r.resimlink.com/GEFP4kHuM8p.png",
+  "rpc_url": "http://49.12.35.213:9944",
+  "explorer_url": "http://49.12.35.213:4000",
+  "metrics_endpoint": "http://49.12.35.213:9615/metrics",
+  "id": "4369b401-ff16-4d1a-aeba-9bba63e07b3b"
+}

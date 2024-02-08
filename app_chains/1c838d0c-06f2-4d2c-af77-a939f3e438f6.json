@@ -1,0 +1,8 @@
+{
+  "name": "vortex",
+  "logo": "https://imgur.com/JALcqdj.jpg",
+  "rpc_url": "http://84.247.179.123:9944",
+  "explorer_url": "http://84.247.179.123:4000",
+  "metrics_endpoint": "http://84.247.179.123:9615/metrics",
+  "id": "1c838d0c-06f2-4d2c-af77-a939f3e438f6"
+}
