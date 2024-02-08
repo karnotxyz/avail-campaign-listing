@@ -1,0 +1,8 @@
+{
+  "name": "0xdesta",
+  "logo": "https://imgur.com/a/fuAuJWS",
+  "rpc_url": "http://46.250.231.59:9944",
+  "explorer_url": "http://46.250.231.59:4000",
+  "metrics_endpoint": "http://46.250.231.59:9615/metrics",
+  "id": "5a5a573f-058a-4b3d-a409-201dfea1766c"
+}
