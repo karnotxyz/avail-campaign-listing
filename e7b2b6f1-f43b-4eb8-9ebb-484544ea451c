@@ -1,0 +1,8 @@
+{
+  "name": "Jamin",
+  "logo": "https://ibb.co/3zTg9cN",
+  "rpc_url": "http://149.102.128.190:9944",
+  "explorer_url": "http://149.102.128.190:4000",
+  "metrics_endpoint": "http://149.102.128.190:9615/metrics",
+  "id": "e7b2b6f1-f43b-4eb8-9ebb-484544ea451c"
+}
