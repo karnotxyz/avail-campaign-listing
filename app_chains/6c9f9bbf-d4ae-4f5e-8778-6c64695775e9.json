@@ -1,0 +1,8 @@
+{
+    "name": "miuayura",
+    "logo": "https://i.imgur.com/3lcw5TC.jpg",
+    "rpc_url": "http://159.69.209.251:9944",
+    "explorer_url": "http://159.69.209.251:4000",
+    "metrics_endpoint": "http://159.69.209.251:9615/metrics",
+    "id": "6c9f9bbf-d4ae-4f5e-8778-6c64695775e9"
+  }
