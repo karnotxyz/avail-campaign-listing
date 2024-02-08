@@ -1,0 +1,7 @@
+{
+  "name": "dryusug",
+  "logo": "https://r.resimlink.com/3dOXCx8.webp",
+  "rpc_url": "http://95.111.235.13:9944",
+  "explorer_url": "http://95.111.235.13:4000",
+  "metrics_endpoint": "http://95.111.235.13:9615",
+  "id": "a6d1ce71-5156-42b9-a39b-fe126886835e" 
