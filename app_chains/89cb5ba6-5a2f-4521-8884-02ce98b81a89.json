@@ -1,0 +1,8 @@
+{
+  "name": "zhenli",
+  "logo": "http://43.155.181.181/static/img/zhenli.png",
+  "rpc_url": "http://43.155.181.181:9944",
+  "explorer_url": "http://43.155.181.181:4000",
+  "metrics_endpoint": "http://43.155.181.181:9615/metrics",
+  "id": "89cb5ba6-5a2f-4521-8884-02ce98b81a89"
+}
