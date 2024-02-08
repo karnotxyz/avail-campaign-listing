@@ -1,0 +1,8 @@
+{
+  "name": "halil01",
+  "logo": "https://r.resimlink.com/y5T-4l32PfH.jpg",
+  "rpc_url": "http://161.35.170.210:9944",
+  "explorer_url": "http://161.35.170.210:4000",
+  "metrics_endpoint": "http://161.35.170.210:9615/metrics",
+  "id": "d4f86597-5dd0-4ff4-87da-361c0a39f0d5"
+}
