@@ -1,0 +1,8 @@
+{
+  "name": "raziqzy",
+  "logo": "https://i.miji.bid/2024/02/05/f1218bb6047eb27856001ab9ddaba3d5.webp",
+  "rpc_url": "http://129.226.206.231:9944",
+  "explorer_url": "http://129.226.206.231:4000",
+  "metrics_endpoint": "http://129.226.206.231:9615/metrics",
+  "id": "2ca71266-2ce1-46a4-9d09-d28dc13cb14d"
+}

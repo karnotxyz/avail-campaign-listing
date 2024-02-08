@@ -1,8 +1,8 @@
 {
   "name": "gebizli",
-  "logo": "https://i.hizliresim.com/2hm97zl.jpg",
-  "rpc_url": "http://138.197.88.13:9944",
-  "explorer_url": "http://138.197.88.13:4000",
-  "metrics_endpoint": "http://138.197.88.13:9615/metrics",
+  "logo": "",
+  "rpc_url": "http://206.189.1.192:9944",
+  "explorer_url": "http://206.189.1.192:4000",
+  "metrics_endpoint": "http://206.189.1.192:9615/metrics",
   "id": "049af7f6-983b-41af-b607-4162b2cc7626"
 }
