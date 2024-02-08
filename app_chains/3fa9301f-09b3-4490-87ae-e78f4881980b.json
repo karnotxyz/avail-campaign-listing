@@ -1,0 +1,8 @@
+{
+  "name": "maj007",
+  "logo": "https://r.resimlink.com/-bqu7.png",
+  "rpc_url": "http://49.12.60.60:9944",
+  "explorer_url": "http://49.12.60.60:4000",
+  "metrics_endpoint": "http://49.12.60.60:9615/metrics",
+  "id": "3fa9301f-09b3-4490-87ae-e78f4881980b"
+}
