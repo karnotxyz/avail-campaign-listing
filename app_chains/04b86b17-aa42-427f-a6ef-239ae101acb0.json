@@ -1,0 +1,8 @@
+{
+  "name": "astronomica",
+  "logo": "https://i.postimg.cc/gJ5FxK3Z/image1.jpg",
+  "rpc_url": "http://173.249.40.18:9944",
+  "explorer_url": "http://173.249.40.18:4000",
+  "metrics_endpoint": "http://173.249.40.18:9615/metrics",
+  "id": "04b86b17-aa42-427f-a6ef-239ae101acb0"
+}
