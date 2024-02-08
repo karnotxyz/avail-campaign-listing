@@ -3,6 +3,6 @@
   "logo": "https://r.resimlink.com/7RohUE6.jpg",
   "rpc_url": "http://31.220.94.168:9944",
   "explorer_url": "http://31.220.94.168:4000",
-  "metrics_endpoint": "http://31.220.94.168:9615",
+  "metrics_endpoint": "http://31.220.94.168:9615/metrics",
   "id": "117b01e2-2182-4ed5-b946-c55b38a14ea1"
 } 
