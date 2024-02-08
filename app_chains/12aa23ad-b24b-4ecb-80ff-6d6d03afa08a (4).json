@@ -1,0 +1,8 @@
+{
+  "name": "behdokht",
+  "logo": "https://avatars.githubusercontent.com/u/101670935?s=400&u=2de177dbf8267ba46ac285835ad4414526c6c660&v=4",
+  "rpc_url": "http://84.247.166.108/:9944",
+  "explorer_url": "http://84.247.166.108/:4000",
+  "metrics_endpoint": "http://84.247.166.108/metrics",
+  "id": "12aa23ad-b24b-4ecb-80ff-6d6d03afa08a"
+  }
