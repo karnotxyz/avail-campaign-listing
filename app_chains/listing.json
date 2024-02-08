@@ -1,0 +1,8 @@
+{
+    "name": "haji",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/34254413/303510338-0cb8eefe-31fd-4499-b925-1cbce32a7941.png",
+    "rpc_url": "https://65.109.206.2:9944",
+    "explorer_url": "65.109.206.2:4000",
+    "metrics_endpoint": "https://65.109.206.2:9615",
+    "id": "69695ce4-a358-447c-81c6-37f8363fd73f"
+  }
