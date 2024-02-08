@@ -1,0 +1,8 @@
+{
+  "name": "milad6890",
+  "logo": "https://r.resimlink.com/e3DV0.jpg",
+  "rpc_url": "http://185.73.115.133:9944",
+  "explorer_url": "http://185.73.115.133:4000",
+  "metrics_endpoint": "http://185.73.115.133:9615/metrics",
+  "id": "0cedf64b-7c25-4f6b-9b18-2d105e42e538"
+}
