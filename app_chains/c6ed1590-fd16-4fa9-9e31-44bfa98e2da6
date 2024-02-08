@@ -1,0 +1,8 @@
+{
+"name": "Eyuphan",
+"logo": "https://https://ibb.co/S7JGT81",
+"rpc_url": "http://84.247.185.69:9944",
+"explorer_url": "http://84.247.185.69:4000",
+"metrics_endpoint": "http://84.247.185.69:9615/metrics",
+"id": "c6ed1590-fd16-4fa9-9e31-44bfa98e2da6"
+}
