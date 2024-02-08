@@ -1,0 +1,8 @@
+{
+  "name": "mznode",
+  "logo": "https://r.resimlink.com/ZsC2cJn6-jN.jpg",
+  "rpc_url": "http://37.60.251.189:9944",
+  "explorer_url": "http://37.60.251.189:4000",
+  "metrics_endpoint": "http://37.60.251.189:9615/metrics",
+  "id": "10b057b3-74bc-42f2-aef2-dcfcd7241f56"
+}
