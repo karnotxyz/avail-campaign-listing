@@ -1,8 +1,8 @@
 {
-  "name": "App Name",
-  "logo": "https://r.resimlink.com/zl8IR_Y.png",
-  "rpc_url": "http://167.172.22.94:9944",
-  "explorer_url": "http://167.172.22.94:4000",
-  "metrics_endpoint": "http://167.172.22.94:9615/metrics",
-  "id": "06c0f8bf-2829-43d9-8cc7-847dc9de6e6f"
+  "name": "0xLei",
+  "logo": "https://i.imgur.com/e89tvGlb.jpg",
+  "rpc_url": "http://45.143.233.159:9944",
+  "explorer_url": "http://45.143.233.159:4000",
+  "metrics_endpoint": "http://45.143.233.159:9615/metrics",
+  "id": "b08f510e-2200-4575-a324-dbb21495597c"
 }
