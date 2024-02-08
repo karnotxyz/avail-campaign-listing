@@ -1,0 +1,15 @@
+{
+
+  "name": "CJNode",
+
+  "logo": "https://ibb.co/VtPFZ2x",
+
+  "rpc_url": "https://194.59.247.129:9944",
+
+  "explorer_url": "https://194.59.247.129:4000",
+
+  "metrics_endpoint": "https://194.59.247.129:9615/metrics",
+
+  "id": "a000a1dc-b8ae-4baa-beaf-da14a580e8e2"
+
+}
