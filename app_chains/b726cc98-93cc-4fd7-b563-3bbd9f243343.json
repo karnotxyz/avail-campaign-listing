@@ -1,8 +1,8 @@
 {
-   "name":"mrenwl2001",
-   "logo":"https://placehold.co/400x400",
-   "rpc_url":"http://173.212.209.65:9944",
-   "explorer_url":"http://173.212.209.65:4000",
-   "metrics_endpoint":"http://173.212.209.65:9615/metrics",
-   "id":"b726cc98-93cc-4fd7-b563-3bbd9f243343"
+  "name": "mrenwl2001",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://173.212.209.65:9944",
+  "explorer_url": "http://173.212.209.65:4000",
+  "metrics_endpoint": "http://173.212.209.65:9615/metrics",
+  "id": "b726cc98-93cc-4fd7-b563-3bbd9f243343"
 }
