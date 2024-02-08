@@ -1,0 +1,8 @@
+{
+  "name": "Avail0",
+  "logo": "https://raw.githubusercontent.com/umut48400/avail-campaign-listing/main/112233.jpg",
+  "rpc_url": "http://65.108.59.201:9944",
+  "explorer_url": "http://65.108.59.201:4000",
+  "metrics_endpoint": "http://65.108.59.201:9615",
+  "id": "c750ff13-29e5-49c7-9acc-b9e94d0e26ee"
+}
