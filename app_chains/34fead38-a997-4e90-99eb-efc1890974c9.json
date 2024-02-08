@@ -1,0 +1,8 @@
+{
+  "name": "zerozero",
+  "logo": "https://ibb.co/42DsB4q][img]https://i.ibb.co/VxhHXM1/dccc18a65f784250bf2a8c9cb4394528.jpg",
+  "rpc_url": "43.129.29.45:9944",
+  "explorer_url": "43.129.29.45:4000",
+  "metrics_endpoint": "43.129.29.45:9615/metrics",
+  "id": "34fead38-a997-4e90-99eb-efc1890974c9"
+}
