@@ -1,0 +1,8 @@
+{
+  "name": "ef6b4",
+  "logo": "https://cdn.pixabay.com/photo/2023/10/25/21/04/mouse-8341314_1280.png",
+  "rpc_url": "http://23.94.122.170:9944",
+  "explorer_url": "http://23.94.122.170:4000",
+  "metrics_endpoint": "http://23.94.122.170:9615/metrics",
+  "id": "5d4c6b5e-62cb-47e3-bf7a-b9b1d4c78f30"
+}
