@@ -1,0 +1,8 @@
+{
+  "name": "mapaja",
+  "logo": "https://r.resimlink.com/fr8aORmUBA.png",
+  "rpc_url": "http://161.97.100.160:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "2bd9337d-5a8a-413d-90ba-0d4c03150d0e"
+}
