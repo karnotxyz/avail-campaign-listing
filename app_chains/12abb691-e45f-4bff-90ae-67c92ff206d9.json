@@ -1,0 +1,8 @@
+{
+  "name": "ceoop",
+  "logo": "https://i.imgur.com/eKzg7AK.jpg",
+  "rpc_url": "http://155.133.23.174:9944",
+  "explorer_url": "http://155.133.23.174:4000",
+  "metrics_endpoint": "http://155.133.23.174:9615/metrics",
+  "id": "12abb691-e45f-4bff-90ae-67c92ff206d9"
+}

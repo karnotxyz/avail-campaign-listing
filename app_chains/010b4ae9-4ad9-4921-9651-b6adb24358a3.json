@@ -1,0 +1,8 @@
+{
+  "name": "dpg_nr",
+  "logo": "https://i.ibb.co/B3kMBJv/photo-2024-02-06-11-40-25.jpg",
+  "rpc_url": "http://95.179.137.81:9944",
+  "explorer_url": "http://95.179.137.81:4000",
+  "metrics_endpoint": "http://95.179.137.81:9615/metrics",
+  "id": "010b4ae9-4ad9-4921-9651-b6adb24358a3"
+}
