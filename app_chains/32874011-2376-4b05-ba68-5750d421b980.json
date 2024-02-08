@@ -1,0 +1,8 @@
+{
+  "name": "jeremy",
+  "logo": "https://avatars.githubusercontent.com/u/25790579?v=4",
+  "rpc_url": "http://104.248.195.51:9944",
+  "explorer_url": "http://104.248.195.51:4000",
+  "metrics_endpoint": "http://104.248.195.51:9615/metrics",
+  "id": "32874011-2376-4b05-ba68-5750d421b980"
+}

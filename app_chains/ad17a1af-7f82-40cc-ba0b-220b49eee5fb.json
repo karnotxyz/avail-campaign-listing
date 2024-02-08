@@ -1,0 +1,8 @@
+{
+  "name": "jinnie",
+  "logo": "https://i.ibb.co/g47YQYy/1of1ex.png",
+  "rpc_url": "http://37.60.247.224:9944",
+  "explorer_url": "http://37.60.247.224:4000",
+  "metrics_endpoint": "http://37.60.247.224:9615/metrics",
+  "id": "ad17a1af-7f82-40cc-ba0b-220b49eee5fb"
+}

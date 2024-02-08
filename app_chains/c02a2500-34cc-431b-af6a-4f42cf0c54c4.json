@@ -1,0 +1,8 @@
+{
+  "name": "dexter",
+  "logo": "https://r.resimlink.com/18FmQ.jpg",
+  "rpc_url": "http://65.109.217.4:9944",
+  "explorer_url": "http://65.109.217.4:4000",
+  "metrics_endpoint": "http://65.109.217.4:9615/metrics",
+  "id": "c02a2500-34cc-431b-af6a-4f42cf0c54c4"
+}

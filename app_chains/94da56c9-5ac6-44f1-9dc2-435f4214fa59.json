@@ -1,0 +1,8 @@
+{
+  "name": "Farez",
+  "logo": "http://r.resimlink.com/vmnHBXAcw7Q.jpeg",
+  "rpc_url": "http://88.99.20.140:9944",
+  "explorer_url": "http://88.99.20.140:4000",
+  "metrics_endpoint": "http://88.99.20.140:9615/metrics",
+  "id": "94da56c9-5ac6-44f1-9dc2-435f4214fa59"
+}
