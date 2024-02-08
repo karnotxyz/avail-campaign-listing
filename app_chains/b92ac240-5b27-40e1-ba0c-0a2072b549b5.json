@@ -1,6 +1,6 @@
 {
   "name": "ScuttleCrab",
-  "logo": "https://imgur.com/PHjwaGs",
+  "logo": "https://raw.githubusercontent.com/Xvirionz/Eigenlayer/main/logo400x400.png",
   "rpc_url": "http://207.180.192.214:9944",
   "explorer_url": "http://207.180.192.214:4000",
   "metrics_endpoint": "http://207.180.192.214:9615/metrics",
