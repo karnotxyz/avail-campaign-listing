@@ -1,0 +1,8 @@
+  {
+    "name": "amirslk",
+    "logo": "https://i.ibb.co/LYW4JTF/logo.png",
+    "rpc_url": "http://80.85.241.245:9944",
+    "explorer_url": "http://80.85.241.245:4000",
+    "metrics_endpoint": "http://80.85.241.245:9615/metrics",
+    "id": "b3cc6081-055f-4411-8c68-636d4a2d8c49"
+  }
