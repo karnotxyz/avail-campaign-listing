@@ -1,8 +1,0 @@
-{
-  "name": "ridhtm",
-  "logo": "https://r.resimlink.com/TXL4HpK.jpg",
-  "rpc_url": "http://149.102.159.164:9944",
-  "explorer_url": "http://149.102.159.164:4000",
-  "metrics_endpoint": "http://149.102.159.164:9615/metrics",
-  "id": "019d784c-ed40-4ca8-8ccb-b93897d8907b"
-}
