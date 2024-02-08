@@ -1,0 +1,9 @@
+
+{
+  "name": "whitingsen",
+  "logo": "http://43.134.111.213/logo.jpg",
+  "rpc_url": "http://43.134.111.213:9944",
+  "explorer_url": "http://43.134.111.213:4000",
+  "metrics_endpoint": "http://43.134.111.213:9615/metrics",
+  "id": "994fda08-015b-47e3-9d03-305eab09ed31"
+}
