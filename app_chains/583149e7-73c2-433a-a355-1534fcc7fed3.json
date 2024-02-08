@@ -1,0 +1,8 @@
+{
+  "name": "sercen",
+  "logo": "https://r.resimlink.com/LcA2oPdX.png",
+  "rpc_url": "http://135.181.157.162:9944",
+  "explorer_url": "http://135.181.157.162:4000",
+  "metrics_endpoint": "http://135.181.157.162:9615/metrics",
+  "id": "583149e7-73c2-433a-a355-1534fcc7fed3"
+}
