@@ -1,8 +1,8 @@
 {
   "name": "FRUG",
   "logo": "https://madara.frankeugene.fun/logo.png",
-  "rpc_url": "https://madara.frankeugene.fun",
-  "explorer_url": "https://explorer.frankeugene.fun",
-  "metrics_endpoint": "https://metrics.frankeugene.fun",
+  "rpc_url": "http://206.189.8.43:9615:9944",
+  "explorer_url": "http://206.189.8.43:4000",
+  "metrics_endpoint": "http://206.189.8.43:9615/metrics",
   "id": "392156b5-3f24-4172-bcc4-a6c9b01b7025"
 }
