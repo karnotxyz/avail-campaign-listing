@@ -1,0 +1,8 @@
+{
+  "name": "son",
+  "logo": "https://i.ibb.co/sHjWL35/400x400.png",
+  "rpc_url": "167.86.124.209:9944",
+  "explorer_url": "167.86.124.209:4000",
+  "metrics_endpoint": "167.86.124.209:9615/metrics",
+  "id": "c58c8721-317d-4cde-aa78-894dae2715d1"
+}

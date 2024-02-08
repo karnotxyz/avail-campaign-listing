@@ -1,0 +1,8 @@
+{
+  "name": "Unmesh",
+  "logo": "https://r.resimlink.com/S_u4AsrvdjZL.jpeg",
+  "rpc_url": "http://20.51.244.74:9944/",
+  "explorer_url": "http://20.51.244.74:4000/",
+  "metrics_endpoint": "http://20.51.244.74:9615/metrics",
+  "id": "10b74950-cf63-4c30-9f81-f14ac1572da6"
+}

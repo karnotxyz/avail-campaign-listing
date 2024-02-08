@@ -1,0 +1,10 @@
+[
+  {
+    "name": "UngkaL",
+    "logo": "https://i.ibb.co/3r7bmMf/download.jpg",
+    "rpc_url": "http://154.26.128.64:9944",
+    "explorer_url": "http://154.26.128.64:4000",
+    "metrics_endpoint": "http://154.26.128.64/metrics",
+    "id": "f8b23cdd-a5b9-4bac-934e-3e0d934daf11"
+  }
+]
