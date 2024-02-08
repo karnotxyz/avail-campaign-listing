@@ -1,0 +1,8 @@
+{
+  "name": "pouyan",
+  "logo": "https://i.postimg.cc/rwwzj68S/Magenta.png",
+  "rpc_url": "http://49.12.60.35:9944",
+  "explorer_url": "http://49.12.60.35:4000",
+  "metrics_endpoint": "http://49.12.60.35:9615/metrics",
+  "id": "3031ef57-5c31-4815-be04-c5de5ead14e8"
+}
