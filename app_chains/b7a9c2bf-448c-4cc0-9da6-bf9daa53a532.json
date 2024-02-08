@@ -1,0 +1,8 @@
+{
+  "name": "veratay",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://149.102.146.225:9944",
+  "explorer_url": "http://149.102.146.225:4000",
+  "metrics_endpoint": "http://149.102.146.225:9615/metrics",
+  "id": "b7a9c2bf-448c-4cc0-9da6-bf9daa53a532"
+}
