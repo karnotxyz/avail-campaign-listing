@@ -1,8 +1,8 @@
 {
   "name": "vaTsoSe",
   "logo": "https://ibb.co.com/qj1XzN4.png",
-  "rpc_url": "http://78.153.130.30",
+  "rpc_url": "http://78.153.130.30:9944",
   "explorer_url": "http://78.153.130.30:4000/",
-  "metrics_endpoint": "http://78.153.130.30",
+  "metrics_endpoint": "http://78.153.130.30:9615/metrics",
   "id": "452cc63b-3e28-4391-9811-fd6bbc70da23"
 }
