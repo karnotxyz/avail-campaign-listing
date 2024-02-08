@@ -1,8 +1,8 @@
 {
-    "name": "nini",
-    "logo": "https://imgur.com/a/svIwYvA",
-    "rpc_url": "http://38.242.151.58:9944",
-    "explorer_url": "http://38.242.151.58:4000",
-    "metrics_endpoint": "http://38.242.151.58:9615/metrics",
-    "id": "2de0bff1-839f-47de-8a2c-ae86c8b9b659"
-  }
+  "name": "nini",
+  "logo": "https://imgur.com/a/svIwYvA",
+  "rpc_url": "http://38.242.151.58:9944",
+  "explorer_url": "http://38.242.151.58:4000",
+  "metrics_endpoint": "http://38.242.151.58:9615/metrics",
+  "id": "2de0bff1-839f-47de-8a2c-ae86c8b9b659"
+}
