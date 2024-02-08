@@ -1,0 +1,8 @@
+{
+  "name": "ShadowMadara",
+  "logo": "https://raw.githubusercontent.com/frankienguyen13/NFTMinting/main/vault.png",
+  "rpc_url": "http://158.220.116.77:9944",
+  "explorer_url": "http://158.220.116.77:4000",
+  "metrics_endpoint": "http://158.220.116.77:9615/metrics",
+  "id": "c1141b10-5e51-4560-9728-355c188f3032"
+}
