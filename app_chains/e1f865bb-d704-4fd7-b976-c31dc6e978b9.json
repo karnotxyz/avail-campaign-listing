@@ -1,10 +1,8 @@
-[
-  {
-    "name": "musuri",
-    "logo": "https://i.ibb.co/n0kqyh5/musuri.png",
-    "rpc_url": "http://161.97.100.160:9944",
-    "explorer_url": "http://161.97.100.160:4000",
-    "metrics_endpoint": "http://161.97.100.160:9615/metrics",
-    "id": "e1f865bb-d704-4fd7-b976-c31dc6e978b9"
-  }
-]
+{
+ "name": "musuri",
+ "logo": "https://i.ibb.co/n0kqyh5/musuri.png",
+ "rpc_url": "http://161.97.100.160:9944",
+ "explorer_url": "http://161.97.100.160:4000",
+ "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+"id": "e1f865bb-d704-4fd7-b976-c31dc6e978b9"
+}
