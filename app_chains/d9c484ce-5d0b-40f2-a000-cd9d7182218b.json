@@ -1,0 +1,8 @@
+{
+  "name": "Bavorak",
+  "logo": "https://ibb.co/Xp4tFfJ",
+  "rpc_url": "http://157.245.75.203:9944",
+  "explorer_url": "http://157.245.75.203:4000",
+  "metrics_endpoint": "http://157.245.75.203:9615/metrics",
+  "id": "d9c484ce-5d0b-40f2-a000-cd9d7182218b"
+}

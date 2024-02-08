@@ -1,0 +1,8 @@
+{
+  "name": "behdokht",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/101670935/303399361-019c80d7-bdbe-4144-a14e-86bd5b4a4009.png",
+  "rpc_url": "http://84.247.166.108:9944",
+  "explorer_url": "http://84.247.166.108:4000",
+  "metrics_endpoint": "https://84.247.166.108:9615/metrics",
+  "id": "a3e8bf47-01dc-4114-8d32-84c47ef1a107"
+}

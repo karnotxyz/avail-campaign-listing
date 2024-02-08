@@ -1,0 +1,8 @@
+{
+  "name": "dropper7",
+  "logo": "https://ibb.co/HCBkTcX",
+  "rpc_url": "http://178.254.34.170:9944",
+  "explorer_url": "http://178.254.34.170:4000",
+  "metrics_endpoint": "http://178.254.34.170:9615/metrics",
+  "id": "648be0c7-2f7c-4102-87a0-51d24e795844"
+}
