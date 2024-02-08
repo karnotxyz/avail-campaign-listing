@@ -1,6 +1,6 @@
 {
   "name": "Zimba",
-  "logo": "https://private-user-images.githubusercontent.com/11755605/303321668-3c8b71ab-48f7-4bef-aff8-526f6f1f3115.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczOTQ1MzMsIm5iZiI6MTcwNzM5NDIzMywicGF0aCI6Ii8xMTc1NTYwNS8zMDMzMjE2NjgtM2M4YjcxYWItNDhmNy00YmVmLWFmZjgtNTI2ZjZmMWYzMTE1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA4VDEyMTAzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1ZjQ4MTA0YzlhMjM3ZjJkMjE1ODZlY2QxNjc0YWFkMWM1YTFhN2Y2MmJmYzU4ZWQxZTliODY1NTcwNTZkZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.teQVoOCQUp9SQTmgT-RhCBUNryqtLEWKtaZZHgj3dMo",
+  "logo": "https://i.ibb.co/jzrBzzs/0166bb41e2d7095286eee1f2d27a78dd.png",
   "rpc_url": "http://161.97.72.218:9944",
   "explorer_url": "http://161.97.72.218:4000",
   "metrics_endpoint": "http://161.97.72.218:9615/metrics",
