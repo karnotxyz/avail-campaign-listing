@@ -1,0 +1,8 @@
+{
+  "name": "MaxWell",
+  "logo": "https://r.resimlink.com/KzVWi.png",
+  "rpc_url": "http://161.35.144.244:9944",
+  "explorer_url": "http://161.35.144.244:4000",
+  "metrics_endpoint": "http://161.35.144.244:9615/metrics",
+  "id": "ddd1cf16-1678-45d9-af74-84050ef6b829"
+}
