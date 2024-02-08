@@ -1,0 +1,8 @@
+{
+  "name": "mainbd",
+  "logo": "https://ibb.co/DkMBdPp",
+  "rpc_url": "http://161.97.97.72:9944",
+  "explorer_url": "http://161.97.97.72:4000",
+  "metrics_endpoint": "http://161.97.97.72:9615/metrics",
+  "id": "76baa843-4d5b-4c04-9ae6-24879bdadb6a"
+}
