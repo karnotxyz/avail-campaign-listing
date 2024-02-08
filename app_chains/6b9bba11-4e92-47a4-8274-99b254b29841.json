@@ -1,0 +1,8 @@
+{
+  "name": "mustache",
+  "logo": "https://i.ibb.co/Gn0xZCL/stache.png",
+  "rpc_url": "http://5.104.86.149:9944",
+  "explorer_url": "http://5.104.86.149:4000",
+  "metrics_endpoint": "http://5.104.86.149:9615/metrics",
+  "id": "6b9bba11-4e92-47a4-8274-99b254b29841"
+}
