@@ -1,6 +1,6 @@
 {
-  "name": "Zimba",
-  "logo": "https://i.ibb.co/jzrBzzs/0166bb41e2d7095286eee1f2d27a78dd.png",
+  "name": "zimba",
+  "logo": "https://gcdnb.pbrd.co/images/21qprYYBta6J.png?o=1",
   "rpc_url": "http://161.97.72.218:9944",
   "explorer_url": "http://161.97.72.218:4000",
   "metrics_endpoint": "http://161.97.72.218:9615/metrics",
