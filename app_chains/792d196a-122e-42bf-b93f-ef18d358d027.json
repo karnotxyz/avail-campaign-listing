@@ -1,0 +1,8 @@
+{
+  "name": "minhtoanbui",
+  "logo": "https://github.com/minhtoanbui135/logo/blob/main/minhtoanbui.jpg",
+  "rpc_url": "http://45.134.226.48:9944",
+  "explorer_url": "http://45.134.226.48:4000",
+  "metrics_endpoint": "http://45.134.226.48:9615/metrics",
+  "id": "792d196a-122e-42bf-b93f-ef18d358d027"
+}
