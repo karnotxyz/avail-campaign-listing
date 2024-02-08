@@ -1,0 +1,8 @@
+{
+  "name": "oscar63",
+  "logo": "https://r.resimlink.com/-AOs_Mth.png",
+  "rpc_url": "http://64.23.186.171:9944",
+  "explorer_url": "http://64.23.186.171:4000",
+  "metrics_endpoint": "http://64.23.186.171:9615",
+  "id": "2f9c0f20-1eb0-4f7d-9632-92dc861535e1" 
+}
