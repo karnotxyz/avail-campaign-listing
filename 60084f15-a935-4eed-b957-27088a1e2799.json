@@ -1,0 +1,8 @@
+{
+  "name": "xtruong",
+  "logo": "https://ibb.co/HKVf6n1",
+  "rpc_url": "http://167.86.74.91:9944",
+  "explorer_url": "http://167.86.74.91:4000",
+  "metrics_endpoint": "http://167.86.74.91/metrics",
+  "id": "60084f15-a935-4eed-b957-27088a1e2799"
+}
