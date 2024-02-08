@@ -1,8 +1,8 @@
 {
-"name": "meji",
-"logo": "https://s2.loli.net/2024/02/09/FA9xb1JdcsiSLza.png",
-"rpc_url": "http://198.144.166.60/:9944",
-"explorer_url": "http://198.144.166.60:4000",
-"metrics_endpoint": "http://198.144.166.60:9615/metrics",
-"id": "bc56cf46-28b2-4ce7-98cb-57afc5eadcdc"
+  "name": "meji",
+  "logo": "https://s2.loli.net/2024/02/09/FA9xb1JdcsiSLza.png",
+  "rpc_url": "http://198.144.166.60/:9944",
+  "explorer_url": "http://198.144.166.60:4000",
+  "metrics_endpoint": "http://198.144.166.60:9615/metrics",
+  "id": "bc56cf46-28b2-4ce7-98cb-57afc5eadcdc"
 }
