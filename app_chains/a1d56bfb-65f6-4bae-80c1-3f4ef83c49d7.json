@@ -1,0 +1,8 @@
+{
+  "name": "btcguide",
+  "logo": "https://imgur.com/c0MjKne",
+  "rpc_url": "http://5.104.87.110:9944",
+  "explorer_url": "http://5.104.87.110:4000",
+  "metrics_endpoint": "http://5.104.87.110:9615",
+  "id": "a1d56bfb-65f6-4bae-80c1-3f4ef83c49d7" 
+}
