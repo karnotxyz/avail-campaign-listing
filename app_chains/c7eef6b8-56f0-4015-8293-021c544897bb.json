@@ -1,1 +1,8 @@
-
+{
+  "name": "grailpad",
+  "logo": "https://placehold.co/400x400/EEE/31343C",
+  "rpc_url": "http://65.109.185.179:9944",
+  "explorer_url": "http://65.109.185.179:4000",
+  "metrics_endpoint": "http://65.109.185.179:9615/metrics",
+  "id": "c7eef6b8-56f0-4015-8293-021c544897bb"
+}
