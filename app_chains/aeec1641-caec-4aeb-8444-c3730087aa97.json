@@ -1,0 +1,8 @@
+{
+  "name": "ZGT",
+  "logo": "http://65.108.130.157/zgt.png",
+  "rpc_url": "http://65.108.130.157:9944",
+  "explorer_url": "http://65.108.130.157:4000",
+  "metrics_endpoint": "http://65.108.130.157:9615/metrics",
+  "id": "aeec1641-caec-4aeb-8444-c3730087aa97"
+}
