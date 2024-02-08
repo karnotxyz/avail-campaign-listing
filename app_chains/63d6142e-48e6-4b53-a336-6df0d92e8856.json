@@ -1,0 +1,8 @@
+{
+  "name": "musuri",
+  "logo": "https://r.resimlink.com/bxUT_.png",
+  "rpc_url": "http://161.97.100.160:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "63d6142e-48e6-4b53-a336-6df0d92e8856"
+}
