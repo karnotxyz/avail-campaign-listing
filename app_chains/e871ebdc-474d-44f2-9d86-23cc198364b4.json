@@ -1,0 +1,8 @@
+{
+  "name": "zimba",
+  "logo": "https://gcdnb.pbrd.co/images/21qprYYBta6J.png?o=1",
+  "rpc_url": "http://161.97.72.218:9944",
+  "explorer_url": "http://161.97.72.218:4000",
+  "metrics_endpoint": "http://161.97.72.218:9615/metrics",
+  "id": "e871ebdc-474d-44f2-9d86-23cc198364b4"
+}
