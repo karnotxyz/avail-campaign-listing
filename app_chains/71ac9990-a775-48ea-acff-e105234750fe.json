@@ -1,8 +1,0 @@
-{
- "name": "abari",
- "logo": "https://r.resimlink.com/Uce7v4foT2.png",
- "rpc_url": "http://194.135.80.146:9944/",
- "explorer_url": "http://194.135.80.146:4000/",
- "metrics_endpoint": "http://194.135.80.146:9615/metrics",
- "id": "71ac9990-a775-48ea-acff-e105234750fe"
-}
