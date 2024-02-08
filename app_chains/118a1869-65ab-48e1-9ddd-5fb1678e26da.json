@@ -1,0 +1,8 @@
+{
+  "name": "StraiveTrinhThom",
+  "logo": "https://i.imgur.com/rJqeTti.png",
+  "rpc_url": "http://37.60.239.114:9944",
+  "explorer_url": "http://37.60.239.114:4000",
+  "metrics_endpoint": "http://37.60.239.114:9615/metrics",
+  "id": "118a1869-65ab-48e1-9ddd-5fb1678e26da"
+}

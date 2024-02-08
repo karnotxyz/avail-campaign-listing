@@ -1,0 +1,8 @@
+{
+  "name": "Kimmisi",
+  "logo": "https://raw.githubusercontent.com/kimmisi/logos/main/logo1.png",
+  "rpc_url": "http://149.28.86.44:9944",
+  "explorer_url": "http://149.28.86.44:4000",
+  "metrics_endpoint": "http://149.28.86.44:9615/metrics",
+  "id": "0e385c4c-5ced-4da1-a075-7be38fb03d41"
+}
