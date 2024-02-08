@@ -1,0 +1,8 @@
+{
+  "name": "ridhtm",
+  "logo": "https://r.resimlink.com/qkPWGUVwSd1T.webp",
+  "rpc_url": "http://206.189.8.43:9944",
+  "explorer_url": "http://206.189.8.43:4000",
+  "metrics_endpoint": "http://206.189.8.43:9615/metrics",
+  "id": "f280baa2-7da6-4f6d-96fc-5b89008561d9"
+}
