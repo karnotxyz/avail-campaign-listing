@@ -1,0 +1,8 @@
+{
+  "name": "jujienn",
+  "logo": "https://i.pinimg.com/originals/db/b3/82/dbb3826e82309eb654eab40be41ab698.png",
+  "rpc_url": "http://128.140.110.150:9944",
+  "explorer_url": "http://128.140.110.150:4000",
+  "metrics_endpoint": "http://128.140.110.150:9615/metrics",
+  "id": "55253003-780d-433d-a80c-5207b3cc6975"
+}
