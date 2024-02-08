@@ -1,7 +1,7 @@
 [
   {
     "name": "UngkaL",
-    "logo": "https://iili.io/J15LyqQ.jpg,
+    "logo": "http://iili.io/J15LyqQ.jpg,
     "rpc_url": "http://154.26.128.64:9944",
     "explorer_url": "http://154.26.128.64:4000",
     "metrics_endpoint": "http://154.26.128.64/metrics",
