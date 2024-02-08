@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://i.ibb.co/X2ygz3V/120184-toyota-supra-custom-drift-neon-lights-hd-4k.jpg",
+  "rpc_url": "http://161.97.100.160:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "cd99ca26-995f-4387-9a8f-96b51e3b3064"
+}
