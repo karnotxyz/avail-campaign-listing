@@ -1,0 +1,8 @@
+{
+  "name": "kontkara",
+  "logo": "https://r.resimlink.com/39_oVJhRpr.jpg",
+  "rpc_url": "http://212.64.216.205:9944",
+  "explorer_url": "http://212.64.216.205:4000",
+  "metrics_endpoint": "http://212.64.216.205:9615",
+  "id": "d1028369-3dcc-4fb3-8c91-929308714123"
+}
