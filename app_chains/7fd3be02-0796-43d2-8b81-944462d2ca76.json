@@ -1,0 +1,8 @@
+{
+  "name": "Alamalu",
+  "logo": "https://i.imgur.com/nWpmjOi.jpeg",
+  "rpc_url": "http://65.109.233.7:9944",
+  "explorer_url": "http://65.109.233.7:4000",
+  "metrics_endpoint": "http://65.109.233.7:9615/metrics",
+  "id": "7fd3be02-0796-43d2-8b81-944462d2ca76"
+}
