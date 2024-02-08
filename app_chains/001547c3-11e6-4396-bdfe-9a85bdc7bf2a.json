@@ -1,0 +1,8 @@
+{
+  "name": "eren",
+  "logo": "https://i.imgur.com/e7tmxIE.jpeg",
+  "rpc_url": "http://62.171.146.222:9944",
+  "explorer_url": "http://62.171.146.222:4000",
+  "metrics_endpoint": "http://62.171.146.222:9615/metrics",
+  "id": "001547c3-11e6-4396-bdfe-9a85bdc7bf2a"
+}
