@@ -1,0 +1,8 @@
+{
+  "name": "marleeehilpert",
+  "logo": "https://ibb.co/Hxfy6SH",
+  "rpc_url": "http://134.209.162.73:9944",
+  "explorer_url": "http://134.209.162.73:4000",
+  "metrics_endpoint": "http://134.209.162.73:9615/metrics",
+  "id": "5cf79a39-4fb0-4297-80bb-635ea7d32932"
+}
