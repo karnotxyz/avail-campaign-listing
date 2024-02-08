@@ -1,0 +1,8 @@
+{
+  "name": "fakerT1",
+  "logo": "https://avatars.githubusercontent.com/u/111621354?v=4",
+  "rpc_url": "http://94.130.207.215:9944",
+  "explorer_url": "http://94.130.207.215:4000",
+  "metrics_endpoint": "http://94.130.207.215:9615/metrics",
+  "id": "7a552e6a-4b00-4835-a51b-90590ebc2592"
+}
