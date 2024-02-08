@@ -1,8 +1,8 @@
-{
+{ 
   "name": "Buzzzzzzz",
   "logo": "https://media3.nin-nin-game.com/303020-pos_thickbox/toy-story-buzz-lightyear-11-ultimate-ver-medicom-toy-.jpg",
   "rpc_url": "http://43.163.192.10:9944",
   "explorer_url": "http://43.163.192.10:4000",
   "metrics_endpoint": "http://43.163.192.10:9615/metrics",
   "id": "6bc13c7d-accd-4bff-88e9-1a7e9dea84ed"
-}
+} 
