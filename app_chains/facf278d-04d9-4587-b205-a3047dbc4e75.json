@@ -1,0 +1,8 @@
+{
+  "name": "longly",
+  "logo": "https://avatars.githubusercontent.com/u/12567744?u=849c1f9b25d69dce1e2b220b5803aed3e428dde3&v=4",
+  "rpc_url": "http://38.242.199.6:9944",
+  "explorer_url": "http://38.242.199.6:4000",
+  "metrics_endpoint": "http://38.242.199.6:9615/metrics",
+  "id": "facf278d-04d9-4587-b205-a3047dbc4e75"
+}
