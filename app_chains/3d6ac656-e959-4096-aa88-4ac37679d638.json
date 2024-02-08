@@ -1,0 +1,8 @@
+{
+  "name": "DORAEMON",
+  "logo": "https://i.im.ge/2024/02/08/cLqTMJ.DORAEMON.jpg",
+  "rpc_url": "http://216.128.136.39:9944",
+  "explorer_url": "http://216.128.136.39:4000",
+  "metrics_endpoint": "http://216.128.136.39:9615/metrics",
+  "id": "3d6ac656-e959-4096-aa88-4ac37679d638"
+}
