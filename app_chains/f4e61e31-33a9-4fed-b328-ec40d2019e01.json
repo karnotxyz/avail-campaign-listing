@@ -1,0 +1,8 @@
+{
+  "name": "gobloke",
+  "logo": "https://r.resimlink.com/gfwqX.jpg,
+  "rpc_url": "http://149.102.159.164:9944",
+  "explorer_url": "149.102.159.164:4000",
+  "metrics_endpoint": "http://149.102.159.164:9615",
+  "id": "f4e61e31-33a9-4fed-b328-ec40d2019e01"
+}
