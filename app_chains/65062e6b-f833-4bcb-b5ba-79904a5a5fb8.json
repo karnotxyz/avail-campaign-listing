@@ -1,0 +1,8 @@
+{
+  "name": "sapphire",
+  "logo": "https://avatars.githubusercontent.com/u/121957607?v=4",
+  "rpc_url": "http://84.247.184.85:9944",
+  "explorer_url": "http://84.247.184.85:4000",
+  "metrics_endpoint": "http://84.247.184.85:9615/metrics",
+  "id": "65062e6b-f833-4bcb-b5ba-79904a5a5fb8"
+}

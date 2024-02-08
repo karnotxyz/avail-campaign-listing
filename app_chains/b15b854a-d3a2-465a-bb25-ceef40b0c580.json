@@ -1,0 +1,8 @@
+{
+  "name": "Doggy",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReC-Ll9LkphQAwIpsrhC3EcCEr1te89SrDjA&usqp=CAU",
+  "rpc_url": "http://43.163.193.49:9944",
+  "explorer_url": "http://43.163.193.49:4000",
+  "metrics_endpoint": "http://43.163.193.49:9615/metrics",
+  "id": "b15b854a-d3a2-465a-bb25-ceef40b0c580"
+}

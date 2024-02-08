@@ -1,0 +1,8 @@
+{
+  "name": "SanFrancisco",
+  "logo": "https://r.resimlink.com/LTKV9.jpg",
+  "rpc_url": "http://154.12.233.56:9944",
+  "explorer_url": "http://154.12.233.56:4000",
+  "metrics_endpoint": "http://154.12.233.56:9615/metrics",
+  "id": "67b28372-cd73-4e3c-a7e7-96bce40945e9"
+}
