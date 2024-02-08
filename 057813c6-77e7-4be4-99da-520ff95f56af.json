@@ -1,0 +1,8 @@
+{
+ "name": "rnegade",
+ "logo": "https://r.resimlink.com/shM_2.png",
+ "rpc_url": "http://135.181.36.237:9944",
+ "explorer_url": "http://135.181.36.237:4000",
+ "metrics_endpoint": "http://135.181.36.237:9615/metrics",
+ "id": "057813c6-77e7-4be4-99da-520ff95f56af"
+}
