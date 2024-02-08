@@ -1,0 +1,8 @@
+{
+  "name": "taka",
+  "logo": "https://i.imgur.com/dufy13G.png",
+  "rpc_url": "http://37.60.246.110:9944",
+  "explorer_url": "http://37.60.246.110:4000",
+  "metrics_endpoint": "http://37.60.246.110:9615/metrics",
+  "id": "0b6d6af3-74eb-48cf-b141-8fbdb3553157"
+}
