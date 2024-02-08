@@ -1,0 +1,8 @@
+{
+  "name": "huso",
+  "logo": "https://i.postimg.cc/59ThC9WH/husoo.png",
+  "rpc_url": "http://5.161.84.190:9944",
+  "explorer_url": "http://5.161.84.190:4000",
+  "metrics_endpoint": "http://5.161.84.190:9615/metrics",
+  "id": "29d37ce9-49cb-41f2-a0ba-2bf4c4e83c29"
+}
