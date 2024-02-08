@@ -1,0 +1,8 @@
+{
+  "name": "lindl",
+  "logo": "https://i.im.ge/2024/02/08/cILgex.LINDL.png",
+  "rpc_url": "http://46.250.227.98:9944",
+  "explorer_url": "http://46.250.227.98:4000",
+  "metrics_endpoint": "http://46.250.227.98:9615/metrics",
+  "id": "d19399c3-ee1e-4871-9405-5b8420ff9cdf"
+}
