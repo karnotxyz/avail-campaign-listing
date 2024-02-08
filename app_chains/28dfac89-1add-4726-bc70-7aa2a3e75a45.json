@@ -1,0 +1,8 @@
+{
+  "name": "yutab",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/104080695/303390120-9dd82748-ae1a-49cc-a33d-3babf6493141.png",
+  "rpc_url": "http://84.247.187.82:9944",
+  "explorer_url": "http://84.247.187.82:4000",
+  "metrics_endpoint": "https://84.247.187.82:9615/metrics",
+  "id": "28dfac89-1add-4726-bc70-7aa2a3e75a45"
+}

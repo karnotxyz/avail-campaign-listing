@@ -1,0 +1,8 @@
+{
+  "name": "SolarCyxity",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/SolarCyxity.png",
+  "rpc_url": "http://170.106.193.66:9944",
+  "explorer_url": "http://170.106.193.66:4000",
+  "metrics_endpoint": "http://170.106.193.66:9615/metrics",
+  "id": "e92ca71a-308d-47c7-ad44-41a2af1f9d36"
+}
