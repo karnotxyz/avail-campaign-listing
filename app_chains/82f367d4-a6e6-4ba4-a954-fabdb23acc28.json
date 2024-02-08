@@ -1,0 +1,7 @@
+{
+  "name": "okx2",
+  "logo": "https://r.resimlink.com/nI1vTxLVSm-.jpg",
+  "rpc_url": "http://207.244.245.39:9944",
+  "explorer_url": "http://207.244.245.39:4000",
+  "metrics_endpoint": "http://207.244.245.39:9615",
+  "id": "82f367d4-a6e6-4ba4-a954-fabdb23acc28" 
