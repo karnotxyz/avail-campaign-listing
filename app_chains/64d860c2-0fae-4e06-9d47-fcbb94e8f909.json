@@ -1,0 +1,15 @@
+{
+
+  "name": "michy",
+
+  "logo": "Appchain-Logo-WebAdress",
+
+  "rpc_url": "https://217.76.57.136:9944",
+
+  "explorer_url": "https://217.76.57.136:4000",
+
+  "metrics_endpoint": "https://217.76.57.136:9615/metrics",
+
+  "id": "64d860c2-0fae-4e06-9d47-fcbb94e8f909"
+
+}
