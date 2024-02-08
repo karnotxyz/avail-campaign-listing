@@ -1,0 +1,8 @@
+{
+  "name": "cosmostation",
+  "logo": "https://www.mintscan.io/assets/icons/cosmostation.png",
+  "rpc_url": "http://madara-appchain.cosmostation.io:9944",
+  "explorer_url": "http://madara-appchain.cosmostation.io:4000",
+  "metrics_endpoint": "http://madara-appchain.cosmostation.io:9615/metrics",
+  "id": "58221b2b-34f6-4f59-bf81-014020b25228"
+}

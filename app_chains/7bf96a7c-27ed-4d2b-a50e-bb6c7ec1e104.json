@@ -1,0 +1,8 @@
+{
+  "name": "salomonval",
+  "logo": "https://r.resimlink.com/bd8VyBsS.png",
+  "rpc_url": "http://81.0.249.86:9944",
+  "explorer_url": "http://81.0.249.86:4000",
+  "metrics_endpoint": "http://81.0.249.86:9615/metrics",
+  "id": "7bf96a7c-27ed-4d2b-a50e-bb6c7ec1e104"
+}

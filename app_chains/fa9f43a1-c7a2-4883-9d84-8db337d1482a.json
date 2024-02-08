@@ -1,0 +1,8 @@
+{
+  "name": "aleko0o",
+  "logo": "https://github.com/aleko0o/Pryzm/blob/main/dddd.png",
+  "rpc_url": "http://185.185.83.231:9944",
+  "explorer_url": "http://185.185.83.231:4000",
+  "metrics_endpoint": "http://185.185.83.231:9615/metrics",
+  "id": "fa9f43a1-c7a2-4883-9d84-8db337d1482a"
+}
