@@ -1,0 +1,7 @@
+{
+  "name": "madara_app",
+  "logo": "https://r.resimlink.com/FWgCtsdAiLX.jpg",
+  "rpc_url": "http://173.249.37.189:9944",
+  "explorer_url": "http://173.249.37.189:4000",
+  "metrics_endpoint": "http://173.249.37.189:9615",
+  "id": "3ea43bc6-4ff1-4821-94b2-66820289ee8c" 
