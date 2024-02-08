@@ -1,0 +1,8 @@
+{
+  "name": "indigo",
+  "logo": "https://imgur.com/IBgpKs9.jpg",
+  "rpc_url": "http://31.220.97.253:9944",
+  "explorer_url": "http://31.220.97.253:4000",
+  "metrics_endpoint": "http://31.220.97.253:9615/metrics",
+  "id": "e187f864-8060-40d3-9ebe-d2ad645b51c9"
+}
