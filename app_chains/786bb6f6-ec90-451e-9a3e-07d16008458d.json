@@ -1,0 +1,8 @@
+{
+    "name": "ayoub",
+    "logo": "https://r.resimlink.com/MBrx4AdI1_.png",
+    "rpc_url": "http://185.249.227.7:9944",
+    "explorer_url": "http://185.249.227.7:4000",
+    "metrics_endpoint": "http://185.249.227.7:9615/metrics",
+    "id": "786bb6f6-ec90-451e-9a3e-07d16008458d"
+}
