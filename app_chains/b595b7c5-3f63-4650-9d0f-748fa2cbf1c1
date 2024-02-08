@@ -1,0 +1,8 @@
+{
+  "name": "Praktus",
+  "logo": "https://r.resimlink.com/U4VyoYTd.png",
+  "rpc_url": "http://75.119.134.131:9944",
+  "explorer_url": "http://75.119.134.131:4000",
+  "metrics_endpoint": "http://75.119.134.131:9615/metrics",
+  "id": "b595b7c5-3f63-4650-9d0f-748fa2cbf1c1"
+}
