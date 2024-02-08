@@ -1,8 +1,0 @@
-{
-    "name": "suatayaz",
-    "logo": "https://r.resimlink.com/QC6qxUeZGNg.png",
-    "rpc_url": "http://37.60.235.103:9944",
-    "explorer_url": "http://37.60.235.103:4000",
-    "metrics_endpoint": "http://37.60.235.103:9615/metrics", 
-    "id": "bc8af6d7-0626-4d6b-807a-baaf4f5dcaab"
-  }
