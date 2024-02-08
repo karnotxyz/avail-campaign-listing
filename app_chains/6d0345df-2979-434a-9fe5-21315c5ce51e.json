@@ -1,0 +1,10 @@
+[
+  {
+    "name": "degen2",
+    "logo": "https://imgur.com/a/cBNYPJ4",
+    "rpc_url": "http://184.174.34.44:9944",
+    "explorer_url": "http://184.174.34.44:4000",
+    "metrics_endpoint": "http://184.174.34.44:9615",
+    "id": "6d0345df-2979-434a-9fe5-21315c5ce51e"
+  }
+]
