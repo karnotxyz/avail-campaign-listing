@@ -1,6 +1,6 @@
 {
   "name": "grailpad",
-  "logo": "https://placehold.co/400x400/EEE/31343C",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/56556942/303348921-038cd74c-aca3-4e06-babb-27de87f7e38a.png",
   "rpc_url": "http://65.109.185.179:9944",
   "explorer_url": "http://65.109.185.179:4000",
   "metrics_endpoint": "http://65.109.185.179:9615/metrics",
