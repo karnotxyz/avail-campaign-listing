@@ -1,9 +1,8 @@
 {
-    "name": "Ramanode",
-    "logo": "https://i.ibb.co/GMp7Lp6/Ramanode.png",
-    "rpc_url": "http://38.242.251.179:9944",
-    "explorer_url": "http://38.242.251.179:4000",
-    "metrics_endpoint": "http://38.242.251.179:9615/metrics",
-    "id": "ddc596f3-d05f-4fb7-9ef1-0e0d5ac78d94"
-  }
-  
+  "name": "Ramanode",
+  "logo": "https://i.ibb.co/GMp7Lp6/Ramanode.png",
+  "rpc_url": "http://38.242.251.179:9944",
+  "explorer_url": "http://38.242.251.179:4000",
+  "metrics_endpoint": "http://38.242.251.179:9615/metrics",
+  "id": "ddc596f3-d05f-4fb7-9ef1-0e0d5ac78d94"
+}
