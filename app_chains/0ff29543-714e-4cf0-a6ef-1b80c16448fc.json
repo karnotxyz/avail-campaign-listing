@@ -1,0 +1,8 @@
+{
+  "name": "mapaja",
+  "logo": "https://i.ibb.co/n0kqyh5/musuri.png",
+  "rpc_url": "http://161.97.100.160:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "0ff29543-714e-4cf0-a6ef-1b80c16448fc"
+}
