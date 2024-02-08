@@ -1,0 +1,8 @@
+{
+  "name": "taylan",
+  "logo": "https://r.resimlink.com/cgGSjiqavd.jpg",
+  "rpc_url": "http://135.181.35.78:9944",
+  "explorer_url": "http://135.181.35.78:4000",
+  "metrics_endpoint": "http://135.181.35.78:9615/metrics",
+  "id": "01b56761-a9fa-4fe3-a517-fc4e2e094db2"
+}
