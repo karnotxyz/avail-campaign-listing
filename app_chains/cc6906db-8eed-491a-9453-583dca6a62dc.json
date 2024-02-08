@@ -1,0 +1,8 @@
+{
+  "name": "RRRRr",
+  "logo": "https://pic.in.th/image/images-1-removebg-preview-%281%29.zZ6XEO",
+  "rpc_url": "http://167.86.108.174:9944",
+  "explorer_url": "http://167.86.108.174:4000",
+  "metrics_endpoint": "http://167.86.108.174:9615/metrics",
+  "id": "cc6906db-8eed-491a-9453-583dca6a62dc"
+}
