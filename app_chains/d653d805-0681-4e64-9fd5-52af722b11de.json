@@ -1,0 +1,8 @@
+{
+  "name": "oxsoltani",
+  "logo": "https://r.resimlink.com/bGVKDtenI.jpg",
+  "rpc_url": "https://161.97.171.250:9944",
+  "explorer_url": "https://161.97.171.250:4000",
+  "metrics_endpoint": "http://161.97.171.250:9615/metrics",
+  "id": "d653d805-0681-4e64-9fd5-52af722b11de"
+}
