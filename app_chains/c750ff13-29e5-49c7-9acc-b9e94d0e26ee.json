@@ -1,6 +1,6 @@
 {
   "name": "Avail0",
-  "logo": "https://r.resimlink.com/FlxfGprOPkyh.jpg", //
+  "logo": "https://r.resimlink.com/FlxfGprOPkyh.jpg",
   "rpc_url": "http://65.108.59.201:9944",
   "explorer_url": "http://65.108.59.201:4000",
   "metrics_endpoint": "http://65.108.59.201:9615",
