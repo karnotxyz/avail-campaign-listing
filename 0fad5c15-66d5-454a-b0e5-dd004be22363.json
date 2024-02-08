@@ -1,0 +1,8 @@
+  {
+    "name": "SivasiaNode",
+    "logo": "https://i.imgur.com/9AV1Pv5.png",
+    "rpc_url": "http://207.154.241.9:9944",
+    "explorer_url": "http://207.154.241.9:4000",
+    "metrics_endpoint": "http://207.154.241.9:9615/metrics",
+    "id": "0fad5c15-66d5-454a-b0e5-dd004be22363"
+  }
