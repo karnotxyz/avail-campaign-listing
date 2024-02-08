@@ -1,0 +1,8 @@
+{
+  "name": "deneme",
+  "logo": "https://r.resimlink.com/RArtZge.jpg",
+  "rpc_url": "http://37.27.40.125:9944",
+  "explorer_url": "http://37.27.40.125:4000",
+  "metrics_endpoint": "http://37.27.40.125:9615",
+  "id": "c82a1338-f30f-49d6-ad74-9554d18b8de8.json" 
+}
