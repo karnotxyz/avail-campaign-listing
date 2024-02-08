@@ -1,0 +1,8 @@
+{
+  "name": "zudeta",
+  "logo": "https://images.prom.ua/4221171915_w600_h600_4221171915.jpg",
+  "rpc_url": "http://149.102.146.227:9944",
+  "explorer_url": "http://149.102.146.227:4000",
+  "metrics_endpoint": "http://149.102.146.227:9615/metrics",
+  "id": "61b52d6a-5315-4e97-bbe8-7c015ff764eb"
+}
