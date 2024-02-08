@@ -1,7 +1,7 @@
 {
   "name": "FlokiNodes",
   "logo": "https://raw.githubusercontent.com/FlokiNode/EigenLayer-Floki-Node/main/ezgif-3-ae8824b3c3.png",
-  "rpc_url": "https://161.97.77.14:6669",
+  "rpc_url": "http://161.97.77.14:6669",
   "explorer_url": "https://161.97.77.14:4000",
   "metrics_endpoint": "https://161.97.77.14:3669/metrics",
   "id": "5b22b342-2c56-497a-81c8-bbbbe2303506"
