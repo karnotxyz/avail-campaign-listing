@@ -1,0 +1,8 @@
+{
+"name": "deneme",
+"logo": "https://r.resimlink.com/c2XKNHiIuwCP.jpg", 
+"rpc_url": "65.109.233.163:9944",
+"explorer_url": "65.109.233.163:4000",
+"metrics_endpoint": "65.109.233.163:9615",
+"id": "26cb7ea3-49cb-4da8-a0d8-3210c9d954bf"
+}
