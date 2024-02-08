@@ -1,0 +1,8 @@
+{
+  "name": "puppet",
+  "logo": "https://i.postimg.cc/k4615xBQ/FQM9-L6b-VQAMUy-ZU.jpg",
+  "rpc_url": "http://24.144.87.209:9944",
+  "explorer_url": "http://24.144.87.209:4000",
+  "metrics_endpoint": "http://24.144.87.209:9615/metrics",
+  "id": "151137f6-9907-4972-811b-35db718f6f2e"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Quadblock corp",
+  "logo": "https://raw.githubusercontent.com/DiscoverMyself/rollapp-registry/d1f94638ddc2229a35e231bfc0301df84fb6951d/devnet/quadblock_2484029-1/logos/quadblock_2484029-1.png",
+  "rpc_url": "65.109.48.247:9944",
+  "explorer_url": "65.109.48.247:4000",
+  "metrics_endpoint": "http://65.109.48.247:9615/metrics",
+  "id": "09d1c839-76ba-463e-88d8-707ec177c719"
+}

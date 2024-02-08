@@ -1,0 +1,8 @@
+{
+  "name": "udumbara",
+  "logo": "https://i.ibb.co/FgwRwTN/bara.png",
+  "rpc_url": "http://109.123.230.149:9944",
+  "explorer_url": "http://109.123.230.149:4000",
+  "metrics_endpoint": "http://109.123.230.149:9615/metrics",
+  "id": "d091a330-cd32-409f-85b4-3d6627ef4243"
+}

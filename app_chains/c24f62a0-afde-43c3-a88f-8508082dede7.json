@@ -1,0 +1,8 @@
+{
+  "name": "sontga",
+  "logo": "https://seotrends.com.vn/wp-content/uploads/2023/05/images.png",
+  "rpc_url": "http://157.90.148.79:9944",
+  "explorer_url": "http://157.90.148.79:4000",
+  "metrics_endpoint": "http://157.90.148.79:9615/metrics",
+  "id": "c24f62a0-afde-43c3-a88f-8508082dede7"
+}
