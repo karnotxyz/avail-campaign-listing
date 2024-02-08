@@ -1,6 +1,6 @@
 "name": "Rexapin",
-  "logo": "https://r.resimlink.com/ivG1TzqJMX.png",
-  "rpc_url": "http://137.184.183.201:9944",
-  "explorer_url": "http://137.184.183.201:4000",
-  "metrics_endpoint": "http://137.184.183.201:9615",
-  "id": "64ee5f0b-5121-44fc-a49a-d27bb44454ac"
+"logo": "https://r.resimlink.com/ivG1TzqJMX.png",
+"rpc_url": "http://137.184.183.201:9944",
+"explorer_url": "http://137.184.183.201:4000",
+"metrics_endpoint": "http://137.184.183.201:9615",
+"id": "64ee5f0b-5121-44fc-a49a-d27bb44454ac"
