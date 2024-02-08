@@ -1,1 +1,8 @@
-
+{
+  "name": "ekaronode",
+  "logo": "https://r.resimlink.com/W2NUBjqx4C.png",
+  "rpc_url": "http://62.171.168.114:9944",
+  "explorer_url": "http://62.171.168.114:4000",
+  "metrics_endpoint": "http://62.171.168.114:9615/metrics",
+  "id": "49e06634-26f1-45b9-8288-6b280fc132e1"
+}
