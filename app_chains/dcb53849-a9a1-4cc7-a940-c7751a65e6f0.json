@@ -1,0 +1,8 @@
+{
+  "name": "abdullahzener",
+  "logo": "https://r.resimlink.com/Te_JIx.png",
+  "rpc_url": "http://24.199.101.187:9944",
+  "explorer_url": "24.199.101.187:4000",
+  "metrics_endpoint": "24.199.101.187:9615/metrics",
+  "id": "dcb53849-a9a1-4cc7-a940-c7751a65e6f0"
+}
