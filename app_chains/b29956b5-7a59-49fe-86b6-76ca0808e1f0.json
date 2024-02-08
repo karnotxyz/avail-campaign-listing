@@ -1,0 +1,8 @@
+{
+	  "name": "pom",
+	    "logo": "https://imgur.com/a/DaajWmb",
+	      "rpc_url": "http://43.128.59.19:9944",
+	        "explorer_url": "http://43.128.59.19:4000",
+		  "metrics_endpoint": "http://43.128.59.19:9615/metrics",
+		    "id": "b29956b5-7a59-49fe-86b6-76ca0808e1f0"
+}
