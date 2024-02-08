@@ -1,0 +1,8 @@
+{
+  "name": "hfitp",
+  "logo": "https://i.imgur.com/a2UBeQn.jpg",
+  "rpc_url": "http://37.60.236.129:9946",
+  "explorer_url": "http://37.60.236.129:4000/",
+  "metrics_endpoint": "http://37.60.236.129:9616/metrics",
+  "id": "745d522b-7df5-4de4-9726-9991757cc754"
+}
