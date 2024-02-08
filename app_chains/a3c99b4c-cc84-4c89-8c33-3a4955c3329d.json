@@ -1,0 +1,8 @@
+{
+  "name": "jameshaskell1",
+  "logo": "https://i.imgur.com/qUNABqx.png",
+  "rpc_url": "http://75.119.131.97:9944",
+  "explorer_url": "http://75.119.131.97:4000",
+  "metrics_endpoint": "http://75.119.131.97:9615/metrics",
+  "id": "a3c99b4c-cc84-4c89-8c33-3a4955c3329d"
+}
