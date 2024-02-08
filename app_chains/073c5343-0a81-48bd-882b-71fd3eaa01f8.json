@@ -1,0 +1,8 @@
+{
+  "name": "mingo",
+  "logo": "https://i.ibb.co/NYj8zf9/mingo.png",
+  "rpc_url": "https://178.254.6.17:9944",
+  "explorer_url": "https://178.254.6.17:4000",
+  "metrics_endpoint": "https://178.254.6.17:9615/metrics",
+  "id": "073c5343-0a81-48bd-882b-71fd3eaa01f8"
+}
