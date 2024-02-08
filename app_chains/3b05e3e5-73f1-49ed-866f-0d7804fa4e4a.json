@@ -1,0 +1,8 @@
+{
+  "name": "mustache",
+  "logo": "https://r.resimlink.com/vARTP-HZWK.png",
+  "rpc_url": "http://5.104.86.149:9944",
+  "explorer_url": "http://5.104.86.149:4000",
+  "metrics_endpoint": "http://5.104.86.149:9615/metrics",
+  "id": "3b05e3e5-73f1-49ed-866f-0d7804fa4e4a"
+}
