@@ -1,0 +1,8 @@
+{
+  "name": "MOR2304",
+  "logo": "https://placehold.co/400x400?text=MOR2304",
+  "rpc_url": "http://104.225.222.189:9944",
+  "explorer_url": "http://104.225.222.189:4000",
+  "metrics_endpoint": "http://104.225.222.189:9615/metrics",
+  "id": "edb036c7-4fbd-4f25-ad3c-ff011bbcc43c"
+}
