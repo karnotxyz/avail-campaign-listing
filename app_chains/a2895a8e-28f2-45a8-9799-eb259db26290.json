@@ -1,0 +1,8 @@
+{
+  "name": "Wild",
+  "logo": "https://r.resimlink.com/o4srY_plz.png",
+  "rpc_url": "http://65.108.50.228:9944",
+  "explorer_url": "http://65.108.50.228:4000",
+  "metrics_endpoint": "http://65.108.50.228:9615/metrics",
+  "id": "a2895a8e-28f2-45a8-9799-eb259db26290"
+}
