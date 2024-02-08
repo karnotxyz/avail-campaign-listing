@@ -1,0 +1,8 @@
+{
+  "name": "moji",
+  "logo": "https://r.resimlink.com/qpcL_yA.png",
+  "rpc_url": "http://193.36.85.154:9944",
+  "explorer_url": "http://193.36.85.154:4000",
+  "metrics_endpoint": "http://193.36.85.154:9615/metrics",
+  "id": "9f0abb91-47ba-4602-9ab1-75a3ad653e2d"
+}
