@@ -1,0 +1,8 @@
+{
+  "name": "soonghenbxl",
+  "logo": "https://i.seadn.io/s/raw/files/910f3aeefb4c1764b7baf1d558846c79.jpg",
+  "rpc_url": "http://46.250.231.23:9944",
+  "explorer_url": "http://46.250.231.23:4000",
+  "metrics_endpoint": "http://46.250.231.23:9615/metrics",
+  "id": "d39a8123-a71f-416b-bc2e-3f0f603a076c"
+}
