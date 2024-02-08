@@ -1,6 +1,6 @@
 {
     "name": "NodeTET",
-    "logo": "https://i.ibb.co/9s7PT8J/Profil.jpg",
+    "logo": "https://i.ibb.co/52H7vLv/NodeTET.png",
     "rpc_url": "http://rpc.158.220.118.205:9944",
     "explorer_url": "http://158.220.118.205:4000",
     "metrics_endpoint": "http://158.220.118.205:9615/metrics",
