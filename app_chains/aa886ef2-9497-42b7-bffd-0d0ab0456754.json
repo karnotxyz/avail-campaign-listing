@@ -1,0 +1,8 @@
+{
+  "name": "somayememar",
+  "logo": "https://i.ibb.co/DD195Wg/photo-2024-02-08-12-14-11.jpg",
+  "rpc_url": "http://173.212.217.254:4000/",
+  "explorer_url": "http://173.212.217.254:4000/",
+  "metrics_endpoint": "http://173.212.217.254:4000/",
+  "id": "aa886ef2-9497-42b7-bffd-0d0ab0456754"
+}
