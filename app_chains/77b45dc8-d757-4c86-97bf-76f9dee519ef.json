@@ -1,6 +1,8 @@
+{
   "name": "donemoji_5",
   "logo": "https://ibb.co/D41J7rR",
   "rpc_url": "http://84.247.167.106:9944",
   "explorer_url": "http://84.247.167.106:4000",
   "metrics_endpoint": "http://84.247.167.106:9615/metrics",
   "id": "77b45dc8-d757-4c86-97bf-76f9dee519ef"
+}
