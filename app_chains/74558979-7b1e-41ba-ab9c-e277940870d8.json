@@ -1,0 +1,8 @@
+﻿{
+  "name": "clunkp",
+  "logo": "https://r.resimlink.com/Q2axTcW5M.png",
+  "rpc_url": "http://108.181.164.87:9944",
+  "explorer_url": "http://108.181.164.87:4000",
+  "metrics_endpoint": "http://108.181.164.87:9615/metrics",
+  "id": "74558979-7b1e-41ba-ab9c-e277940870d8"
+}
