@@ -1,8 +1,8 @@
 {
-  "name": "ayan",
-  "logo": "https://r.resimlink.com/adV0t3rb2q.jpg",
-  "rpc_url": "https://65.21.147.74:9944",
-  "explorer_url": "https://65.21.147.74:4000",
-  "metrics_endpoint": "https://65.21.147.74:9615/metrics",
-  "id": "779a9163-ab56-4970-a2a0-8bcb6b02074a"
+"name": "ayan",
+"logo": "https://r.resimlink.com/adV0t3rb2q.jpg",
+"rpc_url": "https://65.21.147.74:9944",
+"explorer_url": "https://65.21.147.74:4000",
+"metrics_endpoint": "https://65.21.147.74:9615/metrics",
+"id": "779a9163-ab56-4970-a2a0-8bcb6b02074a"
 }
