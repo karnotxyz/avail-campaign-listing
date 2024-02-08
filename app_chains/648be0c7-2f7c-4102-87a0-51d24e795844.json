@@ -1,0 +1,8 @@
+{
+  "name": "dropper7",
+  "logo": "https://www.dropbox.com/scl/fi/zxwt1m6m9yrszardkc9ld/dropper7.jpg?rlkey=dox7objd5rijdm80txctzdco2&dl=1",
+  "rpc_url": "http://178.254.34.170:9944",
+  "explorer_url": "http://178.254.34.170:4000",
+  "metrics_endpoint": "http://178.254.34.170:9615/metrics",
+  "id": "648be0c7-2f7c-4102-87a0-51d24e795844"
+}
