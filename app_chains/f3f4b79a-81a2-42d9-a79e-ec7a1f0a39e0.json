@@ -1,0 +1,8 @@
+{
+  "name": "zara",
+  "logo": "https://i.imgur.com/Js2UgYI.png",
+  "rpc_url": "http://165.232.84.112:9944",
+  "explorer_url": "http://165.232.84.112:4000",
+  "metrics_endpoint": "http://165.232.84.112:9615/metrics",
+  "id": "f3f4b79a-81a2-42d9-a79e-ec7a1f0a39e0"
+}
