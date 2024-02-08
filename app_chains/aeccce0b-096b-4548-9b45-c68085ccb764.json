@@ -1,0 +1,8 @@
+{
+  "name": "chickpanty",
+  "logo": "http://43.134.168.176/logo.jpg",
+  "rpc_url": "http://43.134.168.176:9944",
+  "explorer_url": "http://43.134.168.176:4000",
+  "metrics_endpoint": "http://43.134.168.176:9615/metrics",
+  "id": "aeccce0b-096b-4548-9b45-c68085ccb764"
+}
