@@ -1,0 +1,9 @@
+
+{
+  "name": "holisticburri",
+  "logo": "http://43.156.29.132/logo.jpg",
+  "rpc_url": "http://43.156.29.132:9944",
+  "explorer_url": "http://43.156.29.132:4000",
+  "metrics_endpoint": "http://43.156.29.132:9615/metrics",
+  "id": "4e75cb93-01a2-4821-b701-2afa0d744f14"
+}
