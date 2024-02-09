@@ -1,0 +1,8 @@
+{
+  "name": "mile_chain",
+  "logo": "https://i.ibb.co/2yG4cN8/Whats-App-Image-2024-02-09-at-11-18-07-AM.jpg",
+  "rpc_url": "http://38.242.211.176:9944",
+  "explorer_url": "http://38.242.211.176:4000",
+  "metrics_endpoint": "http://38.242.211.176:9615/metrics",
+  "id": "f0adaceb-133e-4c28-bc01-6c29f36dfa8a"
+}
