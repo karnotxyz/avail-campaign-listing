@@ -1,0 +1,8 @@
+{
+  "name": "presenceg",
+  "logo": "http://43.134.240.15/logo.jpg",
+  "rpc_url": "http://43.134.240.15:9944",
+  "explorer_url": "http://43.134.240.15:4000",
+  "metrics_endpoint": "http://<43.134.240.15:9615/metrics",
+  "id": "66cedb88-f045-4ac7-a427-2513cab0179e"
+}
