@@ -1,0 +1,8 @@
+{
+    "name": "MLT65",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/99796929/303663562-9d6e9cac-cf4e-481d-8aa8-fe6d4286e8b9.png",
+    "rpc_url": "http://159.69.239.7:9944",
+    "explorer_url": "https://159.69.239.7:4000",
+    "metrics_endpoint": "https://159.69.239.7:9615/metrics",
+    "id": "e79dd3fc-f4e3-4ed1-90dd-5b41c1da2b8d"
+  }
