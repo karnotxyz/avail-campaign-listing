@@ -1,0 +1,8 @@
+{
+  "name": "azaden",
+  "logo": "https://i.imgur.com/Z0vLxd5.jpg",
+  "rpc_url": "http://5.189.153.200:9944",
+  "explorer_url": "http://5.189.153.200:4000",
+  "metrics_endpoint": "http://5.189.153.200:9615/metrics",
+  "id": "fc068c5e-ca26-4521-9304-61b90b14581a"
+}
