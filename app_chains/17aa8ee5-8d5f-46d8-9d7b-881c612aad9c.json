@@ -1,0 +1,8 @@
+{
+  "name": "Sanchez",
+  "logo": "https://www.shutterstock.com/image-vector/number-400-icon-design-black-260nw-1727355949.jpg",
+  "rpc_url": "http://38.242.194.31:9944",
+  "explorer_url": "http://38.242.194.31:4000",
+  "metrics_endpoint": "http://38.242.194.31:9615/metrics",
+  "id": "17aa8ee5-8d5f-46d8-9d7b-881c612aad9c"
+}
