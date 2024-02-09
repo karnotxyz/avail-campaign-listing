@@ -1,0 +1,6 @@
+"name": "King",
+    "logo": "https://r.resimlink.com/-KlVwZfzQ.png",
+    "rpc_url": "http://37.27.33.106:9944",
+    "explorer_url": "http://37.27.33.106:4000",
+    "metrics_endpoint": "http://37.27.33.106:9615/metrics", 
+    "id": "2edefc1d-0d10-4c13-ae39-82a0116c5629"
