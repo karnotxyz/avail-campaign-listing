@@ -1,6 +1,6 @@
 {
   "name": "calvinqta",
-  "logo":"https://avatars.githubusercontent.com/u/130379390?u=cc44eb0fd3119cf1ce2393a0b9d6d0cd171a465e&v=4”,
+  "logo":"https://avatars.githubusercontent.com/u/130379390?v=4,
   "rpc_url": "http://84.247.189.94:9944",
   "explorer_url": "http://84.247.189.94:4000",
   "metrics_endpoint": "http://84.247.189.94:9615/metrics",
