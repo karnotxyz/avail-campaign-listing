@@ -1,0 +1,8 @@
+{
+  "name": "halosumiu",
+  "logo": "https://i.im.ge/2024/02/09/c9d3fY.538-400x400.jpg",
+  "rpc_url": "http://164.68.99.163:9944",
+  "explorer_url": "http://164.68.99.163:4000",
+  "metrics_endpoint": "http://164.68.99.163/metrics",
+  "id": "21db1f88-dda5-485b-8616-9e02fa669d9f"
+}
