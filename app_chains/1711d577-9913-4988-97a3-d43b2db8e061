@@ -1,0 +1,8 @@
+{
+  "name": "NodesKuge",
+  "logo": "https://media.licdn.com/dms/image/C4E03AQGRv5KoxLmnvg/profile-displayphoto-shrink_200_200/0/1645360597572?e=1712793600&v=beta&t=LF8PvHqkjKPpyM6QzrN4Ya_oelO6YOnTEdJagmU5fAk",
+  "rpc_url": "http://84.21.171.135:9944",
+  "explorer_url": "http://84.21.171.135:4000",
+  "metrics_endpoint": "http://84.21.171.135:9615/metrics",
+  "id": "1711d577-9913-4988-97a3-d43b2db8e061"
+}
