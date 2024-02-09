@@ -1,0 +1,8 @@
+{
+  "name": "SanZoldyczk",
+  "logo": "https://i.ibb.co/StB2291/namek.png",
+  "rpc_url": "http://143.198.82.8.:9944",
+  "explorer_url": "http://143.198.82.8:4000",
+  "metrics_endpoint": "http://143.198.82.8:9615/metrics",
+  "id": "0cf895fd-c0b1-4ba5-a2fe-2831fc63fe19"
+}
