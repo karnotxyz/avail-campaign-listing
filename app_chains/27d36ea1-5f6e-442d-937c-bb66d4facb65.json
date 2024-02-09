@@ -1,0 +1,8 @@
+{
+  "name": "Zeep",
+  "logo": "https://i.ibb.co/1QWkpyk/zeep.png",
+  "rpc_url": "http://207.180.219.123:9944",
+  "explorer_url": "http://207.180.219.123:4000",
+  "metrics_endpoint": "http://207.180.219.123:9615/metrics",
+  "id": "27d36ea1-5f6e-442d-937c-bb66d4facb65"
+}

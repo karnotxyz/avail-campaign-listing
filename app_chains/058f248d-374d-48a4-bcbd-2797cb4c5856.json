@@ -1,0 +1,8 @@
+{
+  "name": "Dicounter",
+  "logo": "https://i.postimg.cc/xjs3DyTR/images.jpg",
+  "rpc_url": "http://37.60.229.86:9944",
+  "explorer_url": "http://37.60.229.86:4000",
+  "metrics_endpoint": "http://37.60.229.86:9615/metrics",
+  "id": "058f248d-374d-48a4-bcbd-2797cb4c5856"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "nctaka",
+  "logo": "https://i.ibb.co/g47YQYy/1of1ex.png",
+  "rpc_url": "http://34.125.62.42:9944",
+  "explorer_url": "http://34.125.62.42:4000",
+  "metrics_endpoint": "http://34.125.62.42:9615/metrics",
+  "id": "3c3de988-cc45-4110-b7d5-a210d4283268"
+}

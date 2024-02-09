@@ -1,0 +1,8 @@
+{
+  "name": "OneHunderedEyez",
+  "logo": "https://r.resimlink.com/TN8PG3.png",
+  "rpc_url": "http://65.108.154.34:9944",
+  "explorer_url": "http://65.108.154.34:4000",
+  "metrics_endpoint": "http://65.108.154.34:9615/metrics",
+  "id": "a5072b45-8eb8-4712-a0d6-f2e57090524b"
+}

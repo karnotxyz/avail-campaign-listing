@@ -1,0 +1,8 @@
+{
+  "name": "MIRNA",
+  "logo": "https://i.im.ge/2024/02/04/bzIej9.a28a63af-78fd-438d-8885-e788ca66b233.jpg",
+  "rpc_url": "http://143.110.232.54:9944",
+  "explorer_url": "http://143.110.232.54:4000",
+  "metrics_endpoint": "http://143.110.232.54:9615/metrics",
+  "id": "30105cc4-75e2-4361-a19d-a3022b22a0b8"
+}

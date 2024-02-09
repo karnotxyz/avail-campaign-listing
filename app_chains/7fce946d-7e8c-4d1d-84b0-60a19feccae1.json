@@ -1,0 +1,8 @@
+{
+  "name": "SBB",
+  "logo": "https://sbbnode.com/wp-content/uploads/2023/12/sbb-node.png",
+  "rpc_url": "http://185.207.104.139:9944",
+  "explorer_url": "http://185.207.104.139:4000",
+  "metrics_endpoint": "http://185.207.104.139:9615/metrics",
+  "id": "7fce946d-7e8c-4d1d-84b0-60a19feccae1"
+}

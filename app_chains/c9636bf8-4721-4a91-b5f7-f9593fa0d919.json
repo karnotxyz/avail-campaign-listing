@@ -1,0 +1,8 @@
+{
+  "name": "ilaNihas",
+  "logo": "https://raw.githubusercontent.com/ilaNihas21/Logos/main/logo-colored400x400.png",
+  "rpc_url": "http://37.60.230.248:9944",
+  "explorer_url": "http://37.60.230.248:4000",
+  "metrics_endpoint": "http://37.60.230.248:9615/metrics",
+  "id": "c9636bf8-4721-4a91-b5f7-f9593fa0d919"
+}

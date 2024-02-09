@@ -1,0 +1,8 @@
+{
+  "name": "0xLemuriansLegions",
+  "logo": "https://r.resimlink.com/0bxJZt.png",
+  "rpc_url": "http://37.60.228.44:9944",
+  "explorer_url": "http://37.60.228.44:4000",
+  "metrics_endpoint": "http://37.60.228.44:9615/metrics",
+  "id": "bdbb6f08-0e9f-457e-9f37-58ddc2a62e18"
+}

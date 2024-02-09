@@ -1,0 +1,8 @@
+{
+  "name": "Okrek",
+  "logo": "https://link.storjshare.io/s/jxjogz3hdlymuotggrup7i3pyzmq/testnet%2FOkrek2.jpeg?wrap=0",
+  "rpc_url": "http://85.92.108.230:9944",
+  "explorer_url": "http://85.92.108.230:4000",
+  "metrics_endpoint": "http://85.92.108.230:9615/metrics",
+  "id": "90bd2386-223d-42a1-a1c5-356d6e7a002d"
+}

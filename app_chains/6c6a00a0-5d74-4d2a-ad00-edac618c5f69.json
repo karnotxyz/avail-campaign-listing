@@ -1,0 +1,8 @@
+{
+  "name": "zircon",
+  "logo": "https://imgur.com/vxXk3aZ.jpg",
+  "rpc_url": "http://84.247.179.119:9944",
+  "explorer_url": "http://84.247.179.119:4000",
+  "metrics_endpoint": "http://84.247.179.119:9615/metrics",
+  "id": "6c6a00a0-5d74-4d2a-ad00-edac618c5f69"
+}

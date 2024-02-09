@@ -1,0 +1,8 @@
+{
+  "name": "Togata",
+  "logo": "https://r.resimlink.com/JiomR.jpg",
+  "rpc_url": "http://5.189.181.95:9944",
+  "explorer_url": "http://5.189.181.95:4000",
+  "metrics_endpoint": "http://5.189.181.95:9615/metrics",
+  "id": "d9abc1eb-5fda-4dc9-97a5-d7ab1dda430f"
+}

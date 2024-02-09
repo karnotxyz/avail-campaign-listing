@@ -1,0 +1,8 @@
+{
+  "name": "pandevelop",
+  "logo": "https://hellopan.4everland.store/logo.jpg",
+  "rpc_url": "http://46.4.197.185:9944",
+  "explorer_url": "http://46.4.197.185:4000",
+  "metrics_endpoint": "http://46.4.197.185:9615/metrics",
+  "id": "363d4b8a-883a-446c-b30e-d90837a79e40"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "atlas",
+  "logo": "https://i.ibb.co/Qk46kPr/atlas-2182791-1.png",
+  "rpc_url": "http://62.171.142.178:9944",
+  "explorer_url": "http://62.171.142.178:4000",
+  "metrics_endpoint": "http://62.171.142.178:9615/metrics",
+  "id": "a47b4bb0-8729-43b5-b553-1f0d582ccd31"
+}

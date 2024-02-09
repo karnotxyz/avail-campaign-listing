@@ -1,0 +1,8 @@
+{
+  "name": "shellboyi",
+  "logo": "https://ibb.co/Pry7YSk",
+  "rpc_url": "http://156.236.31.130:9944",
+  "explorer_url": "http://156.236.31.130:4000",
+  "metrics_endpoint": "http://156.236.31.130:9615/metrics",
+  "id": "26f30e65-d095-477a-969c-d96b8804a1f3"
+}

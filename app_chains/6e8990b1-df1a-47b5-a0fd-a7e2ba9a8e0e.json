@@ -1,0 +1,8 @@
+{
+  "name": "blackowl",
+  "logo": "https://raw.githubusercontent.com/blackowltr/BlackOwl/main/BlackOwl.png",
+  "rpc_url": "http://45.59.70.108:9944",
+  "explorer_url": "http://45.59.70.108:4000",
+  "metrics_endpoint": "http://45.59.70.108:9615/metrics",
+  "id": "6e8990b1-df1a-47b5-a0fd-a7e2ba9a8e0e"
+}

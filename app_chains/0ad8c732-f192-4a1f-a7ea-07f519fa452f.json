@@ -1,0 +1,8 @@
+{
+  "name": "crypgo",
+  "logo": "https://r.resimlink.com/Le1kpfIY6.png",
+  "rpc_url": "http://34.71.158.68:9944",
+  "explorer_url": "http://34.71.158.68:4000",
+  "metrics_endpoint": "http://34.71.158.68:9615/metrics",
+  "id": "0ad8c732-f192-4a1f-a7ea-07f519fa452f"
+}

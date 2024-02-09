@@ -1,0 +1,8 @@
+{
+  "name": "centur",
+  "logo": "https://i.imgur.com/LjgdXsb.png",
+  "rpc_url": "http://195.35.14.23:9944",
+  "explorer_url": "http://195.35.14.23:4000",
+  "metrics_endpoint": "http://195.35.14.23:9615/metrics",
+  "id": "f66df330-e547-48d4-b29c-690afe32c3f4"
+}
