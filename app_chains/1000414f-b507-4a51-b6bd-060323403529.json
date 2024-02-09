@@ -1,0 +1,8 @@
+{
+  "name": "Finiax",
+  "logo": "https://placehold.co/400/orange/white?text=Fin",
+  "rpc_url": "http://89.185.85.145:9944",
+  "explorer_url": "http://89.185.85.145:4000",
+  "metrics_endpoint": "http://89.185.85.145:9615/metrics",
+  "id": "1000414f-b507-4a51-b6bd-060323403529"
+}
