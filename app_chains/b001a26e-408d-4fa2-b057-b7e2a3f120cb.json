@@ -1,0 +1,15 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2707
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+    "name": "bitban",\
+    "logo": "https://r.resimlink.com/J9byvu.png",\
+    "rpc_url": "167.86.70.86:9944",\
+    "explorer_url": "167.86.70.86:4000",\
+    "metrics_endpoint": "167.86.70.86:9615/metrics",\
+    "id": "b001a26e-408d-4fa2-b057-b7e2a3f120cb"\
+  \}}
