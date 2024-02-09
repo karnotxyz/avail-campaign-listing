@@ -1,0 +1,8 @@
+{
+  "name": "ava",
+  "logo": "https://frpnet.net/wp-content/uploads/2020/10/tom-bombadil-kimdir-teoriler-2.jpeg",
+  "rpc_url": "http://37.60.248.219:9944",
+  "explorer_url": "http://37.60.248.219:4000",
+  "metrics_endpoint": "http://37.60.248.219:9615/metrics",
+  "id": "934429da-15d5-49cb-ab62-64c2377d109a"
+}
