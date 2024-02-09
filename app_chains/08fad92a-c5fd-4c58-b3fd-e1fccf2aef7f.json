@@ -1,0 +1,8 @@
+{
+  "name": "nkazamyampinkur",
+  "logo": "https://i.imgur.com/f2eSHFe.png",
+  "rpc_url": "http://207.244.224.193:9944",
+  "explorer_url": "http://207.244.224.193:4000",
+  "metrics_endpoint": "http://207.244.224.193:9615/metrics",
+  "id": "08fad92a-c5fd-4c58-b3fd-e1fccf2aef7f"
+}
