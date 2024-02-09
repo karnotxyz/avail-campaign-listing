@@ -6,12 +6,12 @@ format to listing.json.
 
 ```json
 {
-  "name": "drakula",
-  "logo": "https://github.com/settings/profile",
-  "rpc_url": "http://Y62.171.172.170:9944",
+  "name": "Drakula",
+  "logo": "https://placehold.co/400x400/black/darkred?text=DRAK",
+  "rpc_url": "http://62.171.172.170:9944",
   "explorer_url": "http://62.171.172.170:4000",
-  "metrics_endpoint": "62.171.172.170:9615/metrics",
-  "id": "f115dd9c-9f67-4a75-8025-2b89c85a597b"
+  "metrics_endpoint": "http://62.171.172.170:9615/metrics",
+  "id": "53e22caa-5889-4e72-a03a-ee6b9bb18e01"
 }
 ```
 
