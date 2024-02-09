@@ -1,0 +1,8 @@
+{
+  "name": "Pouria",
+  "logo": "https://ibb.co/TLXVCqv/400x400",
+  "rpc_url": "https://49.12.60.58:9944",
+  "explorer_url": "49.12.60.58:4000",
+  "metrics_endpoint": "https://49.12.60.58:9615/metrics",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
