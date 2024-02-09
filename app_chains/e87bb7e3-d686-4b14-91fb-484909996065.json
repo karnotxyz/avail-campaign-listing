@@ -1,0 +1,8 @@
+{
+  "name": "gokolata",
+  "logo": "https://raw.githubusercontent.com/gokhanES/rollapp-registry/main/devnet/gokolata_7846916-1/logos/gokolata_7846916-1.png",
+  "rpc_url": "http://38.242.247.182:9944",
+  "explorer_url": "http://38.242.247.182:4000",
+  "metrics_endpoint": "http://38.242.247.182:9615/metrics",
+  "id": "e87bb7e3-d686-4b14-91fb-484909996065"
+}
