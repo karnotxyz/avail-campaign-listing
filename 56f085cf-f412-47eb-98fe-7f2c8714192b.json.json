@@ -1,0 +1,8 @@
+{
+  "name": "mrcrypto",
+  "logo": "https://r.resimlink.com/LmRWP.jpg",
+  "rpc_url": "http://213.136.89.56-SERVER:9944",
+  "explorer_url": "http://213.136.89.56-SERVER:4000",
+  "metrics_endpoint": "http://213.136.89.56-SERVER:9615/metrics",
+  "id": "56f085cf-f412-47eb-98fe-7f2c8714192b"
+}
