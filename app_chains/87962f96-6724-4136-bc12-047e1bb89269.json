@@ -1,0 +1,8 @@
+{
+  "name": "SanZoldyczk",
+  "logo": "https://i.ibb.co/q9m5x4Y/sage-mode.png",
+  "rpc_url": "http://143.198.82.8:9944",
+  "explorer_url": "http://143.198.82.8:4000",
+  "metrics_endpoint": "http://143.198.82.8:9615/metrics",
+  "id": "87962f96-6724-4136-bc12-047e1bb89269"
+}
