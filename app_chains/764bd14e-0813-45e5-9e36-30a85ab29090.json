@@ -1,0 +1,8 @@
+{
+  "name": "scannerx",
+  "logo": "https://scannerx.net/logo.png",
+  "rpc_url": "http://185.249.255.183:9944",
+  "explorer_url": "http://185.249.255.183:4000",
+  "metrics_endpoint": "http://185.249.255.183:9615/metrics",
+  "id": "764bd14e-0813-45e5-9e36-30a85ab29090"
+}
