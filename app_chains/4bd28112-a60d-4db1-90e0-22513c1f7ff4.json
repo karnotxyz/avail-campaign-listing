@@ -1,0 +1,8 @@
+{
+  "name": "_twipZ_z",
+  "logo": "https://r.resimlink.com/cXe-kuQ.jpg",
+  "rpc_url": "http://134.209.255.162:9944/",
+  "explorer_url": "http://134.209.255.162:4000/",
+  "metrics_endpoint": "http://134.209.255.162:9615/metrics",
+  "id": "4bd28112-a60d-4db1-90e0-22513c1f7ff4"
+}

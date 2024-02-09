@@ -1,0 +1,8 @@
+{
+  "name": "Renrub821",
+  "logo": "https://i.ibb.co/yShwkkp/Rr.png",
+  "rpc_url": "http://37.60.249.79:9944",
+  "explorer_url": "http://37.60.249.79:4000",
+  "metrics_endpoint": "http://37.60.249.79:9615/metrics",
+  "id": "e15c0598-8767-4285-a914-bfe9f535851c"
+}

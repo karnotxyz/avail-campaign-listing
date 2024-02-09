@@ -1,0 +1,8 @@
+{
+  "name": "miner",
+  "logo": "https://i.imgur.com/clParj7.jpg",
+  "rpc_url": "http://49.13.71.6:9944",
+  "explorer_url": "http://49.13.71.6:4000",
+  "metrics_endpoint": "http://49.13.71.6:9615/metrics",
+  "id": "2014546c-6a81-43b0-a36f-51a56893aaee"
+}

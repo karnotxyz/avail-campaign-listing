@@ -1,0 +1,8 @@
+{
+  "name": "Kehsaneth",
+  "logo": "https://r.resimlink.com/2G9LEZcl-.png",
+  "rpc_url": "http://38.242.148.95:9944",
+  "explorer_url": "http://38.242.148.95:4000",
+  "metrics_endpoint": "http://38.242.148.95:9615/metrics",
+  "id": "3b5ae10e-9539-45a0-bdef-fa2497a11a3d"
+}

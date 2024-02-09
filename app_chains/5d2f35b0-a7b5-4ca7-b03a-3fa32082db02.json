@@ -1,0 +1,8 @@
+{
+  "name": "tutuka001",
+  "logo": "https://imgur.com/a/q2AYekb",
+  "rpc_url": "http://149.28.145.212:9944",
+  "explorer_url": "http://149.28.145.212:4000",
+  "metrics_endpoint": "http://149.28.145.212:9615/metrics",
+  "id": "5d2f35b0-a7b5-4ca7-b03a-3fa32082db02"
+}

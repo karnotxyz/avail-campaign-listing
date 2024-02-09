@@ -1,0 +1,8 @@
+{
+  "name": "zuruyu",
+  "logo": "https://i.imgur.com/WkXzEvW.jpg",
+  "rpc_url": "http://65.108.156.16:9944",
+  "explorer_url": "http://65.108.156.16:4000",
+  "metrics_endpoint": "http://65.108.156.16:9615/metrics",
+  "id": "692ea3a3-b8db-4041-85d6-a624a088a54f"
+}

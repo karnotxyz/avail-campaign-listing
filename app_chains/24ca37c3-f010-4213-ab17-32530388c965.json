@@ -1,0 +1,8 @@
+{
+  "name": "william1314",
+  "logo": "https://imgur.com/a/2dtrlEk",
+  "rpc_url": "http://164.68.106.128:9944",
+  "explorer_url": "http://164.68.106.128:4000",
+  "metrics_endpoint": "http://164.68.106.128:9615/metrics",
+  "id": "24ca37c3-f010-4213-ab17-32530388c965"
+}
