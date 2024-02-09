@@ -1,0 +1,8 @@
+{
+  "name": "diyar",
+  "logo": "https://r.resimlink.com/T2vPVGmRo.png",
+  "rpc_url": "http://65.108.81.229:9944",
+  "explorer_url": "http://65.108.81.229:4000",
+  "metrics_endpoint": "http://65.108.81.229:9615/metrics",
+  "id": "0bef0779-40a0-491c-891b-399168129464"
+}
