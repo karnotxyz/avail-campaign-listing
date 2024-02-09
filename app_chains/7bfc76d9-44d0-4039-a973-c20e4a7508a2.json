@@ -1,0 +1,8 @@
+{
+  "name": "laofeng666",
+  "logo": "https://r.resimlink.com/kwQdGOqhbHp1.png",
+  "rpc_url": "http://65.108.214.110:9944",
+  "explorer_url": "http://65.108.214.110:4000",
+  "metrics_endpoint": "http://65.108.214.110:9615/metrics",
+  "id": "7bfc76d9-44d0-4039-a973-c20e4a7508a2"
+}
