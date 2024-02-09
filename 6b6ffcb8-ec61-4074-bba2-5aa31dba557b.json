@@ -1,0 +1,8 @@
+{
+  "name": "justin",
+  "logo": "https://i.imgur.com/1y8N1sR.png",
+  "rpc_url": "http://37.60.252.237:9944",
+  "explorer_url": "http://37.60.252.237:4000",
+  "metrics_endpoint": "http://37.60.252.237:9615/metrics",
+  "id": "6b6ffcb8-ec61-4074-bba2-5aa31dba557b"
+}
