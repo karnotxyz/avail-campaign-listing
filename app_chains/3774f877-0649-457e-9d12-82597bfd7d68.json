@@ -1,0 +1,8 @@
+{
+  "name": "Alviorasuasuasu",
+  "logo": "https://i.imgur.com/V8qJN29.jpg",
+  "rpc_url": "http://109.123.250.135:9944",
+  "explorer_url": "http://109.123.250.135:4000",
+  "metrics_endpoint": "http://109.123.250.135:9615/metrics",
+  "id": "3774f877-0649-457e-9d12-82597bfd7d68"
+}
