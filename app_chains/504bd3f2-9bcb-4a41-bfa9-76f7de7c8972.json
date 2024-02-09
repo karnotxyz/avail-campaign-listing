@@ -1,0 +1,8 @@
+{
+  "name": "Kalao",
+  "logo": "https://imgur.com/a/G4Xr63L",
+  "rpc_url": "http://194.163.149.190:9944",
+  "explorer_url": "http://194.163.149.190:4000",
+  "metrics_endpoint": "http://194.163.149.190:9615/metrics",
+  "id": "504bd3f2-9bcb-4a41-bfa9-76f7de7c8972"
+}

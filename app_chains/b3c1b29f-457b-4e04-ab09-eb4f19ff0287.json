@@ -1,0 +1,8 @@
+{
+  "name": "pi69",
+  "logo": "https://raw.githubusercontent.com/bozdemir52/lllogo/main/baha_5723417-1.jpg",
+  "rpc_url": "http://84.247.183.39:9944",
+  "explorer_url": "http://84.247.183.39:4000",
+  "metrics_endpoint": "http://84.247.183.39:9615/metrics",
+  "id": "b3c1b29f-457b-4e04-ab09-eb4f19ff0287"
+}

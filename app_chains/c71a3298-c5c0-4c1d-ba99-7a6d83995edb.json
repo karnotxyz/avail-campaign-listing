@@ -1,0 +1,8 @@
+{
+  "name": "barsava",
+  "logo": "https://i.ibb.co/J22nHLP/images.png",
+  "rpc_url": "https://69.30.202.210:9944",
+  "explorer_url": "https://69.30.202.210:4000",
+  "metrics_endpoint": "https://69.30.202.210:9615",
+  "id": "c71a3298-c5c0-4c1d-ba99-7a6d83995edb"
+}

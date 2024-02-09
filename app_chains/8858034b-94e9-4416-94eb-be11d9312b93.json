@@ -1,0 +1,8 @@
+{
+  "name": "kutrung",
+  "logo": "https://i.ibb.co/8zj9z0P/hiu.png",
+  "rpc_url": "http://144.91.92.147:9944",
+  "explorer_url": "http://144.91.92.147:4000",
+  "metrics_endpoint": "http://144.91.92.147:9615/metrics",
+  "id": "8858034b-94e9-4416-94eb-be11d9312b93"
+}
