@@ -1,0 +1,8 @@
+{
+  "name": "haji",
+  "logo": "https://r.resimlink.com/CUGHwJ.png",
+  "rpc_url": "http://65.109.206.2:9944",
+  "explorer_url": "65.109.206.2:4000",
+  "metrics_endpoint": "http://65.109.206.2:9615/metrics",
+  "id": "280a3939-7dcf-4da4-95a8-04e51b437856"
+}
