@@ -1,0 +1,8 @@
+{
+  "name": "kavail",
+  "logo": "https://i.ibb.co/ZKJrxWF/0x.png",
+  "rpc_url": "http://43.156.153.183:9944",
+  "explorer_url": "http://43.156.153.183:4000",
+  "metrics_endpoint": "http://43.156.153.183:9615/metrics",
+  "id": "700d67c6-a614-4a78-bdc3-b6ba46151268"
+}

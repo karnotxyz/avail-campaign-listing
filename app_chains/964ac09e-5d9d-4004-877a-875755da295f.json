@@ -1,0 +1,8 @@
+{
+  "name": "gorkem",
+  "logo": "https://r.resimlink.com/7YwUAEW3tmu.png",
+  "rpc_url": "http://65.21.252.54:9944",
+  "explorer_url": "http://65.21.252.54:4000",
+  "metrics_endpoint": "http://65.21.252.54:9615/metrics",
+  "id": "964ac09e-5d9d-4004-877a-875755da295f"
+}

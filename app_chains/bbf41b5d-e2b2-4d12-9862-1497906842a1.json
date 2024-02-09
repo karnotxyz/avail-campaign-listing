@@ -1,0 +1,8 @@
+{
+  "name": "naruhudo",
+  "logo": "https://r.resimlink.com/gQBf1M492.png",
+  "rpc_url": "http://65.108.153.91:9944",
+  "explorer_url": "http://65.108.153.91:4000",
+  "metrics_endpoint": "http://65.108.153.91:9615/metrics",
+  "id": "bbf41b5d-e2b2-4d12-9862-1497906842a1"
+}

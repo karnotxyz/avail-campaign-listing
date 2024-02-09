@@ -1,0 +1,8 @@
+{
+  "name": "nikita",
+  "logo": "https://i.ibb.co/Xpz85S4/logo.jpg",
+  "rpc_url": "http://95.111.242.195:9944",
+  "explorer_url": "http://95.111.242.195:4000",
+  "metrics_endpoint": "http://95.111.242.195:9615/metrics",
+  "id": "6c266d10-5cf7-43b5-99ab-54b53539ea2e"
+}

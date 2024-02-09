@@ -1,0 +1,8 @@
+{
+  "name": "NFTBARN",
+  "logo": "https://r.resimlink.com/D9yAZMwhBm-.png",
+  "rpc_url": "http://5.161.133.215:9944",
+  "explorer_url": "http://5.161.133.215:4000",
+  "metrics_endpoint": "http://5.161.133.215:9615/metrics",
+  "id": "70d065e3-c046-4383-b4d9-3f20fe961232"
+}

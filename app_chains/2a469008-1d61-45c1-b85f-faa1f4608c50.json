@@ -1,0 +1,8 @@
+{
+  "name": "demploy",
+  "logo": "https://imgur.com/a/8NHu6NY",
+  "rpc_url": "http://135.181.155.252:9944",
+  "explorer_url": "http://135.181.155.252:4000",
+  "metrics_endpoint": "http://135.181.155.252:9615/metrics",
+  "id": "2a469008-1d61-45c1-b85f-faa1f4608c50"
+}

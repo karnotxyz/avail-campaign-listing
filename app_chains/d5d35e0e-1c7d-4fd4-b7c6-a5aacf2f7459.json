@@ -1,0 +1,8 @@
+{
+  "name": "hatay",
+  "logo": "https://r.resimlink.com/AYL0s3-jm.png",
+  "rpc_url": "http://37.60.241.210:9944",
+  "explorer_url": "http://37.60.241.210:4000",
+  "metrics_endpoint": "http://37.60.241.210:9615/metrics",
+  "id": "d5d35e0e-1c7d-4fd4-b7c6-a5aacf2f7459"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PYDOI",
+  "logo": "https://r.resimlink.com/1dRXtgfpN.png",
+  "rpc_url": "http://116.203.143.8:9944",
+  "explorer_url": "http://116.203.143.8:4000",
+  "metrics_endpoint": "http://116.203.143.8:9615/metrics",
+  "id": "e62b6a86-5c46-4fa8-a7ab-49e9889f5e6f"
+}

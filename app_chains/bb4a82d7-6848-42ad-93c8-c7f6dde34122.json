@@ -1,0 +1,8 @@
+{
+  "name": "Roshen",
+  "logo": "https://i.ibb.co/qn8CJCr/4337-1.png",
+  "rpc_url": "http://49.12.232.76:9944",
+  "explorer_url": "http://49.12.232.76:4000",
+  "metrics_endpoint": "http://49.12.232.76:9615/metrics",
+  "id": "bb4a82d7-6848-42ad-93c8-c7f6dde34122"
+}

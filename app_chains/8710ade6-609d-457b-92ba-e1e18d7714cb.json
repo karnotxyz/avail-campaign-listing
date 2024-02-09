@@ -1,0 +1,8 @@
+{
+  "name": "gilgiruchain",
+  "logo": "https://i.imgur.com/2v8xb5w.png",
+  "rpc_url": "http://84.247.182.219:9944",
+  "explorer_url": "http://84.247.182.219:4000",
+  "metrics_endpoint": "http://84.247.182.219:9615/metrics",
+  "id": "8710ade6-609d-457b-92ba-e1e18d7714cb"
+}

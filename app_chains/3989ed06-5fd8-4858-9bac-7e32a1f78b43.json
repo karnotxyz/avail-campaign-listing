@@ -1,0 +1,8 @@
+{
+  "name": "nusankerta",
+  "logo": "https://i.imgur.com/5v2i5bA.png",
+  "rpc_url": "http://103.171.85.19:9944",
+  "explorer_url": "http://103.171.85.19:4000",
+  "metrics_endpoint": "http://103.171.85.19:9615/metrics",
+  "id": "3989ed06-5fd8-4858-9bac-7e32a1f78b43"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tevez",
+  "logo": "https://resimlink.com/plARkFE",
+  "rpc_url": "http://152.42.136.188:9944",
+  "explorer_url": "http://152.42.136.188:4000",
+  "metrics_endpoint": "http://152.42.136.188:9615/metrics",
+  "id": "44d5dd15-74fd-4e6c-a1bf-51943b950d6a"
+}

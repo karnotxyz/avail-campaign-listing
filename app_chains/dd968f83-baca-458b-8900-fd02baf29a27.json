@@ -1,0 +1,8 @@
+{
+  "name": "sifuapp",
+  "logo": "https://i.ibb.co/sH4xz8L/sifulogo.png",
+  "rpc_url": "http://88.198.173.165:9944",
+  "explorer_url": "http://88.198.173.165:4000",
+  "metrics_endpoint": "http://88.198.173.165:9615/metrics",
+  "id": "dd968f83-baca-458b-8900-fd02baf29a27"
+}

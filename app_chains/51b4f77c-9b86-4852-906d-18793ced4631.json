@@ -1,0 +1,8 @@
+{
+  "name": "VLK",
+  "logo": "https://r.resimlink.com/Fk8RWelYzsU.png",
+  "rpc_url": "http://volkan.tplinkdns.com:9944",
+  "explorer_url": "http://volkan.tplinkdns.com:4000",
+  "metrics_endpoint": "http://volkan.tplinkdns.com:9615/metrics",
+  "id": "51b4f77c-9b86-4852-906d-18793ced4631"
+}

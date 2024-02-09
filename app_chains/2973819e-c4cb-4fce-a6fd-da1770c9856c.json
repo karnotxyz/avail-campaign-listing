@@ -1,0 +1,8 @@
+{
+  "name": "tufanoglu",
+  "logo": "https://i.imgur.com/evFICAk.jpeg",
+  "rpc_url": "http://37.60.241.99:9944",
+  "explorer_url": "http://37.60.241.99:4000",
+  "metrics_endpoint": "http://37.60.241.99:9615/metrics",
+  "id": "2973819e-c4cb-4fce-a6fd-da1770c9856c"
+}

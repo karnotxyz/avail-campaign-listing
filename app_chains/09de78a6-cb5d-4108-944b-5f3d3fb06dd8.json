@@ -1,0 +1,8 @@
+{
+  "name": "availion",
+  "logo": "https://i.imgur.com/FZBerBt.jpg",
+  "rpc_url": "http://49.13.201.160:9944",
+  "explorer_url": "http://49.13.201.160:4000",
+  "metrics_endpoint": "http://49.13.201.160:9615/metrics",
+  "id": "09de78a6-cb5d-4108-944b-5f3d3fb06dd8"
+}

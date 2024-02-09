@@ -1,0 +1,8 @@
+{
+  "name": "ShadowMan",
+  "logo": "https://raw.githubusercontent.com/TrungKhanhNguyen/rollapp-registry/main/devnet/shadowstake_1528052-1/logos/shadowstake_1528052-1.png",
+  "rpc_url": "http://167.86.95.127:9944",
+  "explorer_url": "http://167.86.95.127:4000",
+  "metrics_endpoint": "http://167.86.95.127:9615/metrics",
+  "id": "3b11e81b-95e3-4841-b84a-c5a20bc2194e"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "alicizmecioglu",
+  "logo": "https://pbs.twimg.com/profile_images/1606754221642104832/YdXVRINx_400x400.jpg",
+  "rpc_url": "http://31.220.94.117:9944",
+  "explorer_url": "http://31.220.94.117:4000",
+  "metrics_endpoint": "http://31.220.94.117:9615/metrics",
+  "id": "06762dad-0f4e-4b18-8a3e-59fab3690eba"
+}
