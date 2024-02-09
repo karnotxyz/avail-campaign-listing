@@ -1,15 +1,8 @@
-{\rtf1\ansi\ansicpg1254\cocoartf2707
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red27\green27\blue27;}
-{\*\expandedcolortbl;;\cssrgb\c14118\c14118\c14118;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
-\{\
-  "name": \'93MGM Sport Club\'94,\
-  "logo": "https://r.resimlink.com/ZwmAozfsu8.jpeg",\
-  "rpc_url": "http://185.197.250.250:9944",\
-  "explorer_url": "http://185.197.250.250:4000",\
-  "metrics_endpoint": "http://\cf2 185.197.250.250\cf2 :9615",\
-  "id": "57349a97-f6a6-4557-bcc5-6416b58e3485" }
+{
+  "name": "MGM Sport Club",
+  "logo": "https://r.resimlink.com/ZwmAozfsu8.jpeg",
+  "rpc_url": "http://185.197.250.250:9944",
+  "explorer_url": "http://185.197.250.250:4000",
+  "metrics_endpoint": "http://185.197.250.250:9615/metrics",
+  "id": "57349a97-f6a6-4557-bcc5-6416b58e3485"
+ }
