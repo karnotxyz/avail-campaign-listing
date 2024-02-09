@@ -1,0 +1,8 @@
+{
+  "name": "collarcha",
+  "logo": "http://43.128.80.97/logo.jpg",
+  "rpc_url": "http://43.128.80.97:9944",
+  "explorer_url": "http://43.128.80.97:4000",
+  "metrics_endpoint": "http://43.128.80.97:9615/metrics",
+  "id": "16f75404-fa37-4df4-827d-3d4480527588"
+}
