@@ -1,8 +1,0 @@
-{
-  "name": "sex",
-  "logo": "https://r.resimlink.com/BhHv67D45.jpg",
-  "rpc_url": "http://5.104.81.94:9944",
-  "explorer_url": "http://5.104.81.94:4000",
-  "metrics_endpoint": "http://5.104.81.94:9615/metrics",
-  "id": "d503ae95-b018-48b0-b211-7f7254ebbb76"
-}
