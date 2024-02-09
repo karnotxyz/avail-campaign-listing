@@ -1,8 +1,0 @@
-{
-  "name": "aoyama",
-  "logo": "https://imgur.com/a/L4CIeEg",
-  "rpc_url": "http://46.250.234.255:9944",
-  "explorer_url": "http://46.250.234.255:4000",
-  "metrics_endpoint": "http://46.250.234.255:9615/metrics",
-  "id": "307e53a1-8db5-4187-abbb-67e6199773f2"
-}
