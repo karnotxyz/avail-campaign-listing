@@ -1,8 +1,0 @@
-  {
-    "name": "serdarmujdat",
-    "logo": "https://r.resimlink.com/4tuUJKPZ.png",
-    "rpc_url": "http://35.222.50.19:9944",
-    "explorer_url": "http://35.222.50.19:4000",
-    "metrics_endpoint": "http://35.222.50.19:9615",
-    "id": "ea14b4f3-cbdc-4788-b984-2ad97ffec693"
-  }
