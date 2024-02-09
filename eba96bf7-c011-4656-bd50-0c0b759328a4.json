@@ -1,0 +1,8 @@
+{
+  "name": "xuantruong",
+  "logo": "https://i.ibb.co/kGxsjQk/3.jpg",
+  "rpc_url": "http://167.86.74.91:9944",
+  "explorer_url": "http://167.86.74.91:4000",
+  "metrics_endpoint": "http://167.86.74.91/metrics",
+  "id": "eba96bf7-c011-4656-bd50-0c0b759328a4"
+}
