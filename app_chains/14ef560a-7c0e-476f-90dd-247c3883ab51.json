@@ -1,0 +1,8 @@
+{
+  "nama": "avail",
+  "logo": "https://i.ibb.co/ryBHG5B/luffy.jpg",
+  "rpc_url": "http://207.180.204.176:9944",
+  "explorer_url": "http://207.180.204.176:4000",
+  "metrics_endpoint": "http://207.180.204.176:9615/metrics",
+  "id": "14ef560a-7c0e-476f-90dd-247c3883ab51"
+}
