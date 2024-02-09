@@ -1,0 +1,8 @@
+{
+  "name": "miladeos",
+  "logo": "https://r.resimlink.com/xzLDi-KGn.jpg",
+  "rpc_url": "http://91.107.158.183:9944",
+  "explorer_url": "http://91.107.158.183:4000",
+  "metrics_endpoint": "http://91.107.158.183:9615/metrics",
+  "id": "0e688497-f805-4db7-9da8-9269db3749a7"
+}
