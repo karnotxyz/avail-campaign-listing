@@ -1,0 +1,8 @@
+{
+  "name": "kennode",
+  "logo": "https://raw.githubusercontent.com/kenvalidator/contact/main/kennode.png",
+  "rpc_url": "http://65.21.244.95:9944",
+  "explorer_url": "http://65.21.244.95:4000",
+  "metrics_endpoint": "http://65.21.244.95:9615/metrics",
+  "id": "a57f1b0a-460f-4702-994f-0f15c4ba09bd"
+}
