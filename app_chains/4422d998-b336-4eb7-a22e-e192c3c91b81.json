@@ -1,0 +1,8 @@
+{
+  "name": "qavurdagli",
+  "logo": "https://r.resimlink.com/ERfBJW-lKsG.jpg",
+  "rpc_url": "http://81.0.220.178:9944",
+  "explorer_url": "http://81.0.220.178:4000",
+  "metrics_endpoint": "http://81.0.220.178:9615/metrics",
+  "id": "4422d998-b336-4eb7-a22e-e192c3c91b81"
+}
