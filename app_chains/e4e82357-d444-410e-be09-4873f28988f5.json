@@ -1,0 +1,8 @@
+{
+  "name": "ismaonezain",
+  "logo": "https://pbs.twimg.com/profile_images/1746682805042716672/QzGoxXEx_400x400.jpg",
+  "rpc_url": "http://91.229.245.149:9944",
+  "explorer_url": "http://91.229.245.149:4000",
+  "metrics_endpoint": "http://91.229.245.149:9615/metrics",
+  "id": "e4e82357-d444-410e-be09-4873f28988f5"
+}
