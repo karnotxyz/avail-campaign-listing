@@ -1,0 +1,8 @@
+{
+  "name": "jakob",
+  "logo": "https://r.resimlink.com/4yPCQpcaq.jpg",
+  "rpc_url": "http://46.228.205.195:9944",
+  "explorer_url": "http://46.228.205.195:4000",
+  "metrics_endpoint": "http://46.228.205.195:9615/metrics",
+  "id": "f7813728-b88a-4d10-a5a9-380567f34aff"
+}
