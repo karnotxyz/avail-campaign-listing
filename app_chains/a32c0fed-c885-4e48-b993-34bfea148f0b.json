@@ -1,0 +1,8 @@
+{
+  "name": "dipsi",
+  "logo": "https://ibb.co/brWr8Vq",
+  "rpc_url": "http://134.209.105.148:9944",
+  "explorer_url": "http://134.209.105.148:4000",
+  "metrics_endpoint": "http://134.209.105.148:9615/metrics",
+  "id": "a32c0fed-c885-4e48-b993-34bfea148f0b"
+}
