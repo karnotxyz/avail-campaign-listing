@@ -1,0 +1,8 @@
+{
+  "name": "pekoke",
+  "logo": "https://r.resimlink.com/clzvQR9_73.jpeg",
+  "rpc_url": "http://207.244.245.39:9944",
+  "explorer_url": "207.244.245.39:4000",
+  "metrics_endpoint": "http://207.244.245.39:9615",
+  "id": "350fc94c-476c-4b0b-8562-c4c26e672139"
+}
