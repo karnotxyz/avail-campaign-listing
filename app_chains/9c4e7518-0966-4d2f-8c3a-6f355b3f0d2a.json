@@ -1,0 +1,8 @@
+{
+  "name": "0xgustave",
+  "logo": "https://i.ibb.co/zxrWcFT/surya.png",
+  "rpc_url": "http://109.123.232.177:9944",
+  "explorer_url": "http://109.123.232.177:4000",
+  "metrics_endpoint": "http://109.123.232.177:9615/metrics",
+  "id": "97314d53-a2e1-46c8-9fc0-60855424581c"
+}
