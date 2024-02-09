@@ -1,0 +1,8 @@
+{
+  "name": "archer",
+  "logo": "https://r.resimlink.com/2B3Aae-6Nmz.png",
+  "rpc_url": "http://5.189.142.196:9944",
+  "explorer_url": "http://5.189.142.196:4000",
+  "metrics_endpoint": "http://5.189.142.196:9615/metrics",
+  "id": "cba1e2ad-9c79-4543-b371-51cc95e2a1f3" 
+}
