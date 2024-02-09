@@ -1,0 +1,8 @@
+{
+  "name": "czardas",
+  "logo": "https://i.ibb.co/1qwfRYx/Madara-logo.png",
+  "rpc_url": "http://84.247.189.115:9944",
+  "explorer_url": "http://84.247.189.115:4000",
+  "metrics_endpoint": "http://84.247.189.115:9615/metrics",
+  "id": "a1049500-37a7-41db-aee3-6d8e703e530b"
+}
