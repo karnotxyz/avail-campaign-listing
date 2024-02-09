@@ -1,8 +1,8 @@
 {
   "name": "sohham",
   "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/152032243/303681224-97cf482c-6e55-4094-8b9f-fb455e42fc65.png",
-  "rpc_url": "https://184.174.35.27:9944/",
-  "explorer_url": "https://184.174.35.27:4000",
-  "metrics_endpoint": "https://184.174.35.27:9615/metrics",
-  "id": "43df9751-efe7-4129-8e33-1f7855233ef0"
+  "rpc_url": "http://184.174.35.27:9944",
+  "explorer_url": "http://184.174.35.27:4000",
+  "metrics_endpoint": "http://184.174.35.27:9615/metrics",
+  "id": "ee759517-7912-437a-8928-7efdce1ee915"
 }
