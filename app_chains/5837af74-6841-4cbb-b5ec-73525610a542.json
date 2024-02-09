@@ -3,6 +3,6 @@
   "logo": "https://ibb.co/wQMRntW",
   "rpc_url": "http://46.250.243.106:9944",
   "explorer_url": "http://46.250.243.106:4000",
-  "metrics_endpoint": "http://46.250.243.106:4000/metrics",
+  "metrics_endpoint": "http://46.250.243.106:9615/metrics",
   "id": "e4ca4a5f-e6b0-4034-9bf4-28c47cca892e"
 }
