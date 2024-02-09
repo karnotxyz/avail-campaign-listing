@@ -1,0 +1,8 @@
+{
+  "name": "kirareal",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ1ZwufoAlip13AOl0qP1sKhJskEB2pXYHAQ&usqp=CAU",
+  "rpc_url": "http://164.68.97.72:9944",
+  "explorer_url": "http://164.68.97.72:4000",
+  "metrics_endpoint": "http://164.68.97.72:9615/metrics",
+  "id": "89ebbe69-9f31-40e8-82cf-c968067efc56"
+}
