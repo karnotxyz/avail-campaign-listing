@@ -1,0 +1,8 @@
+{
+  "name": "<nbmrjun>",
+  "logo": "<https://placehold.co/400x400>",
+  "rpc_url": "http://167.179.112.90:9944",
+  "explorer_url": "http://167.179.112.90:4000",
+  "metrics_endpoint": "http://167.179.112.90:9615/metrics",
+  "id": "226b8825-2732-4f42-aa32-7b84d8cf4b03"
+}
