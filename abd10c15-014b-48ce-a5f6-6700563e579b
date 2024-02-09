@@ -1,0 +1,8 @@
+{
+  "name": "Hamed",
+  "logo": "https://r.resimlink.com/1zk-q2QoOv.jpg",
+  "rpc_url": "http://159.169.239.24:9944",
+  "explorer_url": "http://159.169.239.24:4000",
+  "metrics_endpoint": "http://159.169.239.24:9615/metrics",
+  "id": "abd10c15-014b-48ce-a5f6-6700563e579b"
+}
