@@ -1,0 +1,8 @@
+{
+    "name": "mosaya",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/68125815/303676407-47e42a21-52cd-4c12-9f8d-83c06820fb37.png",
+    "rpc_url": "http://195.35.0.15:9944",
+    "explorer_url": "http://195.35.0.15:4000",
+    "metrics_endpoint": "http://195.35.0.15:9615",
+    "id": "22704bed-d2d0-43ac-9a17-c241c6a9fbb5"
+  }
