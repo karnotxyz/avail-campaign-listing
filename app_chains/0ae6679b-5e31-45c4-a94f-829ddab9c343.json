@@ -1,0 +1,8 @@
+{
+    "name": "GigaApp",
+    "logo": "https://private-user-images.githubusercontent.com/128749214/303309590-8563b765-71ce-4e89-9cf0-e09e4099dba4.png",
+    "rpc_url": "http://159.69.239.17:9944",
+    "explorer_url": "http://159.69.239.17:4000",
+    "metrics_endpoint": "http://159.69.239.17:9615",
+    "id": "0ae6679b-5e31-45c4-a94f-829ddab9c343"
+  }
