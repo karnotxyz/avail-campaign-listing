@@ -1,0 +1,8 @@
+{
+  "name": "dorchi",
+  "logo": "https://ibb.co/svj0MTL",
+  "rpc_url": "http://95.164.3.1:9944",
+  "explorer_url": "http://95.164.3.1:4000",
+  "metrics_endpoint": "http://95.164.3.1:9615/metrics",
+  "id": "510f35be-6929-4168-a734-3a50a97ec426"
+}
