@@ -1,8 +1,8 @@
 {
   "name": "nader",
   "logo": "https://i.ibb.co/Yk5CVk9/image.png",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "rpc_url": "http://82.115.18.106:9944",
+  "explorer_url": "http://82.115.18.106:4000",
+  "metrics_endpoint": "http://82.115.18.106:9615/metrics",
   "id": "825b6643-1d89-4b6b-a537-3216226ffff2"
 }
