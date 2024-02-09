@@ -1,0 +1,8 @@
+{
+  "name": "Arthazholic",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtr6bPNN5XhnA5lfQcDTtt3cDzruvGgyHjA&usqp=CAU",
+  "rpc_url": "http://65.109.4.18:9944/",
+  "explorer_url": "http://65.109.4.18:4000/",
+  "metrics_endpoint": "http://65.109.4.18:9615/metrics",
+  "id": "bcd65ef2-be5f-4590-abf6-5355864c0e10"
+}
