@@ -1,0 +1,9 @@
+
+{
+  "name": "MeteKhan",
+  "logo": "https://r.resimlink.com/dco0Ez.jpg",
+  "rpc_url": "http://95.217.13.62:9944",
+  "explorer_url": "http://95.217.13.62:4000",
+  "metrics_endpoint": "http://95.217.13.62:9615/metrics",
+  "id": "9cbd8550-bdf3-4134-970f-089427888435"
+}
