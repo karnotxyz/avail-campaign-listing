@@ -1,8 +1,10 @@
-{
-  "name": "0xgustave",
-  "logo": "https://r.resimlink.com/LUk32.jpeg",
-  "rpc_url": "http://109.123.232.177:9944",
-  "explorer_url": "http://109.123.232.177:4000",
-  "metrics_endpoint": "http://109.123.232.177:9615/metrics",
-  "id": "aaf35c84-de3c-4a32-82ad-79e3e535445c"
-}
+[
+  {
+    "name": "0xgustave",
+    "logo": "https://r.resimlink.com/LUk32.jpeg",
+    "rpc_url": "http://109.123.232.177:9944",
+    "explorer_url": "http://109.123.232.177:4000",
+    "metrics_endpoint": "http://109.123.232.177:9615/metrics",
+    "id": "aaf35c84-de3c-4a32-82ad-79e3e535445c"
+  }
+]
