@@ -4,5 +4,5 @@
   "rpc_url": "https://rpc.mychain.xyz",
   "explorer_url": "https://explorer.mychain.xyz",
   "metrics_endpoint": "https://metrics.mychain.xyz",
-  "id": 31e730fa-d6a0-4575-9fc9-f20c36e60488
+  "id": "31e730fa-d6a0-4575-9fc9-f20c36e60488"
 }
