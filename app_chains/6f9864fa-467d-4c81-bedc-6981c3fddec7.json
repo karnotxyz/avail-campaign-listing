@@ -1,0 +1,8 @@
+{
+  "name": "zodiac",
+  "logo": "",
+  "rpc_url": "http://158.220.88.216:9944",
+  "explorer_url": "http://158.220.88.216:4000",
+  "metrics_endpoint": "http://158.220.88.216:9615/metrics",
+  "id": "6f9864fa-467d-4c81-bedc-6981c3fddec7"
+}
