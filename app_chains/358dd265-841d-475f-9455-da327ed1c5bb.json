@@ -1,0 +1,8 @@
+{
+  "name": "DragorawrNode",
+  "logo": "https://i.imgur.com/HOrEL81.png",
+  "rpc_url": "http://137.184.123.147:9944",
+  "explorer_url": "http://137.184.123.147:4000",
+  "metrics_endpoint": "http://137.184.123.147:9615/metrics",
+  "id": "358dd265-841d-475f-9455-da327ed1c5bb"
+}
