@@ -1,6 +1,6 @@
 {
   "name": "ZGT",
-  "logo": "http://65.108.130.157/zgt.png",
+  "logo": "https://zgt.pm/zgt.jpg",
   "rpc_url": "http://zgt.pm:9944",
   "explorer_url": "http://zgt.pm:4000",
   "metrics_endpoint": "http://zgt.pm:9615/metrics",
