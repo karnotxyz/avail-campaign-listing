@@ -1,0 +1,8 @@
+ {
+    "name": "rainbow",
+    "logo": "https://ibb.co/rpPsTYv",
+    "rpc_url": "http://159.69.239.10:9944",
+    "explorer_url": "http://I159.69.239.10:4000",
+    "metrics_endpoint": "http://159.69.239.10:9615/metrics"
+    "id": "513ed35d-22bf-48f6-ab1d-978b2911a2bc"
+  }
