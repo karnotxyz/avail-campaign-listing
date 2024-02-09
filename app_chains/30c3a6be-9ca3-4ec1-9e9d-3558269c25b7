@@ -1,0 +1,8 @@
+{
+  "name": "NINO90",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://161.97.124.141:9944",
+  "explorer_url": "http://161.97.124.141:4000",
+  "metrics_endpoint": "http://161.97.124.141:9615/metrics",
+  "id": "30c3a6be-9ca3-4ec1-9e9d-3558269c25b7"
+}
