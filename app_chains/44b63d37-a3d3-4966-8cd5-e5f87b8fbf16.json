@@ -1,8 +1,8 @@
 {
   "name": "SiByLz",
   "logo": "https://ibb.co/ws8PSbL",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://161.97.137.209",
-  "metrics_endpoint": "https://161.97.137.209",
+  "rpc_url": "https://161.97.137.209:9944",
+  "explorer_url": "https://161.97.137.209:4000",
+  "metrics_endpoint": "https://161.97.137.209:9615/metrics",
   "id": "44b63d37-a3d3-4966-8cd5-e5f87b8fbf16"
 }
