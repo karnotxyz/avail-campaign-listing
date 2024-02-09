@@ -1,0 +1,8 @@
+{
+  "name": "Titanium",
+  "logo": "https://i.ibb.co/qjpP62C/logo-avail-titanium.png",
+  "rpc_url": "http://167.235.60.212:9944",
+  "explorer_url": "http://167.235.60.212:4000",
+  "metrics_endpoint": "http://167.235.60.212:9615/metrics",
+  "id": "04d0b590-5114-40f3-ad5b-554285ea6e82"
+}
