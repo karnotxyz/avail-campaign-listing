@@ -1,0 +1,8 @@
+  {
+    "name": "Mustafa",
+    "logo": "https://i.imgur.com/J8MNM56.png",
+    "rpc_url": "http://167.71.209.134:9944",
+    "explorer_url": "http://167.71.209.134:4000",
+    "metrics_endpoint": "http://167.71.209.134:9615/metrics",
+    "id": "d50aeb2e-6f0a-4832-a5c8-ae897c832ec4"
+  }
