@@ -1,0 +1,8 @@
+{
+  "name": "skakmatt",
+  "logo": "https://i.imgur.com/W3H5TWi.png",
+  "rpc_url": "http://176.126.87.44:9944",
+  "explorer_url": "http://176.126.87.44:4000",
+  "metrics_endpoint": "http://176.126.87.44:9615/metrics",
+  "id": "45f81763-701f-46a7-836e-9a905007d453"
+}
