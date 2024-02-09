@@ -1,0 +1,8 @@
+{
+  "name": "fnatic",
+  "logo": "https://imgur.com/rwyOerN",
+  "rpc_url": "http://5.104.80.240:9944",
+  "explorer_url": "http://5.104.80.240:4000",
+  "metrics_endpoint": "http://5.104.80.240:9615/metrics",
+  "id": "69ce0498-130c-47d0-9b35-15b4bc2f3cd3"
+}
