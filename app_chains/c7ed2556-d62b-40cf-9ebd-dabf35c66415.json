@@ -1,0 +1,8 @@
+{
+  "name": "jikioph",
+  "logo": "https://i.ibb.co/VM79XmL/3.jpg",
+  "rpc_url": "http://5.75.248.157:9944",
+  "explorer_url": "http://5.75.248.157:4000",
+  "metrics_endpoint": "http://5.75.248.157:9615/metrics",
+  "id": "c7ed2556-d62b-40cf-9ebd-dabf35c66415"
+}
