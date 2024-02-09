@@ -1,0 +1,8 @@
+{
+  "name": "Wadeco",
+  "logo": "https://raw.githubusercontent.com/wadeco1/Ava/main/ad/wadeco.svg",
+  "rpc_url": "http://37.60.236.233:9944",
+  "explorer_url": "http://37.60.236.233:4000",
+  "metrics_endpoint": "http://37.60.236.233:9615/metrics",
+  "id": "9d872d36-00b8-426f-8693-09b3f2854c92"
+}
