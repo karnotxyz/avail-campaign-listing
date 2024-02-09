@@ -1,8 +1,8 @@
 {
   "name": "Hangoz",
-  "logo": "https://r.resimlink.com/lzsqymZ3-T2_.png",
+  "logo": "https://i.imgur.com/hyHC3f5.png",
   "rpc_url": "http://185.216.75.106:9944",
   "explorer_url": "http://185.216.75.106:4000",
   "metrics_endpoint": "http://185.216.75.106:9615/metrics",
-  "id": "c50584d6-77e3-4dce-be84-701c96ec097b"
+  "id": "c0c76380-15f0-4c3e-9bc4-ba1288a3209a"
 }
