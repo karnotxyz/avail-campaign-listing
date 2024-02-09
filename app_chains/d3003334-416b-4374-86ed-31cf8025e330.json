@@ -1,0 +1,8 @@
+{
+  "name": "batuhanus",
+  "logo": "https://raw.githubusercontent.com/SkillUpMan/logo/main/image.png",
+  "rpc_url": "http://173.212.231.185:9944",
+  "explorer_url": "http://173.212.231.185:4000",
+  "metrics_endpoint": "http://173.212.231.185:9615/metrics",
+  "id": "d3003334-416b-4374-86ed-31cf8025e330"
+}
