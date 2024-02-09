@@ -1,0 +1,8 @@
+{
+  "name": "ninja",
+  "logo": "<https://i.ibb.co/SwPfqzC/ninja.jpg",
+  "rpc_url": "http://109.123.251.45:9944",
+  "explorer_url": "http://109.123.251.45:4000",
+  "metrics_endpoint": "http://109.123.251.45:9615/metrics",
+  "id": "8a095219-e40c-4a47-9fac-63cdb60c6f50"
+}
