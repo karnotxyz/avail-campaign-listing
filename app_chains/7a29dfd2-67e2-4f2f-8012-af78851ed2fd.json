@@ -1,0 +1,8 @@
+{
+  "name": "amirj",
+  "logo": "https://ibb.co/L1HJYnH",
+  "rpc_url": "http://34.147.22.215",
+  "explorer_url": "http://34.147.22.215:4000",
+  "metrics_endpoint": "http://34.147.22.215:9615/metrics",
+  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+}
