@@ -1,0 +1,8 @@
+{
+  "name": "cryptohouse",
+  "logo": "https://assets.zyrosite.com/cdn-cgi/image/format=auto/YKbNPDpVNkIDGg61/outside-label-crypto-white-AMqp2ZqZNjcMXVjP.png",
+  "rpc_url": "http://178.18.253.93:9944",
+  "explorer_url": "http://178.18.253.93:4000",
+  "metrics_endpoint": "http://178.18.253.93:9615/metrics",
+  "id": "108e7ca0-65a7-4cb2-ada5-6a0dd04fcca8"
+}

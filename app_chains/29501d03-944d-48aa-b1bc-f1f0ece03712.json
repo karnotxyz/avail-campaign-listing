@@ -1,0 +1,8 @@
+{
+  "name": "ace",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/ace_5736254-1/logos/ace_5736254-1.png",
+  "rpc_url": "https://a1.acethelight.xyz",
+  "explorer_url": "https://a3.acethelight.xyz",
+  "metrics_endpoint": "https://a2.acethelight.xyz/metrics",
+  "id": "29501d03-944d-48aa-b1bc-f1f0ece03712"
+}
