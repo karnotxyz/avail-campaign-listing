@@ -2,7 +2,7 @@
   "name": "vinnodes",
   "logo": "https://raw.githubusercontent.com/thenhthang/vinnodes/main/content/logo.jpg",
   "rpc_url": "http://86.48.1.234:9944",
-  "explorer_url": "http://86.48.1.234:4000",
+  "explorer_url": "http://45.134.226.48:4000",
   "metrics_endpoint": "http://86.48.1.234:9615/metrics",
   "id": "349a02fc-8f31-4295-bf2d-23f814e789b7.json"
 }
