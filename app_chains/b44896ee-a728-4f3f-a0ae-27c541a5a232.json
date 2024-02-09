@@ -1,0 +1,8 @@
+{
+  "name": "haciyatmaz",
+  "logo": "https://r.resimlink.com/5T4jtJDyV.jpg",
+  "rpc_url": "http://65.21.3.54:9944",
+  "explorer_url": "http://65.21.3.54:4000",
+  "metrics_endpoint": "http://65.21.3.54:9615/metrics",
+  "id": "b44896ee-a728-4f3f-a0ae-27c541a5a232"
+}

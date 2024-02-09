@@ -1,0 +1,8 @@
+{
+  "name": "mekaverse",
+  "logo": "https://i.postimg.cc/wxWmGf8x/FB68-El-PXMAQF5bx.jpg",
+  "rpc_url": "http://64.23.172.166:9944",
+  "explorer_url": "http://64.23.172.166:4000",
+  "metrics_endpoint": "http://64.23.172.166:9615/metrics",
+  "id": "7f03ad13-349d-4bf7-8bed-6667ed7b985c"
+}

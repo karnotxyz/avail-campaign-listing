@@ -1,0 +1,8 @@
+{
+  "name": "dragon",
+  "logo": "https://i.ibb.co/pL0Q3Hr/images.jpg",
+  "rpc_url": "http://43.130.227.128:9944",
+  "explorer_url": "http://43.130.227.128:4000",
+  "metrics_endpoint": "http://43.130.227.128:9615/metrics",
+  "id": "6dde82f5-2a53-4d9f-8897-8307a025cb89"
+}

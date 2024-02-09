@@ -1,0 +1,8 @@
+{
+  "name": "dacxys",
+  "logo": "https://raw.githubusercontent.com/dacyxs/image/main/DALL%C2%B7E%202024-02-04%2010.36.02%20-%20A%20vibrant%2C%20clean%2C%20and%20simple%20logo%20design%20prominently%20featuring%20the%20letter%20_D_%20as%20the%20main%20character%2C%20using%20a%20yellow%20and%20black%20color%20palette.%20The%20desig.webp",
+  "rpc_url": "http://185.148.241.109:9944",
+  "explorer_url": "http://185.148.241.109:4000",
+  "metrics_endpoint": "http://185.148.241.109:9615/metrics",
+  "id": "d0ea0c07-700f-4000-bfb5-5c65467005ba"
+}

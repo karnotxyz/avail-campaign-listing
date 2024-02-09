@@ -1,0 +1,8 @@
+{
+  "name": "blocksync",
+  "logo": "https://raw.githubusercontent.com/blocksync247/new/main/logo_400x400.png",
+  "rpc_url": "http://65.109.139.2:9944",
+  "explorer_url": "http://65.109.139.2:4000",
+  "metrics_endpoint": "http://65.109.139.2:9615/metrics",
+  "id": "f1fbe762-6ced-493a-8169-df1159b1f6cd"
+}

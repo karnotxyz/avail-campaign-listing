@@ -1,0 +1,8 @@
+{
+  "name": "szymcio32",
+  "logo": "https://i.im.ge/2024/02/02/bxvpY0.400x400.png",
+  "rpc_url": "http://161.97.73.230:9944",
+  "explorer_url": "http://161.97.73.230:4000",
+  "metrics_endpoint": "http://161.97.73.230:9615/metrics",
+  "id": "176f75a1-6c51-499e-9750-b652aae5b6e7"
+}

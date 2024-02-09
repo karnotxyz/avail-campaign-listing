@@ -1,0 +1,8 @@
+{
+  "name": "dylannnnn",
+  "logo": "https://pbs.twimg.com/profile_images/1748151691789385728/OjTZdpQD_400x400.jpg",
+  "rpc_url": "http://49.51.34.239:9944",
+  "explorer_url": "http://49.51.34.239:4000",
+  "metrics_endpoint": "http://49.51.34.239:9615/metrics",
+  "id": "17d2ff3e-0dd2-4819-823f-4b383d3dfdb1"
+}

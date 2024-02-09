@@ -1,0 +1,8 @@
+{
+  "name": "aydune",
+  "logo": "https://i.imgur.com/81zpIdV.png",
+  "rpc_url": "http://142.93.129.158:9944",
+  "explorer_url": "http://142.93.129.158:4000",
+  "metrics_endpoint": "http://142.93.129.158:9615/metrics",
+  "id": "2234840f-08dd-4e89-9ee2-573c58cb0af1"
+}

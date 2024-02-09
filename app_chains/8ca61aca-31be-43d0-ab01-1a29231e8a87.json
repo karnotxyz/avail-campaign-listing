@@ -1,0 +1,8 @@
+{
+  "name": "zekridd",
+  "logo": "https://resimlink.com/plARkFE",
+  "rpc_url": "http://167.172.169.123:9944",
+  "explorer_url": "http://167.172.169.123:4000",
+  "metrics_endpoint": "http://167.172.169.123:9615/metrics",
+  "id": "8ca61aca-31be-43d0-ab01-1a29231e8a87"
+}

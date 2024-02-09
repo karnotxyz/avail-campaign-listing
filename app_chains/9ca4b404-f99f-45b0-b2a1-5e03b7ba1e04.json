@@ -1,0 +1,8 @@
+{
+  "name": "hyapiskan1228",
+  "logo": "https://i.imgur.com/2Gq6Vzf.jpg",
+  "rpc_url": "http://167.99.45.46:9944",
+  "explorer_url": "http://167.99.45.46:4000",
+  "metrics_endpoint": "http://167.99.45.46:9615/metrics",
+  "id": "9ca4b404-f99f-45b0-b2a1-5e03b7ba1e04"
+}

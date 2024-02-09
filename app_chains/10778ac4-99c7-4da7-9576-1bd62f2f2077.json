@@ -1,0 +1,8 @@
+{
+  "name": "madeinheaven",
+  "logo": "https://ibb.co/b7BPRQ9",
+  "rpc_url": "http://65.108.154.172:9944",
+  "explorer_url": "http://65.108.154.172:4000",
+  "metrics_endpoint": "http://65.108.154.172:9615/metrics",
+  "id": "10778ac4-99c7-4da7-9576-1bd62f2f2077"
+}

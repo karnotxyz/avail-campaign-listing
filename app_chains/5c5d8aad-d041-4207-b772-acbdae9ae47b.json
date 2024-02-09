@@ -1,0 +1,8 @@
+{
+  "name": "uchihamadara",
+  "logo": "https://raw.githubusercontent.com/memecimemoluk/babuska/main/resim_2024-02-03_224019675.png",
+  "rpc_url": "http://38.242.238.46:9944",
+  "explorer_url": "http://38.242.238.46:4000",
+  "metrics_endpoint": "http://38.242.238.46:9615/metrics",
+  "id": "5c5d8aad-d041-4207-b772-acbdae9ae47b"
+}

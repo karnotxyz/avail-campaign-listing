@@ -1,0 +1,8 @@
+{
+  "name": "msi",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/144013507/300199622-2f1fcbb4-67a9-4ed2-8e75-31fa2d32c7da.png",
+  "rpc_url": "http://49.12.57.50:9944",
+  "explorer_url": "http://49.12.57.50:4000",
+  "metrics_endpoint": "http://49.12.57.50:9615/metrics",
+  "id": "f1b9879a-604b-4708-bed9-c8af7782ebdd"
+}

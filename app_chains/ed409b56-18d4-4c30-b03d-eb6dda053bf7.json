@@ -1,0 +1,8 @@
+{
+  "name": "tinhnv",
+  "logo": "https://cdn3.vectorstock.com/i/1000x1000/14/17/loser-rubber-stamp-vector-12431417.jpg",
+  "rpc_url": "http://95.111.232.189:9944",
+  "explorer_url": "http://95.111.232.189:4000",
+  "metrics_endpoint": "http://95.111.232.189:9615/metrics",
+  "id": "ed409b56-18d4-4c30-b03d-eb6dda053bf7"
+}

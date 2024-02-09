@@ -1,0 +1,8 @@
+{
+  "name": "thucvn02",
+  "logo": "https://im.ge/i/b2Wsvy",
+  "rpc_url": "http://84.247.191.59:9944",
+  "explorer_url": "http://84.247.191.59:4000",
+  "metrics_endpoint": "http://84.247.191.59:9615/metrics",
+  "id": "4339cf88-707c-45bd-89cc-6b5bcf2d3317"
+}
