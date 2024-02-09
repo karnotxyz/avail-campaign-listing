@@ -1,8 +1,0 @@
-{
-  "name": "<chain name>",
-  "logo": "<logo 链接,比如我的 https://i.imgur.com/0KUHPnZ.png>",
-  "rpc_url": "http://你的ip:9944",
-  "explorer_url": "http://你的ip:4000",
-  "metrics_endpoint": "http://你的ip:9615/metrics",
-  "id": "你刚刚生成的id"
-} 
