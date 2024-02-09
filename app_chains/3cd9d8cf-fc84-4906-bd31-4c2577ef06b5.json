@@ -1,0 +1,8 @@
+{
+  "name": "ambatunat",
+  "logo": "https://i.ibb.co/2Z95mv5/Screenshot-2024-02-09-220053-1.png",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "http://38.242.203.191:9944",
+  "metrics_endpoint": "http://38.242.203.191:4000",
+  "id": "3cd9d8cf-fc84-4906-bd31-4c2577ef06b5"
+}
