@@ -1,6 +1,6 @@
 {
   "name": "Availnode",
-  "logo": "https://r.resimlink.com/25pf0.png", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "logo": "https://r.resimlink.com/25pf0.png", 
   "rpc_url": "http://173.212.199.27:9944",
   "explorer_url": "http://173.212.199.27:4000",
   "metrics_endpoint": "http://173.212.199.27:9615",
