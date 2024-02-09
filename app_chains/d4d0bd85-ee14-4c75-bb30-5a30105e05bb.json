@@ -1,0 +1,8 @@
+{
+  "name": "Avail",
+  "logo": "https://placehold.co/400x400",  
+  "rpc_url": "http://95.217.215.143:9944",
+  "explorer_url": "http://95.217.215.143:4000",
+  "metrics_endpoint": "http://95.217.215.143:9615",
+  "id": "d4d0bd85-ee14-4c75-bb30-5a30105e05bb"
+}
