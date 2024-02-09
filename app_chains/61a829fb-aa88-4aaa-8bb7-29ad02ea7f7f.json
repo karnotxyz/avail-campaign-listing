@@ -1,0 +1,8 @@
+{
+  "name": "mil4d",
+  "logo": "https://r.resimlink.com/P4dQZB3xN.jpg",
+  "rpc_url": "http://162.55.210.96:9944",
+  "explorer_url": "http://162.55.210.96:4000",
+  "metrics_endpoint": "http://162.55.210.96:9615/metrics",
+  "id": "61a829fb-aa88-4aaa-8bb7-29ad02ea7f7f"
+}
