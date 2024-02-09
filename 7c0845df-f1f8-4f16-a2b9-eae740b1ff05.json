@@ -1,8 +1,0 @@
-{
-  "name": "m",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "7c0845df-f1f8-4f16-a2b9-eae740b1ff05"
-}
