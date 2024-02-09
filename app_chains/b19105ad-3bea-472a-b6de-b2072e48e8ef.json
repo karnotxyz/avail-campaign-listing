@@ -1,0 +1,8 @@
+{
+  "name": "lilzey",
+  "logo": "https://imgur.com/MT8jvuM",
+  "rpc_url": "http://46.250.234.38:9944",
+  "explorer_url": "http://46.250.234.38:4000",
+  "metrics_endpoint": "http://46.250.234.38:9615/metrics",
+  "id": "b19105ad-3bea-472a-b6de-b2072e48e8ef"
+}
