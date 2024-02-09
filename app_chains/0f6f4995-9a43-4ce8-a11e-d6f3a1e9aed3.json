@@ -1,0 +1,8 @@
+{
+  "name": "Hsyn2",
+  "logo": "https://i.imgur.com/lY9U2eA.png",
+  "rpc_url": "http://85.208.51.6:9944",
+  "explorer_url": "http://85.208.51.6:4000",
+  "metrics_endpoint": "http://85.208.51.6:9615/metrics",
+  "id": "0f6f4995-9a43-4ce8-a11e-d6f3a1e9aed3"
+}
