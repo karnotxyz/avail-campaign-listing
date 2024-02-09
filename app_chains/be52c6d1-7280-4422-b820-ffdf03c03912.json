@@ -1,0 +1,8 @@
+{
+  "name": "XVGNCY",
+  "logo": "https://i.imgur.com/raKiSBT.png",
+  "rpc_url": "https://146.190.95.116:9944",
+  "explorer_url": "https://146.190.95.116:4000",
+  "metrics_endpoint": "https://146.190.95.116:9615/metrics",
+  "id": "be52c6d1-7280-4422-b820-ffdf03c03912"
+}
