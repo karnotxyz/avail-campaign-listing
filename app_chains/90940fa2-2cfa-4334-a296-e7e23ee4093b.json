@@ -1,0 +1,8 @@
+{
+  "name": "Pumezeuion",
+  "logo": "https://placehold.co/400x400/black/darkred?text=PUM",
+  "rpc_url": "http://161.97.73.235:9944",
+  "explorer_url": "http://161.97.73.235:4000",
+  "metrics_endpoint": "http://161.97.73.235:9615/metrics",
+  "id": "90940fa2-2cfa-4334-a296-e7e23ee4093b"
+}

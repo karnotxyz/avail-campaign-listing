@@ -1,0 +1,8 @@
+{
+  "name": "sheriff",
+  "logo": "https://i.ibb.co/xjmWbLR/cedro.png",
+  "rpc_url": "http://34.27.9.229:9944",
+  "explorer_url": "http://34.27.9.229:4000",
+  "metrics_endpoint": "http://34.27.9.229:9615/metrics",
+  "id": "ecb5c60b-6cc7-4f4c-9f18-563c0be3192f"
+}

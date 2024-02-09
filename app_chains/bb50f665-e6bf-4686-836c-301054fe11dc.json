@@ -1,0 +1,8 @@
+{
+  "name": "ikun",
+  "logo": "https://r.resimlink.com/lk08reCAz.jpeg",
+  "rpc_url": "http://45.41.205.64:9944",
+  "explorer_url": "http://45.41.205.64:4000",
+  "metrics_endpoint": "http://45.41.205.64:9615/metrics",
+  "id": "bb50f665-e6bf-4686-836c-301054fe11dc"
+}

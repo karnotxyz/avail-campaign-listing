@@ -1,0 +1,8 @@
+{
+  "name": "omid",
+  "logo": "https://raw.githubusercontent.com/omiDBaghi/omidbaghi/main/logo.png",
+  "rpc_url": "http://65.109.186.212:9944",
+  "explorer_url": "http://65.109.186.212:4000",
+  "metrics_endpoint": "http://65.109.186.212:9615/metrics",
+  "id": "b925410e-cc78-43e1-9ce7-2fcefb5ec2eb"
+}
