@@ -1,0 +1,8 @@
+{
+  "name": "babylonverse",
+  "logo": "",
+  "rpc_url": "http://158.220.88.214:9944",
+  "explorer_url": "http://158.220.88.214:4000",
+  "metrics_endpoint": "http://158.220.88.214:9615/metrics",
+  "id": "a33fc7d8-e9c2-40a2-9fee-07b697595af7"
+}

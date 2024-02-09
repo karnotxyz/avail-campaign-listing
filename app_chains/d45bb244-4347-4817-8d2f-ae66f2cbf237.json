@@ -1,0 +1,8 @@
+{
+  "name": "ms1unzu",
+  "logo": "https://i.imgur.com/XuDwo9s.png",
+  "rpc_url": "http://159.69.216.192:9944",
+  "explorer_url": "http://159.69.216.192:4000",
+  "metrics_endpoint": "http://159.69.216.192:9615/metrics",
+  "id": "d45bb244-4347-4817-8d2f-ae66f2cbf237"
+}

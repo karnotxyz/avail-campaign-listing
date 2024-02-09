@@ -1,0 +1,8 @@
+{
+  "name": "carlos",
+  "logo": "https://r.resimlink.com/S8ULyzt9hr.png",
+  "rpc_url": "http://167.99.35.168:9944",
+  "explorer_url": "http://167.99.35.168:4000",
+  "metrics_endpoint": "http://167.99.35.168:9615/metrics",
+  "id": "5eca514d-5f3f-4f3b-b062-6db35f8d51c8"
+}
