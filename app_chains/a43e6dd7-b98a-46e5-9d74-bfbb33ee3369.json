@@ -1,6 +1,6 @@
 {
   "name": "bountyblok",
-  "logo": "https://polygon.contest.bountyblok.io/assets/app/media/img/bb-logo-new.svg",
+  "logo": "https://bountyblok.io/bountyblok-all-white-logo.png",
   "rpc_url": "https://madara-bounty-blok-devnet.karnot.xyz",
   "explorer_url": "https://compass-bounty-blok-devnet.karnot.xyz",
   "metrics_endpoint": "https://madara-bounty-blok-devnet.karnot.xyz/metrics",
