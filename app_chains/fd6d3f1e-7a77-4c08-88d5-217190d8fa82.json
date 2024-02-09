@@ -1,0 +1,8 @@
+{
+  "name": "ozzy35410",
+  "logo": "https://r.resimlink.com/c2XKNHiIuwCP.jpg", 
+  "rpc_url": "http://65.109.233.163:9944",
+  "explorer_url": "http://65.109.233.163:4000",
+  "metrics_endpoint": "http://65.109.233.163:9615/metrics",
+  "id": "fd6d3f1e-7a77-4c08-88d5-217190d8fa82"
+}
