@@ -1,0 +1,8 @@
+{
+  "name": "zafrum1",
+  "logo": "https://r.resimlink.com/UaBIXmVLW.jpg",
+  "rpc_url": "http://146.190.237.70:9944",
+  "explorer_url": "http://146.190.237.70-YAZ:4000",
+  "metrics_endpoint": "http://146.190.237.70:9615/metrics",
+  "id": "1592974c-63d3-4d78-beef-da2579da1940"
+}
