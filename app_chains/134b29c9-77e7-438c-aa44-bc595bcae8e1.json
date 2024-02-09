@@ -1,0 +1,8 @@
+{
+  "name": "juyocrypto",
+  "logo": "https://r.resimlink.com/2APbEvygr.jpeg",
+  "rpc_url": "http://161.97.100.160:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "134b29c9-77e7-438c-aa44-bc595bcae8e1"
+}
