@@ -1,0 +1,8 @@
+  {
+    "name": "lodo",
+    "logo": "https://r.resimlink.com/RdV0Av_.png ",
+    "rpc_url": "http:// 142.93.131.142:9944",
+    "explorer_url": "http:// 142.93.131.142:4000",
+    "metrics_endpoint": "http:// 142.93.131.142:9615/metrics", 
+    "id": "0c4076f5-39d6-4f3d-9f5e-474c1ae23231" 
+  }
