@@ -2,7 +2,7 @@
   "name": "jadoben",
   "logo": "https://ibb.co/q0N54LT",
   "rpc_url": "https://109.123.242.179:9944",
-  "explorer_url": "https://109.123.242.4000",
+  "explorer_url": "https://109.123.242:4000",
   "metrics_endpoint": "https://109.123.242.179:9615/metrics",
   "id": "fff7b5cb-6627-4a08-8305-301d70f9b5c5"
 }
