@@ -1,0 +1,8 @@
+{
+  "name": "cryptogang",
+  "logo": " https://i.postimg.cc/wxwtDKLK/Cryptogang.jpg",
+  "rpc_url": " http://138.201.91.250:9944",
+  "explorer_url": " http://138.201.91.250:4000",
+  "metrics_endpoint": " http://138.201.91.250:9615/metrics",
+  "id": "c7e689a0-b9e0-40bc-b819-9d5ce5dbecff"
+}
