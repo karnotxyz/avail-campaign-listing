@@ -1,0 +1,8 @@
+{
+    "name": "leo",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/75103878/303316666-89ac6877-6f38-425d-a6bc-95dccc96598b.png",
+    "rpc_url": "http://178.239.204.4:9944",
+    "explorer_url": "http://178.239.204.4:4000",
+    "metrics_endpoint": "http://178.239.204.4:9615/metrics",
+    "id": "ec8e6577-6960-4bc0-8d6d-29fd78a63160"
+  }
