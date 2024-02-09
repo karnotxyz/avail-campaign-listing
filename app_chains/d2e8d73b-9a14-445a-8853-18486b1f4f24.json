@@ -1,0 +1,8 @@
+{
+  "name": "bbros",
+  "logo": "https://r.resimlink.com/Vdcov53Me1Nf.png",
+  "rpc_url": "http://202.133.89.38:9944",
+  "explorer_url": "http://202.133.89.38:4000",
+  "metrics_endpoint": "http://202.133.89.38:9615/metrics",
+  "id": "d2e8d73b-9a14-445a-8853-18486b1f4f24"
+}
