@@ -1,6 +1,6 @@
 {
   "name": "alfan",
-  "logo": "https://i.imgur.com/awwws4P.jpeg",
+  "logo": "https://i.imgur.com/awwws4P.png",
   "rpc_url": "http://173.249.16.40:9944",
   "explorer_url": "http://173.249.16.40:4000",
   "metrics_endpoint": "http://173.249.16.40:9615/metrics",
