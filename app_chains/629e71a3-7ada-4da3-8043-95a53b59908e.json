@@ -1,0 +1,8 @@
+{
+  "name": "Aladeen_xo",
+  "logo": "https://r.resimlink.com/X0JSC.jpg",
+  "rpc_url": "http://134.122.74.117:9944/",
+  "explorer_url": "http://134.122.74.117:4000/",
+  "metrics_endpoint": "http://134.122.74.117:9615/metrics",
+  "id": "629e71a3-7ada-4da3-8043-95a53b59908e"
+}
