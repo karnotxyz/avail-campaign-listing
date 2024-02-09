@@ -1,0 +1,8 @@
+{
+  "name": "cryptobeast",
+  "logo": "https://ibb.co/2WZzK2M",
+  "rpc_url": "https://223.190.50.78:9944",
+  "explorer_url": "https://223.190.50.78:4000",
+  "metrics_endpoint": "https://223.190.50.78:9615/metrics",
+  "id": "a0d3bbc0-846c-489c-a19b-2634cbe6fe69"
+}
