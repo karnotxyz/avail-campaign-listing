@@ -1,0 +1,8 @@
+{
+  "name": "mert-avail2",
+  "logo": "https://r.resimlink.com/UtegaJ5c-s.jpg",
+  "rpc_url": "http://82.208.23.193:9944",
+  "explorer_url": "http://82.208.23.193:4000",
+  "metrics_endpoint": "http://82.208.23.193:9615/metrics",
+  "id": "7fe43a4a-8ca4-4965-a26d-286345c81286"
+}

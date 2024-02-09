@@ -1,0 +1,8 @@
+{
+  "name": "zulu",
+  "logo": "https://imgur.com/aBuqJ8q.png",
+  "rpc_url": "http://31.220.97.255:9944",
+  "explorer_url": "http://31.220.97.255:4000",
+  "metrics_endpoint": "http://31.220.97.255:9615/metrics",
+  "id": "7b6a0091-1de9-496b-8fee-3d0cdd22428e"
+}

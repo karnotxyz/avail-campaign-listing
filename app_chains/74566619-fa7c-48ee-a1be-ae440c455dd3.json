@@ -1,0 +1,8 @@
+{
+  "name": "callmeozzy",
+  "logo": "https://r.resimlink.com/L2O5fUpMKGYJ.png",
+  "rpc_url": "http://161.35.147.55:9944",
+  "explorer_url": "http://161.35.147.55:4000",
+  "metrics_endpoint": "http://161.35.147.55:9615/metrics",
+  "id": "74566619-fa7c-48ee-a1be-ae440c455dd3"
+}

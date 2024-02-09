@@ -1,0 +1,8 @@
+{
+  "name": "khaldrogo",
+  "logo": "https://i.ibb.co/mCVHpmr/drogo1-png.jpg",
+  "rpc_url": "http://46.250.248.47:9944",
+  "explorer_url": "http://46.250.248.47:4000",
+  "metrics_endpoint": "http://46.250.248.47:9615/metrics",
+  "id": "e7cd2c41-c632-41ef-a198-59a43209f3da"
+}

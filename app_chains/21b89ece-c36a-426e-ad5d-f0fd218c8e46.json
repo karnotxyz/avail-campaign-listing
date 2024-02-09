@@ -1,0 +1,8 @@
+{
+  "name": "sury",
+  "logo": "https://i.imgur.com/ea5I1iG.png",
+  "rpc_url": "http://37.60.241.89:9944",
+  "explorer_url": "http://37.60.241.89:4000",
+  "metrics_endpoint": "http://37.60.241.89:9615/metrics",
+  "id": "21b89ece-c36a-426e-ad5d-f0fd218c8e46"
+}

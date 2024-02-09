@@ -1,0 +1,8 @@
+{
+  "name": "zawja",
+  "logo": "https://im.ge/i/bOV20L",
+  "rpc_url": "http://38.242.241.101:9944/",
+  "explorer_url": "http://38.242.241.101:4000/",
+  "metrics_endpoint": "http://38.242.241.101:9615/",
+  "id": "566866c8-eb62-4a07-bfee-7272e9683b3a"
+}

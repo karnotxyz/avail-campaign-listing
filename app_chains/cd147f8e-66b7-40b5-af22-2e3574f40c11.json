@@ -1,0 +1,8 @@
+{
+  "name": "zcuti",
+  "logo": "https://i.imgur.com/fJi1eC4.png",
+  "rpc_url": "http://37.60.224.22:9944",
+  "explorer_url": "http://37.60.224.22:4000",
+  "metrics_endpoint": "http://37.60.224.22:9615/metrics",
+  "id": "cd147f8e-66b7-40b5-af22-2e3574f40c11"
+}

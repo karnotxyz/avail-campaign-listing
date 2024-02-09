@@ -1,0 +1,8 @@
+{
+  "name": "Blockdaemon",
+  "logo": "https://i.postimg.cc/904zKpHZ/Blockdaemon-Logo.png",
+  "rpc_url": "http://135.181.212.218:9944",
+  "explorer_url": "http://135.181.212.218:4000",
+  "metrics_endpoint": "http://135.181.212.218:9615",
+  "id": "06336246-7b46-4d72-8033-773c9a218562"
+}

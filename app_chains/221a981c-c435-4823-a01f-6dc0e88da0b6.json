@@ -1,0 +1,8 @@
+{
+  "name": "dwentz",
+  "logo": "https://im.ge/i/bzDb6K",
+  "rpc_url": "http://167.172.89.15:9944",
+  "explorer_url": "http://167.172.89.15:4000",
+  "metrics_endpoint": "http://167.172.89.15:9615/metrics",
+  "id": "221a981c-c435-4823-a01f-6dc0e88da0b6"
+}

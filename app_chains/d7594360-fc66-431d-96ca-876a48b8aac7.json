@@ -1,0 +1,8 @@
+{
+  "name": "x0bull",
+  "logo": "https://r.resimlink.com/SUrfRWy0.jpg",
+  "rpc_url": "http://142.93.97.147:9944",
+  "explorer_url": "http://142.93.97.147:4000",
+  "metrics_endpoint": "http://142.93.97.147:9615/metrics",
+  "id": "d7594360-fc66-431d-96ca-876a48b8aac7"
+}

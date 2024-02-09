@@ -1,0 +1,8 @@
+{
+  "name": "Krews",
+  "logo": "https://krews.xyz/img/logo.png",
+  "rpc_url": "https://rpc-madara.krews.xyz",
+  "explorer_url": "https://explorer-madara.krews.xyz",
+  "metrics_endpoint": "https://metrics-madara.krews.xyz/metrics",
+  "id": "87c77898-455d-4be9-a835-45616f8c1a83"
+}

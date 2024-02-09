@@ -1,0 +1,8 @@
+{
+  "name": "Mint",
+  "logo": "https://i.imgur.com/W80oR4c.png",
+  "rpc_url": "http://173.249.12.186:9944",
+  "explorer_url": "http://173.249.12.186:4000",
+  "metrics_endpoint": "http://173.249.12.186:9615/metrics",
+  "id": "aaf0d360-4491-4dcf-ba1f-c2718ddf5f23"
+}

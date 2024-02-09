@@ -1,0 +1,8 @@
+{
+  "name": "jayzanas",
+  "logo": "https://i.niupic.com/images/2024/02/08/gbJm.png",
+  "rpc_url": "http://43.155.172.19:9944",
+  "explorer_url": "http://43.155.172.19:4000",
+  "metrics_endpoint": "http://43.155.172.19:9615/metrics",
+  "id": "1fb81922-ba2a-4158-876e-142897c9f06f"
+}

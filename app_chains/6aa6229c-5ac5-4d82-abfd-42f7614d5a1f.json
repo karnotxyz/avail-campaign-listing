@@ -1,0 +1,8 @@
+{
+  "name": "altare",
+  "logo": "https://i.imgur.com/7DCEacV.png",
+  "rpc_url": "http://37.60.229.48:9944",
+  "explorer_url": "http://37.60.229.48:4000",
+  "metrics_endpoint": "http://37.60.229.48:9615/metrics",
+  "id": "6aa6229c-5ac5-4d82-abfd-42f7614d5a1f"
+}
