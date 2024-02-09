@@ -1,0 +1,8 @@
+{
+  "name": "cakir33",
+  "logo": "https://r.resimlink.com/b-wsQdiLE.png", 
+  "rpc_url": "http://89.117.55.142/:9944",
+  "explorer_url": "http://89.117.55.142:4000",
+  "metrics_endpoint": "http://89.117.55.142/metrics",
+  "id": "d54080a8-f68a-45cd-8458-f8ba70d5e98e" 
+}
