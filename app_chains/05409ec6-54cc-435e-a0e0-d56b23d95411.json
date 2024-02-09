@@ -1,0 +1,8 @@
+{
+  "name": "jasperhappy",
+  "logo": "https://i.imgur.com/B0IOIzj.png",
+  "rpc_url": "http://194.163.145.210:9944",
+  "explorer_url": "http://194.163.145.210:4000",
+  "metrics_endpoint": "http://194.163.145.210:9615/metrics",
+  "id": "05409ec6-54cc-435e-a0e0-d56b23d95411"
+}
