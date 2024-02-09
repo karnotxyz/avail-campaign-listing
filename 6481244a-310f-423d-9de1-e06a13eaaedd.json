@@ -1,8 +1,0 @@
-{
-  "name": "bubbleburst",
-  "logo": "https://i.ibb.co/6PBjjQj/Groupe-9273.png",
-  "rpc_url": "http://173.249.57.180:9944",
-  "explorer_url": "http://173.249.57.180:4000",
-  "metrics_endpoint": "http://173.249.57.180:9615/metrics",
-  "id": "6481244a-310f-423d-9de1-e06a13eaaedd"
-}
