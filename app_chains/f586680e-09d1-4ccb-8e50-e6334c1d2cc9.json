@@ -1,0 +1,8 @@
+{
+  "name": "ouroboros",
+  "logo": "https://i.ibb.co/dpRXF4C/ouroboros.png",
+  "rpc_url": "http://217.76.63.253:9944",
+  "explorer_url": "http://217.76.63.253:4000",
+  "metrics_endpoint": "http://217.76.63.253:9615/metrics",
+  "id": "bc4252a5-9e13-48ea-be7a-b477e60c6c69"
+}
