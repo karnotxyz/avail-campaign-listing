@@ -1,0 +1,8 @@
+{
+  "name": "saeed",
+  "logo": "https://r.resimlink.com/-XCojNW9wr.jpg",
+  "rpc_url": "http://185.110.188.135:9944",
+  "explorer_url": "http://185.110.188.135:4000",
+  "metrics_endpoint": "http://185.110.188.135:9615/metrics",
+  "id": "790ecc66-0326-4912-a860-7934d6bd9454"
+}
