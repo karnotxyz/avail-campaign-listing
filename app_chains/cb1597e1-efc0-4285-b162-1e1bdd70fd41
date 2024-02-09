@@ -1,7 +1,7 @@
 {
   "name": "Navillera",
   "logo": "https://imgur.com/a/KTyiS8l",
-  "rpc_url": "http://164.68.122.164/:9944",
+  "rpc_url": "http://164.68.122.164:9944",
   "explorer_url": "http://164.68.122.164:4000",
   "metrics_endpoint": "http://164.68.122.164:9615/metrics",
   "id": "cb1597e1-efc0-4285-b162-1e1bdd70fd41"
