@@ -4,8 +4,5 @@
   "rpc_url": "http://202.157.186.96:9944",
   "explorer_url": "http://202.157.186.96:4000",
   "metrics_endpoint": "http://202.157.186.96:9615/metrics",
-  "rpc_url": "http://202.157.176.247:9944",
-  "explorer_url": "http://202.157.176.247:4000",
-  "metrics_endpoint": "http://202.157.176.247:9615/metrics",
   "id": "a5c643bb-a47d-42b6-b464-3506b647bc90"
 }
