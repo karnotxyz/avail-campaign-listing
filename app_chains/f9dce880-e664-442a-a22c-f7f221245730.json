@@ -1,0 +1,8 @@
+{
+  "name": "Aridvan",
+  "logo": "https://i.imgur.com/gdWmmQW.png",
+  "rpc_url": "http://49.13.18.156:9944",
+  "explorer_url": "http://49.13.18.156:4000",
+  "metrics_endpoint": "http://49.13.18.156:9615/metrics",
+  "id": "f9dce880-e664-442a-a22c-f7f221245730"
+}
