@@ -1,0 +1,8 @@
+{
+  "name": "Firat58",
+  "logo": "https://r.resimlink.com/iq3WR.jpg",
+  "rpc_url": "http://89.117.58.220:9944",
+  "explorer_url": "http://89.117.58.220:4000",
+  "metrics_endpoint": "http://89.117.58.220:9615",
+  "id": "9c255041-09ca-4a6a-a0be-ceb05e7fb20d"
+}
