@@ -3,7 +3,6 @@
   "logo": "https://i.ibb.co/t4pdhbP/world400x400.png",
   "rpc_url": "http://37.27.69.177:4000",
   "explorer_url": "http://37.27.69.177:4000",
-  "metrics_endpoint": "https://37.27.69.177:4000/metrics",
+  "metrics_endpoint": "https://37.27.69.177:4000",
   "id": "81ffe08a-2dbb-4b62-9ca8-66de7dea4ebb"
 }
-
