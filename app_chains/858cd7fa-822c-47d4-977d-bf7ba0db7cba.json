@@ -1,0 +1,8 @@
+{
+  "name": "Giles",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://49.51.69.47:9944",
+  "explorer_url": "http://49.51.69.47:4000",
+  "metrics_endpoint": "http://49.51.69.47:9615/metrics",
+  "id": "858cd7fa-822c-47d4-977d-bf7ba0db7cba"
+}
