@@ -1,0 +1,8 @@
+{
+  "name": "drakula",
+  "logo": "https://github.com/settings/profile",
+  "rpc_url": "http://Y62.171.172.170:9944",
+  "explorer_url": "http://62.171.172.170:4000",
+  "metrics_endpoint": "62.171.172.170:9615/metrics",
+  "id": "f115dd9c-9f67-4a75-8025-2b89c85a597b"
+}
