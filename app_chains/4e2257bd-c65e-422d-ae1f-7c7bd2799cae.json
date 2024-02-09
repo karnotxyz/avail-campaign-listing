@@ -1,0 +1,8 @@
+{
+  "name": "joko",
+  "logo": "https://ibb.co/1Zgzyqc",
+  "rpc_url": "https://167.86.101.31:9944",
+  "explorer_url": "https://167.86.101.31:4000",
+  "metrics_endpoint": "https://167.86.101.31:9615/metrics",
+  "id": "4e2257bd-c65e-422d-ae1f-7c7bd2799cae"
+}
