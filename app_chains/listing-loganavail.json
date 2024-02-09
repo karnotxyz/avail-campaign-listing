@@ -1,0 +1,8 @@
+{
+    "name": "loganavail",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106399025/303619144-45dee77b-e222-4007-8cbc-9be0b2b467ff.PNG",
+    "rpc_url": "http://195.35.52.68:9944",
+    "explorer_url": "http://195.35.52.68:4000",
+    "metrics_endpoint": "http://195.35.52.68:9615/metrics",
+    "id": "3fb951cd-58d7-4f56-a4e5-1be343eca3f5"
+  }
