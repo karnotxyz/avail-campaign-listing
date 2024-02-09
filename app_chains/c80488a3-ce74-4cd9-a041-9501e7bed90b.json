@@ -3,6 +3,6 @@
     "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/152032243/303681224-97cf482c-6e55-4094-8b9f-fb455e42fc65.png",
     "rpc_url": "https://184.174.35.27:9944/",
     "explorer_url": "https://184.174.35.27:4000",
-    "metrics_endpoint": "https://184.174.35.27:9615/",
+    "metrics_endpoint": "https://184.174.35.27:9615/metrics",
     "id": "c80488a3-ce74-4cd9-a041-9501e7bed90b"
 }
