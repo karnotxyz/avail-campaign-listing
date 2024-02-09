@@ -1,0 +1,8 @@
+{
+  "name": "jargo",
+  "logo": "https://i.ibb.co/jkTmTWh/jargo.png",
+  "rpc_url": "http://167.71.68.172:9944",
+  "explorer_url": "http://167.71.68.172:4000",
+  "metrics_endpoint": "http://167.71.68.172:9615/metrics",
+  "id": "0d3bb11c-9643-495c-a38a-c0486f2ecc5b"
+}
