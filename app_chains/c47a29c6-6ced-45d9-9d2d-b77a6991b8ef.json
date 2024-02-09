@@ -1,0 +1,10 @@
+[
+    {
+    "name": "MaMaRun",
+    "logo": "https://i.postimg.cc/1573p3Gw/star.png",
+    "rpc_url": "http://167.86.81.51:9944",
+    "explorer_url": "http://167.86.81.51:4000",
+    "metrics_endpoint": "http://167.86.81.51:9615/metrics",
+    "id": "c47a29c6-6ced-45d9-9d2d-b77a6991b8ef"
+  }
+]
