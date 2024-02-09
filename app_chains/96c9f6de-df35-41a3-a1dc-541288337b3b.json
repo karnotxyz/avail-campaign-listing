@@ -1,8 +1,8 @@
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "amijelek",
+  "logo": "https://github.com/achabyyy/achabyyy/blob/main/special/qum%20logo%20kotak.png",
+  "rpc_url": "http:://188.166.240.110:9944",
+  "explorer_url": "http://188.166.240.110:4000",
+  "metrics_endpoint": "http://188.166.240.110:9615/metrics",
+  "id": "96c9f6de-df35-41a3-a1dc-541288337b3b"
 }
