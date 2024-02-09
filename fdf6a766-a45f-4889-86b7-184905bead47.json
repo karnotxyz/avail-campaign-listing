@@ -1,0 +1,8 @@
+{
+  "name": "hungtuan",
+  "logo": "https://i.ibb.co/DKqmyns/4.jpg",
+  "rpc_url": "http://167.86.74.91:9944",
+  "explorer_url": "http://167.86.74.91:4000",
+  "metrics_endpoint": "http://167.86.74.91:9615/metrics",
+  "id": "fdf6a766-a45f-4889-86b7-184905bead47"
+}
