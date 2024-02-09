@@ -1,0 +1,8 @@
+{
+  "name": "kalpazanova",
+  "logo": "https://i.imgur.com/VWudP1I.png",
+  "rpc_url": "http://65.21.52.231:9944",
+  "explorer_url": "http://65.21.52.231:4000",
+  "metrics_endpoint": "http://65.21.52.231:9615/metrics",
+  "id": "79947d89-d5ff-4216-9541-4b8b5cb43e5f"
+}
