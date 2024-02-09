@@ -1,0 +1,8 @@
+{
+  "name": "anil2ec4",
+  "logo": "https://im.ge/i/cjP9n1",
+  "rpc_url": "http://194.146.13.28:9944",
+  "explorer_url": "http://194.146.13.28:4000",
+  "metrics_endpoint": "http://194.146.13.28:9615/metrics",
+  "id": "3e183050-bad6-440f-9fef-914c298a4a59"
+}
