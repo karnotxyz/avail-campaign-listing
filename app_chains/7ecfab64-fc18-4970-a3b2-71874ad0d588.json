@@ -1,0 +1,10 @@
+[
+    {
+        "name": "0xgustave",
+        "logo": "https://r.resimlink.com/IxAEyDonr.png",
+        "rpc_url": "http://109.123.232.177:9944",
+        "explorer_url": "http://109.123.232.177:4000",
+        "metrics_endpoint": "http://109.123.232.177:9615/metrics",
+        "id": "7ecfab64-fc18-4970-a3b2-71874ad0d588"
+    }
+]
