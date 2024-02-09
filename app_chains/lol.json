@@ -1,0 +1,8 @@
+{
+  "name": "martin",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/140613486/303591386-68a4b7f8-e6b7-475a-ac6c-21468ce16f90.png",
+  "rpc_url": "http://167.86.69.43:9944",
+  "explorer_url": "http://167.86.69.43:4000",
+  "metrics_endpoint": "http://167.86.69.43:9615",
+  "id": "cea5e750-9d6b-47f6-9063-bb923a8d8d0b"
+}
