@@ -1,0 +1,8 @@
+{
+  "name": "wimpdespe",
+  "logo": "http://43.134.32.33/logo.jpg",
+  "rpc_url": "http://43.134.32.33:9944",
+  "explorer_url": "http://43.134.32.33:4000",
+  "metrics_endpoint": "http://43.134.32.33:9615/metrics",
+  "id": "dfe60660-ad86-4631-a97e-9e31087159bd"
+}
