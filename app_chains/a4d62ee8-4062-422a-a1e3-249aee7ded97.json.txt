@@ -1,0 +1,8 @@
+{
+  "name": "ultramit",
+  "logo": "https://r.resimlink.com/LfpekRjwYWqG.png",
+  "rpc_url": "http://217.76.49.232:9944",
+  "explorer_url": "http://217.76.49.232:4000",
+  "metrics_endpoint": "http://217.76.49.232:9615",
+  "id": "a4d62ee8-4062-422a-a1e3-249aee7ded97"
+} 
