@@ -1,0 +1,8 @@
+{
+  "name": "klimanjero",
+  "logo": "https://r.resimlink.com/XkyG-S.png",
+  "rpc_url": "http://109.205.181.66:9944",
+  "explorer_url": "http://109.205.181.66:4000",
+  "metrics_endpoint": "http://109.205.181.66:9615/metrics",
+  "id": "2c49af51-12d2-48da-9821-ffde6b4bbbc1"
+}

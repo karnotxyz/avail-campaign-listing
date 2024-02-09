@@ -1,0 +1,8 @@
+{
+  "name": "denemek",
+  "logo": "https://r.resimlink.com/VEQub3FAc.jpg",
+  "rpc_url": "http://65.108.59.192:9944",
+  "explorer_url": "http://65.108.59.192:4000",
+  "metrics_endpoint": "http://65.108.59.192:9615/metrics",
+  "id": "d01f3572-e2bc-4f43-af64-c8b1ade53a6b"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "neyshaa",
+  "logo": "http://r.resimlink.com/jmGpx0n.png",
+  "rpc_url": "http://65.109.168.255:9944",
+  "explorer_url": "http://65.109.168.255:4000",
+  "metrics_endpoint": "http://65.109.168.255:9615/metrics",
+  "id": "912c791f-4361-4186-9418-176e025654d3"
+}

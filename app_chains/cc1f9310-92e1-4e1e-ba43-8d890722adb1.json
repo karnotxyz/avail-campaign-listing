@@ -1,0 +1,8 @@
+{
+  "name": "blockbluesky",
+  "logo": "https://i.imgur.com/NyK2GhC.png",
+  "rpc_url": "http://188.34.178.75:9944",
+  "explorer_url": "http://188.34.178.75:4000",
+  "metrics_endpoint": "http://188.34.178.75:9615/metrics",
+  "id": "cc1f9310-92e1-4e1e-ba43-8d890722adb1"
+}
