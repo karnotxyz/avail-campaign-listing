@@ -1,8 +1,8 @@
 {
- "name": "Gaban",
- "logo": "https://imgur.com/a/EdmR02Z",
- "rpc_url": "http://188.166.178.167:9944",
- "explorer_url": "http://188.166.178.167:4000",
- "metrics_endpoint": "http://188.166.178.167:9615/metrics",
- "id": "09260cf5-763f-4a25-b22c-6ab68a3dea69"
+  "name": "Gaban",
+  "logo": "https://imgur.com/a/EdmR02Z",
+  "rpc_url": "http://128.199.71.112:9944",
+  "explorer_url": "http://128.199.71.112:4000",
+  "metrics_endpoint": "http://128.199.71.112:9615/metrics",
+  "id": "09260cf5-763f-4a25-b22c-6ab68a3dea69"
 }
