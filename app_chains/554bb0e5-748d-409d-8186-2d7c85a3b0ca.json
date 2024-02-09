@@ -2,7 +2,7 @@
   "name": "Alviora",
   "logo": "https://i.imgur.com/V8qJN29.jpg",
   "rpc_url": "http://109.123.250.135:9944",
-  "explorer_url": "http://109.123.250.135:4000",
+  "explorer_url": "http://109.123.250.135:4000/",
   "metrics_endpoint": "http://109.123.250.135:9615/metrics",
   "id": "554bb0e5-748d-409d-8186-2d7c85a3b0ca"
 }
