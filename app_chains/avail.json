@@ -1,0 +1,8 @@
+{
+    "name": "amiraveil",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/152448286/303665941-6248ff99-7597-4033-859e-dcf1b8b4d86d.png",
+    "rpc_url": "http://185.208.172.102:9944",
+    "explorer_url": "http://185.208.172.102:4000",
+    "metrics_endpoint": "http://185.208.172.102:9615",
+    "id": "6638ac1f-c2ce-48ae-b08b-f3917a1c627d"
+  }
