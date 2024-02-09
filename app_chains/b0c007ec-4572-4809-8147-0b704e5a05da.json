@@ -1,0 +1,8 @@
+{
+  "name": "Your_appchain_name",
+  "logo": "https://ibb.co/svj0MTL",
+  "rpc_url": "http://95.164.3.56:9944",
+  "explorer_url": "http://95.164.3.56:4000",
+  "metrics_endpoint": "http://95.164.3.56:9615/metrics",
+  "id": "b0c007ec-4572-4809-8147-0b704e5a05da"
+}
