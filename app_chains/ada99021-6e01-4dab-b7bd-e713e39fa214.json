@@ -1,0 +1,8 @@
+{
+  "name": "0xgustave",
+  "logo": "https://r.resimlink.com/LUk32.jpeg",
+  "rpc_url": "http://109.123.232.177:9944",
+  "explorer_url": "http://109.123.232.177:4000",
+  "metrics_endpoint": "http://109.123.232.177:9615/metrics",
+  "id": "ada99021-6e01-4dab-b7bd-e713e39fa214"
+}
