@@ -1,8 +1,8 @@
 {
   "name": "NINO90",
-  "logo": "https://placehold.co/400x400",
+  "logo": "https://raw.githubusercontent.com/sonupoplu4/sonupoplu4/main/028ec.jpg",
   "rpc_url": "http://161.97.124.141:9944",
   "explorer_url": "http://161.97.124.141:4000",
-  "metrics_endpoint": "http://161.97.124.141/metrics",
-  "id": "775f4161-552f-4e86-9d4f-74bd71f35f70"
+  "metrics_endpoint": "http://161.97.124.141:9615/metrics",
+  "id": "176e46d6-5e2b-4295-8296-4e97c9d60f0e"
 }
