@@ -1,0 +1,8 @@
+{
+    "name": "Yeksin",
+    "logo": "https://api.yeksin.net/yeksin.png",
+    "rpc_url": "https://rpc.madara.yeksin.net",
+    "explorer_url": "https://explorer.madara.yeksin.net",
+    "metrics_endpoint": "https://metrics.madara.yeksin.net/metrics",
+    "id": "2f37f2c0-f470-417c-a5da-dc10cc263aad"
+}
