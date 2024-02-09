@@ -1,0 +1,8 @@
+{
+    "name": "success",
+    "logo": "https://r.resimlink.com/wG0Q1.png",
+    "rpc_url": "http://49.13.123.38:9944",
+    "explorer_url": "http://49.13.123.38:4000",
+    "metrics_endpoint": "http://49.13.123.38:9615/metrics",
+    "id": "dc56006e-6cc3-43ea-bce7-d314193ec1c2"
+  }
