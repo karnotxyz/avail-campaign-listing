@@ -1,0 +1,10 @@
+[
+  {
+    "name": "iseng",
+    "logo": "https://ibb.co/yQ79z8F",
+    "rpc_url": "http://167.86.71.45:9944",
+    "explorer_url": "http://167.86.71.45:4000",
+    "metrics_endpoint": "http://167.86.71.45:9615/metrics",
+    "id": "07776eb6-c8b7-47dc-9c75-93e95556faed"
+  }
+]
