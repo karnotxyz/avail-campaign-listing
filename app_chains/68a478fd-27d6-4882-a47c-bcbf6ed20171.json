@@ -1,0 +1,8 @@
+{
+  "name": "poka",
+  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://109.123.254.29:9944",
+  "explorer_url": "http://109.123.254.29:4000",
+  "metrics_endpoint": "http://109.123.254.29/metrics",
+  "id": "68a478fd-27d6-4882-a47c-bcbf6ed20171"
+}
