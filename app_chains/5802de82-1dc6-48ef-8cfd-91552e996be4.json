@@ -1,4 +1,5 @@
-{
+[
+  {
   "name": "zuri",
   "logo": "https://i.ibb.co/47SfnDj/png-transparent-gold-colored-bitcoin-coin-bitcoin-cryptocurrency-monero-initial-coin-offering-bitcoi.png",
   "rpc_url": "http://185.216.75.82:9944",
@@ -6,3 +7,4 @@
   "metrics_endpoint": "http://185.216.75.82:9615/metrics",
   "id": "5802de82-1dc6-48ef-8cfd-91552e996be4"
 }
+]
