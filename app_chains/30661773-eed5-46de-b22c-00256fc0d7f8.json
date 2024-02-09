@@ -1,0 +1,8 @@
+{
+  "name": "ultramit",
+  "logo": "https://i.imgur.com/uVCKqQC.png",
+  "rpc_url": "http://217.76.49.232:9944",
+  "explorer_url": "http://217.76.49.232:4000",
+  "metrics_endpoint": "http://217.76.49.232:9615",
+  "id": "30661773-eed5-46de-b22c-00256fc0d7f8"
+} 
