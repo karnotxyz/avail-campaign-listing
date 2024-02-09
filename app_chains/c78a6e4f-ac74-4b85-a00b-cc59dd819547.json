@@ -1,0 +1,8 @@
+{
+  "name": "flakjacketfl",
+  "logo": "http://43.133.57.207/logo.jpg",
+  "rpc_url": "http://43.133.57.207:9944",
+  "explorer_url": "http://43.133.57.207:4000",
+  "metrics_endpoint": "http://43.133.57.207:9615/metrics",
+  "id": "c78a6e4f-ac74-4b85-a00b-cc59dd819547"
+}
