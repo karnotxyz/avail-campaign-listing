@@ -4,5 +4,5 @@
   "rpc_url": "http://202.133.89.31:9944",
   "explorer_url": "http://202.133.89.31:4000",
   "metrics_endpoint": "http://202.133.89.31:9615/metrics",
-  "id": "786e70d2-8300-489e-bd4a-e29fb0742cb8"
+  "id": "786e70d2-8300-489e-bd4a-e29fb0742cb8",
 }
