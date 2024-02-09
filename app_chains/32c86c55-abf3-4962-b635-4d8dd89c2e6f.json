@@ -1,0 +1,8 @@
+{
+  "name": "thewalldao",
+  "logo": "https://avatars.githubusercontent.com/u/111683516?s=400&u=7e3d4b10710360d126ef806f1bc8158c398e7d95&v=4",
+  "rpc_url": "https://madara-rpc.thewalldao.xyz/",
+  "explorer_url": "https://madara.thewalldao.xyz/",
+  "metrics_endpoint": "https://madara-metrics.thewalldao.xyz/",
+  "id": "32c86c55-abf3-4962-b635-4d8dd89c2e6f"
+}
