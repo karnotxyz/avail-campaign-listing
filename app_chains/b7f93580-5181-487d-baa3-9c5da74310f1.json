@@ -1,0 +1,8 @@
+{
+  "name": “tunggy”,
+  "logo": "https:// i.ibb.co/yB7Zdy2/Screenshot-2567-02-06-at-21-54-57.png",
+  "rpc_url": "http://173.212.236.80:9944”,
+  "explorer_url": "http://173.212.236.80:4000",
+  "metrics_endpoint": "http://173.212.236.80:9615/metrics”,
+  "id": "b7f93580-5181-487d-baa3-9c5da74310f1"
+}
