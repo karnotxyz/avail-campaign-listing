@@ -1,0 +1,8 @@
+{
+  "name": "mercurialm",
+  "logo": "http://43.163.223.193/logo.jpg",
+  "rpc_url": "http://43.163.223.193:9944",
+  "explorer_url": "http://43.163.223.193:4000",
+  "metrics_endpoint": "http://43.163.223.193:9615/metrics",
+  "id": "de465793-8a30-434a-a221-f8fa5206760e"
+}
