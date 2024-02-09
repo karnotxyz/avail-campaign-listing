@@ -1,0 +1,8 @@
+{
+  "name": "StickyBrains",
+  "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7a3ec529632909.55fc107b84b8c.png",
+  "rpc_url": "http://157.90.7.80:9944",
+  "explorer_url": "http://157.90.7.80:4000",
+  "metrics_endpoint": "http://157.90.7.80:9615/metrics",
+  "id": "0d94349e-7458-4619-b9e0-576e4161a161"
+}
