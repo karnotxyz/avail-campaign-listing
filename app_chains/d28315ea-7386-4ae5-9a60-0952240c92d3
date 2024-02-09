@@ -1,0 +1,8 @@
+{
+  "name": "NINO90",
+  "logo": "https://i.im.ge/2023/12/26/x5oHXL.logo-head-dark.png",
+  "rpc_url": "http://161.97.124.141:9944",
+  "explorer_url": "http://161.97.124.141:4000",
+  "metrics_endpoint": "http://161.97.124.141:9615/metrics",
+  "id": "d28315ea-7386-4ae5-9a60-0952240c92d3"
+}
