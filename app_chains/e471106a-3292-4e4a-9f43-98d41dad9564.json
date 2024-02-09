@@ -1,0 +1,10 @@
+[
+  {
+    "name": "StickyBrains",
+    "logo": "https://i.imgur.com/U10sxV9.jpeg",
+    "rpc_url": "http://157.90.7.80:9944",
+    "explorer_url": "http://157.90.7.80:4000",
+    "metrics_endpoint": "http://157.90.7.80:9615/metrics",
+    "id": "e471106a-3292-4e4a-9f43-98d41dad9564"
+  }
+]
