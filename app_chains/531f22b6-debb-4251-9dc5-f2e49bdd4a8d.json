@@ -1,0 +1,8 @@
+{
+  "name": "vulcoinn",
+  "logo": "https://r.resimlink.com/Iv7okA.jpg",
+  "rpc_url": "http://206.189.9.72:9944/",
+  "explorer_url": "http://206.189.9.72:4000/",
+  "metrics_endpoint": "http://206.189.9.72:9615/metrics",
+  "id": "531f22b6-debb-4251-9dc5-f2e49bdd4a8d"
+}
