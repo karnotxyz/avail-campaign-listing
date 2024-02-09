@@ -1,0 +1,8 @@
+{
+  "name": "hlldrk",
+  "logo": "https://r.resimlink.com/um6Bk3LCgirI.jpg"
+  "rpc_url": "http://	65.109.143.23:9944",
+  "explorer_url": "http://	65.109.143.23:4000",
+  "metrics_endpoint": "http://	65.109.143.23:9615",
+  "id": "52abd808-0cf8-4a3b-bcea-a108c93a7c68" 
+}
