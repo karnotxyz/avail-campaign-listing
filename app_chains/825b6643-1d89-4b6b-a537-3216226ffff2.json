@@ -1,8 +1,8 @@
 {
-  "name": "nader",
-  "logo": "https://i.ibb.co/Yk5CVk9/image.png",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "825b6643-1d89-4b6b-a537-3216226ffff2"
+    "name": "nader",
+    "logo": "https://i.ibb.co/Yk5CVk9/image.png",
+    "rpc_url": "https://rpc.myappchain.xyz",
+    "explorer_url": "https://explorer.myappchain.xyz",
+    "metrics_endpoint": "https://metrics.myappchain.xyz",
+    "id": "825b6643-1d89-4b6b-a537-3216226ffff2"
 }
