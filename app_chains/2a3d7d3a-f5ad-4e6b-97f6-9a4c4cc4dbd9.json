@@ -1,0 +1,8 @@
+{
+  "name": "snowflake",
+  "logo": "https://i.ibb.co/q7b4GMj/529-snowflake-3.png",
+  "rpc_url": "http://217.76.63.253:9944",
+  "explorer_url": "http://217.76.63.253:4000",
+  "metrics_endpoint": "http://217.76.63.253:9615/metrics",
+  "id": "2a3d7d3a-f5ad-4e6b-97f6-9a4c4cc4dbd9"
+}
