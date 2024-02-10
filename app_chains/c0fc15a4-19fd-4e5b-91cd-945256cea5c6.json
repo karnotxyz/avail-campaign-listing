@@ -1,0 +1,8 @@
+{
+  "name": "madaradeneme",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://65.108.255.66:9944",
+  "explorer_url": "http://65.108.255.66:4000",
+  "metrics_endpoint": "http://65.108.255.66:9615/metrics",
+  "id": "c0fc15a4-19fd-4e5b-91cd-945256cea5c6"
+}
