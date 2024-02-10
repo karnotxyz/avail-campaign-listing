@@ -1,8 +1,8 @@
 {
-	"name": "okpokoemel",
-	"logo": "https://i.ibb.co/gynNCwW/20240206-000333.jpg",
-	"rpc_url": "http://38.242.204.78:9944",
-	"explorer_url": "http://38.242.204.78:4000",
-	"metrics_endpoint": "http://38.242.204.78:9615/metrics",
-	"id": "8e6c6737-d5e6-48aa-9848-a9bba75e852c"
-  }
+  "name": "okpokoemel",
+  "logo": "https://i.ibb.co/gynNCwW/20240206-000333.jpg",
+  "rpc_url": "http://38.242.204.78:9944",
+  "explorer_url": "http://38.242.204.78:4000",
+  "metrics_endpoint": "http://38.242.204.78:9615/metrics",
+  "id": "8e6c6737-d5e6-48aa-9848-a9bba75e852c"
+}
