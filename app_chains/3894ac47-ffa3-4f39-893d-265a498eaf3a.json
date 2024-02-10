@@ -1,0 +1,8 @@
+{
+  "name": "hokkidong",
+  "logo": "https://ibb.co/Sr6pcQn./logo400x400.png",
+  "rpc_url": "https://84.247.162.75:9944",
+  "explorer_url": "https://84.247.162.75:4000",
+  "metrics_endpoint": "https://84.247.162.75:9615/metrics",
+  "id": "3894ac47-ffa3-4f39-893d-265a498eaf3a"
+}
