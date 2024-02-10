@@ -1,7 +1,6 @@
 {
   "name": "shopland",
   "logo": "https://r.resimlink.com/iAYmsobf.jpg",
-  "rpc_url": "http://95.216.200.67:9944",
   "explorer_url": "http://95.216.200.67:4000",
   "metrics_endpoint": "http://95.216.200.67:9615/metrics",
   "id": "8ad8b86c-5088-4c2e-bcd5-6e43faf6860a"
