@@ -1,0 +1,8 @@
+{
+  "name": "nojan",
+  "logo": "http://r.resimlink.com/Ofqd_g4nP6hY.jpg",
+  "rpc_url": "http://45.85.147.135:9944",
+  "explorer_url": "http://45.85.147.135:4000",
+  "metrics_endpoint": "http://45.85.147.135:9615/metrics",
+  "id": "da58f17e-d4ed-42d7-aeb1-a2efdc9b7bd4"
+}
