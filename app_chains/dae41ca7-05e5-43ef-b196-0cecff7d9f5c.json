@@ -1,0 +1,8 @@
+{
+  "name": "Sea",
+  "logo": "https://i.upanh.org/2024/02/06/logob0fe8351ef81f98d.png",
+  "rpc_url": "http://167.86.121.11:9944",
+  "explorer_url": "http://167.86.121.11:4000",
+  "metrics_endpoint": "http://167.86.121.11:9615/metrics",
+  "id": "dae41ca7-05e5-43ef-b196-0cecff7d9f5c"
+}
