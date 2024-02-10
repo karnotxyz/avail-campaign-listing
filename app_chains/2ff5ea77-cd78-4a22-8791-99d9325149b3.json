@@ -1,0 +1,8 @@
+{
+  "name": "avail1",
+  "logo": "https://r.resimlink.com/ZX_AsYu8h.png",
+  "rpc_url": "http://45.14.224.126:9944",
+  "explorer_url": "http://45.14.224.126:4000",
+  "metrics_endpoint": "http://45.14.224.126:9615/metrics",
+  "id": "2ff5ea77-cd78-4a22-8791-99d9325149b3"
+}
