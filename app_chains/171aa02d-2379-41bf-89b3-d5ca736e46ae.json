@@ -1,0 +1,8 @@
+{
+  "name": "salah",
+  "logo": "https://r.resimlink.com/cfrVpCm.png",
+  "rpc_url": "http://149.102.138.154:9944",
+  "explorer_url": "http://149.102.138.154:4000",
+  "metrics_endpoint": "http://149.102.138.154:9615/metrics",
+  "id": "171aa02d-2379-41bf-89b3-d5ca736e46ae"
+}
