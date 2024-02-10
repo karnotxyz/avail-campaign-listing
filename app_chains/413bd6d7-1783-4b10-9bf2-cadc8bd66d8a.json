@@ -1,0 +1,8 @@
+{
+  "name": "amijelek",
+  "logo": "https://i.imgur.com/knDGHwv.png",
+  "rpc_url": "http://188.166.240.110:9944",
+  "explorer_url": "http://188.166.240.110:4000",
+  "metrics_endpoint": "http://188.166.240.110:9615/metrics",
+  "id": "413bd6d7-1783-4b10-9bf2-cadc8bd66d8a"
+}
