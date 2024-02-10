@@ -1,0 +1,8 @@
+{
+  "name": "mltm8899",
+  "logo": "https://r.resimlink.com/hxQDWn2l1t.png",
+  "rpc_url": "http://5.78.75.202:9944",
+  "explorer_url": "http://5.78.75.202:4000",
+  "metrics_endpoint": "http://5.78.75.202:9615/metrics",
+  "id": "d4e1e27c-6738-4f90-845d-e82dc4a77164"
+}
