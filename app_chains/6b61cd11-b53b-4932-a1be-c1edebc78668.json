@@ -1,0 +1,8 @@
+{
+  "name": "enigma",
+  "logo": "https://r.resimlink.com/ghLm9E.png",
+  "rpc_url": "http://144.91.96.150:9944",
+  "explorer_url": "http://144.91.96.150:4000",
+  "metrics_endpoint": "http://144.91.96.150:9615/metrics",
+  "id": "6b61cd11-b53b-4932-a1be-c1edebc78668"
+}
