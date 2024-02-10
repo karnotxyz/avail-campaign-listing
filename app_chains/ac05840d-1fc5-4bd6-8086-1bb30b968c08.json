@@ -1,0 +1,8 @@
+{
+  "name": "Teampik",
+  "logo": "https://telegra.ph/file/e364c1c2ea78fe9b9426d.png",
+  "rpc_url": "http://154.26.139.199:9944",
+  "explorer_url": "http://154.26.139.199:4000",
+  "metrics_endpoint": "http://154.26.139.199:9615/metrics",
+  "id": "ac05840d-1fc5-4bd6-8086-1bb30b968c08"
+}
