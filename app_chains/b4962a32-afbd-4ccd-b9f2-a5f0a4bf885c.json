@@ -1,0 +1,8 @@
+{
+    "name": "rizzgm",
+    "logo": "https://i.imgur.com/t5nifKp.png",
+    "rpc_url": "https://37.60.232.193:9944",
+    "explorer_url": "https://37.60.232.193:4000",
+    "metrics_endpoint": "https://37.60.232.193:9615/metrics",
+    "id": "b4962a32-afbd-4ccd-b9f2-a5f0a4bf885c"
+ }
