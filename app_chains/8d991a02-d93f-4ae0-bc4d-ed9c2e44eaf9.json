@@ -1,0 +1,8 @@
+{
+  "name": "nova",
+  "logo": "https://i.ibb.co/nsjXVnG/landak.jpg",
+  "rpc_url": "http://38.242.237.151:9944",
+  "explorer_url": "http://38.242.237.151:4000",
+  "metrics_endpoint": "http://38.242.237.151:9615/metrics",
+  "id": "8d991a02-d93f-4ae0-bc4d-ed9c2e44eaf9"
+}
