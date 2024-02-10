@@ -1,0 +1,8 @@
+{
+  "name": "LIBBY",
+  "logo": "https://i.ibb.co/QMcyHwQ/DRAGON.jpg",
+  "rpc_url": "http://46.250.252.245:9944",
+  "explorer_url": "http://46.250.252.245:4000",
+  "metrics_endpoint": "http://46.250.252.245:9615/metrics",
+  "id": "ccc9cdd7-46cc-4f01-8298-5d1951cac9ea"
+}
