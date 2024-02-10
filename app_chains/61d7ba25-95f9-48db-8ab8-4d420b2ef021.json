@@ -1,0 +1,8 @@
+{
+  "name": "evolve",
+  "logo": "https://i.ibb.co/QbYR9PN/imresizer-1707570394291-400.jpg",
+  "rpc_url": "http://207.148.105.18:9944",
+  "explorer_url": "http://207.148.105.18:4000",
+  "metrics_endpoint": "http://207.148.105.18:9615/metrics",
+  "id": "61d7ba25-95f9-48db-8ab8-4d420b2ef021"
+}
