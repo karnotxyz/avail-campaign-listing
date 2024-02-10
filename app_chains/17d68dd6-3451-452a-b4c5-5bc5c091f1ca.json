@@ -1,0 +1,8 @@
+{
+  "name": "hscgo",
+  "logo": "https://i.imgur.com/jWxVITE.jpg",
+  "rpc_url": "http://172.233.57.29:9944",
+  "explorer_url": "http://172.233.57.29:4000",
+  "metrics_endpoint": "http://172.233.57.29:9615/metrics",
+  "id": "17d68dd6-3451-452a-b4c5-5bc5c091f1ca"
+}
