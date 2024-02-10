@@ -1,13 +1,5 @@
-{"ws_provider":"wss://karnot-rpc.avail.tools:443/ws","mode":"sovereign","seed":"0x05ee84cb8c3ee0bc2b1e2a9ef98feaa465ee50e8e7592ef0373729fb68e5d531","app_id":0,"address":"5FL49Q434Jj1JGFbewxV7Fko1HGdS1DPwQx>
-
-
-screen -S atoller
-
-./target/release/madara explorer --host=207.180.251.161.
-
-
 {
-  "name": "Atamert",
+  "name": "atadara",
   "logo": "https://r.resimlink.com/yVRX3HgW.jpg",
   "rpc_url": "http://207.180.251.161:9944",
   "explorer_url": "http://207.180.251.161:4000",
