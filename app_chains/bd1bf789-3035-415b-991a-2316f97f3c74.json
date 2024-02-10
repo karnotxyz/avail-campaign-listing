@@ -1,8 +1,8 @@
 {
-    "name": "ckaarraa",
-    "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/ckaarraapp_5833550-1/logos/ckaarraapp_5833550-1.png", 
-    "rpc_url": "http://23.88.50.33:9944",
-    "explorer_url": "http://23.88.50.33:4000",
-    "metrics_endpoint": "http://23.88.50.33:9615/metrics", 
-    "id": "bd1bf789-3035-415b-991a-2316f97f3c74"
-  }
+  "name": "ckaarraa",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/ckaarraapp_5833550-1/logos/ckaarraapp_5833550-1.png",
+  "rpc_url": "http://23.88.50.33:9944",
+  "explorer_url": "http://23.88.50.33:4000",
+  "metrics_endpoint": "http://23.88.50.33:9615/metrics",
+  "id": "bd1bf789-3035-415b-991a-2316f97f3c74"
+}
