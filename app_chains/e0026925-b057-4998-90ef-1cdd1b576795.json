@@ -1,0 +1,8 @@
+{
+  "name": "uniqueavail",
+  "logo": "https://r.resimlink.com/ryoNiX8.jpg",
+  "rpc_url": "http://95.111.237.185:9944",
+  "explorer_url": "http://95.111.237.185:4000",
+  "metrics_endpoint": "http://95.111.237.185:9615/metrics",
+  "id": "e0026925-b057-4998-90ef-1cdd1b576795"
+}
