@@ -1,0 +1,8 @@
+{
+  "name": "monotome",
+  "logo": "https://r.resimlink.com/xzLDi-KGn.jpg",
+  "rpc_url": "http://43.129.31.214:9944",
+  "explorer_url": "http://43.129.31.214:4000",
+  "metrics_endpoint": "http://43.129.31.214:9615/metrics",
+  "id": "fe433419-2814-456b-a64c-6374cf976ec2"
+}
