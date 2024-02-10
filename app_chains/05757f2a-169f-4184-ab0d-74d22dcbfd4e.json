@@ -1,0 +1,8 @@
+{
+  "name": "dada",
+  "logo": "https://r.resimlink.com/B6FkY4Hv.jpg",
+  "rpc_url": "http://65.109.195.203:9944",
+  "explorer_url": "http://65.109.195.203:4000",
+  "metrics_endpoint": "http://65.109.195.203:9615/metrics",
+  "id": "05757f2a-169f-4184-ab0d-74d22dcbfd4e"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "melon",
+  "logo": "https://r.resimlink.com/CIjsDwQ_x9R.png",
+  "rpc_url": "http://157.90.222.238:9944",
+  "explorer_url": "http://157.90.222.238:4000",
+  "metrics_endpoint": "http://157.90.222.238:9615/metrics",
+  "id": "1c6c5379-e234-4dc4-85be-91909126ba92"
+}
