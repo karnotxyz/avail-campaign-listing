@@ -1,0 +1,8 @@
+{
+  "name": "rizzgm",
+  "logo": "https://i.ibb.co/Hh9G1sG/node.png",
+  "rpc_url": "http://37.60.232.193:9944",
+  "explorer_url": "http://37.60.232.193:4000",
+  "metrics_endpoint": "http://37.60.232.193:9615/metrics",
+  "id": "d63d5a8f-05de-4bf6-856b-ee7066f54245"
+}
