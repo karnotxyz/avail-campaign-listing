@@ -1,0 +1,8 @@
+{
+  "name": "rabinfull",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106312669/303858666-547a6ada-c1b0-4ce1-8423-6445d636bc88.png",
+  "rpc_url": "http://161.97.69.182:9944",
+  "explorer_url": "http://161.97.69.182:4000",
+  "metrics_endpoint": "http://161.97.69.182:9615/metrics",
+  "id": "082c6b84-e3ff-4c41-beeb-e760a09b77b5"
+}
