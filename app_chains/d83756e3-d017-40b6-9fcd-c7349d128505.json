@@ -1,0 +1,8 @@
+{
+  "name": "petuhara",
+  "logo": "https://i.imgur.com/gToDOrU.jpeg",
+  "rpc_url": "http://194.233.75.223:9944",
+  "explorer_url": "http://194.233.75.223:4000",
+  "metrics_endpoint": "http://194.233.75.223:9615/metrics",
+  "id": "043d440a-06b6-412f-bece-b83de5449d6e"
+}
