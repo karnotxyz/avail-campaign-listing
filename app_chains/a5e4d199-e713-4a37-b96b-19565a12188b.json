@@ -1,0 +1,8 @@
+{
+  "name": "milkbareh",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0xd774557b647330c91bf44cfeab205095f7e6c367/TVRZNU5UVTVPRFE1TUE9PV8xNzk4MQ==.png",
+  "rpc_url": "http://43.157.78.89:9944",
+  "explorer_url": "http://43.157.78.89:4000",
+  "metrics_endpoint": "http://43.157.78.89:9615/metrics",
+  "id": "a5e4d199-e713-4a37-b96b-19565a12188b"
+}
