@@ -1,0 +1,8 @@
+{
+  "name": "udess94",
+  "logo": "https://i.imgur.com/dEUDFaul.jpg",
+  "rpc_url": "http://46.250.233.19:9944",
+  "explorer_url": "http://46.250.233.19:4000/",
+  "metrics_endpoint": "http://46.250.233.19:9615/metrics",
+  "id": "0042ed36-45ae-453d-ae51-f6c403a7bcd5"
+}
