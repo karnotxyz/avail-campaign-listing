@@ -1,8 +1,0 @@
-{
-  "name": "entypion",
-  "logo": "https://i.ibb.co/tQtrdgC/entypion.png",
-  "rpc_url": "http://38.242.241.120:9944",
-  "explorer_url": "http://38.242.241.120:4000",
-  "metrics_endpoint": "http://38.242.241.120:9615/metrics",
-  "id": "46e08617-1232-4ae3-be2b-f29075f1d1d0"
-}
