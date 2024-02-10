@@ -1,0 +1,8 @@
+{
+  "name": "nova",
+  "logo": "https://r.resimlink.com/IPT2y.jpg",
+  "rpc_url": "http://103.75.198.37:9944",
+  "explorer_ur1": "http://103.75.198.37:4000",
+  "metrics_endpoint": "http://103.75.198.37:9615/metrics",
+  "id": "0003cee1-b87c-47d5-b9cb-0126a0e1fca1"
+}
