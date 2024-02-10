@@ -1,0 +1,8 @@
+{
+"name": "datmacuibap",
+  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://109.123.254.29:9944",
+  "explorer_url": "http://109.123.254.29:4000",
+  "metrics_endpoint": "http://109.123.254.29:9615/metrics",
+  "id": "b9a2d0be-2498-4ff4-b3ab-102828c9904a"
+}
