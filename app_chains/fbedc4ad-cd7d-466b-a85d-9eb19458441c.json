@@ -1,0 +1,8 @@
+{
+  "name": "ferinode",
+  "logo": "https://imgur.com/a/2XWyLYJ.jpg",
+  "rpc_url": "http://144.126.221.5:9944",
+  "explorer_url": "http://144.126.221.5:4000",
+  "metrics_endpoint": "http://144.126.221.5:9615/metrics",
+  "id": "6e195ef0-6cc4-4fc0-8ccd-6482023e9678"
+}
