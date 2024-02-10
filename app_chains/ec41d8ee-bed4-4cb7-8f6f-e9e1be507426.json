@@ -1,0 +1,8 @@
+{
+  "name": "lushclimate",
+  "logo": "http://43.128.104.115/logo.jpg",
+  "rpc_url": "http://43.128.104.115:9944",
+  "explorer_url": "http://43.128.104.115:4000",
+  "metrics_endpoint": "http://43.128.104.115:9615/metrics",
+  "id": "ec41d8ee-bed4-4cb7-8f6f-e9e1be507426"
+}
