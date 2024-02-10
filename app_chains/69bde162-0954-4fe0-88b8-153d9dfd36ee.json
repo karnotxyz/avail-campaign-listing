@@ -1,0 +1,8 @@
+{
+  "name": "diaomao",
+  "logo": "https://i.ibb.co/s14n3Lf/20221024-092619.png",
+  "rpc_url": "http://84.247.187.29:9944",
+  "explorer_url": "http://84.247.187.29:4000",
+  "metrics_endpoint": "http://84.247.187.29:9615/metrics",
+  "id": "69bde162-0954-4fe0-88b8-153d9dfd36ee"
+}
