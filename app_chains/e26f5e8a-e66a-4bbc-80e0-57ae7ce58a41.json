@@ -1,0 +1,8 @@
+{
+  "name": "luna",
+  "logo": "https://r.resimlink.com/vbAK028QDL6I.jpg",
+  "rpc_url": "http://38.242.245.116:9944",
+  "explorer_url": "http://38.242.245.116:4000",
+  "metrics_endpoint": "http://38.242.245.116:9615/metrics",
+  "id": "e26f5e8a-e66a-4bbc-80e0-57ae7ce58a41"
+}
