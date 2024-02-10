@@ -1,0 +1,8 @@
+{
+  "name": "padra",
+  "logo": "https://r.resimlink.com/YJpk8thVeSIo.png",
+  "rpc_url": "http://49.12.60.38:9944",
+  "explorer_url": "http://49.12.60.38:4000",
+  "metrics_endpoint": "http://49.12.60.38:9615/metrics",
+  "id": "910fd085-4fe4-43a7-ac4b-9b7518694b69"
+}
