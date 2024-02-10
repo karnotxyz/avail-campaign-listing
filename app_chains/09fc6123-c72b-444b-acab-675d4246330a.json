@@ -1,0 +1,8 @@
+{
+  "name": "wenthesengp",
+  "logo": "https://p.sda1.dev/15/1a7ec685be7b22bae1309285fb6a606c/675d4246330a.jpeg",
+  "rpc_url": "http://43.155.130.101:9944",
+  "explorer_url": "http://43.155.130.101:4000",
+  "metrics_endpoint": "http://43.155.130.101:9615/metrics",
+  "id": "09fc6123-c72b-444b-acab-675d4246330a"
+}

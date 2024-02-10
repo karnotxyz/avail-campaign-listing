@@ -1,0 +1,8 @@
+{
+  "name": "howeversh",
+  "logo": "http://43.128.226.176/logo.jpg",
+  "rpc_url": "http://43.128.226.176:9944",
+  "explorer_url": "http://43.128.226.176:4000",
+  "metrics_endpoint": "http://43.128.226.176:9615/metrics",
+  "id": "42389152-ab8c-451c-8164-b43b776b527b"
+}

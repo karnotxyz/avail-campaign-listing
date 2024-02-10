@@ -1,0 +1,8 @@
+{
+  "name": "setayesh",
+  "logo": "https://r.resimlink.com/CeatlDu14M5.jpg",
+  "rpc_url": "http://38.242.237.8:9944",
+  "explorer_url": "http://38.242.237.8:4000",
+  "metrics_endpoint": "http://38.242.237.8:9615/metrics",
+  "id": "ad3ee677-dd8a-4f12-9182-038f8d6ec255"
+}
