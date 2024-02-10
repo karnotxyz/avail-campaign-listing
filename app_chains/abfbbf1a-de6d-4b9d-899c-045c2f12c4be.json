@@ -1,0 +1,7 @@
+{
+  "name": "aigelovb",
+  "logo": "https://r.resimlink.com/8n1pyaul.png",
+  "rpc_url": "http://37.60.225.23:9944",
+  "explorer_url": "http://37.60.225.23:4000",
+  "metrics_endpoint": "http://37.60.225.23:9615",
+  "id": "abfbbf1a-de6d-4b9d-899c-045c2f12c4be" 
