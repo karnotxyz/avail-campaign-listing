@@ -1,0 +1,8 @@
+{
+  "name": "joko",
+  "logo": "https://imgur.com/jvwT9jc.png",
+  "rpc_url": "http://167.86.101.31:9944",
+  "explorer_url": "http://167.86.101.31:4000",
+  "metrics_endpoint": "http://167.86.101.31:9615/metrics",
+  "id": "599b43fa-ea0b-490e-88a1-842f086e46fe"
+}
