@@ -1,0 +1,8 @@
+{
+    "name": "backfliptildeps",
+    "logo": "https://i.ibb.co/nnM9HGC/400.png",
+    "rpc_url": "http://104.248.26.93:9944",
+    "explorer_url": "http://104.248.26.93:4000",
+    "metrics_endpoint": "http://104.248.26.93:9615/metrics", 
+    "id": "f555d32c-1883-4a12-94f6-36b5ec1d3354"
+  }
