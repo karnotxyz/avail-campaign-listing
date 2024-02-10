@@ -1,0 +1,8 @@
+{
+    "name": "Yeager",
+    "logo": "https://placehold.co/600x400/EEE/31343C?font=Jeagerist&text=Yeagerist",
+    "rpc_url": "http://65.109.178.112:9944",
+    "explorer_url": "http://65.109.178.112:4000",
+    "metrics_endpoint": "http://65.109.178.112:9615/metrics",
+    "id": "c213b08d-f6a3-4213-8ad5-ed9c7fb77d06"
+  }
