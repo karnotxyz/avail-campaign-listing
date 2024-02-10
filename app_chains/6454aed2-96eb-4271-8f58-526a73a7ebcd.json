@@ -1,0 +1,8 @@
+{
+  "name": "nbgegewu",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://158.247.209.33:9944",
+  "explorer_url": "http://158.247.209.33:4000",
+  "metrics_endpoint": "http://158.247.209.33/metrics",
+  "id": "6454aed2-96eb-4271-8f58-526a73a7ebcd"
+}
