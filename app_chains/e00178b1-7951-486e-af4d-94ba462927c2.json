@@ -1,0 +1,7 @@
+{
+  "name": "snowflake",
+  "logo": "https://i.ibb.co/q7b4GMj/529-snowflake-3.png",
+  "explorer_url": "http://217.76.63.253:4000",
+  "metrics_endpoint": "http://217.76.63.253:9615/metrics",
+  "id": "e00178b1-7951-486e-af4d-94ba462927c2"
+}
