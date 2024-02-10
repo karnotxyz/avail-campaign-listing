@@ -1,0 +1,8 @@
+{
+  "name": "aranella",
+  "logo": "https://imgur.com/kfbR293.jpeg",
+  "rpc_url": "https://207.180.221.246:9944",
+  "explorer_url": "https://207.180.221.246:4000",
+  "metrics_endpoint": "https://207.180.221.246:9615/metrics",
+  "id": "42844333-e993-43d1-aefc-f4d2c5bb375f"
+}
