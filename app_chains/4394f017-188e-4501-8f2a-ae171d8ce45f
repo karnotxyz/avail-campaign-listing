@@ -1,0 +1,8 @@
+{
+  "name": "anwarsiar",
+  "logo": "https://ibb.co/Y8Gxdx7",
+  "rpc_url": "http://128.199.204.161:9944",
+  "explorer_url": "http://128.199.204.161:4000",
+  "metrics_endpoint": "128.199.204.161:9615/metrics",
+  "id": "4394f017-188e-4501-8f2a-ae171d8ce45f"
+}
