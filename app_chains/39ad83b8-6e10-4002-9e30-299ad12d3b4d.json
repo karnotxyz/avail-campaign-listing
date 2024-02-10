@@ -1,0 +1,8 @@
+{
+  "name": "hakanode",
+  "logo": "https://raw.githubusercontent.com/0xHakann/logo/main/hakanodelogo.png",
+  "rpc_url": "http://65.109.239.202:9944",
+  "explorer_url": "http://65.109.239.202:4000",
+  "metrics_endpoint": "http://65.109.239.202:9615/metrics",
+  "id": "39ad83b8-6e10-4002-9e30-299ad12d3b4d"
+}
