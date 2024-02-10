@@ -1,0 +1,8 @@
+{
+  "name": "campbell",
+  "logo": "https://imgur.com/a/QK0JgTP",
+  "rpc_url": "http://37.27.36.222:9944",
+  "explorer_url": "http://37.27.36.222:4000",
+  "metrics_endpoint": "http://37.27.36.222:9615/metrics",
+  "id": "996231fc-e84b-43d0-a6a6-089009b1ec5b"
+}
