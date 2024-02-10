@@ -1,0 +1,8 @@
+{
+  "name": "rainbow",
+  "logo": "https://r.resimlink.com/owxME.png",
+  "rpc_url": "http://159.69.239.10:9944",
+  "explorer_url": "http://159.69.239.10:4000",
+  "metrics_endpoint": "http://159.69.239.10:9615/metrics",
+  "id": "0eed8787-2825-4c60-88bf-41822af5626e"
+}
