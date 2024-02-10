@@ -1,0 +1,8 @@
+{
+  "name": "bawlraise",
+  "logo": "http://43.159.50.169/logo.jpg",
+  "rpc_url": "http://43.159.50.169:9944",
+  "explorer_url": "http://43.159.50.169:4000",
+  "metrics_endpoint": "http://43.159.50.169:9615/metrics",
+  "id": "ce9fa7aa-95c8-434a-8c85-ccca651b1dbe"
+}
