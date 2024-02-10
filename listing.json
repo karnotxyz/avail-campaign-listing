@@ -1,7 +1,7 @@
 {
   "name": "pedalsepeda",
   "logo": "http://images-tokopedia-net.cdn.ampproject.org/i/s/images.tokopedia.net/blog-tokopedia-com/uploads/2021/05/Featured-10-Pedal-Sepeda-Terbaik-di-Tahun-2021.jpg",
-  "rpc_url": "http://194.233.65.192:4000",
+  "rpc_url": "http://194.233.65.192:9945",
   "explorer_url": "http://194.233.65.192:4000",
   "metrics_endpoint": "http://194.233.65.192:9615/metrics",
   "id": "065ae076-aee7-4211-bc7d-b87dc00736fe"
