@@ -1,0 +1,8 @@
+{
+  "name": "kliwon",
+  "logo": "https://r.resimlink.com/MCjaJ2PY9Xr.png",
+  "rpc_url": "http://65.108.82.3:9944",
+  "explorer_url": "http://65.108.82.3:4000",
+  "metrics_endpoint": "http://65.108.82.3:9615/metrics",
+  "id": "b4771d3b-7f80-4078-9ca4-f6029740606a"
+}
