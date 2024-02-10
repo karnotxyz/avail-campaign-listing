@@ -1,0 +1,8 @@
+{
+  "name": "ชื่อ",
+  "logo": "https://i.ibb.co/GMkQJsX/image.png",
+  "rpc_url": "http://144.91.81.123:9944",
+  "explorer_url": "http://144.91.81.123:4000",
+  "metrics_endpoint": "http://144.91.81.123:9615/metrics",
+  "id": "cc0e14bd-7e83-4769-aae2-76de5466188e"
+}
