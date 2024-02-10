@@ -1,0 +1,8 @@
+{
+  "name": "uLsreall",
+  "logo": "https://imgur.com/a/a65WLxS",
+  "rpc_url": "http://188.166.242.244:9944",
+  "explorer_url": "http://188.166.242.244:4000",
+  "metrics_endpoint": "http://188.166.242.244:9615/metrics",
+  "id": "3e761606-c151-4e75-ac60-9346995b1308"
+}
