@@ -1,0 +1,8 @@
+{
+  "name": "kiarash",
+  "logo": "https://r.resimlink.com/nbquB6pH.png",
+  "rpc_url": "http://91.107.178.109:9944",
+  "explorer_url": "http://91.107.178.109:4000",
+  "metrics_endpoint": "http://91.107.178.109:9615/metrics",
+  "id": "e02409ec-ccca-4589-9755-ac2315549bc2"
+}

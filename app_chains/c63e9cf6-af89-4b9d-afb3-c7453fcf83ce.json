@@ -1,0 +1,8 @@
+{
+  "name": "biolake",
+  "logo": "http://150.109.255.94/static/img/biolake.png",
+  "rpc_url": "http://150.109.255.94:9944",
+  "explorer_url": "http://150.109.255.94:4000",
+  "metrics_endpoint": "http://150.109.255.94:9615/metrics",
+  "id": "c63e9cf6-af89-4b9d-afb3-c7453fcf83ce"
+}
