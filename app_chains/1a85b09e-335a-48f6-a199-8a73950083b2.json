@@ -1,0 +1,8 @@
+{
+  "name": "rat",
+  "logo": "https://i.imgur.com/miszCnT.jpeg",
+  "rpc_url": "http://173.249.4.220:9944",
+  "explorer_url": "http://173.249.4.220:4000",
+  "metrics_endpoint": "http://173.249.4.220:9615/metrics",
+  "id": "1a85b09e-335a-48f6-a199-8a73950083b2"
+}
