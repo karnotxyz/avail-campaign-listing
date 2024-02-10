@@ -1,0 +1,8 @@
+{
+  "name": "baggervance",
+  "logo": "https://r.resimlink.com/FWLgy.jpg",
+  "rpc_url": "http://167.86.98.15:9944",
+  "explorer_url": "http://167.86.98.15:4000",
+  "metrics_endpoint": "http://167.86.98.15:9615",
+  "id": "da2eb4f1-095d-45d6-a0de-1a4cdda72fee" 
+}
