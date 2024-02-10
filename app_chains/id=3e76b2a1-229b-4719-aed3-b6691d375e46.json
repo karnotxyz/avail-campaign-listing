@@ -1,0 +1,8 @@
+{
+  "name": "xizongv587",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://45.130.20.116:9944",
+  "explorer_url": "http://45.130.20.116:4000",
+  "metrics_endpoint": "http://45.130.20.116:9615/metrics",
+  "id": "3e76b2a1-229b-4719-aed3-b6691d375e46"
+}
