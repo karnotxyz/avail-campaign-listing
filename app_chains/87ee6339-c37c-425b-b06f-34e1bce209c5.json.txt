@@ -1,8 +1,0 @@
-{
-  "name": "dangerdawg",
-  "logo": "https://i.ibb.co/zxG1bDw/dangerdawg.png",
-  "rpc_url": "https://185.182.187.142:9944",
-  "explorer_url": "https://185.182.187.142:4000",
-  "metrics_endpoint": "https://185.182.187.142:9615/metrics",
-  "id": "87ee6339-c37c-425b-b06f-34e1bce209c5"
-}
