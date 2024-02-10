@@ -1,0 +1,8 @@
+{
+  "name": "faiz",
+  "logo": "https://cliply.co/wp-content/uploads/2020/08/442008112_GLANCING_AVATAR_3D_400.png",
+  "rpc_url": "http://64.23.142.87:9944",
+  "explorer_url": "http://64.23.142.87:4000",
+  "metrics_endpoint": "http://64.23.142.87:9615/metrics",
+  "id": "06cad406-a646-4cc6-aef8-26fd81fdc5fc"
+}
