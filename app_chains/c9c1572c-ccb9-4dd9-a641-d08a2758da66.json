@@ -1,0 +1,8 @@
+{
+  "name": "nikoreesea",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x524cab2ec69124574082676e6f654a18df49a048/20190.png",
+  "rpc_url": "http://43.133.70.7:9944",
+  "explorer_url": "http://43.133.70.7:4000",
+  "metrics_endpoint": "http://43.133.70.7:9615/metrics",
+  "id": "c9c1572c-ccb9-4dd9-a641-d08a2758da66"
+}
