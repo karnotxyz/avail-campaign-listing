@@ -1,0 +1,8 @@
+{
+  "name": "kamaychain",
+  "logo": "https://r.resimlink.com/xsZ6pJOzKb23.png",
+  "rpc_url": "http://37.60.252.206:9944",
+  "explorer_url": "http://37.60.252.206:4000",
+  "metrics_endpoint": "http://37.60.252.206:9615/metrics",
+  "id": "57999986-3a19-461d-b16b-ed9b130ba4ec"
+}
