@@ -1,0 +1,8 @@
+{
+  "name": "hugoboss",
+  "logo": "https://r.resimlink.com/AJ52ns.png",
+  "rpc_url": "159.89.181.107:9944",
+  "explorer_url": "159.89.181.107:4000",
+  "metrics_endpoint": "159.89.181.107:9615/metrics",
+  "id": "28741d69-417f-45b6-a100-d2bfa23a3a3c"
+}
