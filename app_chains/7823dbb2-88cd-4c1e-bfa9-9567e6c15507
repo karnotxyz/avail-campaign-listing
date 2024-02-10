@@ -1,0 +1,8 @@
+{
+  "name": "littleboyate",
+  "logo": "https://i.ibb.co/6DgYgPR/DALL-E-2024-01-07-19-46-01-Create-an-anime-style-profile-avatar-inspired-by-the-aesthetic-of-Azuki-N.png",
+  "rpc_url": "http://109.123.253.61:9944",
+  "explorer_url": "http://109.123.253.61:4000",
+  "metrics_endpoint": "http://109.123.253.61:9615/metrics",
+  "id": "7823dbb2-88cd-4c1e-bfa9-9567e6c15507"
+}
