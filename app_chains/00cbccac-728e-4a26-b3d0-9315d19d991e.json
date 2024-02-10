@@ -1,0 +1,8 @@
+{
+  "name": "shochan",
+  "logo": "https://i.ibb.co/SJF6RDq/shochan.png",
+  "rpc_url": "http://161.97.115.202:9944",
+  "explorer_url": "http://161.97.115.202:4000",
+  "metrics_endpoint": "http://161.97.115.202:9615/metrics",
+  "id": "00cbccac-728e-4a26-b3d0-9315d19d991e"
+}
