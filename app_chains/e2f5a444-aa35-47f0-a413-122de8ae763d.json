@@ -1,0 +1,8 @@
+{
+  "name": "uygar0605",
+  "logo": "https://r.resimlink.com/rV8W-SEki0.png",
+  "rpc_url": "http://37.60.247.167:9944",
+  "explorer_url": "http://37.60.247.167:4000",
+  "metrics_endpoint": "http://37.60.247.167:9615/metrics",
+  "id": "e2f5a444-aa35-47f0-a413-122de8ae763d"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kreb",
+  "logo": "https://r.resimlink.com/fhXGE7b0.png",
+  "rpc_url": "http://202.61.195.113:9944",
+  "explorer_url": "http://202.61.195.113:4000",
+  "metrics_endpoint": "http://202.61.195.113:9615/metrics",
+  "id": "2a8c6733-be77-479e-9834-42078df89cac"
+}

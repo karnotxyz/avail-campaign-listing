@@ -1,0 +1,8 @@
+{
+  "name": "vikanren",
+  "logo": "https://i.imgur.com/Uv6CPvZ.png",
+  "rpc_url": "http://20.168.12.84:9944",
+  "explorer_url": "http://20.168.12.84:4000",
+  "metrics_endpoint": "http://20.168.12.84:9615/metrics",
+  "id": "ff08d88a-72b6-4305-b21b-49e6712f43e9"
+}

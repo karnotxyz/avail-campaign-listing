@@ -1,0 +1,8 @@
+{
+  "name": "hzangchang",
+  "logo": "https://i.imgur.com/YpYUyFj.jpg",
+  "rpc_url": "http://162.55.32.51:9944",
+  "explorer_url": "http://162.55.32.51:4000",
+  "metrics_endpoint": "http://162.55.32.51:9615/metrics",
+  "id": "decfc82c-d5ef-439e-b8ab-3dd8cc645936"
+}

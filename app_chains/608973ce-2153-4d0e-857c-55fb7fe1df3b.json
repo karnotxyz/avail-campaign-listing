@@ -1,0 +1,8 @@
+{
+  "name": "Hashirama",
+  "logo": "https://pbs.twimg.com/profile_images/1746223518432555008/lY16ta7E_400x400.jpg",
+  "rpc_url": "http://207.180.222.165:9944",
+  "explorer_url": "http://207.180.222.165:4000",
+  "metrics_endpoint": "http://207.180.222.165:9615/metrics",
+  "id": "608973ce-2153-4d0e-857c-55fb7fe1df3b"
+}

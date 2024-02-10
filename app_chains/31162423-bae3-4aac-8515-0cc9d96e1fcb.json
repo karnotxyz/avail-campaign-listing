@@ -1,0 +1,8 @@
+{
+  "name": "Darksun",
+  "logo": "https://dksnodes.com/Darksun.png",
+  "rpc_url": "http://37.27.26.74:9944",
+  "explorer_url": "http://37.27.26.74:4000",
+  "metrics_endpoint": "http://37.27.26.74:9615/metrics",
+  "id": "31162423-bae3-4aac-8515-0cc9d96e1fcb"
+}

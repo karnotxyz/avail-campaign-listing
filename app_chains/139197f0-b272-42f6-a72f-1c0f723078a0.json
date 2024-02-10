@@ -1,0 +1,8 @@
+{
+  "name": "TVH Finance",
+  "logo": "https://github.com/Nguyenlead/rollapp-registry/blob/main/devnet/thaivuhien_232-1/logos/thaivuhien_232-1.png",
+  "rpc_url": "http://37.120.175.231:9944",
+  "explorer_url": "http://37.120.175.231:4000",
+  "metrics_endpoint": "http://37.120.175.231:9615/metrics",
+  "id": "139197f0-b272-42f6-a72f-1c0f723078a0"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Vrising",
+  "logo": "https://i.imgur.com/2haBgD1.png",
+  "rpc_url": "http://5.161.209.130:9944",
+  "explorer_url": "http://5.161.209.130:4000",
+  "metrics_endpoint": "http://5.161.209.130:9615/metrics",
+  "id": "919f4c3d-5a9d-48fa-87d9-168899b633e0"
+}

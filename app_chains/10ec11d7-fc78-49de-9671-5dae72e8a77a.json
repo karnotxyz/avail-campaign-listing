@@ -1,0 +1,8 @@
+{
+  "name": "Mosima",
+  "logo": "https://placehold.co/400x400/black/white?text=Mosima",
+  "rpc_url": "http://54.196.252.150:9944",
+  "explorer_url": "http://54.196.252.150:4000",
+  "metrics_endpoint": "http://54.196.252.150:9615/metrics",
+  "id": "10ec11d7-fc78-49de-9671-5dae72e8a77a"
+}

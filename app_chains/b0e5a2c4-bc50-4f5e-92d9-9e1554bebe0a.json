@@ -1,0 +1,8 @@
+{
+  "name": "coinowo",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/coinowo_3744361-1/logos/coinowo_3744361-1.png",
+  "rpc_url": "http://95.111.241.137:9944",
+  "explorer_url": "http://95.111.241.137:4000",
+  "metrics_endpoint": "http://95.111.241.137:9615/metrics",
+  "id": "b0e5a2c4-bc50-4f5e-92d9-9e1554bebe0a"
+}

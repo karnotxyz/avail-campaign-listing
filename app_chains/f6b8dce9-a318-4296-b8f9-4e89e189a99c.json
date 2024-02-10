@@ -1,0 +1,8 @@
+{
+  "name": "Sunkripto",
+  "logo": "https://i.imgur.com/Fcvf7uS.png",
+  "rpc_url": "http://62.171.186.40:9944",
+  "explorer_url": "http://62.171.186.40:4000",
+  "metrics_endpoint": "http://62.171.186.40:9615/metrics",
+  "id": "f6b8dce9-a318-4296-b8f9-4e89e189a99c"
+}

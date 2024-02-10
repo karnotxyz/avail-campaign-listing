@@ -1,0 +1,8 @@
+{
+  "name": "candy",
+  "logo": "https://r.resimlink.com/qhNwLty_T.png",
+  "rpc_url": "http://65.109.197.162:9944",
+  "explorer_url": "http://65.109.197.162:4000",
+  "metrics_endpoint": "http://65.109.197.162:9615/metrics",
+  "id": "b6f8c529-d078-42a3-8008-37d4e192973d"
+}

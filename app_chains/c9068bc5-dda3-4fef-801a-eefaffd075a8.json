@@ -1,0 +1,8 @@
+{
+  "name": "santino",
+  "logo": "https://r.resimlink.com/XQx8fqC.jpg",
+  "rpc_url": "http://65.108.92.66:9944",
+  "explorer_url": "http://65.108.92.66:4000",
+  "metrics_endpoint": "http://65.108.92.66:9615/metrics",
+  "id": "c9068bc5-dda3-4fef-801a-eefaffd075a8"
+}

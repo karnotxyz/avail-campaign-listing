@@ -1,0 +1,8 @@
+{
+  "name": "yimadara",
+  "logo": "https://i.ibb.co/jHGB4kD/YIMADARA.png",
+  "rpc_url": "http://75.119.142.53:9944",
+  "explorer_url": "http://75.119.142.53:4000",
+  "metrics_endpoint": "http://75.119.142.53:9615/metrics",
+  "id": "6c2823b5-b6a5-68d4-a5de-185147b18e3d"
+}

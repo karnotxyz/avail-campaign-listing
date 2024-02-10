@@ -1,0 +1,8 @@
+{
+  "name": "fmusicmc",
+  "logo": "https://r.resimlink.com/S8VkCZ10js.png",
+  "rpc_url": "http://84.247.132.82:9944",
+  "explorer_url": "http://84.247.132.82:4000",
+  "metrics_endpoint": "http://84.247.132.82:9615/metrics",
+  "id": "018d74bd-0b1f-78cd-89e2-53f39e521e42"
+}

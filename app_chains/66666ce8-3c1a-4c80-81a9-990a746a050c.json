@@ -1,0 +1,8 @@
+{
+  "name": "Skyapp",
+  "logo": "https://im.ge/i/bJrab4",
+  "rpc_url": "http://37.60.247.73:9944",
+  "explorer_url": "http://37.60.247.73:4000",
+  "metrics_endpoint": "http://37.60.247.73:9615/metrics",
+  "id": "66666ce8-3c1a-4c80-81a9-990a746a050c"
+}

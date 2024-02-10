@@ -1,0 +1,8 @@
+{
+  "name": "ecamli",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/ecamli_5793626-1/logos/ecamli_5793626-1.png",
+  "rpc_url": "http://37.27.12.181:9944",
+  "explorer_url": "http://37.27.12.181:4000",
+  "metrics_endpoint": "http://37.27.12.181:9615/metrics",
+  "id": "6667d85f-1278-49c0-9cea-c4ef9a1ca144"
+}

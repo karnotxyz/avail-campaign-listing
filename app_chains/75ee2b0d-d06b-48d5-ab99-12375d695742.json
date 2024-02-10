@@ -1,0 +1,8 @@
+{
+  "name": "blackstar",
+  "logo": "https://ibb.co/MSy7stv",
+  "rpc_url": "http://37.27.43.42:9944",
+  "explorer_url": "http://37.27.43.42:4000",
+  "metrics_endpoint": "http://37.27.43.42:9615/metrics",
+  "id": "75ee2b0d-d06b-48d5-ab99-12375d695742"
+}

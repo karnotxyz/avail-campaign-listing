@@ -1,0 +1,8 @@
+{
+  "name": "srrmemo",
+  "logo": "https://i.imgur.com/rytRdGx.jpeg",
+  "rpc_url": "http://65.21.189.216:9944",
+  "explorer_url": "http://65.21.189.216:4000",
+  "metrics_endpoint": "http://65.21.189.216:9615/metrics",
+  "id": "1514e249-641c-4f32-91e1-91b159a29a69"
+}
