@@ -1,0 +1,7 @@
+{
+  "name": "oma",
+  "rpc_url": "https://176.120.75.236:9944",
+  "explorer_url": "https://176.120.75.236:4000",
+  "metrics_endpoint": "https://176.120.75.236:9615/metrics",
+  "id": "8b3d84d8-ed15-404d-9663-dd21757b9936"
+}
