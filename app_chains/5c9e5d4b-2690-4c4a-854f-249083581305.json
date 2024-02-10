@@ -1,0 +1,8 @@
+{
+  "name": "rexlee",
+  "logo": "https://raw.githubusercontent.com/sonupoplu4/sonupoplu4/main/028ec.jpg",
+  "rpc_url": "http://154.12.241.2:9944",
+  "explorer_url": "http://154.12.241.2:4000",
+  "metrics_endpoint": "http://154.12.241.2:9615/metrics",
+  "id": "5c9e5d4b-2690-4c4a-854f-249083581305"
+}
