@@ -1,0 +1,8 @@
+{
+  "name": "kriptokenan",
+  "logo": "https://r.resimlink.com/1Vb_uXs.png",
+  "rpc_url": "http://62.171.128.49:9944",
+  "explorer_url": "http://62.171.128.49:4000",
+  "metrics_endpoint": "http://62.171.128.49:9615/metrics",
+  "id": "bc4627bf-e667-40b3-b919-e57012767f0a"
+}
