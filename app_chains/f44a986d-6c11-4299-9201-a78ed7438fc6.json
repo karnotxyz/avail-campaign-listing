@@ -1,0 +1,8 @@
+{
+  "name": "DSMD",
+  "logo": "https://ibb.co/NtVhqRq",
+  "rpc_url": "http://207.180.220.185:9944",
+  "explorer_url": "http://207.180.220.185:4000",
+  "metrics_endpoint": "http://207.180.220.185:9615/metrics",
+  "id": "f44a986d-6c11-4299-9201-a78ed7438fc6"
+}
