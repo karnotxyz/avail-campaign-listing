@@ -1,0 +1,8 @@
+{
+  "name": "pedalsepeda",
+  "logo": "https://im.ge/i/cwf13p",
+  "rpc_url": "http://194.233.65.192:9945",
+  "explorer_url": "http://194.233.65.192:4000",
+  "metrics_endpoint": "http://194.233.65.192:9615/metrics",
+  "id": "095be4fa-141c-457c-bd58-10e069c2cf15"
+}
