@@ -1,8 +1,8 @@
 {
-    "name": "alicando",
-    "logo": "https://raw.githubusercontent.com/alicans/deneme/main/template.png",
-    "rpc_url": "http://104.248.247.164:9944",
-    "explorer_url": "http://104.248.247.164:4000",
-    "metrics_endpoint": "http://104.248.247.164:9615/metrics",
-    "id": "ad1e3d15-180f-453a-9132-c42b86a252bd"
-  }
+  "name": "Alicando",
+  "logo": "https://raw.githubusercontent.com/alicans/deneme/main/template.png",
+  "rpc_url": "http://104.248.247.164:9944",
+  "explorer_url": "http://104.248.247.164:4000",
+  "metrics_endpoint": "http://104.248.247.164:9615/metrics",
+  "id": "ad1e3d15-180f-453a-9132-c42b86a252bd"
+}
