@@ -1,8 +1,0 @@
-{
-  "name": "VasoryaDapp",
-  "logo": "https://r.resimlink.com/IGx81X9VSsA.jpg",
-  "rpc_url": "http://49.12.65.246:9944",
-  "explorer_url": "http://49.12.65.246:4000",
-  "metrics_endpoint": "http://49.12.65.246:9615/metrics",
-  "id": "81b72911-0798-4118-9a76-05f9d202fff1"
-}
