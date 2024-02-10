@@ -1,0 +1,8 @@
+{
+  "name": "makman",
+  "logo": "https://r.resimlink.com/Pw7JqTVtcS8l.jpg",
+  "rpc_url": "http://31.220.75.158:9944",
+  "explorer_url": "http://31.220.75.158:4000",
+  "metrics_endpoint": "http://31.220.75.158:9615/metrics",
+  "id": "0025db7c-4ac6-4625-8418-ed0b515b6830"
+}
