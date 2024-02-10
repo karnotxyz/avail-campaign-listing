@@ -1,0 +1,8 @@
+{
+  "name": "Alexandra",
+  "logo": "https://wallpapers.com/duck-pfp",
+  "rpc_url": "http://82.208.23.149:9944",
+  "explorer_url": "http://82.208.23.149:4000",
+  "metrics_endpoint": "http://82.208.23.149:9615/metrics",
+  "id": "c8a9bdee-ce0b-4ee0-8f1e-d0d6f7776288"
+}
