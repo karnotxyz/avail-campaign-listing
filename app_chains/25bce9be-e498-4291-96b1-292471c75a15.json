@@ -1,0 +1,8 @@
+{
+  "name": "Cryptoworlldz",
+  "logo": "https://r.resimlink.com/2eqFfgQpON.png", 
+  "rpc_url": "http://65.108.208.24:9944",
+  "explorer_url": "http://65.108.208.24:4000",
+  "metrics_endpoint": "http://65.108.208.24:9615",
+  "id": "25bce9be-e498-4291-96b1-292471c75a15"
+}
