@@ -1,0 +1,8 @@
+{
+  "name": "mrsurmelichain",
+  "logo": "https://resimlink.com/kFbASim_O1B", 
+  "rpc_url": "http://http://164.92.232.179:9944",
+  "explorer_url": "http://http://164.92.232.179:4000",
+  "metrics_endpoint": "http://http://164.92.232.179:9615",
+  "id": "6d40ed21-809a-4b7e-8a17-36ef5f2cb73d"
+}
