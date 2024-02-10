@@ -1,0 +1,8 @@
+{
+  "name": "oxkliwon",
+  "logo": "https://r.resimlink.com/pxa-gM.png",
+  "rpc_url": "http://65.108.82.3:9944",
+  "explorer_url": "http://65.108.82.3:4000",
+  "metrics_endpoint": "http://65.108.82.3:9615/metrics",
+  "id": "4c1fe6b0-db3c-44fd-aa45-de1275281e18"
+}
