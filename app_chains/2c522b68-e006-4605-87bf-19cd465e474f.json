@@ -1,8 +1,0 @@
-{
-  "name": "kangaru6969",
-  "logo": "https://github.com/phuongthe182/phuongthe182/blob/main/logo.png",
-  "rpc_url": "http://155.133.7.240:9944",
-  "explorer_url": "http://155.133.7.240:4000",
-  "metrics_endpoint": "http://155.133.7.240:9615/metrics",
-  "id": "2c522b68-e006-4605-87bf-19cd465e474f"
-}
