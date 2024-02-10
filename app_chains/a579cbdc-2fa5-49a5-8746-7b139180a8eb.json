@@ -1,0 +1,8 @@
+{
+  "name": "GoldBird",
+  "logo": "",
+  "rpc_url": "http://65.109.34.249:9944",
+  "explorer_url": "http://65.109.34.249:4000",
+  "metrics_endpoint": "http://65.109.34.249:9615/metrics",
+  "id": "a579cbdc-2fa5-49a5-8746-7b139180a8eb"
+}

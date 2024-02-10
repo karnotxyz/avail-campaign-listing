@@ -1,0 +1,8 @@
+{
+  "name": "2wintern",
+  "logo": "https://i.imgur.com/M8s8n2r.jpeg",
+  "rpc_url": "http://143.198.208.63:9944",
+  "explorer_url": "http://143.198.208.63:4000",
+  "metrics_endpoint": "http://143.198.208.63:9615/metrics",
+  "id": "378fe024-d8db-4644-ab65-6d1b3d1d8538"
+}

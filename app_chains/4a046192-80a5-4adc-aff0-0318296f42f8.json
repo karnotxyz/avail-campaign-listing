@@ -1,0 +1,8 @@
+{
+  "name": "OrmistufanesChain",
+  "logo": "https://r.resimlink.com/0N7Bfr.png",
+  "rpc_url": "http://95.217.18.8:9944",
+  "explorer_url": "http://95.217.18.8:4000",
+  "metrics_endpoint": "http://95.217.18.8:9615/metrics",
+  "id": "4a046192-80a5-4adc-aff0-0318296f42f8"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "my_app_chain",
+  "logo": "https://i.ibb.co/ZT95ZGs/alpaca2.png",
+  "rpc_url": "https://58.87.193.78",
+  "explorer_url": "https://58.87.193.78",
+  "metrics_endpoint": "https://58.87.193.78",
+  "id": "05f13443-7cc6-406c-96c3-8e23afa18e0a"
+}
