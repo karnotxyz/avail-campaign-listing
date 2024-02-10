@@ -1,0 +1,8 @@
+{
+  "name": "vnwithyuri",
+  "logo": "https://i.ibb.co/B6QCBWr/pridesun.png",
+  "rpc_url": "http://139.59.248.191:9944",
+  "explorer_url": "http://139.59.248.191:4000",
+  "metrics_endpoint": "http://139.59.248.191:9615/metrics",
+  "id": "29c5fdab-cd6d-4b11-9c94-10d687e9fd16"
+}
