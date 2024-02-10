@@ -1,8 +1,8 @@
 {
-    "name": "ZANNJAGGO",
-    "logo": "https://imgur.com/a/b2O4Mx0",
-    "rpc_url": "http://174.138.31.169:9944",
-    "explorer_url": "http://174.138.31.169:4000",
-    "metrics_endpoint": "http://174.138.31.169:9615/metrics",
-    "id": "913e1dd8-d488-436e-b796-9b5473cdcba7"
-  }
+  "name": "ZANNJAGGO",
+  "logo": "https://imgur.com/a/b2O4Mx0",
+  "rpc_url": "http://161.35.33.150:9944",
+  "explorer_url": "http://161.35.33.150:4000",
+  "metrics_endpoint": "http://161.35.33.150:9615/metrics",
+  "id": "913e1dd8-d488-436e-b796-9b5473cdcba7"
+}
