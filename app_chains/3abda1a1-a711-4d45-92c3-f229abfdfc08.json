@@ -1,0 +1,8 @@
+{
+  "name": "yajairaasc",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0xed5af388653567af2f388e6224dc7c4b3241c544/TVRjd05qY3hNVGczTnc9PV85MTQy.png",
+  "rpc_url": "http://43.131.248.175:9944",
+  "explorer_url": "http://43.131.248.175:4000",
+  "metrics_endpoint": "http://43.131.248.175:9615/metrics",
+  "id": "3abda1a1-a711-4d45-92c3-f229abfdfc08"
+}
