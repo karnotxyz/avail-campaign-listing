@@ -1,0 +1,8 @@
+{
+  "name": "jadonb",
+  "logo": "https://avatars.githubusercontent.com/u/121957607?v=4",
+  "rpc_url": "http://176.57.184.202:9944",
+  "explorer_url": "http://176.57.184.202:4000",
+  "metrics_endpoint": "http://176.57.184.202:9615/metrics",
+  "id": "4e44c1cd-f2ec-480e-bad3-02d22c11edad"
+}

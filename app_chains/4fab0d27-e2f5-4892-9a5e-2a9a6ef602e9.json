@@ -1,0 +1,8 @@
+{
+  "name": "AZARAZIII",
+  "logo": "https://r.resimlink.com/_r-1AS8.png",
+  "rpc_url": "http://164.68.104.114:9944",
+  "explorer_url": "http://164.68.104.114:4000",
+  "metrics_endpoint": "http://164.68.104.114:9615/metrics",
+  "id": "4fab0d27-e2f5-4892-9a5e-2a9a6ef602e9"
+}

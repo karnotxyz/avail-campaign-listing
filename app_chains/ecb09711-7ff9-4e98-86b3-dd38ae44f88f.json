@@ -1,0 +1,8 @@
+{
+  "name": "gursel",
+  "logo": "https://imgur.com/a/jRwVoz3",
+  "rpc_url": "http://173.212.227.51:9944",
+  "explorer_url": "http://173.212.227.51:4000",
+  "metrics_endpoint": "http://173.212.227.51:9615/metrics",
+  "id": "ecb09711-7ff9-4e98-86b3-dd38ae44f88f"
+}

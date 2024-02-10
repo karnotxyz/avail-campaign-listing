@@ -1,0 +1,8 @@
+{
+  "name": "somayememar",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/92978536/303314756-5b968356-7c13-4dbd-8e08-408d0590c0cb.png",
+  "rpc_url": "http://173.212.217.254:9944",
+  "explorer_url": "http://173.212.217.254:4000",
+  "metrics_endpoint": "http://173.212.217.254:9615/metrics",
+  "id": "aa886ef2-9497-42b7-bffd-0d0ab0456754"
+}
