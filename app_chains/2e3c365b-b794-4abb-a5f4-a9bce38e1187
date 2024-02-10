@@ -1,0 +1,8 @@
+{
+  "name": "Sbrlord",
+  "logo": "https://r.resimlink.com/MeR05JEFI.png",
+  "rpc_url": "http://5.75.207.153:9944",
+  "explorer_url": "http://5.75.207.153:4000",
+  "metrics_endpoint": "http://5.75.207.153:9615/metrics",
+  "id": "2e3c365b-b794-4abb-a5f4-a9bce38e1187"
+}
