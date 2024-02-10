@@ -1,8 +1,0 @@
-{
-  "name": "FARAZURE",
-  "logo": "https://placehold.co/400x400/black/darkred?text=FARAZURE&font=Lora",
-  "rpc_url": "http://37.60.250.45:9944",
-  "explorer_url": "http://37.60.250.45:4000",
-  "metrics_endpoint": "http://37.60.250.45:9615/metrics",
-  "id": "ce651d24-34de-4802-a363-dc8e7f0471c2"
-}
