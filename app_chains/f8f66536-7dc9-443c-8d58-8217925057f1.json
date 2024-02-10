@@ -1,0 +1,8 @@
+{
+  "name": "ravagerga",
+  "logo": "http://43.134.29.218/logo.jpg",
+  "rpc_url": "http://43.134.29.218:9944",
+  "explorer_url": "http://43.134.29.218:4000",
+  "metrics_endpoint": "http://43.134.29.218:9615/metrics",
+  "id": "f8f66536-7dc9-443c-8d58-8217925057f1"
+}
