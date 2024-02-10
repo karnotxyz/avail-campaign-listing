@@ -1,0 +1,8 @@
+{
+  "name": "reinhaver",
+  "logo": "https://i.imgur.com/f3Kh0tD.jpg",
+  "rpc_url": "http://213.136.74.104:9944",
+  "explorer_url": "http://213.136.74.104:4000",
+  "metrics_endpoint": "http://213.136.74.104:9615/metrics",
+  "id": "addfa646-0df8-489d-af96-7e99308fc371"
+}
