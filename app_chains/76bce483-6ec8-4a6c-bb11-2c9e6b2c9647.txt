@@ -1,0 +1,8 @@
+{
+    "name": "habib",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/105596190/303826578-5c88375d-616d-4287-a6cf-c0867ff5a3b1.png",
+    "rpc_url": "http:51.38.206.2:9944",
+    "explorer_url": "http://51.38.206.2:4000",
+    "metrics_endpoint": "http://51.38.206.2:9615",
+    "id": "76bce483-6ec8-4a6c-bb11-2c9e6b2c9647"
+  }
