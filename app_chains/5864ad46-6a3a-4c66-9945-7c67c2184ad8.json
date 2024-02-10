@@ -1,0 +1,8 @@
+{
+  "name": "Pedalsepeda",
+  "logo": "https://i.imgur.com/ZnUl712.png",
+  "rpc_url": "http://194.233.65.192:9945",
+  "explorer_url": "http://194.233.65.192:4000",
+  "metrics_endpoint": "http://194.233.65.192:9615/metrics",
+  "id": "5864ad46-6a3a-4c66-9945-7c67c2184ad8"
+}
