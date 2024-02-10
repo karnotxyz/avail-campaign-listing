@@ -1,0 +1,8 @@
+{
+  "name": "jamesjordan",
+  "logo": "https://r.resimlink.com/BMZxsbS.jpg",
+  "rpc_url": "http://65.109.197.98:9944",
+  "explorer_url": "http://65.109.197.98:4000",
+  "metrics_endpoint": "http://65.109.197.98:9615/metrics",
+  "id": "2459f547-c742-4926-bb90-4f9e9de70e07"
+}
