@@ -1,0 +1,8 @@
+{
+    "name": "Joespaz",
+    "logo": "https://ibb.co/DQp4RBL",
+    "rpc_url": "https://173.249.22.229:9944",
+    "explorer_url": "https://173.249.22.229:4000",
+    "metrics_endpoint": "https://173.249.22.229:9615/metrics",
+    "id": "f2f0b355-aeb6-488c-abda-c9cf72e96ba1"
+}
