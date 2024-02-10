@@ -1,0 +1,8 @@
+{
+  "name": "Betsy",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://49.51.38.48:9944",
+  "explorer_url": "http://49.51.38.48:4000",
+  "metrics_endpoint": "http://49.51.38.48:9615/metrics",
+  "id": "4e642b74-2db4-4426-ae4d-90ecd1c9c121"
+}
