@@ -2,7 +2,7 @@
   "name": "polytas",
   "logo": "https://i.nfte.ai/ia/l701/139092/5748437604276894547_1692026283.avif",
   "rpc_url": "http://155.133.27.54:9944",
-  "explorer_url": "http://155.133.27.54P:4000",
+  "explorer_url": "http://155.133.27.54:4000",
   "metrics_endpoint": "http://155.133.27.54:9615/metrics",
   "id": "cae484ff-73d4-4a7c-bc6d-2e86eb94189f"
 }
