@@ -1,0 +1,8 @@
+{
+  "name": "muco",
+  "logo": "https://r.resimlink.com/xP-LJrjusW.jpg",
+  "rpc_url": "http://http://65.108.62.192/:9944",
+  "explorer_url": "http://http://65.108.62.192/:4000",
+  "metrics_endpoint": "http://65.108.62.192/:9615",
+  "id": "e29bf670-1db6-42cf-be0c-5c5bf5963090"
+}
