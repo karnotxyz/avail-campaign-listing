@@ -1,0 +1,8 @@
+{
+  "name": "SkyLucky",
+  "logo": "https://i.ibb.co/5BZ7FP2/brushstroke-left.png",
+  "rpc_url": "http://43.153.135.226:9944",
+  "explorer_url": "http://43.153.135.226:4000",
+  "metrics_endpoint": "http://43.153.135.226:9615/metrics",
+  "id": "4231afe9-c167-46af-99a0-7a1d98877194"
+}
