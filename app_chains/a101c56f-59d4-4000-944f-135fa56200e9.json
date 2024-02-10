@@ -1,0 +1,8 @@
+{
+  "name": "erectmudd",
+  "logo": "http://43.153.210.153/logo.jpg",
+  "rpc_url": "http://43.153.210.153:9944",
+  "explorer_url": "http://43.153.210.153:4000",
+  "metrics_endpoint": "http://43.153.210.153:9615/metrics",
+  "id": "a101c56f-59d4-4000-944f-135fa56200e9"
+}
