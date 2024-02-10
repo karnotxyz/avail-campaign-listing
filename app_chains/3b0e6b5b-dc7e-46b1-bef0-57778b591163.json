@@ -1,0 +1,8 @@
+{
+  "name": "truchain",
+  "logo": "https://ibb.co/gDcb6VB",
+  "rpc_url": "http://103.144.209.98:9944",
+  "explorer_url": "http://103.144.209.98:4000",
+  "metrics_endpoint": "http://103.144.209.98:9615/metrics",
+  "id": "3b0e6b5b-dc7e-46b1-bef0-57778b591163"
+}
