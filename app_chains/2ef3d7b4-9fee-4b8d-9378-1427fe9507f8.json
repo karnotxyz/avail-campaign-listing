@@ -1,0 +1,8 @@
+{
+  "name": "0xlegend",
+  "logo": "https://i.ibb.co/N12YtY5/logo-copy.png",
+  "rpc_url": "http://178.255.222.66:9944",
+  "explorer_url": "http://178.255.222.66:4000",
+  "metrics_endpoint": "http://178.255.222.66:9615/metrics",
+  "id": "2ef3d7b4-9fee-4b8d-9378-1427fe9507f8"
+}
