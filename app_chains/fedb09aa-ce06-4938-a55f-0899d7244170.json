@@ -1,0 +1,8 @@
+{
+  "name": "rooster",
+  "logo": "https://r.resimlink.com/72_Izl.png",
+  "rpc_url": "http://65.108.58.196:9944",
+  "explorer_url": "http://65.108.58.196:4000",
+  "metrics_endpoint": "http://65.108.58.196:9615/metrics",
+  "id": "fedb09aa-ce06-4938-a55f-0899d7244170"
+}

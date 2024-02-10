@@ -1,0 +1,8 @@
+{
+  "name": "soltan",
+  "logo": "https://r.resimlink.com/X9sWndGix.jpg",
+  "rpc_url": "http://65.109.206.34:9944",
+  "explorer_url": "http://65.109.206.34:4000",
+  "metrics_endpoint": "http://65.109.206.34:9615/metrics",
+  "id": "63884a2a-0fa0-437e-9756-1837fac9751f"
+}
