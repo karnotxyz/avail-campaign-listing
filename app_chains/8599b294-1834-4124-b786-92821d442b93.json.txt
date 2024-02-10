@@ -1,0 +1,8 @@
+{
+  "name": "mabera",
+  "logo": "https://i.ibb.co/kDC5cPr/Download.png",
+  "rpc_url": "http://173.249.0.176:9944",
+  "explorer_url": "http://173.249.0.176:4000",
+  "metrics_endpoint": "http://173.249.0.176:9615/metrics",
+  "id": "8599b294-1834-4124-b786-92821d442b93"
+}
