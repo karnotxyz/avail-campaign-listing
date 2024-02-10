@@ -1,0 +1,8 @@
+{
+  "name": "madarasez",
+  "logo": "https://r.resimlink.com/n8WxYTDw2C.png",
+  "rpc_url": "http://37.27.4.255:9944",
+  "explorer_url": "http://37.27.4.255:4000",
+  "metrics_endpoint": "http://37.27.4.255:9615",
+  "id": "a6c7be00-833c-4e56-8c32-2aa33080870b"
+}
