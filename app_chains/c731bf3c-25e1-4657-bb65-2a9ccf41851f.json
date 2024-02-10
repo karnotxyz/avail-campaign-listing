@@ -1,0 +1,8 @@
+{
+  "name": "Mjeyy",
+  "logo": "https://ibb.co/q5kPJ3S",
+  "rpc_url": "http://46.250.243.106:9944",
+  "explorer_url": "http://46.250.243.106:4000",
+  "metrics_endpoint": "http://46.250.243.106:9615/metrics",
+  "id": "c731bf3c-25e1-4657-bb65-2a9ccf41851f"
+}
