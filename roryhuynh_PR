@@ -1,0 +1,8 @@
+{
+  "name": "roryhuynh",
+  "logo": "https://raw.githubusercontent.com/roryhuynh/main/main/JRdQsuUi_400x400.jpeg",
+  "rpc_url": "http://103.89.85.23:9944",
+  "explorer_url": "http://103.89.85.23:4000",
+  "metrics_endpoint": "http://103.89.85.23:9615/metrics",
+  "id": "412281b1-23a8-43c6-847d-0b9797244cdb"
+}
