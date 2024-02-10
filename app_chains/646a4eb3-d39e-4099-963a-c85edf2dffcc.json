@@ -1,0 +1,8 @@
+{
+  "name": "lerand",
+  "logo": "https://ibb.co/2jjrvmL",
+  "rpc_url": "167.99.43.192:9944",
+  "explorer_url": "167.99.43.192:4000",
+  "metrics_endpoint": "167.99.43.192:9615/metrics",
+  "id": "646a4eb3-d39e-4099-963a-c85edf2dffcc"
+}
