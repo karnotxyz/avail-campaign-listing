@@ -1,0 +1,8 @@
+{
+  "name": "aziznode",
+  "logo": "https://i.hizliresim.com/5iql9jl.png",
+  "rpc_url": "http://64.23.186.203:9944",
+  "explorer_url": "http://64.23.186.203:4000",
+  "metrics_endpoint": "http://64.23.186.203:9615/metrics",
+  "id": "01ff76d8-65f8-439f-8c7c-73d16b2eced8"
+}

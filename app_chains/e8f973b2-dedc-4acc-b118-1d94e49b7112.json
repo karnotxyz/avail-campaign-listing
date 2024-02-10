@@ -1,0 +1,8 @@
+{
+  "name": "amirslk",
+  "logo": "https://iili.io/J1lqUGf.png",
+  "rpc_url": "http://80.85.241.245:9944",
+  "explorer_url": "http://80.85.241.245:4000",
+  "metrics_endpoint": "http://80.85.241.245:9615/metrics",
+  "id": "e8f973b2-dedc-4acc-b118-1d94e49b7112"
+}

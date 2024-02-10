@@ -1,0 +1,8 @@
+{
+  "name": "ned2s",
+  "logo": "https://i.ibb.co/zn5kmR6/Screenshot-2024-02-06-105746.png",
+  "rpc_url": "http://194.163.137.14:9944",
+  "explorer_url": "http://194.163.137.14:4000",
+  "metrics_endpoint": "http://194.163.137.14:9615/metrics",
+  "id": "7f89fbaa-e8ed-4d5f-8e5c-fc02a907008c"
+}
