@@ -1,8 +1,0 @@
-{
-  "name": "Seraph",
-  "logo": "https://i.ibb.co/GMkQJsX/image.png",
-  "rpc_url": "http://http://144.91.81.123/:9944",
-  "explorer_url": "http://http://144.91.81.123/:4000",
-  "metrics_endpoint": "http://http://144.91.81.123/:9615/metrics",
-  "id": "9b40f786-c1ad-48d6-8134-55acf149b832"
-}
