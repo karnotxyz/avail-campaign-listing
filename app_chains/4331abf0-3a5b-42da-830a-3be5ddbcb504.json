@@ -1,0 +1,8 @@
+{
+  "name": "atadara",
+  "logo": "https://r.resimlink.com/yVRX3HgW.jpg",
+  "rpc_url": "http://207.180.251.161:9944",
+  "explorer_url": "http://207.180.251.161:4000",
+  "metrics_endpoint": "http://207.180.251.161:9615",
+  "id": "4331abf0-3a5b-42da-830a-3be5ddbcb504"
+}
