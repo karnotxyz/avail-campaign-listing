@@ -1,0 +1,8 @@
+{
+  "name": "Captainsilver",
+  "logo": "https://r.resimlink.com/drN7_MA9ZcT.png",
+  "rpc_url": "http://49.12.60.48:9944",
+  "explorer_url": "http://49.12.60.48:4000",
+  "metrics_endpoint": "http://49.12.60.48:9615/metrics",
+  "id": "2291d675-9fe1-426f-9251-01464af0002d"
+}

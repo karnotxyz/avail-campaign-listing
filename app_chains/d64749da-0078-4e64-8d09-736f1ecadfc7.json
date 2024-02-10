@@ -1,0 +1,8 @@
+{
+  "name": "fiseqx1",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/bbe2e495c28cb02c2db4a902cce81981702af862/slmcmn_1264200-1/logos/slmcmn_1264200-1.jpg",
+  "rpc_url": "http://116.203.236.26:9944",
+  "explorer_url": "http://116.203.236.26:4000",
+  "metrics_endpoint": "http://116.203.236.26:9615/metrics",
+  "id": "d64749da-0078-4e64-8d09-736f1ecadfc7"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xdemon",
+  "logo": "https://r.resimlink.com/IkdfNsOB-FW.png",
+  "rpc_url": "http://45.14.224.237:9944",
+  "explorer_url": "http://45.14.224.237:4000",
+  "metrics_endpoint": "http://45.14.224.237:9615/metrics",
+  "id": "1b61bc6c-1bf2-444e-9b12-636f64b6b7b3"
+}

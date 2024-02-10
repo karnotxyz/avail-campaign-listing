@@ -1,0 +1,8 @@
+{
+  "name": "kangenboci",
+  "logo": "https://imgur.com/a/ajDEjKt",
+  "rpc_url": "http://95.143.196.17:9944",
+  "explorer_url": "http://95.143.196.17:4000",
+  "metrics_endpoint": "http://95.143.196.17:9615/metrics",
+  "id": "8b5c6ffb-bbfc-4095-aec3-d92866cf30b8"
+}

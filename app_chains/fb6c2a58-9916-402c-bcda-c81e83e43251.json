@@ -1,0 +1,8 @@
+{
+  "name": "fatherly",
+  "logo": "https://r.resimlink.com/Ap1KzGkXyP.png",
+  "rpc_url": "http://49.13.167.15:9944",
+  "explorer_url": "http://49.13.167.15:4000",
+  "metrics_endpoint": "http://49.13.167.15:9615/metrics",
+  "id": "fb6c2a58-9916-402c-bcda-c81e83e43251"
+}
