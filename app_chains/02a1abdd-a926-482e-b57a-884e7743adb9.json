@@ -1,0 +1,8 @@
+{
+  "name": "philips",
+  "logo": "https://imgur.com/a/cXFfT2u",
+  "rpc_url": "http://37.27.41.61:9944",
+  "explorer_url": "http://37.27.41.61:4000",
+  "metrics_endpoint": "http://37.27.41.61:9615/metrics",
+  "id": "02a1abdd-a926-482e-b57a-884e7743adb9"
+}
