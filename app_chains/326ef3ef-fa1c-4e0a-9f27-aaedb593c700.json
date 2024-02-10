@@ -1,0 +1,8 @@
+{
+  "name": "grayBoss",
+  "logo": "https://r.resimlink.com/eQNRYXv8.png",
+  "rpc_url": "http://75.119.150.185:9944",
+  "explorer_url": "http://75.119.150.185:4000",
+  "metrics_endpoint": "http://75.119.150.185:9615/metrics",
+  "id": "326ef3ef-fa1c-4e0a-9f27-aaedb593c700"
+}
