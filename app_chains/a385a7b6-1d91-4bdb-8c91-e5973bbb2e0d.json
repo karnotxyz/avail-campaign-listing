@@ -1,0 +1,8 @@
+{
+  "name": "therumi",
+  "logo": "https://r.resimlink.com/bzXMs6.jpg",
+  "rpc_url": "http://159.69.239.28:9944",
+  "explorer_url": "http://159.69.239.28:4000",
+  "metrics_endpoint": "http://159.69.239.28:9615/metrics",
+  "id": "a385a7b6-1d91-4bdb-8c91-e5973bbb2e0d"
+}
