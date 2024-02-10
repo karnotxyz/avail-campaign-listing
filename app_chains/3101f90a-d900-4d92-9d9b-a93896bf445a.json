@@ -1,0 +1,8 @@
+{
+  "name": "JadoApp",
+  "logo": "https://placehold.co/400x400/blue/yellow?text=JadoApp",
+  "rpc_url": "http://202.133.89.31:9944",
+  "explorer_url": "http://202.133.89.31:4000",
+  "metrics_endpoint": "http://202.133.89.31:9615/metrics",
+  "id": "3101f90a-d900-4d92-9d9b-a93896bf445a"
+}
