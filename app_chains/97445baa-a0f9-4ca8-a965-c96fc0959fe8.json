@@ -1,0 +1,8 @@
+{
+  "name": "jcwooda",
+  "logo": "https://i.postimg.cc/mrngTYNM/jcwooda.png",
+  "rpc_url": "http://43.153.92.123:9944",
+  "explorer_url": "http://43.153.92.123:4000",
+  "metrics_endpoint": "http://43.153.92.123:9615/metrics",
+  "id": "97445baa-a0f9-4ca8-a965-c96fc0959fe8"
+}
