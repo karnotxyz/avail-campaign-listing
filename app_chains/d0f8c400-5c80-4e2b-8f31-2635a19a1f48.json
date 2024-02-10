@@ -1,0 +1,8 @@
+{
+  "name": "hessix",
+  "logo": "https://r.resimlink.com/YM_roB.jpg",
+  "rpc_url": "http://207.180.250.246:9944",
+  "explorer_url": "http://207.180.250.246:4000",
+  "metrics_endpoint": "http://207.180.250.246:9615/metrics",
+  "id": "d0f8c400-5c80-4e2b-8f31-2635a19a1f48"
+}
