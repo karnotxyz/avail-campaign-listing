@@ -1,0 +1,8 @@
+{
+  "name": "parchedca",
+  "logo": "http://43.156.8.202/logo.jpg",
+  "rpc_url": "http://43.156.8.202:9944",
+  "explorer_url": "http://43.156.8.202:4000",
+  "metrics_endpoint": "http://43.156.8.202:9615/metrics",
+  "id": "b397bed6-91be-4360-9d11-99d345ea7dfe"
+}
