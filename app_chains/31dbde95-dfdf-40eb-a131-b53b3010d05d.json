@@ -1,0 +1,8 @@
+{
+  "name": "lidrobi",
+  "logo": "https://r.resimlink.com/jaCspE7tc.webp",
+  "rpc_url": "http://167.86.73.25:9944",
+  "explorer_url": "http://167.86.73.25:4000",
+  "metrics_endpoint": "http://167.86.73.25:9615/metrics",
+  "id": "31dbde95-dfdf-40eb-a131-b53b3010d05d"
+}
