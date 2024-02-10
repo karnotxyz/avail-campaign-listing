@@ -1,0 +1,8 @@
+{
+  "name": "Tyrone",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://170.106.105.131:9944",
+  "explorer_url": "http://170.106.105.131:4000",
+  "metrics_endpoint": "http://170.106.105.131:9615/metrics",
+  "id": "7c4140a0-7f35-4f29-8c33-75b2e9b6b022"
+}
