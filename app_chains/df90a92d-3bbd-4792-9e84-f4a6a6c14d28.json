@@ -1,8 +1,0 @@
-{
-  "name": "avail",
-  "logo": "https://i.ibb.co/ryBHG5B/luffy.jpg",
-  "rpc_url": "http://207.180.204.176:9944",
-  "explorer_url": "http://207.180.204.176:4000",
-  "metrics_endpoint": "http://207.180.204.176:9615/metrics",
-  "id": "df90a92d-3bbd-4792-9e84-f4a6a6c14d28"
-}
