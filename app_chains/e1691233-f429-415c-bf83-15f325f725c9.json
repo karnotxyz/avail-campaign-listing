@@ -1,0 +1,8 @@
+{
+  "name": "hulk",
+  "logo": "https://r.resimlink.com/RTG7zfeJV0x.jpg",
+  "rpc_url": "http://1.220.75.218:9944",
+  "explorer_url": "http://1.220.75.218:4000",
+  "metrics_endpoint": "http://1.220.75.218:9615/metrics",
+  "id": "e1691233-f429-415c-bf83-15f325f725c9"
+}
