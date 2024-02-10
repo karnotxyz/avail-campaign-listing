@@ -1,0 +1,8 @@
+{
+  "name": "madarast",
+  "logo": "https://ibb.co/QPZ4vtR",
+  "rpc_url": "http:172.214.128.188:9944",
+  "explorer_url": "http:172.214.128.188:4000",
+  "metrics_endpoint": "http:172.214.128.188:9615/metrics",
+  "id": "ebc11d9d-2b44-4363-adb0-a0f9541a7582"
+}
