@@ -1,0 +1,8 @@
+{
+  "name": "gaytape",
+  "logo": "http://43.156.16.88/logo.jpg",
+  "rpc_url": "http://43.156.16.88:9944",
+  "explorer_url": "http://43.156.16.88:4000",
+  "metrics_endpoint": "http://43.156.16.88:9615/metrics",
+  "id": "c3145ff5-283f-4bb0-b253-5ee6f0829a27"
+}
