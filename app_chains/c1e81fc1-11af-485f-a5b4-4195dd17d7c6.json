@@ -1,0 +1,8 @@
+{
+  "name": "xiaolong01",
+  "logo": "https://nodemisu.xyz/nodemisu.jpg",
+  "rpc_url": "https://rpc.midjourney.team",
+  "explorer_url": "https://explorer.midjourney.team",
+  "metrics_endpoint": "https://metrics.midjourney.team/metrics",
+  "id": "c1e81fc1-11af-485f-a5b4-4195dd17d7c6"
+}

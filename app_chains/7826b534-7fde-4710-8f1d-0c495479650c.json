@@ -1,0 +1,8 @@
+{
+  "name": "burayman",
+  "logo": "https://ibb.co/pb4q620",
+  "rpc_url": "http://38.242.129.184:9944",
+  "explorer_url": "http://38.242.129.184:4000",
+  "metrics_endpoint": "http://38.242.129.184:9615/metrics",
+  "id": "7826b534-7fde-4710-8f1d-0c495479650c"
+}

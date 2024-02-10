@@ -1,0 +1,8 @@
+{
+  "name": "ewelina-dapp",
+  "logo": "https://r.resimlink.com/OhC5Kr7M.jpg",
+  "rpc_url": "http://128.140.2.179:9944",
+  "explorer_url": "http://128.140.2.179:4000",
+  "metrics_endpoint": "http://128.140.2.179:9615/metrics",
+  "id": "d9263525-e699-49b9-b2a9-bac3545a9e2c"
+}

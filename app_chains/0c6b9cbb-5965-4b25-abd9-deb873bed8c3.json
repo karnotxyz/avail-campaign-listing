@@ -1,0 +1,8 @@
+{
+  "name": "Ahmkah",
+  "logo": "https://r.resimlink.com/KMIgc0JOx-mW.png",
+  "rpc_url": "http://170.64.134.243:9944",
+  "explorer_url": "http://170.64.134.243:4000",
+  "metrics_endpoint": "http://170.64.134.243:9615/metrics",
+  "id": "0c6b9cbb-5965-4b25-abd9-deb873bed8c3"
+}

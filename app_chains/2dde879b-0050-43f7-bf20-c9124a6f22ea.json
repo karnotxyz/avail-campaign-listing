@@ -1,0 +1,8 @@
+{
+  "name": "oadoo",
+  "logo": "https://i.imgur.com/ACnfdTK.jpeg",
+  "rpc_url": "http://89.116.28.138:9944",
+  "explorer_url": "http://89.116.28.138:4000",
+  "metrics_endpoint": "http://89.116.28.138:9615/metrics",
+  "id": "2dde879b-0050-43f7-bf20-c9124a6f22ea"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ndimbati",
+  "logo": "https://i.imgur.com/O4eylqx.png",
+  "rpc_url": "http://95.217.178.202:9944",
+  "explorer_url": "http://95.217.178.202:4000",
+  "metrics_endpoint": "http://95.217.178.202:9615/metrics",
+  "id": "ac545f1a-5062-4a90-9ba5-dd5a701802c3"
+}

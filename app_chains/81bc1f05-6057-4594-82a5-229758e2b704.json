@@ -1,0 +1,8 @@
+{
+  "name": "cryptomaster",
+  "logo": "https://r.resimlink.com/FhpeE3YdSs.jpg",
+  "rpc_url": "http://213.136.85.166:9944",
+  "explorer_url": "http://213.136.85.166:4000",
+  "metrics_endpoint": "http://213.136.85.166:9615/metrics",
+  "id": "81bc1f05-6057-4594-82a5-229758e2b704"
+}

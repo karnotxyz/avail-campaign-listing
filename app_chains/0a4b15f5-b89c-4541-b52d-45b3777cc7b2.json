@@ -1,0 +1,8 @@
+{
+  "name": "Validator247",
+  "logo": "https://i.ibb.co/71JLgDj/logo.jpg",
+  "rpc_url": "http://88.198.243.245:9944",
+  "explorer_url": "http://88.198.243.245:4000",
+  "metrics_endpoint": "http://88.198.243.245:9615/metrics",
+  "id": "0a4b15f5-b89c-4541-b52d-45b3777cc7b2"
+}

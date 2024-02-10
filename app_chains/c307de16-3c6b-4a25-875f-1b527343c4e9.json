@@ -1,0 +1,8 @@
+{
+  "name": "avnifinance",
+  "logo": "https://i.imgur.com/Qg2BI8H.jpeg",
+  "rpc_url": "http://37.60.253.194:9944",
+  "explorer_url": "http://37.60.253.194:4000",
+  "metrics_endpoint": "http://37.60.253.194:9615/metrics",
+  "id": "c307de16-3c6b-4a25-875f-1b527343c4e9"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dmax",
+  "logo": "https://pbs.twimg.com/profile_images/1626531448541904896/ouahLa8i_400x400.jpg",
+  "rpc_url": "http://158.220.112.110:9944",
+  "explorer_url": "http://158.220.112.110:4000",
+  "metrics_endpoint": "http://158.220.112.110:9615/metrics",
+  "id": "55cb36ef-ffc5-4625-85be-2357b0e8bdfd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "meloselo",
+  "logo": "https://raw.githubusercontent.com/mtrxmlh/deneme/main/logo.png",
+  "rpc_url": "http://37.60.240.191:9944",
+  "explorer_url": "http://37.60.240.191:4000",
+  "metrics_endpoint": "http://37.60.240.191:9615/metrics",
+  "id": "9da4ff38-7bd4-49b3-9084-d82760387417"
+}

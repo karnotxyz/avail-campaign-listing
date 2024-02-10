@@ -1,0 +1,8 @@
+{
+  "name": "VNBnode-dhailong",
+  "logo": "https://docs.vnbnode.com/img/logo.svg",
+  "rpc_url": "http://dhailong267.ddns.net:9944",
+  "explorer_url": "http://dhailong267.ddns.net:4000",
+  "metrics_endpoint": "http://dhailong267.ddns.net:9615/metrics",
+  "id": "c349c971-02d8-477e-ad3d-fe480b3b6a9c"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "animus",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/animus_6468241-1/logos/animus_6468241-1.png",
+  "rpc_url": "https://a1.animusthelight.xyz",
+  "explorer_url": "https://a3.animusthelight.xyz",
+  "metrics_endpoint": "https://a2.animusthelight.xyz/metrics",
+  "id": "1de0a4d3-6592-4527-a0f4-9da334497183"
+}
