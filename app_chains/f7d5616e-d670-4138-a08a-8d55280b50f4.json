@@ -1,0 +1,8 @@
+{
+ "name": "kazım",
+ "logo": "https://r.resimlink.com/oOrfa-GwCi.png",
+ "rpc_url": "http://31.220.98.242:9944",
+ "explorer_url": "http://31.220.98.242:4000",
+ "metrics_endpoint": "http://31.220.98.242:9615/metrics",
+ "id": "f7d5616e-d670-4138-a08a-8d55280b50f4"
+}
