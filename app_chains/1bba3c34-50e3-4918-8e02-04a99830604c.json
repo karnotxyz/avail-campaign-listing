@@ -1,0 +1,8 @@
+{
+  "name": "bluecloud",
+  "logo": "Your_Logo_URL",
+  "rpc_url": "http://85.214.234.221/:9944",
+  "explorer_url": "http://85.214.234.221/:4000",
+  "metrics_endpoint": "http://85.214.234.221//metrics",
+  "id": "1bba3c34-50e3-4918-8e02-04a99830604c"
+}
