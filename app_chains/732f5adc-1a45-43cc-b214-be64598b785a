@@ -1,0 +1,8 @@
+{
+    "name": "0xParsaa",
+    "logo": "https://placehold.co/600x400/EEE/31343C?font=Jeagerist&text=Parsa",
+    "rpc_url": "http://65.109.178.112:9944",
+    "explorer_url": "http://65.109.178.112:4000",
+    "metrics_endpoint": "http://65.109.178.112:9615/metrics",
+    "id": "732f5adc-1a45-43cc-b214-be64598b785a"
+  }
