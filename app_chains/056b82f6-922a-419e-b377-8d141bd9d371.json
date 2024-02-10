@@ -1,0 +1,8 @@
+{
+  "name": "Sasuke",
+  "logo": "https://i.ibb.co/StB2291/namek.png",
+  "rpc_url": "http://167.71.46.14:9944",
+  "explorer_url": "http://167.71.46.14:4000",
+  "metrics_endpoint": "http://167.71.46.14:9615/metrics",
+  "id": "056b82f6-922a-419e-b377-8d141bd9d371"
+}
