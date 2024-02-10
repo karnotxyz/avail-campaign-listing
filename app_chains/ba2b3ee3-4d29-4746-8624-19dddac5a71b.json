@@ -1,0 +1,8 @@
+{
+  "name": "lemongrass",
+  "logo": "http://129.226.193.24/logo.jpg",
+  "rpc_url": "http://129.226.193.24:9944",
+  "explorer_url": "http://129.226.193.24:4000",
+  "metrics_endpoint": "http://129.226.193.24:9615/metrics",
+  "id": "ba2b3ee3-4d29-4746-8624-19dddac5a71b"
+}
