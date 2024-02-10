@@ -1,0 +1,8 @@
+{
+    "name": "ParsaSbr",
+    "logo": "https://i.ibb.co/716bjK0/ParsaSbr.png",
+    "rpc_url": "http://5.75.207.153:9944",
+    "explorer_url": "http://5.75.207.153:4000",
+    "metrics_endpoint": "http://5.75.207.153:9615/metrics",
+    "id": "163629ba-d173-44f8-aad9-29186766d2ee"
+}
