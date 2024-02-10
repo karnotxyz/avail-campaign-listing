@@ -1,0 +1,8 @@
+{
+  "name": "fushigi",
+  "logo": "https://i.im.ge/2024/02/10/c64yC0.Zhhr8h14-400x400.th.jpg",
+  "rpc_url": "http://217.76.57.82:9944",
+  "explorer_url": "http://217.76.57.82:4000",
+  "metrics_endpoint": "217.76.57.82:9615/metrics",
+  "id": "97aff998-3b72-4c15-b518-3bcce2ba8633"
+}
