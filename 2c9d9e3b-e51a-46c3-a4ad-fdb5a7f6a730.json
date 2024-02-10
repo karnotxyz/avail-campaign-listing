@@ -1,0 +1,8 @@
+{
+  "name": "noureasy",
+  "logo": "https://i.ibb.co/4RF64X6/noura.jpg",
+  "rpc_url": "http://173.212.239.189:9944",
+  "explorer_url": "http://173.212.239.189:4000",
+  "metrics_endpoint": "http://173.212.239.189:9615/metrics",
+  "id": "2c9d9e3b-e51a-46c3-a4ad-fdb5a7f6a730"
+}
