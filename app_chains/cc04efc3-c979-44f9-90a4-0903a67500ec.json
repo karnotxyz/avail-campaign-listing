@@ -1,0 +1,8 @@
+{
+  "name": "DendyRO",
+  "logo": "https://i.imgur.com/ttuDXEh.jpg",
+  "rpc_url": "http://128.199.90.172:9944",
+  "explorer_url": "http://128.199.90.172:4000",
+  "metrics_endpoint": "http://128.199.90.172:9615/metrics",
+  "id": "cc04efc3-c979-44f9-90a4-0903a67500ec"
+}
