@@ -1,0 +1,8 @@
+{
+    "name": "Teampik",
+    "logo": "https://imgur.com/a/VZhfJ76",
+    "rpc_url": "http://154.26.139.199:9944",
+    "explorer_url": "http://154.26.139.199:4000",
+    "metrics_endpoint": "http://154.26.139.199:9615/metrics",
+    "id": "53bb6c01-c273-4056-bd0f-227fe6799d0e"
+  }
