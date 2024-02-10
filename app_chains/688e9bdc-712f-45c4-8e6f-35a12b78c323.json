@@ -1,0 +1,8 @@
+{
+  "name": "sirhoney",
+  "logo": "https://r.resimlink.com/57McsSqCJkl.jpeg",
+  "rpc_url": "http://37.60.233.211:9944",
+  "explorer_url": "http://37.60.233.211:4000",
+  "metrics_endpoint": "http://37.60.233.211:9615/metrics”,
+  "id": "688e9bdc-712f-45c4-8e6f-35a12b78c323"
+}
