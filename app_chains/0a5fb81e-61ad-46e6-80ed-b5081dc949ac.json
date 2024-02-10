@@ -1,0 +1,8 @@
+{
+  "name": "leo",
+  "logo": "https://placehold.co/400x400/black/leo?text=LEO",
+  "rpc_url": "http://178.239.204.4:9944",
+  "explorer_url": "http://178.239.204.4:4000",
+  "metrics_endpoint": "http://178.239.204.4:9615/metrics",
+  "id": "0a5fb81e-61ad-46e6-80ed-b5081dc949ac"
+}
