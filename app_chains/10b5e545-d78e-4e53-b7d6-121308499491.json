@@ -1,0 +1,8 @@
+{
+  "name": "braveMan",
+  "logo": "https://s2.loli.net/2024/02/03/zY3fD6gZpMPJC5R.png",
+  "rpc_url": "http://87.107.54.17:9944",
+  "explorer_url": "http://87.107.54.17:4000",
+  "metrics_endpoint": "http://87.107.54.17:9615/metrics",
+  "id": "10b5e545-d78e-4e53-b7d6-121308499491"
+}

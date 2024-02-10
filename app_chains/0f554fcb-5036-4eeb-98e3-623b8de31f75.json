@@ -1,0 +1,8 @@
+{
+  "name": "Herwanda",
+  "logo": "https://i.ibb.co/WgZCYw4/Untitled-design-3.png",
+  "rpc_url": "http://173.212.211.142:9944",
+  "explorer_url": "http://173.212.211.142:4000",
+  "metrics_endpoint": "http://173.212.211.142:9615/metrics",
+  "id": "0f554fcb-5036-4eeb-98e3-623b8de31f75"
+}

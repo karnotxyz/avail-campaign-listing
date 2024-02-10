@@ -1,0 +1,8 @@
+{
+  "name": "thenapalm",
+  "logo": "https://raw.githubusercontent.com/yemreozacmak/dymension.md/main/2tz9WULU_400x400.jpg",
+  "rpc_url": "http://65.108.243.67:9944",
+  "explorer_url": "http://65.108.243.67:4000",
+  "metrics_endpoint": "http://65.108.243.67:9615/metrics",
+  "id": "2ddc5e12-37f9-451a-a13e-b2867bb88fac"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "abyss",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/abyss_9747778-1/logos/abyss_9747778-1.png",
+  "rpc_url": "https://a1.urusthelight.xyz",
+  "explorer_url": "https://a3.urusthelight.xyz",
+  "metrics_endpoint": "https://a2.urusthelight.xyz/metrics",
+  "id": "5017b9ee-a03e-426b-9781-813a33ec03f8"
+}

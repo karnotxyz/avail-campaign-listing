@@ -1,0 +1,8 @@
+{
+  "name": "pander",
+  "logo": "https://i.imgur.com/RTb4Sf8.jpeg",
+  "rpc_url": "http://88.99.199.118:9944",
+  "explorer_url": "http://88.99.199.118:4000",
+  "metrics_endpoint": "http://88.99.199.118:9615/metrics",
+  "id": "d0c2220c-8f11-4fbf-96d2-4eded1aad080"
+}

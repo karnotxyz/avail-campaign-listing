@@ -1,0 +1,8 @@
+{
+  "name": "subeth",
+  "logo": "https://ipfs.io/ipfs/QmTpegYEZAxffDL6x8hSYcyytweS7gd3udTmHDzWJUz83J/subeth.png",
+  "rpc_url": "http://45.15.159.159:9944",
+  "explorer_url": "http://45.15.159.159:4000",
+  "metrics_endpoint": "http://45.15.159.159:9615/metrics",
+  "id": "47fe9a70-4eb5-4839-b8d1-721e741d1966"
+}

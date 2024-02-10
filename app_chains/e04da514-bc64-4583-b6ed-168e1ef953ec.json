@@ -1,0 +1,8 @@
+{
+  "name": "PrabowoGibran",
+  "logo": "https://i.imgur.com/QwhX6m9.png",
+  "rpc_url": "http://154.26.133.82:9944",
+  "explorer_url": "http://154.26.133.82:4000",
+  "metrics_endpoint": "http://154.26.133.82:9615/metrics",
+  "id": "e04da514-bc64-4583-b6ed-168e1ef953ec"
+}

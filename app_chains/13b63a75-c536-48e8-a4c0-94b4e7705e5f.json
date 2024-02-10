@@ -1,0 +1,8 @@
+{
+  "name": "Hoodrun",
+  "logo": "https://r.resimlink.com/qkPWGUVwSd1T.webp",
+  "rpc_url": "http://206.189.8.43:9944",
+  "explorer_url": "http://206.189.8.43:4000",
+  "metrics_endpoint": "http://206.189.8.43:9615/metrics",
+  "id": "13b63a75-c536-48e8-a4c0-94b4e7705e5f"
+}

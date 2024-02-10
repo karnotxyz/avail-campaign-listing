@@ -1,0 +1,8 @@
+{
+  "name": "netokar",
+  "logo": "https://i.postimg.cc/13pG63LL/77.png",
+  "rpc_url": "http://43.159.57.108:9944",
+  "explorer_url": "http://43.159.57.108:4000",
+  "metrics_endpoint": "http://43.159.57.108:9615/metrics",
+  "id": "b8ca7aa0-7e5f-4ca1-8520-56379e2077c1"
+}

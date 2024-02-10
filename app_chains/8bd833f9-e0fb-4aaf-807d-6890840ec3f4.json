@@ -1,0 +1,8 @@
+{
+  "name": "z3z",
+  "logo": "http://139.162.59.83/img/z3z.jpg",
+  "rpc_url": "http://139.162.59.83:9944",
+  "explorer_url": "http://139.162.59.83:4000",
+  "metrics_endpoint": "http://139.162.59.83:9615/metrics",
+  "id": "8bd833f9-e0fb-4aaf-807d-6890840ec3f4"
+}
