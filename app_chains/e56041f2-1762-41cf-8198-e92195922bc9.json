@@ -1,0 +1,8 @@
+{
+  "name": "arraylast",
+  "logo": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=arraylast",
+  "rpc_url": "http://147.45.41.92:9944",
+  "explorer_url": "http://147.45.41.92:4000",
+  "metrics_endpoint": "http://147.45.41.92:9615/metrics",
+  "id": "e56041f2-1762-41cf-8198-e92195922bc9"
+}
