@@ -1,0 +1,8 @@
+{
+  "name": "benja",
+  "logo": "https://i.imgur.com/Y1VJncy.png",
+  "rpc_url": "http://194.195.87.190:9944",
+  "explorer_url": "http://194.195.87.190:4000",
+  "metrics_endpoint": "http://194.195.87.190:9615/metrics",
+  "id": "a8f14475-22bf-43e6-832c-38d097a9c153"
+}
