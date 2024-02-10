@@ -1,0 +1,7 @@
+{
+  "name": “Myjamiryoquayrollapp”,
+  "logo": "https://r.resimlink.com/p-KXM.jpeg", 
+  "rpc_url": "http://95.217.2.38:9944",
+  "explorer_url": "http://95.217.2.38:4000",
+  "metrics_endpoint": "http://95.217.2.38:9615",
+  "id": "8d7099d6-65e4-499e-86e1-270be2e81a46"
