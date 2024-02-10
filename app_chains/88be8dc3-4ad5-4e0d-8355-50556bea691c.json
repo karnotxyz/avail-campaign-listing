@@ -1,0 +1,8 @@
+{
+  "name": "haleh",
+  "logo": "https://r.resimlink.com/SbTWlI.jpg",
+  "rpc_url": "http://45.84.138.35:9944",
+  "explorer_url": "http://45.84.138.35:4000",
+  "metrics_endpoint": "http://45.84.138.35:9615/metrics",
+  "id": "88be8dc3-4ad5-4e0d-8355-50556bea691c"
+}
