@@ -1,0 +1,8 @@
+{
+  "name": "my_app_chain",
+  "logo": "https://ibb.co/1sQrr2h",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "https://explorer.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "id": "e08814d8-c497-4297-a741-b54cdb2521d2"
+}
