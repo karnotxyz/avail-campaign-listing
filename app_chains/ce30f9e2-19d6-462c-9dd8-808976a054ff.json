@@ -1,0 +1,8 @@
+{
+  "name": "mehdito",
+  "logo": "https://r.resimlink.com/HPAWJMgLF.jpg",
+  "rpc_url": "http://49.13.126.162:9944",
+  "explorer_url": "http://49.13.126.162:4000",
+  "metrics_endpoint": "http://49.13.126.162:9615/metrics",
+  "id": "ce30f9e2-19d6-462c-9dd8-808976a054ff"
+}
