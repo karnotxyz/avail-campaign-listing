@@ -1,0 +1,8 @@
+{
+  "name": "Mustafa",
+  "logo": "https://i.imgur.com/D7G5131.png",
+  "rpc_url": "https://143.198.111.14:9944",
+  "explorer_url": "https://143.198.111.14:4000",
+  "metrics_endpoint": "https://143.198.111.14:9615",
+  "id": "df8726cb-8396-4d1a-8143-a2c7ba3aa54a"
+}
