@@ -1,0 +1,8 @@
+{
+  "name": "MrCrypto",
+  "logo": "https://i.ibb.co/LdChnT2/logoooo.png",
+  "rpc_url": "http://213.136.89.56:9944",
+  "explorer_url": "http://213.136.89.56:4000",
+  "metrics_endpoint": "http://213.136.89.56:9615/metrics",
+  "id": "5a173989-72ec-49d1-b2e1-7025ca13c8c1"
+}

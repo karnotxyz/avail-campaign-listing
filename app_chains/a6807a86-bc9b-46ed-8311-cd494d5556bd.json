@@ -1,0 +1,8 @@
+{
+  "name": "cengiz",
+  "logo": "https://imgur.com/a/3TsFbRX",
+  "rpc_url": "http://146.190.165.233:9944",
+  "explorer_url": "http://146.190.165.233:4000",
+  "metrics_endpoint": "http://146.190.165.233:9615/metrics",
+  "id": "a6807a86-bc9b-46ed-8311-cd494d5556bd"
+}

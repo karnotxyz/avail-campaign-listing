@@ -1,0 +1,8 @@
+{
+  "name": "hakanaslan",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/hakanaslan_2525902-1/logos/hakanaslan_2525902-1.png",
+  "rpc_url": "http://5.189.161.163:9944",
+  "explorer_url": "http://5.189.161.163:4000",
+  "metrics_endpoint": "http://5.189.161.163:9615/metrics",
+  "id": "a8bac20d-b729-43b2-b2e6-ffabda89edf5"
+}

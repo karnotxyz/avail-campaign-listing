@@ -1,0 +1,8 @@
+{
+  "name": "ConghcAppChainMadara",
+  "logo": "https://im.ge/i/c04Nwr",
+  "rpc_url": "http://207.180.210.18:9944",
+  "explorer_url": "http://207.180.210.18:4000",
+  "metrics_endpoint": "http://207.180.210.18:9615/metrics",
+  "id": "87eb987c-06b0-42d0-9736-c4d0f3d8466b"
+}

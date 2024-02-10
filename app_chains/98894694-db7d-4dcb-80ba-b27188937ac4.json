@@ -1,0 +1,8 @@
+{
+  "name": "hogen",
+  "logo": "https://media.discordapp.net/attachments/961884232546918450/1204522344148766820/clonex.jpg?ex=65d509d9&is=65c294d9&hm=4811b3a79cdfc818f94f067b830f8c73dd4ce060b7730e3950214695a4d1cfec&=&format=webp",
+  "rpc_url": "http://43.159.33.114:9944",
+  "explorer_url": "http://43.159.33.114:4000",
+  "metrics_endpoint": "http://43.159.33.114:9615/metrics",
+  "id": "98894694-db7d-4dcb-80ba-b27188937ac4"
+}
