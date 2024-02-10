@@ -1,0 +1,8 @@
+{
+  "name": "maxperta",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x524cab2ec69124574082676e6f654a18df49a048/17891.png",
+  "rpc_url": "http://150.109.245.176:9944",
+  "explorer_url": "http://150.109.245.176:4000",
+  "metrics_endpoint": "http://150.109.245.176:9615/metrics",
+  "id": "c463672f-30ca-4520-9418-c4904ff4e6a8"
+}
