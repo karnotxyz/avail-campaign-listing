@@ -1,6 +1,6 @@
 {
     "name": "ryuk",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/68125815/303676407-47e42a21-52cd-4c12-9f8d-83c06820fb37.png",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/68125815/303826395-c14c8edd-163f-456b-8bfe-59cd499e7cf6.png",
     "rpc_url": "http://195.35.0.15:9944",
     "explorer_url": "http://195.35.0.15:4000",
     "metrics_endpoint": "http://195.35.0.15:9615/metrics",
