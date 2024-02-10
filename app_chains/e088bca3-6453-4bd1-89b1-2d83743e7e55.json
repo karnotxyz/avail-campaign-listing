@@ -1,0 +1,8 @@
+{
+  "name": "haggl",
+  "logo": "https://r.resimlink.com/OXrnSz6xEWYF.png",
+  "rpc_url": "http://89.117.58.214:9944",
+  "explorer_url": "http://89.117.58.214:4000",
+  "metrics_endpoint": "http://89.117.58.214:9615",
+  "id": "e088bca3-6453-4bd1-89b1-2d83743e7e55"
+}
