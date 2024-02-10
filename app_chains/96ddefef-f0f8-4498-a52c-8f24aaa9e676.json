@@ -1,0 +1,8 @@
+{
+  "name": "sometk",
+  "logo": "https://r.resimlink.com/DEjO67Ym.png",
+  "rpc_url": "http://5.199.130.213:9944",
+  "explorer_url": "http://5.199.130.213:4000",
+  "metrics_endpoint": "http://5.199.130.213:9615/metrics",
+  "id": "96ddefef-f0f8-4498-a52c-8f24aaa9e676"
+}
