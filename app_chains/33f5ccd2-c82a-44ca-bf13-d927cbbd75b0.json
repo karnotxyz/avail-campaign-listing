@@ -1,0 +1,8 @@
+{
+  "name": "loganavail",
+  "logo": "https://r.resimlink.com/y2dTunhLS.png",
+  "rpc_url": "http://195.35.52.68:9944",
+  "explorer_url": "http://195.35.52.68:4000",
+  "metrics_endpoint": "http://195.35.52.68:9615/metrics",
+  "id": "33f5ccd2-c82a-44ca-bf13-d927cbbd75b0"
+}
