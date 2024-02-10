@@ -1,0 +1,7 @@
+{
+  "name": "Tuganx",
+  "logo": "https://hizliresim.com/b426zqd",
+  "rpc_url": "http://37.27.40.202",
+  "explorer_url": "http://37.27.40.202:4000",
+  "metrics_endpoint": "http://37.27.40.202/metrics",
+  "id": "5aa6ec32-b8e7-4095-8867-8d2a577174e1" 
