@@ -1,0 +1,8 @@
+{
+  "name": "minatorcrypto",
+  "logo": "https://r.resimlink.com/TLG2os.jpeg",
+  "rpc_url": "http://173.249.37.201:9944",
+  "explorer_url": "http://173.249.37.201:4000",
+  "metrics_endpoint": "http://173.249.37.201:9615/metrics",
+  "id": "02e66f83-cf96-4928-a4bf-b4da8a7f2925"
+}

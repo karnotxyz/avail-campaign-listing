@@ -1,0 +1,8 @@
+{
+  "name": "gogina",
+  "logo": "https://imgur.com/a/HA4fNf4",
+  "rpc_url": "http://143.198.59.158:9944",
+  "explorer_url": "http://143.198.59.158:4000",
+  "metrics_endpoint": "http://143.198.59.158:9615/metrics",
+  "id": "7b4476e0-29a6-4d37-80fc-ebeb3b6d2927"
+}

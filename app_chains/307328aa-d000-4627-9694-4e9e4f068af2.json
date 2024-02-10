@@ -1,0 +1,8 @@
+{
+  "name": "nelson",
+  "logo": "https://imgur.com/a/hmhFwiq",
+  "rpc_url": "http://138.201.187.138:9944",
+  "explorer_url": "http://138.201.187.138:4000",
+  "metrics_endpoint": "http://138.201.187.138:9615/metrics",
+  "id": "307328aa-d000-4627-9694-4e9e4f068af2"
+}
