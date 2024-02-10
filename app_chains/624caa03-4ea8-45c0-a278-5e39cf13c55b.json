@@ -1,0 +1,8 @@
+{
+  "name": "emremet",
+  "logo": "https://imgur.com/w4hjP0f",
+  "rpc_url": "https://172.105.78.229:9944",
+  "explorer_url": "https://172.105.78.229:4000",
+  "metrics_endpoint": "https://172.105.78.229:9615",
+  "id": "624caa03-4ea8-45c0-a278-5e39cf13c55b"
+}
