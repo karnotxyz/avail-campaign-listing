@@ -1,0 +1,8 @@
+{
+  "name": "WojaK",
+  "logo": "https://r.resimlink.com/k3zTGMe.png",
+  "rpc_url": "http://84.247.164.225:9944",
+  "explorer_url": "http://84.247.164.225:4000",
+  "metrics_endpoint": "http://84.247.164.225:9615",
+  "id": "f274705f-c3b4-4317-bab8-d41a68d5853c"
+}
