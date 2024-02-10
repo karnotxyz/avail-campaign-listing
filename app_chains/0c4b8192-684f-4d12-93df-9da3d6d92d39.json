@@ -1,0 +1,8 @@
+{
+  "name": "nezumip",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/90418.jpg",
+  "rpc_url": "http://43.157.48.209:9944",
+  "explorer_url": "http://43.157.48.209:4000",
+  "metrics_endpoint": "http://43.157.48.209:9615/metrics",
+  "id": "0c4b8192-684f-4d12-93df-9da3d6d92d39"
+}
