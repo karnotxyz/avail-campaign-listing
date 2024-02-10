@@ -1,0 +1,8 @@
+{
+  "name": "Sut",
+  "logo": "",
+  "rpc_url": "http://65.21.237.126:9944",
+  "explorer_url": "http://65.21.237.126:4000",
+  "metrics_endpoint": "http://65.21.237.126:9615/metrics",
+  "id": "a1154a5d-c279-4b78-9dc7-464653029897"
+}
