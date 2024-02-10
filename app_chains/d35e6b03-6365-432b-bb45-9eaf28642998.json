@@ -1,0 +1,8 @@
+{
+  "name": "RAXKY",
+  "logo": "https://i.ibb.co/fkPhT38/ddd.png",
+  "rpc_url": "http://109.123.242.209:9944",
+  "explorer_url": "http://109.123.242.209:4000",
+  "metrics_endpoint": "http://109.123.242.209:9615/metrics",
+  "id": "d35e6b03-6365-432b-bb45-9eaf28642998"
+}
