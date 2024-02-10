@@ -1,0 +1,8 @@
+{
+  "name": "anna",
+  "logo": "https://i.postimg.cc/gc3S5Hb5/anna.png",
+  "rpc_url": "http://43.156.75.117:9944",
+  "explorer_url": "http://43.156.75.117:4000",
+  "metrics_endpoint": "http://43.156.75.117:9615/metrics",
+  "id": "3a8c45e6-94d3-4fac-8061-6719e0ce606d"
+}

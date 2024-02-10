@@ -1,0 +1,8 @@
+{
+  "name": "aceinmyheart",
+  "logo": "https://i.imgur.com/BZhxOF8.png",
+  "rpc_url": "https://madara-rpc.nodeforge.xyz",
+  "explorer_url": "https://madara-explorer.nodeforge.xyz",
+  "metrics_endpoint": "https://madara-metric.nodeforge.xyz",
+  "id": "5763ea66-b2f4-4329-9c59-7d96c0d2b7a1"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "mdlog",
+  "logo": "https://ibb.co/j5MX0Y9",
+  "rpc_url": "http://158.220.98.135:9944",
+  "explorer_url": "http://158.220.98.135:4000",
+  "metrics_endpoint": "http://158.220.98.135:9615/metrics",
+  "id": "7b2c4b3a-abd5-44c6-a0f8-1d694f1f8638"
+}
