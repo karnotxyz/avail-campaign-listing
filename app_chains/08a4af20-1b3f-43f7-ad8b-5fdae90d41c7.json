@@ -1,0 +1,8 @@
+{
+  "name": "jupiter",
+  "logo": "https://placehold.co/500x500/red/darkred?text=jup",
+  "rpc_url": "http://77.105.166.131:9944",
+  "explorer_url": "http://77.105.166.131:4000",
+  "metrics_endpoint": "http://77.105.166.131:9615/metrics",
+  "id": "08a4af20-1b3f-43f7-ad8b-5fdae90d41c7"
+}
