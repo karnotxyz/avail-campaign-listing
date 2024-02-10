@@ -1,0 +1,9 @@
+{
+	"name": "snowflake",
+	"logo": "https://i.ibb.co/dpRXF4C/ouroboros.png",
+	"rpc_url": "http://217.76.63.253:9944",
+	"explorer_url": "http://217.76.63.253:4000",
+	"metrics_endpoint": "http://217.76.63.253:9615/metrics",
+	"id": "2b36404a-8142-4d26-9333-8838db4698fd"
+}
+	
