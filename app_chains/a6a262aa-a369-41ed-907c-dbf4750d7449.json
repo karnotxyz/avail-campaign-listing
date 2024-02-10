@@ -1,0 +1,8 @@
+{
+  "name": "plojutyn",
+  "logo": "https://i.imgur.com/b50RlmY.jpg",
+  "rpc_url": "http://91.107.232.61:9944",
+  "explorer_url": "http://91.107.232.61:4000",
+  "metrics_endpoint": "http://91.107.232.61:9615/metrics",
+  "id": "a6a262aa-a369-41ed-907c-dbf4750d7449"
+}
