@@ -1,0 +1,8 @@
+{
+  "name": "okpokoemel",
+  "logo": "https://i.ibb.co/C2TDx0H/AA.png",
+  "rpc_url": "http://38.242.204.78:9944",
+  "explorer_url": "http://38.242.204.78:4000",
+  "metrics_endpoint": "http://38.242.204.78:9615/metrics",
+  "id": "503313d4-2003-4eb7-a860-e4540f0972a9"
+}
