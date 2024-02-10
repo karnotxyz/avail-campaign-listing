@@ -1,0 +1,8 @@
+{
+  "name": "Mou",
+  "logo": "https://i.ibb.co/Q8K6tzr/mou.png",
+  "rpc_url": "http://137.184.229.40:9944",
+  "explorer_url": "http://137.184.229.40:4000",
+  "metrics_endpoint": "http://137.184.229.40:9615/metrics",
+  "id": "9acec09d-dde8-4350-a53d-4a68bce91379"
+}
