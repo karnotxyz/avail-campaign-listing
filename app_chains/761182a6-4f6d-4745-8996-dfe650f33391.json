@@ -1,0 +1,8 @@
+{
+  "name": "Coinstamp",
+  "logo": "https://r.resimlink.com/RZFM7amN.jpg",
+  "rpc_url": "http://65.108.157.232:9944",
+  "explorer_url": "http://65.108.157.232:4000",
+  "metrics_endpoint": "http://65.108.157.232:9615/metrics",
+  "id": "761182a6-4f6d-4745-8996-dfe650f33391"
+}
