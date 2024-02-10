@@ -1,0 +1,8 @@
+{
+  "name": "batutatu",
+  "logo": "https://ibb.co/Hzngjdf",
+  "rpc_url": "http://158.220.122.194:9944",
+  "explorer_url": "http://158.220.122.194:4000",
+  "metrics_endpoint": "http://158.220.122.194:9615/metrics",
+  "id": "23ff05b6-b1b9-42db-8d59-f07747b50a56"
+}

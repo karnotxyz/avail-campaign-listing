@@ -1,0 +1,8 @@
+{
+  "name": "teachya",
+  "logo": "https://i.imgur.com/YkWXmF2.png",
+  "rpc_url": "http://173.212.218.21:9944",
+  "explorer_url": "http://173.212.218.21:4000",
+  "metrics_endpoint": "http://173.212.218.21:9615/metrics",
+  "id": "57b194ff-2911-4996-9cad-739a47cb3e74"
+}

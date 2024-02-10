@@ -1,0 +1,8 @@
+{
+  "name": "bazzi",
+  "logo": "https://r.resimlink.com/MlZpwbPm3.png",
+  "rpc_url": "http://37.60.254.1:9944",
+  "explorer_url": "http://37.60.254.1:4000",
+  "metrics_endpoint": "http://37.60.254.1:9615/metrics",
+  "id": "f4ad7fa6-6a2f-44e5-8607-953b257b4413"
+}

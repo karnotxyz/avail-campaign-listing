@@ -1,0 +1,8 @@
+{
+  "name": "Zeed",
+  "logo": "https://i.ibb.co/3FHpptb/seva.jpg",
+  "rpc_url": "http://37.60.244.98:9944",
+  "explorer_url": "http://37.60.244.98:4000",
+  "metrics_endpoint": "http://37.60.244.98:9615/metrics",
+  "id": "6477ea68-1ef2-4520-b501-dd37e9c92be3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sebatian",
+  "logo": "https://raw.githubusercontent.com/YukiN94/Testnet-X1/main/sebatian.svg",
+  "rpc_url": "http://84.247.162.109:9944",
+  "explorer_url": "http://84.247.162.109:4000",
+  "metrics_endpoint": "http://84.247.162.109:9615/metrics",
+  "id": "ae098aca-2fb5-4eba-91cc-913918ae3519"
+}

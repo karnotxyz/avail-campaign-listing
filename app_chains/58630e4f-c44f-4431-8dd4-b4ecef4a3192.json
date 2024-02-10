@@ -1,0 +1,8 @@
+{
+  "name": "leylasezinali",
+  "logo": "https://pbs.twimg.com/profile_images/890818780988833792/nMVg9IvE_400x400.jpg",
+  "rpc_url": "http://65.109.175.157:9944",
+  "explorer_url": "http://65.109.175.157:4000",
+  "metrics_endpoint": "http://65.109.175.157:9615/metrics",
+  "id": "58630e4f-c44f-4431-8dd4-b4ecef4a3192"
+}

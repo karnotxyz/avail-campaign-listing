@@ -1,0 +1,8 @@
+{
+  "name": "thecoldblooded",
+  "logo": "https://ibb.co/wSMw1jS",
+  "rpc_url": "http://5.180.186.25:9944",
+  "explorer_url": "http://5.180.186.25:4000",
+  "metrics_endpoint": "http://5.180.186.25:9615/metrics",
+  "id": "643dc887-e1f2-428a-bc8a-0fe8d2e31f83"
+}

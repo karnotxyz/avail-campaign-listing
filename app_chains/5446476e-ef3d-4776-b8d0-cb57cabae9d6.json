@@ -1,0 +1,8 @@
+{
+  "name": "Samonde",
+  "logo": "https://samonde.com/Feline.png",
+  "rpc_url": "http://84.247.185.165:9944",
+  "explorer_url": "http://84.247.185.165:4000",
+  "metrics_endpoint": "http://84.247.185.165:9615/metrics",
+  "id": "5446476e-ef3d-4776-b8d0-cb57cabae9d6"
+}

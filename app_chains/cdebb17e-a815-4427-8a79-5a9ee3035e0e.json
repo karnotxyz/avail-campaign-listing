@@ -1,0 +1,8 @@
+{
+  "name": "phoenix",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/phoenix_9955692-1/logos/phoenix_9955692-1.png",
+  "rpc_url": "https://a1.makingmemories.xyz",
+  "explorer_url": "https://a3.makingmemories.xyz",
+  "metrics_endpoint": "https://a2.makingmemories.xyz/metrics",
+  "id": "cdebb17e-a815-4427-8a79-5a9ee3035e0e"
+}

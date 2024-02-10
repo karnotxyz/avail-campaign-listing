@@ -1,0 +1,8 @@
+{
+  "name": "Aaavail",
+  "logo": "https://r.resimlink.com/36XzGwj-M.png",
+  "rpc_url": "http://81.0.219.208:9944",
+  "explorer_url": "http://81.0.219.208:4000",
+  "metrics_endpoint": "http://81.0.219.208:9615/metrics",
+  "id": "e269be25-f95e-4aff-b322-51e5478738de"
+}

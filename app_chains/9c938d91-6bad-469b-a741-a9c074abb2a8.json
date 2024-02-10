@@ -1,0 +1,8 @@
+{
+  "name": "apex",
+  "logo": "https://imgur.com/QrVlZTq.jpg",
+  "rpc_url": "http://84.247.179.122:9944",
+  "explorer_url": "http://84.247.179.122:4000",
+  "metrics_endpoint": "http://84.247.179.122:9615/metrics",
+  "id": "9c938d91-6bad-469b-a741-a9c074abb2a8"
+}

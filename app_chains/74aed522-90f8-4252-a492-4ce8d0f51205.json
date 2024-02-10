@@ -1,0 +1,8 @@
+{
+  "name": "Ponyo",
+  "logo": "https://mbavery.github.io/iffall2017/microsite/finished/images/ponyo.png",
+  "rpc_url": "http://159.69.239.8:9944",
+  "explorer_url": "http://159.69.239.8:4000",
+  "metrics_endpoint": "http://159.69.239.8:9615/metrics",
+  "id": "74aed522-90f8-4252-a492-4ce8d0f51205"
+}

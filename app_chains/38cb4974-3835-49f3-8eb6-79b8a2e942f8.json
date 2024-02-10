@@ -1,0 +1,8 @@
+{
+  "name": "YAGUN",
+  "logo": "https://ibb.co/f0pnGK9",
+  "rpc_url": "http://134.209.192.22:9944",
+  "explorer_url": "http://134.209.192.22:4000",
+  "metrics_endpoint": "http://134.209.192.22:9615/metrics",
+  "id": "38cb4974-3835-49f3-8eb6-79b8a2e942f8"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ToFake",
+  "logo": "https://avatars.githubusercontent.com/u/17873475",
+  "rpc_url": "http://152.53.21.243:9944",
+  "explorer_url": "http://152.53.21.243:4000",
+  "metrics_endpoint": "http://152.53.21.243:9615/metrics",
+  "id": "03f7852e-57b3-4081-a64b-40d5a42ae419"
+}

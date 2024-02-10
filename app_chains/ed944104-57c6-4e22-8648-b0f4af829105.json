@@ -1,0 +1,8 @@
+{
+  "name": "hysis",
+  "logo": "https://r.resimlink.com/Bl_pKF8.jpg",
+  "rpc_url": "http://5.189.179.148:9944",
+  "explorer_url": "http://5.189.179.148:4000",
+  "metrics_endpoint": "http://5.189.179.148:9615/metrics",
+  "id": "ed944104-57c6-4e22-8648-b0f4af829105"
+}

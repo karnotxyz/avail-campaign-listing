@@ -1,0 +1,8 @@
+{
+  "name": "logosnodos",
+  "logo": "https://i.ibb.co/yQNWxCc/logo-black.png",
+  "rpc_url": "http://128.199.208.138:9944",
+  "explorer_url": "http://128.199.208.138:4000",
+  "metrics_endpoint": "http://128.199.208.138:9615/metrics",
+  "id": "4e96fa14-9cff-447d-8a19-47f703f26c71"
+}

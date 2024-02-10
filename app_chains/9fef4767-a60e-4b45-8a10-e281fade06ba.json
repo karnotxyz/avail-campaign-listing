@@ -1,0 +1,8 @@
+{
+  "name": "ferdi0x",
+  "logo": "https://i.imgur.com/j7gTjKW.jpeg",
+  "rpc_url": "http://144.91.123.98:9944",
+  "explorer_url": "http://144.91.123.98:4000",
+  "metrics_endpoint": "http://144.91.123.98:9615/metrics",
+  "id": "9fef4767-a60e-4b45-8a10-e281fade06ba"
+}

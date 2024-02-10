@@ -1,0 +1,8 @@
+{
+  "name": "Teresa",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://43.153.53.210:9944",
+  "explorer_url": "http://43.153.53.210:4000",
+  "metrics_endpoint": "http://43.153.53.210:9615/metrics",
+  "id": "a843eed8-0a69-4d0f-a3f5-dd55e6a1fa8f"
+}

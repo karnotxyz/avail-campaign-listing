@@ -1,0 +1,8 @@
+{
+  "name": "rosefker",
+  "logo": "https://images.pexels.com/photos/133472/pexels-photo-133472.jpeg",
+  "rpc_url": "http://103.73.160.28:9944",
+  "explorer_url": "http://103.73.160.28:4000",
+  "metrics_endpoint": "http://103.73.160.28:9615/metrics",
+  "id": "aa1240a3-1919-4889-9757-f2ee6e0f3f26"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AmazingZone",
+  "logo": "https://i.imgur.com/nbtMUIr.jpg",
+  "rpc_url": "http://34.168.180.207:9944",
+  "explorer_url": "http://34.168.180.207:4000",
+  "metrics_endpoint": "http://34.168.180.207:9615/metrics",
+  "id": "1bad305a-46e3-4c53-bde8-a9d92ed9448c"
+}
