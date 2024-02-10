@@ -1,0 +1,8 @@
+{
+    "name": "theo",
+    "logo": "https://ibb.co/qNZ2Wbn",
+    "rpc_url": "https://193.178.210.123:9944",
+    "explorer_url": "https://193.178.210.123:4000",
+    "metrics_endpoint": "https://193.178.210.123:9615/metrics",
+    "id": "9815e069-8404-40a9-b54a-3677e3128e06"
+  }
