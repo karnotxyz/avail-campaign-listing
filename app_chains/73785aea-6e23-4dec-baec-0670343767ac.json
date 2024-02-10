@@ -1,0 +1,8 @@
+{
+  "name": "Blustack",
+  "logo": "https://imgur.com/5yJzf0j.png",
+  "rpc_url": "https://84.247.189.63.xyz",
+  "explorer_url": "https://84.247.189.63.xyz",
+  "metrics_endpoint": "https://84.247.189.63:9615/metrics",
+  "id": "812de564-4f60-4ea0-b35f-5e7143769fbc"
+}
