@@ -1,0 +1,8 @@
+{
+  "name": "GTC",
+  "logo": "https://i.ibb.co/483ZbfP/IMG-20220506-022357.jpg",
+  "rpc_url": "http://146.190.170.79:9944",
+  "explorer_url": "http://146.190.170.79:4000",
+  "metrics_endpoint": "http://146.190.170.79:9615/metrics",
+  "id": "c5f03fde-f121-4486-a179-82a779f429bb"
+}

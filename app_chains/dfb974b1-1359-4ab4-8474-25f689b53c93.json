@@ -1,0 +1,8 @@
+{
+  "name": "jamin",
+  "logo": "https://im.ge/i/cduXMa",
+  "rpc_url": "http://149.102.128.190:9944",
+  "explorer_url": "http://149.102.128.190:4000",
+  "metrics_endpoint": "http://149.102.128.190:9615/metrics",
+  "id": "dfb974b1-1359-4ab4-8474-25f689b53c93"
+}

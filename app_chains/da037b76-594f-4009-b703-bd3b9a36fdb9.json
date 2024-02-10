@@ -1,0 +1,8 @@
+{
+  "name": "mimi",
+  "logo": "https://i.ibb.co/HhqF7H7/photo-2024-02-05-10-50-50-1.jpg",
+  "rpc_url": "http://144.91.83.205:9944",
+  "explorer_url": "http://144.91.83.205:4000",
+  "metrics_endpoint": "http://144.91.83.205:9615/metrics",
+  "id": "da037b76-594f-4009-b703-bd3b9a36fdb9"
+}

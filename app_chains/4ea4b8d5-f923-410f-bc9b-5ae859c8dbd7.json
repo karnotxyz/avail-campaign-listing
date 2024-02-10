@@ -1,0 +1,8 @@
+{
+  "name": "mars",
+  "logo": "https://cdn.pixabay.com/photo/2021/02/08/16/03/dinosaur-5995333_1280.png",
+  "rpc_url": "http://147.45.42.61:9944",
+  "explorer_url": "http://147.45.42.61:4000",
+  "metrics_endpoint": "http://147.45.42.61:9615/metrics",
+  "id": "4ea4b8d5-f923-410f-bc9b-5ae859c8dbd7"
+}

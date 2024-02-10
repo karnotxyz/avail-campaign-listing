@@ -1,0 +1,8 @@
+{
+  "name": "vega",
+  "logo": "https://imgur.com/6mMFITc.jpg",
+  "rpc_url": "http://84.247.179.117:9944",
+  "explorer_url": "http://84.247.179.117:4000",
+  "metrics_endpoint": "http://84.247.179.117:9615/metrics",
+  "id": "63d4ca7f-2f1c-4789-aca9-1d119caf89f3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "TyTyNoderunner",
+  "logo": "https://raw.githubusercontent.com/tytynoderunner/Node/main/sword.jpg",
+  "rpc_url": "http://65.108.198.183:9944",
+  "explorer_url": "http://65.108.198.183:4000",
+  "metrics_endpoint": "http://65.108.198.183:9615/metrics",
+  "id": "a5b6c77a-226e-4638-beb7-3bde1bdf3c40"
+}

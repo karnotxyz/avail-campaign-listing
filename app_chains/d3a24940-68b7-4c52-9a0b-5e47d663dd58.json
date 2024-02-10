@@ -1,0 +1,8 @@
+{
+  "name": "derya",
+  "logo": "https://i.ibb.co/T81Wzkc/bird-2.jpg",
+  "rpc_url": "http://164.92.180.219:9944",
+  "explorer_url": "http://164.92.180.219:4000",
+  "metrics_endpoint": "http://164.92.180.219:9615/metrics",
+  "id": "d3a24940-68b7-4c52-9a0b-5e47d663dd58"
+}

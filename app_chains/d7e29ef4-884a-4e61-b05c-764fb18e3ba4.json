@@ -1,0 +1,8 @@
+{
+  "name": "ledgerlogic",
+  "logo": "https://i.imgur.com/slLeENh.jpeg",
+  "rpc_url": "http://65.21.184.135:9944",
+  "explorer_url": "http://65.21.184.135:4000",
+  "metrics_endpoint": "http://65.21.184.135:9615/metrics",
+  "id": "d7e29ef4-884a-4e61-b05c-764fb18e3ba4"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kurdgozar",
+  "logo": "https://r.resimlink.com/HPAWJMgLF.jpg",
+  "rpc_url": "http://95.216.143.27:9944",
+  "explorer_url": "http://95.216.143.27:4000",
+  "metrics_endpoint": "http://95.216.143.27:9615/metrics",
+  "id": "6e18337e-3959-4a63-9dce-c0d4b99ce31c"
+}

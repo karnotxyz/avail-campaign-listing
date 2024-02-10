@@ -1,0 +1,8 @@
+{
+  "name": "wastie",
+  "logo": "https://i.imgur.com/Pz7wD2W.jpeg",
+  "rpc_url": "http://142.44.211.9:9944",
+  "explorer_url": "http://142.44.211.9:4000",
+  "metrics_endpoint": "http://142.44.211.9:9615/metrics",
+  "id": "4cbb5b6b-6e52-4ab1-9e22-19d1d8466f56"
+}

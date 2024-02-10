@@ -1,0 +1,8 @@
+{
+  "name": "burqrcyxlys",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/burqrcyxlys.png",
+  "rpc_url": "http://170.106.150.149:9944",
+  "explorer_url": "http://170.106.150.149:4000",
+  "metrics_endpoint": "http://170.106.150.149:9615/metrics",
+  "id": "3588588f-ba01-480a-9750-53a8180b974d"
+}

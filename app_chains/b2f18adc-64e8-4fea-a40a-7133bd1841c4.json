@@ -1,0 +1,8 @@
+{
+  "name": "QTxCT",
+  "logo": "http://r.resimlink.com/EqgRZM.jpeg",
+  "rpc_url": "http://207.180.229.108:9944",
+  "explorer_url": "http://207.180.229.108:4000",
+  "metrics_endpoint": "http://207.180.229.108:9615/metrics",
+  "id": "b2f18adc-64e8-4fea-a40a-7133bd1841c4"
+}

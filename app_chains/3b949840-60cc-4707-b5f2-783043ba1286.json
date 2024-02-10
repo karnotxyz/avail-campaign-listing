@@ -1,0 +1,8 @@
+{
+  "name": "Vivaldi1993",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://38.242.138.65:9944",
+  "explorer_url": "http://38.242.138.65:4000",
+  "metrics_endpoint": "http://38.242.138.65:9615/metrics",
+  "id": "3b949840-60cc-4707-b5f2-783043ba1286"
+}

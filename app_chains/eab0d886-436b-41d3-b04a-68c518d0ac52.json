@@ -1,0 +1,8 @@
+{
+  "name": "Yellow",
+  "logo": "https://r.resimlink.com/VmXJ8p.jpg",
+  "rpc_url": "http://173.212.232.164:9944",
+  "explorer_url": "http://173.212.232.164:4000",
+  "metrics_endpoint": "http://173.212.232.164:9615/metrics",
+  "id": "eab0d886-436b-41d3-b04a-68c518d0ac52"
+}

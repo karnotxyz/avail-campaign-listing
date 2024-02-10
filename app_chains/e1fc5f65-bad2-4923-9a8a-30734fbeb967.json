@@ -1,0 +1,8 @@
+{
+  "name": "sakura11",
+  "logo": "https://i.imgur.com/9zbkd0N.jpg",
+  "rpc_url": "http://136.244.84.7:9944",
+  "explorer_url": "http://136.244.84.7:4000",
+  "metrics_endpoint": "http://136.244.84.7:9615/metrics",
+  "id": "e1fc5f65-bad2-4923-9a8a-30734fbeb967"
+}

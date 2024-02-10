@@ -1,0 +1,8 @@
+{
+  "name": "heroedo",
+  "logo": "https://i.imgur.com/R7rn11g.png",
+  "rpc_url": "http://95.111.232.59:9944",
+  "explorer_url": "http://95.111.232.59:4000",
+  "metrics_endpoint": "http://95.111.232.59:9615/metrics",
+  "id": "07148104-21e9-4e47-a9bb-3037bb70bb2e"
+}
