@@ -1,8 +1,0 @@
-{
-    "name": "kttaang",
-    "logo": "https://i.ibb.co/gRgGXPH/Safeimagekit-resized-img.png",
-    "rpc_url": "http://173.212.236.80:9944",
-    "explorer_url": "http://173.212.236.80:4000",
-    "metrics_endpoint": "http://173.212.236.80:9615/metrics",
-    "id": "92f86cba-1545-470f-a185-a477a9f3a009"
-  }
