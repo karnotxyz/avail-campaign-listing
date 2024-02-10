@@ -1,0 +1,8 @@
+{
+  "name": "miller",
+  "logo": "https://im.ge/i/cwBmHc",
+  "rpc_url": "http://49.13.163.134:9944",
+  "explorer_url": "http://49.13.163.134:4000",
+  "metrics_endpoint": "http://49.13.163.134:9615/metrics",
+  "id": "1bbe64ed-9f39-461c-af6e-fc5873f72537"
+}
