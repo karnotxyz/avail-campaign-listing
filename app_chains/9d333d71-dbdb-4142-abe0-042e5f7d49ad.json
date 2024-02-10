@@ -1,0 +1,8 @@
+{
+  "name": "dedek168",
+  "logo": "https://r.resimlink.com/gn5O-r.png",
+  "rpc_url": "http://194.233.67.155:9944",
+  "explorer_url": "http://194.233.67.155:4000",
+  "metrics_endpoint": "http://194.233.67.155:9615",
+  "id": "9d333d71-dbdb-4142-abe0-042e5f7d49ad"
+}
