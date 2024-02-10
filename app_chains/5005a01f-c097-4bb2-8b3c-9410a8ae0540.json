@@ -1,0 +1,8 @@
+{
+  "name": "insomnia",
+  "logo": "https://imgur.com/a/NOlLj44",
+  "rpc_url": "http://194.233.95.85:9944",
+  "explorer_url": "http://194.233.95.85:4000",
+  "metrics_endpoint": "http://194.233.95.85:9615/metrics",
+  "id": "5005a01f-c097-4bb2-8b3c-9410a8ae0540"
+}
