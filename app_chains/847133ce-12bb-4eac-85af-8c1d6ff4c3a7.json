@@ -1,0 +1,8 @@
+{
+  "name": "gemcitex",
+  "logo": "https://kakhki.ir/static/media/logocitex.png",
+  "rpc_url": "http://kakhki.ir:9944",
+  "explorer_url": "http://kakhki.ir:4000",
+  "metrics_endpoint": "http://kakhki.ir:9615/metrics",
+  "id": "847133ce-12bb-4eac-85af-8c1d6ff4c3a7"
+}
