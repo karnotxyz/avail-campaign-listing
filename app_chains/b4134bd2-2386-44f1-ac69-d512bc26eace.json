@@ -1,0 +1,8 @@
+{
+  "name": "CJNode",
+  "logo": "https://ibb.co/h8RK2PR",
+  "rpc_url": "https://194.59.247.129:9944",
+  "explorer_url": "https://194.59.247.129:4000",
+  "metrics_endpoint": "https://194.59.247.129:9615/metrics",
+  "id": "b4134bd2-2386-44f1-ac69-d512bc26eace"
+}
