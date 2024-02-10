@@ -1,0 +1,8 @@
+{
+  "name": "thefak25",
+  "logo": "https://i.ibb.co/n7MBjJk/imresizer-1707556162676.png",
+  "rpc_url": "http://38.242.217.160:9944",
+  "explorer_url": "http://38.242.217.160:4000",
+  "metrics_endpoint": "http://38.242.217.160:9615/metrics",
+  "id": "f9fa977c-6b16-4795-8927-c0cfe89fa02e"
+}
