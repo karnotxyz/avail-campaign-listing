@@ -1,0 +1,8 @@
+{
+  "name": "thecodes",
+  "logo": "https://r.resimlink.com/ovCdRBu.jpg",
+  "rpc_url": "http://161.97.100.160:9944",
+  "explorer_url": "http://161.97.100.160:4000",
+  "metrics_endpoint": "http://161.97.100.160:9615/metrics",
+  "id": "1f73f36c-e739-4be6-b20d-df6db5ae669a"
+}
