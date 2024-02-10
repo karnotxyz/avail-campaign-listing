@@ -3,6 +3,6 @@
   "logo": "https://im.ge/i/kenwata-1899105-1.b1OgXC",
   "rpc_url": "http://116.80.60.234:9944/",
   "explorer_url": "http://116.80.60.234:4000/",
-  "metrics_endpoint": "http://116.80.60.234:9615/",
+  "metrics_endpoint": "http://116.80.60.234:9615/metrics",
   "id": "2ffcfcbd-c884-4589-b5c9-42208bb84590"
 }
