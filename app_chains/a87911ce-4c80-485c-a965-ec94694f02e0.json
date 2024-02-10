@@ -1,0 +1,8 @@
+{
+  "name": "aurora",
+  "logo": "https://https://r.resimlink.com/_RcBxZ3ViS.jpg",
+  "rpc_url": "http://165.22.54.253:9944",
+  "explorer_url": "http://165.22.54.253:4000",
+  "metrics_endpoint": "http://165.22.54.253:9615/metrics",
+  "id": "a87911ce-4c80-485c-a965-ec94694f02e0"
+}
