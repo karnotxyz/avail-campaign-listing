@@ -1,0 +1,8 @@
+{
+  "name": "CyrptorNode",
+  "logo": "https://i.ibb.co/HPY6zjK/CN.png",
+  "rpc_url": "http://37.27.59.26:9944",
+  "explorer_url": "http://37.27.59.26:4000",
+  "metrics_endpoint": "http://37.27.59.26:9615/metrics",
+  "id": "e99feebf-145c-4131-91df-e2d8a6a19c4e"
+}
