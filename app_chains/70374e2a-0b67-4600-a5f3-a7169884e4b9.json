@@ -1,0 +1,8 @@
+{
+  "name": "minezz",
+  "logo": "",
+  "rpc_url": "http://95.111.236.157:9944",
+  "explorer_url": "http://95.111.236.157:4000",
+  "metrics_endpoint": "http://95.111.236.157:9615/metrics",
+  "id": "70374e2a-0b67-4600-a5f3-a7169884e4b9"
+}
