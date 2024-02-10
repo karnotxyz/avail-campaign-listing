@@ -1,0 +1,8 @@
+{
+  "name": "aranella",
+  "logo": "https://i.ibb.co/9WxGcK5/sofa-aranella.png",
+  "rpc_url": "https://207.180.221.246:9944",
+  "explorer_url": "https://207.180.221.246:4000",
+  "metrics_endpoint": "https://207.180.221.246:9615/metrics",
+  "id": "889c2ca1-3510-490d-afe0-9c33b3bf919f"
+}
