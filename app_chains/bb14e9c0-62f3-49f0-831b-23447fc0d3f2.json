@@ -1,8 +1,8 @@
 {
-  "name": "guardians",
-  "logo": "https://r.resimlink.com/j6WmB2.jpg", 
-  "rpc_url": "http://89.117.77.81:9944",
-  "explorer_url": "http://89.117.77.81:4000",
-  "metrics_endpoint": "http://89.117.77.81:9615/metrics",
-  "id": "bb14e9c0-62f3-49f0-831b-23447fc0d3f2" 
+"name": "guardians",
+"logo": "https://r.resimlink.com/j6WmB2.jpg", 
+"rpc_url": "http://89.117.77.81:9944",
+"explorer_url": "http://89.117.77.81:4000",
+"metrics_endpoint": "http://89.117.77.81:9615/metrics",
+"id": "bb14e9c0-62f3-49f0-831b-23447fc0d3f2" 
 }
