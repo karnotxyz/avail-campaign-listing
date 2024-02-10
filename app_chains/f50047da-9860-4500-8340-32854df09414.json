@@ -1,0 +1,8 @@
+{
+  "name": "hobit",
+  "logo": "https://i.imgur.com/1n5HNLR.jpeg",
+  "rpc_url": "http://5.189.131.182:9944",
+  "explorer_url": "http://5.189.131.182:4000",
+  "metrics_endpoint": "http://5.189.131.182:9615/metrics",
+  "id": "f50047da-9860-4500-8340-32854df09414"
+}

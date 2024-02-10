@@ -1,0 +1,8 @@
+{
+  "name": "brkoe",
+  "logo": "https://i.imgur.com/5pgqJl9.jpg",
+  "rpc_url": "http://173.212.220.220:9944",
+  "explorer_url": "http://173.212.220.220:4000",
+  "metrics_endpoint": "http://173.212.220.220:9615/metrics",
+  "id": "26e230c8-4d79-4189-b596-ddc9439f7608"
+}

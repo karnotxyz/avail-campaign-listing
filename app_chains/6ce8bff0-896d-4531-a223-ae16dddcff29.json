@@ -1,0 +1,8 @@
+{
+  "name": "anychain",
+  "logo": "https://i.imgur.com/3bmdl01.png",
+  "rpc_url": "http://198.135.54.1:9944",
+  "explorer_url": "http://198.135.54.1:4000",
+  "metrics_endpoint": "http://198.135.54.1:9615/metrics",
+  "id": "6ce8bff0-896d-4531-a223-ae16dddcff29"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jhonsnow",
+  "logo": "https://i.imgur.com/kIvApuV.jpg",
+  "rpc_url": "http://128.140.51.93:9944",
+  "explorer_url": "http://128.140.51.93:4000",
+  "metrics_endpoint": "http://128.140.51.93:9615/metrics",
+  "id": "090cdc26-cd60-4eda-8821-bcdbabf8cd22"
+}
