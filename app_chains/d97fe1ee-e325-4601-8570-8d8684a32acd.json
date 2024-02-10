@@ -1,0 +1,8 @@
+{
+  "name": "afar",
+  "logo": "https://r.resimlink.com/G3nuZbLtCN.png",
+  "rpc_url": "http://164.68.119.189:9944",
+  "explorer_url": "http://164.68.119.189:4000",
+  "metrics_endpoint": "http://164.68.119.189:9615/metrics",
+  "id": "d97fe1ee-e325-4601-8570-8d8684a32acd"
+}
