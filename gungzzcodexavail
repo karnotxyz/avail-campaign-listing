@@ -1,0 +1,8 @@
+{
+  "name": "Gungzzcode",
+  "logo": "https://placehold.co/400x400", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "rpc_url": "http://173.249.46.103:9944",
+  "explorer_url": "http://173.249.46.103:4000",
+  "metrics_endpoint": "http://173.249.46.103:9615",
+  "id": "b65d8444-6a1c-43d7-9435-912a6f87d78b"
+}
