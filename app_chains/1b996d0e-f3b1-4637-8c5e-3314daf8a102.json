@@ -1,0 +1,8 @@
+{
+    "name": "Sbrlord",
+    "logo": "https://i.ibb.co/716bjK0/ParsaSbr.png",
+    "rpc_url": "http://5.75.207.153:9944",
+    "explorer_url": "http://5.75.207.153:4000",
+    "metrics_endpoint": "http://5.75.207.153:9615/metrics",
+    "id": "1b996d0e-f3b1-4637-8c5e-3314daf8a102"
+}
