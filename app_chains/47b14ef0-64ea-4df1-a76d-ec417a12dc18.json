@@ -1,0 +1,8 @@
+{
+  "name": "ahmadio",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/56671244/303839918-cf598754-ce79-4bd7-af85-c113cf53fdee.png",
+  "rpc_url": "http://159.69.239.22:9944",
+  "explorer_url": "http://159.69.239.22:4000",
+  "metrics_endpoint": "http://159.69.239.22:9615/metrics",
+  "id": "47b14ef0-64ea-4df1-a76d-ec417a12dc18"
+}
