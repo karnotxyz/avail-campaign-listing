@@ -1,6 +1,6 @@
 {
   "name": "polikosi",
-  "logo": "https://imgur.com/a/R4czRsa",
+  "logo": "https://i.imgur.com/PpaqsRW.png",
   "rpc_url": "http://45.85.146.65:9944",
   "explorer_url": "http://45.85.146.65:4000",
   "metrics_endpoint": "http://45.85.146.65:9615/metrics",
