@@ -1,0 +1,8 @@
+{
+  "name": "Zona",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://43.130.2.133:9944",
+  "explorer_url": "http://43.130.2.133:4000",
+  "metrics_endpoint": "http://43.130.2.133:9615/metrics",
+  "id": "def18a5e-a44a-461c-b091-e4dcfb08e789"
+}
