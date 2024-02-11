@@ -1,0 +1,9 @@
+{
+  "name": "0xhabib",
+  "logo": "http://r.resimlink.com/LVzEil3w.png",
+  "rpc_url": "http://51.38.206.2:9944",
+  "explorer_url": "http://51.38.206.2:4000",
+  "metrics_endpoint": "http://51.38.206.2:9615/metrics",
+  "id": "21900dc0-f910-4c47-b10e-fd59d55b9948"
+  }
+   
