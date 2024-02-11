@@ -1,8 +1,8 @@
 {
-  "name": "philips",
+  "name": "minetotine",
   "logo": "https://r.resimlink.com/1iLhX.jpg",
   "rpc_url": "http://37.27.37.39:9944",
   "explorer_url": "http://37.27.37.39:4000",
   "metrics_endpoint": "http://37.27.37.39:9615/metrics",
-  "id": "829c3624-5e1d-40c4-9012-31dbdbe38262"
+  "id": "54df399b-7140-4325-9ded-8c9ea312e897"
 }
