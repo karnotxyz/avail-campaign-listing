@@ -1,0 +1,8 @@
+{
+  "name": "michy",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://217.76.57.136:9944",
+  "explorer_url": "http://217.76.57.136:4000",
+  "metrics_endpoint": "http://217.76.57.136:9615/metrics",
+  "id": "7f1c2fa8-0fd7-41a9-b951-c9a97dd7f1bd"
+}
