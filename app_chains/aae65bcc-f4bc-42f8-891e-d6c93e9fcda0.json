@@ -1,8 +1,8 @@
 { 
-  "name" :  "approve123" 、
-  "logo" :  "https://ibb.co/TmqmP0c" 、
-  "rpc_url" :  "http://173.212.241.150:9944" 、
-  "explorer_url" :  "http://173.212.241.150:4000" , 
-  "metrics_endpoint" :  "http://173.212.241.150:9615/metrics" , 
+  "name" :  "approve123" 
+  "logo" :  "https://ibb.co/TmqmP0c" 
+  "rpc_url" :  "http://173.212.241.150:9944" 
+  "explorer_url" :  "http://173.212.241.150:4000" 
+  "metrics_endpoint" :  "http://173.212.241.150:9615/metrics" 
   "id" :  "aae65bcc-f4bc-42f8-891e-d6c93e9fcda0" 
 }
