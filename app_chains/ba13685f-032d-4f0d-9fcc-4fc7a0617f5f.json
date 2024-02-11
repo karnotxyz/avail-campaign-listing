@@ -1,0 +1,8 @@
+{
+  "name": "co-tacter",
+  "logo": "https://r.resimlink.com/E109dZhG.png",
+  "rpc_url": "http://89.117.57.120:9944",
+  "explorer_url": "http://89.117.57.120:4000",
+  "metrics_endpoint": "http://89.117.57.120:9615/metrics",
+  "id": "ba13685f-032d-4f0d-9fcc-4fc7a0617f5f"
+}
