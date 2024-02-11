@@ -1,0 +1,8 @@
+{
+  "name": "awezmadara",
+  "logo": "https://i.ibb.co/jHyk5sY/awez.png",
+  "rpc_url": "http://109.123.253.61:9944",
+  "explorer_url": "http://109.123.253.61:4000",
+  "metrics_endpoint": "http://109.123.253.61/metrics",
+  "id": "f031654d-90cf-488a-b648-ae542379313a"
+}
