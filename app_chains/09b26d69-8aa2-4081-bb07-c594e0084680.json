@@ -1,0 +1,8 @@
+{
+  "name": “gpaul”,
+  "logo": "https://raw.githubusercontent.com/Gpaul26/logos/main/gpaul_8044891-1.png",
+  "rpc_url": "http://31.220.94.91:9944",
+  "explorer_url": "http://31.220.94.91:4000",
+  "metrics_endpoint": "http://31.220.94.91:9615/metrics",
+  "id": "09b26d69-8aa2-4081-bb07-c594e0084680"
+}
