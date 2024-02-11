@@ -1,0 +1,8 @@
+{
+  "name": "buruc",
+  "logo": "https://r.resimlink.com/_p9KDSC.png",
+  "rpc_url": "http://194.163.156.197:9944",
+  "explorer_url": "http://194.163.156.197:4000",
+  "metrics_endpoint": "http://194.163.156.197:9615/metrics",
+  "id": "e1cfb7d9-1e68-4e2d-9615-5f664f77ffd1"
+}

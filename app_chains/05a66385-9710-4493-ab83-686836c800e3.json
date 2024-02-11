@@ -1,0 +1,8 @@
+{
+  "name": "ndiho",
+  "logo": "https://i.imgur.com/NpBEjMX.png",
+  "rpc_url": "http://154.12.254.43:9944",
+  "explorer_url": "http://154.12.254.43:4000",
+  "metrics_endpoint": "http://154.12.254.43:9615/metrics",
+  "id": "05a66385-9710-4493-ab83-686836c800e3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "billion",
+  "logo": "https://imgur.com/a/rGXuwA1",
+  "rpc_url": "http://81.0.218.53:4000",
+  "explorer_url": "http://81.0.218.53:4000",
+  "metrics_endpoint": "http://81.0.218.53:4000/metrics",
+  "id": "a3abc94a-5349-426b-8140-e4d5d8344c47"
+}

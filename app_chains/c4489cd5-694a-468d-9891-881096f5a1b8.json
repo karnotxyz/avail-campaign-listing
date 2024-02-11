@@ -1,0 +1,8 @@
+{
+  "name": "gs4ever",
+  "logo": "https://r.resimlink.com/zJVEwXCnr0.png",
+  "rpc_url": "http://37.27.38.212:9944",
+  "explorer_url": "http://37.27.38.212:4000",
+  "metrics_endpoint": "http://37.27.38.212:9615/metrics",
+  "id": "c4489cd5-694a-468d-9891-881096f5a1b8"
+}
