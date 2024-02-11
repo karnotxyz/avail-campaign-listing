@@ -1,0 +1,8 @@
+{
+  "name": "mrsurmeli7",
+  "logo": "https://r.resimlink.com/zq6AG.jpg",
+  "rpc_url": "http://164.92.232.179:9944",
+  "explorer_url": "http://164.92.232.179:4000",
+  "metrics_endpoint": "http://164.92.232.179:9615/metrics",
+  "id": "07871965-602d-4253-bd97-ca37be7aeee4"
+}
