@@ -1,0 +1,8 @@
+{
+  "name": "snoiva",
+  "logo": "https://r.resimlink.com/2pnxgudI0QmE.jpg",
+  "rpc_url": "http://95.217.154.67:9944",
+  "explorer_url": "http://95.217.154.67:4000",
+  "metrics_endpoint": "http://95.217.154.67:9615/metrics",
+  "id": "b217d9f2-1fb7-4af3-af2d-3a78d2651e2a"
+}
