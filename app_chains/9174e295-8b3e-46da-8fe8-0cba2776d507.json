@@ -1,0 +1,8 @@
+{
+  "name": "auiwo",
+  "logo": "https://i.postimg.cc/9Xp1chC2/2024-02-11-175057.png",
+  "rpc_url": "http://173.249.29.245:9944",
+  "explorer_url": "http://173.249.29.245:4000",
+  "metrics_endpoint": "http://173.249.29.245:9615/metrics",
+  "id": "9174e295-8b3e-46da-8fe8-0cba2776d507"
+}
