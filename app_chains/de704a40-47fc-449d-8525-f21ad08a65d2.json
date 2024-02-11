@@ -1,0 +1,8 @@
+{
+  "name": "Adeoniye",
+  "logo": "https://i.ibb.co/Wfpfgy4/adeoniye.jpg",
+  "rpc_url": "http://161.97.132.116:9944",
+  "explorer_url": "http://161.97.132.116:4000",
+  "metrics_endpoint": "http://161.97.132.116:9615/metrics",
+  "id": "de704a40-47fc-449d-8525-f21ad08a65d2"
+}
