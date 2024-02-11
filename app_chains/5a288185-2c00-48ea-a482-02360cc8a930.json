@@ -1,0 +1,8 @@
+{
+  "name": "archio",
+  "logo": "https://imgur.com/a/VVfpjSU.jpg",
+  "rpc_url": "http://194.233.95.147:9944",
+  "explorer_url": "http://194.233.95.147:4000",
+  "metrics_endpoint": "http://194.233.95.147:9615/metrics",
+  "id": "5a288185-2c00-48ea-a482-02360cc8a930"
+}
