@@ -1,0 +1,8 @@
+{
+  "name": "ymittal_playground",
+  "logo": "https://yashmittal.me/favicon.ico",
+  "rpc_url": "http://161.97.69.229:9944",
+  "explorer_url": "http://161.97.69.229:4000",
+  "metrics_endpoint": "http://161.97.69.229:9615/metrics",
+  "id": "4f71e199-94fb-4598-87c8-f2d08faaffd0"
+}
