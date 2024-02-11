@@ -1,0 +1,8 @@
+{
+  "name": "utari",
+  "logo": "https://i.im.ge/2024/02/11/cyjpkx.Metal-Poster-Displate-God-To-Artist-.jpg",
+  "rpc_url": "http://207.180.216.240:9944",
+  "explorer_url": "http://207.180.216.240:4000",
+  "metrics_endpoint": "http://207.180.216.240:9615/metrics",
+  "id": "3d09ad23-d32b-4082-842d-b38cb209f463"
+}
