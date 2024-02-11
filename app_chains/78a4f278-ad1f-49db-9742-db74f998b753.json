@@ -1,0 +1,8 @@
+{
+  "name": "Boo",
+  "logo": "https://i.postimg.cc/dt7n74WN/rocket-white.png",
+  "rpc_url": "http://46.250.233.131:9944",
+  "explorer_url": "http://46.250.233.131:4000",
+  "metrics_endpoint": "http://46.250.233.131:9615/metrics",
+  "id": "78a4f278-ad1f-49db-9742-db74f998b753"
+}
