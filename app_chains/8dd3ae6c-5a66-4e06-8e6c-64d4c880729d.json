@@ -1,0 +1,8 @@
+{
+  "name": "latatadel",
+  "logo": "https://i.imgur.com/Jhr1hv0.jpeg",
+  "rpc_url": "http://46.250.233.82:9944",
+  "explorer_url": "http://46.250.233.82:4000",
+  "metrics_endpoint": "http://46.250.233.82:9615/metrics",
+  "id": "8dd3ae6c-5a66-4e06-8e6c-64d4c880729d"
+}
