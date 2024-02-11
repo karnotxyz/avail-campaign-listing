@@ -1,0 +1,8 @@
+{
+  "name": "senku",
+  "logo": "https://imgur.com/t4zEbv3",
+  "rpc_url": "http://154.26.132.85:9944",
+  "explorer_url": "http://154.26.132.85:4000",
+  "metrics_endpoint": "http://154.26.132.85:9615/metrics",
+  "id": "a914714a-f119-4aee-a071-35d7846d0fbd"
+}
