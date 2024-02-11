@@ -1,0 +1,8 @@
+{
+  "name": "mgakifMadara",
+  "logo": "https://r.resimlink.com/nXVMYGZiLeAo.jpg", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "rpc_url": "http://38.242.198.229:9944",
+  "explorer_url": "http://38.242.198.229:4000",
+  "metrics_endpoint": "http://38.242.198.229:9615",
+  "id": "864fab89-9454-4a02-a9ba-2fbe9a4af76d"
+}
