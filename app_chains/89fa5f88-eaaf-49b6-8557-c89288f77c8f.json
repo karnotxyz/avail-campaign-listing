@@ -1,0 +1,8 @@
+{
+  "name": "datmacuibap",
+  "logo": "https://raw.githubusercontent.com/blocksync247/new/main/logo_400x400.png",
+  "rpc_url": "http://109.123.254.29:9944",
+  "explorer_url": "http://109.123.254.29:4000",
+  "metrics_endpoint": "http://109.123.254.29:9615/metrics",
+  "id": "89fa5f88-eaaf-49b6-8557-c89288f77c8f"
+}
