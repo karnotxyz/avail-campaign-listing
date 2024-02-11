@@ -1,0 +1,8 @@
+{
+  "name": "thongtham",
+  "logo": "https://i.ibb.co/8zK7n6d/2.png",
+  "rpc_url": "http://5.189.160.187:9944",
+  "explorer_url": "http://5.189.160.187:4000",
+  "metrics_endpoint": "http://5.189.160.187:9615/metrics",
+  "id": "60084f15-a935-4eed-b957-27088a1e2799"
+}
