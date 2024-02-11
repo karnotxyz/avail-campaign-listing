@@ -1,0 +1,8 @@
+{
+  "name": "tonykim",
+  "logo": "https://ibb.co/TMHpWyQ",
+  "rpc_url": "http://37.60.229.190:9944",
+  "explorer_url": "http://37.60.229.190:4000",
+  "metrics_endpoint": "http://37.60.229.190:9615/metrics",
+  "id": "d2030cf3-33bc-4327-9153-1bc3cf3e476e"
+}
