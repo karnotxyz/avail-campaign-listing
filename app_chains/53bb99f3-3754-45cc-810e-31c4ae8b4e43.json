@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Loong",
+    "logo": "http://144.126.130.104/static/loong.png",
+    "rpc_url": "http://144.126.130.104:9944",
+    "explorer_url": "http://144.126.130.104:4000",
+    "metrics_endpoint": "http://144.126.130.104:9615/metrics",
+    "id": "53bb99f3-3754-45cc-810e-31c4ae8b4e43"
+  }
+]
