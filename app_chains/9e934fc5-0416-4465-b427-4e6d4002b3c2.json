@@ -1,0 +1,8 @@
+{
+  "name": "bucchi",
+  "logo": "https://i.ibb.co/sy3sn9P",
+  "rpc_url": "http://31.220.82.225:9944",
+  "explorer_url": "http://31.220.82.225:4000",
+  "metrics_endpoint": "http://31.220.82.225:9615/metrics",
+  "id": "9e934fc5-0416-4465-b427-4e6d4002b3c2"
+}
