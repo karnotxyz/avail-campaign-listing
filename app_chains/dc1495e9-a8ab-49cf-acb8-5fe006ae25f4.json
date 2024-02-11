@@ -1,8 +1,0 @@
-{
-  "name": "SerdarMujdat",
-  "logo": "https://i.imgur.com/mSOYGgC.png",
-  "rpc_url": "http://35.222.50.19:9944",
-  "explorer_url": "http://35.222.50.19:4000",
-  "metrics_endpoint": "http://35.222.50.19:9615/metrics",
-  "id": "dc1495e9-a8ab-49cf-acb8-5fe006ae25f4"
-}
