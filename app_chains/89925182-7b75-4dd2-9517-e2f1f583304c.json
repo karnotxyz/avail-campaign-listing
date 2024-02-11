@@ -1,0 +1,8 @@
+{
+  "name": "tufan2",
+  "logo": "https://i.hizliresim.com/tf9xd1r.png",
+  "rpc_url": "http://167.86.99.201:9944",
+  "explorer_url": "http://167.86.99.201:4000",
+  "metrics_endpoint": "http://167.86.99.201:9615/metrics",
+  "id": "89925182-7b75-4dd2-9517-e2f1f583304c"
+}
