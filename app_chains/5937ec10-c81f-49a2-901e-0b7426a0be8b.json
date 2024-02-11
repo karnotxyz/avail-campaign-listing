@@ -1,0 +1,8 @@
+{
+  "name": "elmon",
+  "logo": "https://r.resimlink.com/9W_3MxV4.jpg",
+  "rpc_url": "http://65.109.212.126:9944",
+  "explorer_url": "http://65.109.212.126:4000",
+  "metrics_endpoint": "http://65.109.212.126:9615/metrics",
+  "id": "5937ec10-c81f-49a2-901e-0b7426a0be8b"
+}
