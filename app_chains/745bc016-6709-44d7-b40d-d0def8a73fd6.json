@@ -1,0 +1,8 @@
+{
+  "name": "mrhich",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/102301035/303912568-8f78dc1e-f872-4b2c-8ff1-412343310ae3.png",
+  "rpc_url": "https://156.67.219.47:9944",
+  "explorer_url": "https://156.67.219.47:4000",
+  "metrics_endpoint": "https://156.67.219.47:9615",
+  "id": "745bc016-6709-44d7-b40d-d0def8a73fd6"
+}
