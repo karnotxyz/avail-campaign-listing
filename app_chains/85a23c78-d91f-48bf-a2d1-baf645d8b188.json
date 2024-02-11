@@ -1,0 +1,8 @@
+{
+   "name": "nichoqu",
+   "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/95573636/303946018-40102bc3-ff7d-4ad9-8c75-c8a56e73db1a.png",
+   "rpc_url": "http://49.12.60.61:9944",
+   "explorer_url": "http://49.12.60.61:4000",
+   "metrics_endpoint": "http://49.12.60.61:9615/metrics", 
+   "id": "85a23c78-d91f-48bf-a2d1-baf645d8b188"
+}
