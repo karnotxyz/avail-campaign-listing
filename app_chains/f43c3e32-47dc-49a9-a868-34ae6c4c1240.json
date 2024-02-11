@@ -1,0 +1,8 @@
+{
+  "name": "darkforest",
+  "logo": "https://raw.githubusercontent.com/Alexzhuangyao/CreatePicture/master/userlmn_e8edc8d981ad06c9122b780e5ef289cb.jpg",
+  "rpc_url": "http://65.108.40.120:9944",
+  "explorer_url": "http://65.108.40.120:4000",
+  "metrics_endpoint": "http://65.108.40.120:9615/metrics",
+  "id": "f43c3e32-47dc-49a9-a868-34ae6c4c1240"
+}

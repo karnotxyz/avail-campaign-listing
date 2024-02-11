@@ -1,0 +1,8 @@
+{
+  "name": "madara-littleboy",
+  "logo": "https://pbs.twimg.com/profile_images/1621728326137290753/InVGzZUP_400x400.jpg",
+  "rpc_url": "http://5.189.164.194:9944",
+  "explorer_url": "http://5.189.164.194:4000",
+  "metrics_endpoint": "http://5.189.164.194:9615/metrics",
+  "id": "507a4ce9-a7ef-4138-b05c-50d1004829ee"
+}
