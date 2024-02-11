@@ -1,0 +1,8 @@
+{
+  "name": "MehmetCold",
+  "logo": "https://i.imgur.com/BiVHsj5.jpeg",
+  "rpc_url": "http://130.185.118.194:9944",
+  "explorer_url": "http://130.185.118.194:4000",
+  "metrics_endpoint": "http://130.185.118.194:9615/metrics",
+  "id": "5cf80e1c-5420-4ddb-a318-e244a1837d54"
+}
