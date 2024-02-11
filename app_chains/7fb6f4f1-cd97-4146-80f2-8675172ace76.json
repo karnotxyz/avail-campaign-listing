@@ -1,0 +1,8 @@
+{
+  "name": "MADARAE",
+  "logo": "https://r.resimlink.com/Wz9Rcv4-lJuQ.jpg",
+  "rpc_url": "http://135.181.101.163:9944",
+  "explorer_url": "http://135.181.101.163:4000",
+  "metrics_endpoint": "http://135.181.101.163:9615",
+  "id": "7fb6f4f1-cd97-4146-80f2-8675172ace76"
+}
