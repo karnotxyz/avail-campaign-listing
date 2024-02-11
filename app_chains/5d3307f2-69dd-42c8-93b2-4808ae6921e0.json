@@ -1,0 +1,8 @@
+{
+  "name": "romeotango",
+  "logo": "https://i.imgur.com/7lt0qT0.jpg",
+  "rpc_url": "http://5.161.247.105:9944",
+  "explorer_url": "http://5.161.247.105:4000",
+  "metrics_endpoint": "http://5.161.247.105:9615/metrics",
+  "id": "5d3307f2-69dd-42c8-93b2-4808ae6921e0"
+}
