@@ -1,0 +1,8 @@
+{
+    "name": "0xhabib",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/105596190/303907678-10a9002b-4638-4096-8af3-8edb167e339a.png",
+    "rpc_url": "http://51.38.206.2:9944",
+    "explorer_url": "http://51.38.206.2:4000",
+    "metrics_endpoint": "http://51.38.206.2:9615/metrics",
+    "id": "c2229cda-7b7f-4934-920b-359815076380"
+  }
