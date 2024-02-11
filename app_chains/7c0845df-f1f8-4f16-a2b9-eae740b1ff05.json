@@ -1,0 +1,8 @@
+{
+  "name": "mrnobody",
+  "logo": "https://i.postimg.cc/tJ3wZwbL/mrnobody-5298505-1.png",
+  "rpc_url": "http://109.205.182.12:9944",
+  "explorer_url": "http://109.205.182.12:4000",
+  "metrics_endpoint": "http://109.205.182.12:9615/metrics",
+  "id": "7c0845df-f1f8-4f16-a2b9-eae740b1ff05"
+}

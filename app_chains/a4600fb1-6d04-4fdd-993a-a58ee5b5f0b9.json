@@ -1,0 +1,8 @@
+{
+  "name": "jealousend",
+  "logo": "http://43.163.246.195/logo.jpg",
+  "rpc_url": "http://43.163.246.195:9944",
+  "explorer_url": "http://43.163.246.195:4000",
+  "metrics_endpoint": "http://43.163.246.195:9615/metrics",
+  "id": "a4600fb1-6d04-4fdd-993a-a58ee5b5f0b9"
+}

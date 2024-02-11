@@ -1,0 +1,8 @@
+{
+  "name": "DBZ",
+  "logo": "https://r.resimlink.com/-pW_A.jpg",
+  "rpc_url": "http://159.69.239.3:9944",
+  "explorer_url": "http://159.69.239.3:4000",
+  "metrics_endpoint": "http://159.69.239.3:9615/metrics",
+  "id": "5e83cd46-7edb-4cc1-b9f4-e5eb9d728c9d"
+}
