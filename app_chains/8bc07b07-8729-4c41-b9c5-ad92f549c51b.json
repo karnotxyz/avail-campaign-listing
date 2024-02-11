@@ -1,8 +1,8 @@
 {
   "name": "KEVINNODE",
   "logo": "https://i.ibb.co/47Zf5P9/images-1.png",
-  "rpc_url": "http://159.223.79.132:9944/",
-  "explorer_url": "http://159.223.79.132:4000/",
-  "metrics_endpoint": "http://159.223.79.132:9615/metrics",
+  "rpc_url": "http://139.59.222.117:9944/",
+  "explorer_url": "http://139.59.222.117:4000/",
+  "metrics_endpoint": "http://139.59.222.117:9615/metrics",
   "id": "8bc07b07-8729-4c41-b9c5-ad92f549c51b"
 }
