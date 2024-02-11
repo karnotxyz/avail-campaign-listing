@@ -1,0 +1,8 @@
+{
+  "name": "alp232323",
+  "logo": "https://r.resimlink.com/wRnXE2qfm.jpg",
+  "rpc_url": "http://159.65.10.146:9944",
+  "explorer_url": "http://159.65.10.146:4000",
+  "metrics_endpoint": "http://159.65.10.146:9615/metrics",
+  "id": "6dfb41f5-866e-45a3-bcad-232ca05fcc78"
+}
