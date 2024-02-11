@@ -1,0 +1,8 @@
+{
+  "name": "clem",
+  "logo": "https://i.postimg.cc/L67HxM5w/2024-02-11-135129.png",
+  "rpc_url": "http://5.189.168.227:9944",
+  "explorer_url": "http://5.189.168.227:4000",
+  "metrics_endpoint": "http://5.189.168.227:9615/metrics",
+  "id": "e92040b9-19cb-4e16-add5-81e2c97f43cd"
+}
