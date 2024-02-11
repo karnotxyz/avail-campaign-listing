@@ -1,8 +1,8 @@
 {
   "name": "masamuneap",
   "logo": "https://placehold.co/400x400",
-  "rpc_url": "http://75.119.148.37:9944",
-  "explorer_url": "http://75.119.148.37:4000",
-  "metrics_endpoint": "http://75.119.148.37:9615/metrics",
+  "rpc_url": "http://37.60.228.185:9944",
+  "explorer_url": "http://37.60.228.185:4000",
+  "metrics_endpoint": "http://37.60.228.185:9615/metrics",
   "id": "42381197-3840-45ff-bd1d-53e66c800023"
 }
