@@ -1,0 +1,8 @@
+{
+  "name": "sohham",
+  "logo": "https://r.resimlink.com/RetI4hx9Cdr.png",
+  "rpc_url": "http://184.174.35.27:9944",
+  "explorer_url": "http://184.174.35.27:4000",
+  "metrics_endpoint": "http://184.174.35.27:9615/metrics",
+  "id": "f63ff49c-f2b4-4d43-96d0-0f67da19aded"
+}
