@@ -1,0 +1,8 @@
+{
+  "name": "mazdek",
+  "logo": "https://imgur.com/a/pLeiR05",
+  "rpc_url": "http://82.208.20.84:9944",
+  "explorer_url": "http://82.208.20.84:4000",
+  "metrics_endpoint": "http://82.208.20.84:9615/metrics",
+  "id": "25d2be28-968a-4cbd-a886-ef1c3ba476db"
+}
