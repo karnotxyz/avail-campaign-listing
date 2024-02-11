@@ -1,0 +1,8 @@
+{
+  "name": "uchiwa",
+  "logo": "https://i.ibb.co/Z2w6C8f/uchiwa.png",
+  "rpc_url": "http://[2a01:e0a:18b:d30:da3a:ddff:fe1e:3967]:9944",
+  "explorer_url": "http://[2a01:e0a:18b:d30:da3a:ddff:fe1e:3967]:4000",
+  "metrics_endpoint": "http://[2a01:e0a:18b:d30:da3a:ddff:fe1e:3967]:9615/metrics",
+  "id": "8f885882-b141-4cdb-86e7-73589122e45b"
+}

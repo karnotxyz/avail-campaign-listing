@@ -1,0 +1,8 @@
+{
+  "name": "nappydried",
+  "logo": "http://43.156.11.178/logo.jpg",
+  "rpc_url": "http://43.156.11.178:9944",
+  "explorer_url": "http://43.156.11.178:4000",
+  "metrics_endpoint": "http://43.156.11.178:9615/metrics",
+  "id": "263a0264-8472-4581-a4f0-966487746b3e"
+}
