@@ -1,0 +1,8 @@
+{
+  "name": "chabism",
+  "logo": "https://i.im.ge/2024/02/09/cUCJZq.In6-MxM-400x400.th.jpg",
+  "rpc_url": "http://178.18.244.227:9944",
+  "explorer_url": "http://178.18.244.227:4000",
+  "metrics_endpoint": "http://178.18.244.227:9615/metrics",
+  "id": "7a98333d-e2ec-4058-8e57-c4076beba5ad"
+}
