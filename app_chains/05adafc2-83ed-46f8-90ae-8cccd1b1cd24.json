@@ -1,0 +1,8 @@
+{
+  "name": "Kingsharald",
+  "logo": "https://github.com/KingsHarald0/rollapp-registry/blob/9a04d7cda4c4a052a99fccd9332207b56613a002/devnet/kingsharald_6676734-1/logos/kingsharald_6676734-1.png",
+  "rpc_url": "http://95.217.154.151:26657",
+  "explorer_url": "http://95.217.154.151:4000",
+  "metrics_endpoint": "http://95.217.154.151:9615/metrics",
+  "id": "05adafc2-83ed-46f8-90ae-8cccd1b1cd24"
+}
