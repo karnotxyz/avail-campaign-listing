@@ -1,0 +1,8 @@
+{
+  "name": "m0h5en",
+  "logo": "https://r.resimlink.com/b4q3EhR-.png",
+  "rpc_url": "http://149.102.153.173:9944",
+  "explorer_url": "http://149.102.153.173:4000",
+  "metrics_endpoint": "http://149.102.153.173:9615/metrics",
+  "id": "11765db8-f4c4-4b6b-a507-4e6f19427d48"
+}
