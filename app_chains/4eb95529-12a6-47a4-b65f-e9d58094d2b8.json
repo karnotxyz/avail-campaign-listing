@@ -3,7 +3,7 @@
   "logo": "https://raw.githubusercontent.com/Gpaul26/logos/main/gpaul_8044891-1.png",
   "rpc_url": "http://31.220.94.91:9944",
   "explorer_url": "http://31.220.94.91:4000",
-  "metrics_endpoint": "http://31.220.94.91:9615/metrics”,
+  "metrics_endpoint": "http://31.220.94.91:9615/metrics",
   "id": "4eb95529-12a6-47a4-b65f-e9d58094d2b8”"
 }
 
