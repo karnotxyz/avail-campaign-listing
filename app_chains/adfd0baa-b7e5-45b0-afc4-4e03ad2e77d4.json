@@ -1,7 +1,7 @@
 {
   "name": "VinBNB",
   "logo": "https://i.ibb.co/z6XJv0d/images-1.jpg",
-  "rpc_url": "http://170.64.193.91:9955/",
+  "rpc_url": "http://170.64.193.91:9944/",
   "explorer_url": "http://170.64.193.91:4000/",
   "metrics_endpoint": "http://170.64.193.91:9615/metrics",
   "id": "adfd0baa-b7e5-45b0-afc4-4e03ad2e77d4"
