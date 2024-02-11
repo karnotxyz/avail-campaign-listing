@@ -1,0 +1,8 @@
+{
+    "name": "0xhabib",
+    "logo": "https://i.imgur.com/fnzseZU.jpg",
+    "rpc_url": "http://51.38.206.2:9944",
+    "explorer_url": "http://51.38.206.2:4000",
+    "metrics_endpoint": "http://51.38.206.2:9615/metrics",
+    "id": "ea68e276-7202-4721-9916-6d74ea493ce2"
+  }
