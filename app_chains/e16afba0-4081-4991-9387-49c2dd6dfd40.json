@@ -1,0 +1,8 @@
+{
+  "name": "kucingeskrim",
+  "logo": "https://i.imgur.com/NpwaIao.jpeg",
+  "rpc_url": "http:194.233.66.57:9944",
+  "explorer_url": "http://194.233.66.57:4000",
+  "metrics_endpoint": "http://194.233.66.57:9615/metrics",
+  "id": "e16afba0-4081-4991-9387-49c2dd6dfd40"
+}
