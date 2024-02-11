@@ -1,0 +1,9 @@
+{
+  "name": "akunucop",
+  "logo": "https://r.resimlink.com/6ib75F1sQ_ID.png"
+  "rpc_url": "http://185.207.250.109:9944",
+  "explorer_url": "http://185.207.250.109:4000",
+  "metrics_endpoint": "http://185.207.250.109:9615",
+  "id": "feaf9400-8ad6-4e49-8fc4-4f7bf066d1db"
+}
+
