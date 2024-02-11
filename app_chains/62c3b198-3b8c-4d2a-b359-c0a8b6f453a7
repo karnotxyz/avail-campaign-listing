@@ -1,0 +1,8 @@
+{
+  "name": "edwardn26",
+  "logo": "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png",
+  "rpc_url": "http://178.128.56.235:9944",
+  "explorer_url": "http://178.128.56.235:4000",
+  "metrics_endpoint": "http://178.128.56.235:9615/metrics",
+  "id": "62c3b198-3b8c-4d2a-b359-c0a8b6f453a7"
+}
