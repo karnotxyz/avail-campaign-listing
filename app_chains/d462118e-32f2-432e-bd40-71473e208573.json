@@ -1,0 +1,8 @@
+{
+  "name": "guwo",
+  "logo": "http://43.155.163.157/static/img/guwo.png",
+  "rpc_url": "http://43.155.163.157:9944",
+  "explorer_url": "http://43.155.163.157:4000",
+  "metrics_endpoint": "http://43.155.163.157:9615/metrics",
+  "id": "d462118e-32f2-432e-bd40-71473e208573"
+}
