@@ -1,0 +1,8 @@
+{
+  "name": "mrbabit",
+  "logo": "https://r.resimlink.com/NQwg2d.jpg",
+  "rpc_url": "http://91.107.199.178:9944",
+  "explorer_url": "http://91.107.199.178:4000",
+  "metrics_endpoint": "http://91.107.199.178:9615/metrics",
+  "id": "40ea89e0-30bc-4580-a3f2-b8c1f3a9dbef"
+}
