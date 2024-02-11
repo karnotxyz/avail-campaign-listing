@@ -1,0 +1,8 @@
+{
+  "name": "hugoboss",
+  "logo": "https://ibb.co/ZWPL2PF",
+  "rpc_url": "159.89.181.107:9944",
+  "explorer_url": "159.89.181.107:4000",
+  "metrics_endpoint": "159.89.181.107:9615/metrics",
+  "id": "25ad55d4-c884-462d-8a82-1e4c02b9e388"
+}
