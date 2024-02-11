@@ -1,0 +1,8 @@
+{
+  "name": "tchain",
+  "logo": "https://ibb.co/gDcb6VB",
+  "rpc_url": "http://103.144.209.104:9944",
+  "explorer_url": "http://103.144.209.104:4000",
+  "metrics_endpoint": "http://103.144.209.104:9615/metrics",
+  "id": "9a584e4a-2175-4d86-bce4-15c805a0249c"
+}
