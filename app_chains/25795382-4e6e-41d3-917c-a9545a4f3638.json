@@ -1,9 +1,8 @@
 {
-  "name": "cryptom",
-  "logo": "https://r.resimlink.com/PrLI9M.jpg", // ,
-  "rpc_url": "http://64.227.111.252:9944",
-  "explorer_url": "http://64.227.111.252:4000",
-  "metrics_endpoint": "http://64.227.111.252:9615",
-  "id": "25795382-4e6e-41d3-917c-a9545a4f3638"
+"name": "cryptom",
+"logo": "https://r.resimlink.com/PrLI9M.jpg", // ,
+"rpc_url": "http://64.227.111.252:9944",
+"explorer_url": "http://64.227.111.252:4000",
+"metrics_endpoint": "http://64.227.111.252:9615",
+"id": "25795382-4e6e-41d3-917c-a9545a4f3638"
 }
-
