@@ -1,8 +1,0 @@
-{
-  "name": "papaman",
-  "logo": "https://photos.onedrive.com/share/5CE74B1A70491879!1121?cid=5CE74B1A70491879&resId=5CE74B1A70491879!1121&authkey=!AB_dDycJXcLb5PQ&ithint=photo&e=xSI62B",
-  "rpc_url": "http://38.242.248.13:9944",
-  "explorer_url": "http://38.242.248.13:4000",
-  "metrics_endpoint": "http://38.242.248.13:9615",
-  "id": "13404fb9-b36f-47a1-8a29-2a02bc0cb7b0"
-}
