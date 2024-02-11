@@ -1,0 +1,8 @@
+{
+  "name": "alper321123",
+  "logo": "https://r.resimlink.com/wRnXE2qfm.jpg",
+  "rpc_url": "http://64.23.178.103:9944",
+  "explorer_url": "http://64.23.178.103:4000",
+  "metrics_endpoint": "http://64.23.178.103:9615/metrics",
+  "id": "71b3be63-d0b1-4c9a-b5a3-6970319ec0ae"
+}
