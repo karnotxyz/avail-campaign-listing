@@ -1,0 +1,8 @@
+{
+  "name": "bitban",
+  "logo": "https://r.resimlink.com/J9byvu.png",
+  "rpc_url": "http://167.86.70.86:9944",
+  "explorer_url": "http://167.86.70.86:4000",
+  "metrics_endpoint": "http://167.86.70.86:9615/metrics",
+  "id": "b001a26e-408d-4fa2-b057-b7e2a3f120cb"
+}
