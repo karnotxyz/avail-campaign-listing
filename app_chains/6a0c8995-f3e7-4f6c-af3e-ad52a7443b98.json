@@ -1,0 +1,8 @@
+{
+"name": "fengyu",
+"logo": "http://43.133.67.179/static/img/fengyu.png",
+"rpc_url": "http://43.133.67.179:9944",
+"explorer_url": "http://43.133.67.179:4000",
+"metrics_endpoint": "http://43.133.67.179:9615/metrics",
+"id": "6a0c8995-f3e7-4f6c-af3e-ad52a7443b98"
+}
