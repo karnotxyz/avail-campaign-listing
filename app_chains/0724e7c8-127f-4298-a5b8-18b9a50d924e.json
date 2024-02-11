@@ -1,0 +1,8 @@
+{
+  "name": "nbx2y2",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://158.247.199.125:9944",
+  "explorer_url": "http://158.247.199.125:4000",
+  "metrics_endpoint": "http://158.247.199.125:9615/metrics",
+  "id": "0724e7c8-127f-4298-a5b8-18b9a50d924e"
+}
