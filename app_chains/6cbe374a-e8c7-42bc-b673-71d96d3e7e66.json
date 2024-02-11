@@ -1,0 +1,8 @@
+{
+  "name": "dangerdawg",
+  "logo": "https://i.imgur.com/VPgyCON.png",
+  "rpc_url": "http://185.182.187.142:9944",
+  "explorer_url": "http://185.182.187.142:4000",
+  "metrics_endpoint": "http://185.182.187.142:9615/metrics",
+  "id": "6cbe374a-e8c7-42bc-b673-71d96d3e7e66"
+}
