@@ -1,0 +1,8 @@
+{
+  "name": "edwardn26",
+  "logo": "https://images.rawpixel.com/image_png_1100/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3JtNTg2YmF0Y2gyLWVtb2ppLTAwNi5wbmc.png",
+  "rpc_url": "http://178.128.56.235:9944",
+  "explorer_url": "http://178.128.56.235:4000",
+  "metrics_endpoint": "http://178.128.56.235:9615/metrics",
+  "id": "ccf343c5-09fa-4921-aa45-54715ee0b723"
+}
