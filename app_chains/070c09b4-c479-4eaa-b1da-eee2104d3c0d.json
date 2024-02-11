@@ -1,0 +1,8 @@
+  {
+    "name": "utari",
+    "logo": "https://im.ge/i/cyDJu6",
+    "rpc_url": "http://207.180.216.240:9944",
+    "explorer_url": "http://207.180.216.240:4000",
+    "metrics_endpoint": "http://207.180.216.240:9615/metrics",
+    "id": "070c09b4-c479-4eaa-b1da-eee2104d3c0d"
+  }
