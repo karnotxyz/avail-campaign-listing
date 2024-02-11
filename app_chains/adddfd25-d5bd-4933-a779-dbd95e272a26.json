@@ -1,0 +1,8 @@
+{
+  "name": "ZTV",
+  "logo": "https://i.ibb.co/xm8Pf80/ZTV.png",
+  "rpc_url": "http://69.87.217.101:9944",
+  "explorer_url": "http://69.87.217.101:4000",
+  "metrics_endpoint": "http://69.87.217.101:9615/metrics",
+  "id": "adddfd25-d5bd-4933-a779-dbd95e272a26"
+}
