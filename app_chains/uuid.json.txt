@@ -1,8 +1,8 @@
 {
   "name": "<fengyao>",
   "logo": "<http://r.resimlink.com/Jenal.jpg>",
-  "rpc_url": "101.32.191.95:9944",
-  "explorer_url": "101.32.191.95:4000",
-  "metrics_endpoint": "101.32.191.95:9615/metrics",
+  "rpc_url": "http:101.32.191.95:9944",
+  "explorer_url": "http:101.32.191.95:4000",
+  "metrics_endpoint": "http:101.32.191.95:9615/metrics",
   "id": "21e4dd40-dd2f-422b-b255-d692c8c501d2"
 }
