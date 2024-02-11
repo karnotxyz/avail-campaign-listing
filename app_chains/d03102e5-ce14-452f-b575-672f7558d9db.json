@@ -1,8 +1,0 @@
-{
-  "name": "Barlas",
-  "logo": "https://r.resimlink.com/BEnogwraOR.jpg",
-  "rpc_url": "http://34.130.41.158:9944",
-  "explorer_url": "http://34.130.41.158:4000",
-  "metrics_endpoint": "http://34.130.41.158:9615/metrics",
-  "id": "d03102e5-ce14-452f-b575-672f7558d9db"
-}
