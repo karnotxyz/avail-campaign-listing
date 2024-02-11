@@ -1,0 +1,8 @@
+{
+  "name": "Motela",
+  "logo": "https://r.resimlink.com/ikMsw.jpg",
+  "rpc_url": "http://49.12.60.47:9944",
+  "explorer_url": "http://49.12.60.47:4000",
+  "metrics_endpoint": "http://49.12.60.47:9615/metrics",
+  "id": "4022f90a-6382-4ca2-95d6-2c3ea8c3e46a"
+}
