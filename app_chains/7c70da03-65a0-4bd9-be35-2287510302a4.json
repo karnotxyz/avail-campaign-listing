@@ -1,0 +1,8 @@
+{
+  "name": "yzcdev",
+  "logo": "https://r.resimlink.com/H7-S2U.png",
+  "rpc_url": "http://91.107.228.250:9944",
+  "explorer_url": "http://91.107.228.250:4000",
+  "metrics_endpoint": "http://91.107.228.250:9615",
+  "id": "7c70da03-65a0-4bd9-be35-2287510302a4"
+}
