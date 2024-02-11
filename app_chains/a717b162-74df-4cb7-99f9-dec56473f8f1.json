@@ -1,0 +1,8 @@
+{
+  "name": "SATOSHISTART",
+  "logo": "https://r.resimlink.com/G2k75LDj.png",
+  "rpc_url": "http://91.107.185.231:9944",
+  "explorer_url": "http://91.107.185.231:4000",
+  "metrics_endpoint": "http://91.107.185.231:9615/metrics",
+  "id": "a717b162-74df-4cb7-99f9-dec56473f8f1"
+}
