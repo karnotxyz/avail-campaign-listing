@@ -1,0 +1,8 @@
+{
+  "name": "cihatoz",
+  "logo": "https://r.resimlink.com/NyZGH.jpg",
+  "rpc_url": "http://194.163.146.244:9944",
+  "explorer_url": "194.163.146.244:4000",
+  "metrics_endpoint": "http://194.163.146.244:9615/metrics",
+  "id": "6591b45c-81a3-4cf5-8c91-8dc56280ad63"
+}
