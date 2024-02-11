@@ -1,0 +1,8 @@
+{
+  "name": "selefkos",
+  "logo": "https://r.resimlink.com/4oaOEBQ.jpg",
+  "rpc_url": "http://172.234.80.44:9944",
+  "explorer_url": "http://172.234.80.44:4000",
+  "metrics_endpoint": "http://172.234.80.44:9615",
+  "id": "c5204280-8125-4c8a-9047-0b54f4300594" 
+}
