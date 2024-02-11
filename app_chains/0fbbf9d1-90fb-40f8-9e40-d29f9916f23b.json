@@ -1,0 +1,8 @@
+{
+  "name": “availpasa”,
+  "logo": "https://r.resimlink.com/xQo-g03P.jpeg",
+  "rpc_url": "http://173.212.192.96:9944",
+  "explorer_url": "http://173.212.192.96:4000",
+  "metrics_endpoint": "http://173.212.192.96:9615/metrics",
+  "id": "0fbbf9d1-90fb-40f8-9e40-d29f9916f23b"
+}
