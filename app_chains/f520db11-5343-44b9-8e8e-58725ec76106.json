@@ -1,0 +1,8 @@
+{
+  "name": "gummyland",
+  "logo": "https://imgur.com/ZMDWGBQ.png",
+  "rpc_url": "http://173.249.11.31:9944",
+  "explorer_url": "http://173.249.11.31:4000",
+  "metrics_endpoint": "http://173.249.11.31:9615/metrics",
+  "id": "f520db11-5343-44b9-8e8e-58725ec76106"
+}
