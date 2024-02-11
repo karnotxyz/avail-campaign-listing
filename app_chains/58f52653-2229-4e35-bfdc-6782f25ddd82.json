@@ -1,0 +1,8 @@
+{
+  "name": "s8erlock",
+  "logo": "https://i.ibb.co/6WydK1w/photo-2024-02-11-15-34-35.png",
+  "rpc_url": "http://62.171.160.122:9944",
+  "explorer_url": "http://62.171.160.122:4000",
+  "metrics_endpoint": "http://62.171.160.122:9615/metrics",
+  "id": "58f52653-2229-4e35-bfdc-6782f25ddd82"
+}
