@@ -1,0 +1,8 @@
+{
+  "name": "LKYD",
+  "logo": "https://img5.pic.in.th/file/secure-sv1/422301252_336370375901914_4536289493350291376_n-removebg-preview.png",
+  "rpc_url": "http://38.242.198.133:9944",
+  "explorer_url": "http://38.242.198.133:4000",
+  "metrics_endpoint": "http://38.242.198.133:9615/metrics",
+  "id": "df658f5b-c71f-4681-bd22-8f930a3ff24f"
+}
