@@ -1,4 +1,5 @@
-me": "spark",
+{
+  "name": "spark",
   "logo": "https://s2.loli.net/2024/02/11/RQKtNxBnihSs6J7.png",
   "rpc_url": "http://84.247.183.1:9944",
   "explorer_url": "http://84.247.183.1:4000",
