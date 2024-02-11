@@ -1,8 +1,0 @@
-{
-  "name": "HEK",
-  "logo": "https://r.resimlink.com/QHulw_.jpg",
-  "rpc_url": "49.13.67.73",
-  "explorer_url": "http://49.13.67.73:4000",
-  "metrics_endpoint": "http://49.13.67.73:9615",
-  "id": "c42d12ef-92a2-4ae1-82e3-39857f39fe7b"
-}
