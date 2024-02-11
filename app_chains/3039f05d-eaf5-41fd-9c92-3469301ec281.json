@@ -1,0 +1,8 @@
+{
+  "name": "daisylira",
+  "logo": "https://i.imgur.com/7dNd7PT.jpeg",
+  "rpc_url": "http://173.249.9.88:9944",
+  "explorer_url": "http://173.249.9.88:4000",
+  "metrics_endpoint": "http://173.249.9.88:9615/metrics",
+  "id": "3039f05d-eaf5-41fd-9c92-3469301ec281"
+}
