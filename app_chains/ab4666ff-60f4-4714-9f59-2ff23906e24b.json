@@ -1,0 +1,8 @@
+{
+  "name": "timmy",
+  "logo": "https://ibb.co/Ln0hppm",
+  "rpc_url": "http://193.178.210.123:9944",
+  "explorer_url": "http://193.178.210.123:4000",
+  "metrics_endpoint": "http://193.178.210.123:9615/metrics",
+  "id": "ab4666ff-60f4-4714-9f59-2ff23906e24b"
+}                
