@@ -1,0 +1,8 @@
+{
+    "name": "Lordenes",
+    "logo": "https://r.resimlink.com/wgmBU.jpg",
+    "rpc_url": "http://37.27.41.97:9944",
+    "explorer_url": "http://37.27.41.97:4000",
+    "metrics_endpoint": "http://37.27.41.97:9615/metrics", 
+    "id": "2a281a34-1fff-44eb-b4dc-e63d255efb10"
+  }
