@@ -1,0 +1,8 @@
+{
+  "name": "ihsandgn",
+  "logo": "https://i.ibb.co/fpKhCJ4/zktoy.webp",
+  "rpc_url": "http://184.174.32.149:9944",
+  "explorer_url": "http://184.174.32.149:4000",
+  "metrics_endpoint": "http://184.174.32.149:9615/metrics",
+  "id": "eed8fea6-e18f-4f7f-bddd-893e6054722b"
+}
