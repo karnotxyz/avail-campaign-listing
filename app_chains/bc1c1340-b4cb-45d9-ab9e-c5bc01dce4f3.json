@@ -1,0 +1,8 @@
+{
+  "name": "0xchara00",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0xa74ae2c6fca0cedbaef30a8ceef834b247186bcf/5718.jpg",
+  "rpc_url": "http://43.157.51.246:9944",
+  "explorer_url": "http://43.157.51.246:4000",
+  "metrics_endpoint": "http://43.157.51.246:9615/metrics",
+  "id": "bc1c1340-b4cb-45d9-ab9e-c5bc01dce4f3"
+}
