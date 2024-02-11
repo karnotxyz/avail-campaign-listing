@@ -1,0 +1,8 @@
+{
+  "name": "mgakifMadara",
+  "logo": "https://r.resimlink.com/nXVMYGZiLeAo.jpg",
+  "rpc_url": "http://38.242.198.229:9944",
+  "explorer_url": "http://38.242.198.229:4000",
+  "metrics_endpoint": "http://38.242.198.229:9615",
+  "id": "f71fbf64-5d0a-4e23-9cac-5cb6bcde8238"
+}
