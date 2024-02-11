@@ -1,9 +1,8 @@
 {
   "name": "0xsimeon",
-  "logo": "https://i.postimg.cc/7Y6h9K35/abs-cinema.png",
+  "logo": "https://i.ibb.co/0n19WmV/ABS-Cinema.png",
   "rpc_url": "http://207.180.248.73:9944",
   "explorer_url": "http://207.180.248.73:4000",
   "metrics_endpoint": "http://207.180.248.73:9615/metrics",
   "id": "2630cd76-e583-45a2-980e-5939164a4829"
 }
-
