@@ -1,0 +1,8 @@
+{
+  "name": "cryptofleuriste",
+  "logo": "https://r.resimlink.com/-tQv4riM.jpg",
+  "rpc_url": "http://82.66.63.90:9944",
+  "explorer_url": "http://82.66.63.90:4000",
+  "metrics_endpoint": "http://82.66.63.90:9615",
+  "id": "4e357570-1915-483e-b490-61a045d7e1b0"
+}
