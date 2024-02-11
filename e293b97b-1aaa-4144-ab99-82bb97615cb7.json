@@ -1,0 +1,8 @@
+{
+  "name": "ozkan39",
+  "logo": "https://r.resimlink.com/V82pkOa9l.png",
+  "rpc_url": "http://65.109.227.116:9944",
+  "explorer_url": "http://65.109.227.116:4000",
+  "metrics_endpoint": "http://65.109.227.116:9615/metrics",
+  "id": "e293b97b-1aaa-4144-ab99-82bb97615cb7"
+}
