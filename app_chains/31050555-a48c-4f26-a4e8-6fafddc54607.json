@@ -1,0 +1,8 @@
+{
+  "name": "MLT65",
+  "logo": "https://r.resimlink.com/T3XFzOgnClbh.jpg",
+  "rpc_url": "http://159.69.239.7:9944",
+  "explorer_url": "http://159.69.239.7:4000",
+  "metrics_endpoint": "http://159.69.239.7:9615/metrics",
+  "id": "31050555-a48c-4f26-a4e8-6fafddc54607"
+}

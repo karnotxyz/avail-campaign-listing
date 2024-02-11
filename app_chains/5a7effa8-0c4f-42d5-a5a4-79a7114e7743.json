@@ -1,0 +1,8 @@
+{
+  "name": "Taybew",
+  "logo": "https://avatars.githubusercontent.com/u/159266846",
+  "rpc_url": "http://80.253.246.69:9944",
+  "explorer_url": "http://80.253.246.69:4000",
+  "metrics_endpoint": "http://80.253.246.69:9615/metrics",
+  "id": "5a7effa8-0c4f-42d5-a5a4-79a7114e7743"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ramanode",
+  "logo": "https://i.ibb.co/GMp7Lp6/Ramanode.png",
+  "rpc_url": "http://38.242.251.179:9944",
+  "explorer_url": "http://38.242.251.179:4000",
+  "metrics_endpoint": "http://38.242.251.179:9615/metrics",
+  "id": "3e416f14-51ec-44e6-9528-7ea592c694fb"
+}

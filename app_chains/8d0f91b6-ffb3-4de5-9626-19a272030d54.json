@@ -1,0 +1,8 @@
+{
+  "name": "kubull",
+  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://207.180.240.129:9944",
+  "explorer_url": "http://207.180.240.129:4000",
+  "metrics_endpoint": "http://207.180.240.129:9615/metrics",
+  "id": "8d0f91b6-ffb3-4de5-9626-19a272030d54"
+}
