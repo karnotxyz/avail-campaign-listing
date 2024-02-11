@@ -1,0 +1,8 @@
+{
+  "name": "jablai",
+  "logo": "https://i.ibb.co/DYWb6Dt/jarangdibelai.jpg",
+  "rpc_url": "http://167.86.81.172:9944",
+  "explorer_url": "http://167.86.81.172:4000",
+  "metrics_endpoint": "http://167.86.81.172:9615/metrics",
+  "id": "add05bdc-3e23-479d-ab02-74f76a6ce919"
+}
