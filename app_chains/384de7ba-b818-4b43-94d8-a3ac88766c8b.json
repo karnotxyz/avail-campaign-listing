@@ -1,0 +1,8 @@
+{
+  "name": "bigmorad",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/70335375/303951205-a72f4560-e4ab-4f4a-bfca-512261fd4b45.png",
+  "rpc_url": "http://173.212.241.186:9944",
+  "explorer_url": "http://173.212.241.186:4000",
+  "metrics_endpoint": "http://173.212.241.186:9615/metrics",
+  "id": "384de7ba-b818-4b43-94d8-a3ac88766c8b"
+}
