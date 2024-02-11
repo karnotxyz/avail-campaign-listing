@@ -1,0 +1,8 @@
+{
+  "name": "agungryzm",
+  "logo": "https://i.ibb.co/yV6yXsP/FBk-ura-Y-400x400.jpg",
+  "rpc_url": "http://64.23.165.63:9944",
+  "explorer_url": "http://64.23.165.63:4000",
+  "metrics_endpoint": "http://64.23.165.63:9615/metrics",
+  "id": "66aa5490-fc89-451a-a47b-9752a88f1957"
+}
