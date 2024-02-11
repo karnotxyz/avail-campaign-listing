@@ -1,0 +1,8 @@
+{
+    "name": "kilicaslan",
+    "logo": "https://imgur.com/a/SfIkEzO",
+    "rpc_url": "http://130.185.119.51:9944",
+    "explorer_url": "http://130.185.119.51:4000",
+    "metrics_endpoint": "http://130.185.119.51:9615/metrics",
+    "id": "8f27ed7d-253c-42e9-bb14-58451f9fdee9"
+  }
