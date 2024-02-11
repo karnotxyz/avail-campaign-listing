@@ -1,0 +1,8 @@
+{
+  "name": "imanuelkevin",
+  "logo": "https://i.ibb.co/47Zf5P9/images-1.png",
+  "rpc_url": "http://138.197.26.134:9944/",
+  "explorer_url": "http://138.197.26.134:4000/",
+  "metrics_endpoint": "http://138.197.26.134:9615/metrics",
+  "id": "c3341375-74c5-470a-a77f-b13ced00b38c"
+}
