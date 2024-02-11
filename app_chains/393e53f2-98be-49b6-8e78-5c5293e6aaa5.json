@@ -1,0 +1,8 @@
+{
+    "name": “mavisu68”,
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://173.212.212.140:9944",
+    "explorer_url": "http://173.212.212.140:4000",
+    "metrics_endpoint": "http://173.212.212.140:9615/metrics",
+    "id": "393e53f2-98be-49b6-8e78-5c5293e6aaa5"
+  }
