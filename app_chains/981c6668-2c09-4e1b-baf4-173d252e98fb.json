@@ -1,0 +1,8 @@
+{
+  "name": "CrypTolga",
+  "logo": "https://r.resimlink.com/BD0I_s17P.png",
+  "rpc_url": "http://65.21.252.114:9944",
+  "explorer_url": "http://65.21.252.114:4000",
+  "metrics_endpoint": "http://65.21.252.114:9615/metrics",
+  "id": "981c6668-2c09-4e1b-baf4-173d252e98fb"
+}
