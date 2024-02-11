@@ -1,0 +1,8 @@
+{
+  "name": "yuhot",
+  "logo": "https://i.postimg.cc/0yxxcKZT/yuhot.png",
+  "rpc_url": "http://43.156.168.95:9944",
+  "explorer_url": "http://43.156.168.95:4000",
+  "metrics_endpoint": "http://43.156.168.95:9615/metrics",
+  "id": "5879c7ab-49b7-46e3-8fad-c1dd57ffa03d"
+}

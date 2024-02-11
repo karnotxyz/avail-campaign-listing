@@ -1,0 +1,8 @@
+{
+  "name": "gmjoss",
+  "logo": "https://r.resimlink.com/IxNZ-ohyw.jpg",
+  "rpc_url": "http://207.154.204.71:9944/",
+  "explorer_url": "http://207.154.204.71:4000/",
+  "metrics_endpoint": "http://207.154.204.71:9615/metrics",
+  "id": "cf800cb5-52b5-4f6d-990e-c8dd40bf2bc7"
+}
