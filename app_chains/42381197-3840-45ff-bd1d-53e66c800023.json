@@ -1,8 +1,8 @@
 {
   "name": "masamuneac",
   "logo": "https://placehold.co/400x400",
-  "rpc_url": "37.60.228.185:9944",
-  "explorer_url": "37.60.228.185:4000",
-  "metrics_endpoint": "37.60.228.185:9615/metrics",
+  "rpc_url": "https://37.60.228.185:9944",
+  "explorer_url": "https://37.60.228.185:4000",
+  "metrics_endpoint": "https://37.60.228.185:9615/metrics",
   "id": "42381197-3840-45ff-bd1d-53e66c800023"
 }
