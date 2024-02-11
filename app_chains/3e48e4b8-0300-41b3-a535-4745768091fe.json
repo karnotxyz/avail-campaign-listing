@@ -1,0 +1,8 @@
+{
+  "name": "WojaK",
+  "logo": "https://raw.githubusercontent.com/elmirnecef/NodeWojakCode/main/Safeimagekit-resized-img.png",
+  "rpc_url": "http://84.247.164.225:9944",
+  "explorer_url": "http://84.247.164.225:4000",
+  "metrics_endpoint": "http://84.247.164.225:9615/metrics",
+  "id": "3e48e4b8-0300-41b3-a535-4745768091fe"
+}
