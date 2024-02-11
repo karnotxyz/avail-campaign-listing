@@ -1,0 +1,9 @@
+{
+  "name": "ZEIRYU",
+  "logo": "https://im.ge/i/cyGFoq",
+  "rpc_url": "http://161.35.224.213:9944",
+  "explorer_url": "http://161.35.224.213:4000",
+  "metrics_endpoint": "http://161.35.224.213:9615/metrics",
+  "id": "6ab72811-59c7-4a0f-833f-8473a2edbe66"
+}
+ 
