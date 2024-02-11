@@ -1,0 +1,8 @@
+{
+  "name": "hoodies",
+  "logo": "https://r.resimlink.com/xzLDi-KGn.jpg",
+  "rpc_url": "http://95.217.12.118:9944",
+  "explorer_url": "http://95.217.12.118:4000",
+  "metrics_endpoint": "http://95.217.12.118:9615/metrics",
+  "id": "5b61a0a1-57a7-4533-aeb3-d636d11d5b58"
+}
