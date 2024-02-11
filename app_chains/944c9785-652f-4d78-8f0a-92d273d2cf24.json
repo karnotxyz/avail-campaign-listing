@@ -1,0 +1,8 @@
+{
+  "name": "halil01",
+  "logo": "https://im.ge/i/cyN7yF", 
+  "rpc_url": "http://167.71.128.208:9944",
+  "explorer_url": "http://167.71.128.208:4000",
+  "metrics_endpoint": "http://167.71.128.208:9615",
+  "id": "944c9785-652f-4d78-8f0a-92d273d2cf24"
+}
