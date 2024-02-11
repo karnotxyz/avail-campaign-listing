@@ -1,0 +1,8 @@
+{
+  "name": "lafei",
+  "logo": "https://i.ibb.co/s14n3Lf/20221024-092619.png",
+  "rpc_url": "http://148.135.107.228:9944",
+  "explorer_url": "http://148.135.107.228:4000",
+  "metrics_endpoint": "http://148.135.107.228:9615/metrics",
+  "id": "e831679b-7b5d-4ea5-bd5c-944626b2a024"
+}
