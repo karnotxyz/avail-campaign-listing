@@ -1,0 +1,8 @@
+{
+  "name": "manage-0728",
+  "logo": "https://ibb.co/N3cSHD3",
+  "rpc_url": "http://129.226.158.174:9944",
+  "explorer_url": "http://129.226.158.174:4000",
+  "metrics_endpoint": "http://129.226.158.174:9615/metrics",
+  "id": "be23c14a-fa2c-4059-867e-a76fc84ad516"
+}

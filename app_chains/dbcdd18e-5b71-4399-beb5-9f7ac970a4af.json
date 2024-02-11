@@ -1,0 +1,8 @@
+{
+  "name": "hojjat",
+  "logo": "https://s.dou.ua/img/announces/240x_250_nodejs-400.png",
+  "rpc_url": "http://148.251.162.94:9944",
+  "explorer_url": "http://148.251.162.94:4000",
+  "metrics_endpoint": "http://148.251.162.94:9615/metrics",
+  "id": "dbcdd18e-5b71-4399-beb5-9f7ac970a4af"
+}

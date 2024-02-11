@@ -1,0 +1,8 @@
+{
+  "name": "encoderrr",
+  "logo": "https://picresize.com/popup.html?images/rsz_1_1_1.png",
+  "rpc_url": "http://79.98.27.190:9944",
+  "explorer_url": "http://79.98.27.190:4000",
+  "metrics_endpoint": "http://79.98.27.190:9615/metrics",
+  "id": "a230da71-629f-4ca7-8302-9924b512448f"
+}

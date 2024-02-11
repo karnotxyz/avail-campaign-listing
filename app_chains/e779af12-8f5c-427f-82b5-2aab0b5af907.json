@@ -1,0 +1,8 @@
+{
+  "name": "CH-UND",
+  "logo": "https://raw.githubusercontent.com/ch-und/rollapp-registry/main/devnet/chund_6103819-1/logos/chund_6103819-1.png",
+  "rpc_url": "http://38.242.231.161:9944",
+  "explorer_url": "http://38.242.231.161:4000",
+  "metrics_endpoint": "http://38.242.231.161:9615/metrics",
+  "id": "e779af12-8f5c-427f-82b5-2aab0b5af907"
+}

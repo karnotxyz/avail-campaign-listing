@@ -1,0 +1,8 @@
+{
+  "name": "tiger88",
+  "logo": "https://r.resimlink.com/hjx0kF.png",
+  "rpc_url": "http://188.119.112.49:9944",
+  "explorer_url": "http://188.119.112.49:4000",
+  "metrics_endpoint": "http://188.119.112.49:9615/metrics",
+  "id": "a66ea170-3e2d-4021-b870-4799dc2b52f2"
+}

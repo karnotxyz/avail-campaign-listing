@@ -1,0 +1,8 @@
+{
+  "name": "sentariona",
+  "logo": "https://r.resimlink.com/opwlj1L-PS.png",
+  "rpc_url": "http://143.198.109.85:9944",
+  "explorer_url": "http://143.198.109.85:4000",
+  "metrics_endpoint": "http://143.198.109.85:9615/metrics",
+  "id": "7402601c-701d-4a74-b04d-aec4681088ae"
+}

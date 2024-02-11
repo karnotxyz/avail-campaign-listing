@@ -1,0 +1,8 @@
+{
+  "name": "yelang",
+  "logo": "https://i.imgur.com/RXb9bV3.jpg",
+  "rpc_url": "http://128.140.81.29:9944",
+  "explorer_url": "http://128.140.81.29:4000",
+  "metrics_endpoint": "http://128.140.81.29:9615/metrics",
+  "id": "3ed6e052-08fd-45f9-ba37-18ab7c2cca65"
+}

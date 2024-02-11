@@ -1,0 +1,8 @@
+{
+  "name": "aooo",
+  "logo": "https://i.imgur.com/yM1eBuF.png",
+  "rpc_url": "http://62.171.134.108:9944",
+  "explorer_url": "http://62.171.134.108:4000",
+  "metrics_endpoint": "http://62.171.134.108:9615/metrics",
+  "id": "8a4f4750-b44a-4c89-aae9-53b4284889a9"
+}

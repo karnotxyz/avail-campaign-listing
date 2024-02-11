@@ -1,0 +1,8 @@
+{
+  "name": "Helado",
+  "logo": "https://i.imgur.com/CCtdN4z.png",
+  "rpc_url": "http://85.190.246.94:9944",
+  "explorer_url": "http://85.190.246.94:4000",
+  "metrics_endpoint": "http://85.190.246.94:9615/metrics",
+  "id": "7063b5aa-7f00-4eb1-a776-2e0ab820cfb6"
+}

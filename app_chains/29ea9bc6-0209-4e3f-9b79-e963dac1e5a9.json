@@ -1,0 +1,8 @@
+{
+  "name": "hardcore",
+  "logo": "https://ibb.co/kSWd7Nd",
+  "rpc_url": "http://84.247.142.100:9944",
+  "explorer_url": "http://84.247.179.118:4000",
+  "metrics_endpoint": "http://84.247.142.100:9615/metrics",
+  "id": "29ea9bc6-0209-4e3f-9b79-e963dac1e5a9"
+}

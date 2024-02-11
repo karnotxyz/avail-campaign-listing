@@ -1,0 +1,8 @@
+{
+  "name": "toanbm",
+  "logo": "https://github.com/ToanBm/logo/blob/main/toanbm.jpg",
+  "rpc_url": "http://161.97.145.100:9944",
+  "explorer_url": "http://161.97.145.100:4000",
+  "metrics_endpoint": "http://161.97.145.100:9615/metrics",
+  "id": "19f7ba19-aadb-4141-84f7-10e5e731a3d6"
+}

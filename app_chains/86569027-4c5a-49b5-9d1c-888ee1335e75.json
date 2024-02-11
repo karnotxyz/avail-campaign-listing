@@ -1,0 +1,8 @@
+{
+  "name": "token",
+  "logo": "https://r.resimlink.com/oA32Yi.jpg",
+  "rpc_url": "http://49.13.160.106:9944",
+  "explorer_url": "http://49.13.160.106:4000",
+  "metrics_endpoint": "http://49.13.160.106:9615/metrics",
+  "id": "86569027-4c5a-49b5-9d1c-888ee1335e75"
+}
