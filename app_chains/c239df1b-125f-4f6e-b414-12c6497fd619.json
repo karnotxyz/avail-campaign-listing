@@ -1,0 +1,8 @@
+{
+  "name": "elrond",
+  "logo": "",
+  "rpc_url": "http://65.109.13.124:9944",
+  "explorer_url": "http://65.109.13.124:4000",
+  "metrics_endpoint": "http://65.109.13.124:9615/metrics",
+  "c239df1b-125f-4f6e-b414-12c6497fd619"
+}
