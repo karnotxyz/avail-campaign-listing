@@ -1,0 +1,8 @@
+{
+  "name": "phantasmax",
+  "logo": "https://placehold.jp/0f101f/ffffff/400x400.png?text=hello%20phantasmax",
+  "rpc_url": "https://195.35.25.28:9944",
+  "explorer_url": "https://195.35.25.28:4000",
+  "metrics_endpoint": "https://195.35.25.28:9615/metrics",
+  "id": "8276d9a7-63a1-4824-8c40-181471a1f803"
+}
