@@ -1,0 +1,8 @@
+{
+  "name": "pouria77",
+  "logo": "https://ibb.co/TLXVCqv",
+  "rpc_url": "http://49.12.60.58:9944",
+  "explorer_url": "http://49.12.60.58:4000",
+  "metrics_endpoint": "http://49.12.60.58:9615/metrics",
+  "id": "9cb3baee-0f46-4bf4-98c4-4cde227dfd3e"
+}

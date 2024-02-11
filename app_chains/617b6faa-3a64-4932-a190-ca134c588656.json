@@ -1,0 +1,8 @@
+{
+  "name": "madaroglan",
+  "logo": "https://r.resimlink.com/oreht4.jpeg",
+  "rpc_url": "http://212.90.120.183:9944",
+  "explorer_url": "http://212.90.120.183:4000",
+  "metrics_endpoint": "http://212.90.120.183:9615/metrics",
+  "id": "617b6faa-3a64-4932-a190-ca134c588656"
+}
