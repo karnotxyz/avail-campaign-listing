@@ -1,0 +1,8 @@
+{
+  "name": "ubuntuv2",
+  "logo": "https://ibb.co/FVK8TJB",
+  "rpc_url": "http://164.92.110.104:9944",
+  "explorer_url": "http://164.92.110.104:4000",
+  "metrics_endpoint": "http://164.92.110.104:9615/metrics",
+  "id": "22fed08f-6734-4bd0-aa3a-f42c5255a94c"
+}
