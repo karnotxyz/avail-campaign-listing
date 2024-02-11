@@ -1,8 +1,8 @@
 {
   "name": "GojoSama",
   "logo": "https://ibb.co/stH4JG8",
-  "rpc_url": "https://159.89.21.148:9944",
-  "explorer_url": "https://159.89.21.148:4000",
+  "rpc_url": "http://159.89.21.148:9944",
+  "explorer_url": "http://159.89.21.148:4000",
   "metrics_endpoint": "https://159.89.21.148:9615/metrics",
   "id": "7d8af6d1-385d-4aca-a6db-1f8e45367584"
 }
