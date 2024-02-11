@@ -1,0 +1,8 @@
+{
+  "name": "yigidoumit",
+  "logo": "https://r.resimlink.com/VIYFrMPgd01Q.png", 
+  "rpc_url": "http://207.180.233.47:9944",
+  "explorer_url": "http://207.180.233.47:4000",
+  "metrics_endpoint": "http://207.180.233.47:9615",
+  "id": "269bd053-e57b-47a2-8abe-bd082347b421"
+}
