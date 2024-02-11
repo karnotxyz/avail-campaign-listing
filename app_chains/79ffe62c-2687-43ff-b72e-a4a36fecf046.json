@@ -1,0 +1,8 @@
+{
+  "name": "0xbitban",
+  "logo": "https://r.resimlink.com/Q5bp4.png",
+  "rpc_url": "http://5.189.162.120:9944",
+  "explorer_url": "http://5.189.162.120:4000",
+  "metrics_endpoint": "http://5.189.162.120:9615/metrics",
+  "id": "79ffe62c-2687-43ff-b72e-a4a36fecf046"
+}
