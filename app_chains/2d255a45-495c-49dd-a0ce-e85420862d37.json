@@ -1,0 +1,8 @@
+{
+  "name": "babaa",
+  "logo": "https://imgur.com/a/ypueVNF",
+  "rpc_url": "http://84.247.170.76:9944",
+  "explorer_url": "http://84.247.170.76:4000",
+  "metrics_endpoint": "http://84.247.170.76:9615/metrics",
+  "id": "2d255a45-495c-49dd-a0ce-e85420862d37"
+}
