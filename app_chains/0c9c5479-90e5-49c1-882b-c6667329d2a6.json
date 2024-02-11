@@ -1,0 +1,8 @@
+{
+  "name": “elif”,
+  "logo": "https://imgur.com/LJ5Ea6X.png",
+  "rpc_url": "http://173.212.212.140:9944",
+  "explorer_url": "http:/173.212.212.140:4000",
+  "metrics_endpoint": "http:173.212.212.140:9615/metrics",
+  "id": "0c9c5479-90e5-49c1-882b-c6667329d2a6"
+}
