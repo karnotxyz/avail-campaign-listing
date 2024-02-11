@@ -1,0 +1,8 @@
+{
+  "name": "jojoavail88",
+  "logo": "https://i.postimg.cc/X7CXYr2s/jojo.png",
+  "rpc_url": "http://5.189.172.87:9944",
+  "explorer_url": "http://5.189.172.87:4000",
+  "metrics_endpoint": "http://5.189.172.87:9615/metrics",
+  "id": "11337370-dfe6-4078-bb32-85dc67dfdf39"
+}
