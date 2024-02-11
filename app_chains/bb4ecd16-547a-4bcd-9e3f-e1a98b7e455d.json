@@ -1,0 +1,8 @@
+{
+  "name": "fahira",
+  "logo": "https://placehold.co/400x400/EEE/31343C?font=playfair-display&text=Fahira",
+  "rpc_url": "http://173.212.195.131:9944",
+  "explorer_url": "http://173.212.195.131:4000",
+  "metrics_endpoint": "http://173.212.195.131:9615/metrics",
+  "id": "bb4ecd16-547a-4bcd-9e3f-e1a98b7e455d"
+}
