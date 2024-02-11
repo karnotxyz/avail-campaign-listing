@@ -1,0 +1,8 @@
+{
+  "name": "avldao",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/195px-Yin_yang.svg.png",
+  "rpc_url": "http://184.174.32.119:9944",
+  "explorer_url": "http://184.174.32.119:4000",
+  "metrics_endpoint": "http://184.174.32.119:9615/metrics",
+  "id": "80cea3e6-2019-4420-8442-8f1b6a0408ba"
+}
