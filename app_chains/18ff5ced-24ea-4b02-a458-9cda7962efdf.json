@@ -1,8 +1,0 @@
-{
-  "name": "moon",
-  "logo": "https://ibb.co/99XPYBH",
-  "rpc_url": "http://194.233.92.181:9944/",
-  "explorer_url": "http://194.233.92.181:4000/",
-  "metrics_endpoint": "http://194.233.92.181:9615/metrics",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
-}
