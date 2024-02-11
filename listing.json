@@ -1,0 +1,8 @@
+{
+  "name": "macull",
+  "logo": "https://imgur.com/j8kfwJT",
+  "rpc_url": "20.27.214.102:994",
+  "explorer_url": "20.27.214.102:4000",
+  "metrics_endpoint": "20.27.214.102:9165/metris",
+  "id": "7c2bc03a-4941-45b8-871d-b2a939bb54ff"
+}
