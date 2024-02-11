@@ -1,0 +1,8 @@
+{
+  "name": "ARSAvail",
+  "logo": "https://im.ge/i/bWgs9J",
+  "rpc_url": "http://95.217.128.44:9944",
+  "explorer_url": "http://95.217.128.44:4000",
+  "metrics_endpoint": "http://95.217.128.44:9615/metrics",
+  "id": "6233517a-ce0b-47e0-8c8d-00018857693a"
+}

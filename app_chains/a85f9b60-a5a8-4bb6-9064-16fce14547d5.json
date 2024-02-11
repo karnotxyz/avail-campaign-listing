@@ -1,0 +1,8 @@
+{
+  "name": "hypatia",
+  "logo": "https://avatars.githubusercontent.com/u/85608222?s=400&u=ff4f5302e45c568c9a802a5ab769342f05f55b7a&v=4",
+  "rpc_url": "http://65.108.63.44:9944",
+  "explorer_url": "http://65.108.63.44:4000/",
+  "metrics_endpoint": "http://65.108.63.44:9615/metrics",
+  "id": "a85f9b60-a5a8-4bb6-9064-16fce14547d5"
+}

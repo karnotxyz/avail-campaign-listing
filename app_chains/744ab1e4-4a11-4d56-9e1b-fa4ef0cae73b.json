@@ -1,0 +1,8 @@
+{
+  "name": "MadaraWithAvail",
+  "logo": "https://i.im.ge/2024/02/05/bGU25r.Newbie-CCGoblin.jpg",
+  "rpc_url": "http://45.76.102.35:9944",
+  "explorer_url": "http://45.76.102.35:4000",
+  "metrics_endpoint": "http://45.76.102.35:9615/metrics",
+  "id": "744ab1e4-4a11-4d56-9e1b-fa4ef0cae73b"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "equinox",
+  "logo": "https://imgur.com/adI0z17.jpg",
+  "rpc_url": "http://31.220.98.27:9944",
+  "explorer_url": "http://31.220.98.27:4000",
+  "metrics_endpoint": "http://31.220.98.27:9615/metrics",
+  "id": "c14f4b73-a885-4250-8bee-7bba3216844c"
+}

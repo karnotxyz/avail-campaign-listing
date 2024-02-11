@@ -1,0 +1,8 @@
+{
+  "name": "koltigin",
+  "logo": "https://anatolianteam.com/wp-content/uploads/2024/01/Anatolian-Team-Profile-Yeni-KolTigin.png",
+  "rpc_url": "http://176.57.189.36:9944",
+  "explorer_url": "http://176.57.189.36:4000",
+  "metrics_endpoint": "http://176.57.189.36:9615/metrics",
+  "id": "60c3e019-b5dd-47eb-ba5b-acdbc5122d5e"
+}

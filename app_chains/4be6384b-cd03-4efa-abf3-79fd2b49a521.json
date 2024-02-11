@@ -1,0 +1,8 @@
+{
+  "name": "todorokisan",
+  "logo": "https://im.ge/i/bV0ROq",
+  "rpc_url": "http://194.163.161.190:9944",
+  "explorer_url": "http://194.163.161.190:4000",
+  "metrics_endpoint": "http://194.163.161.190:9615/metrics",
+  "id": "4be6384b-cd03-4efa-abf3-79fd2b49a521"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "mirage",
+  "logo": "https://r.resimlink.com/z_8ioU2aGV.jpg",
+  "rpc_url": "http://38.242.231.46:9944",
+  "explorer_url": "http://38.242.231.46:4000",
+  "metrics_endpoint": "http://38.242.231.46:9615/metrics",
+  "id": "cb67fa03-1662-4c6f-8155-ef7f0093af83"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "eastroller",
+  "logo": "https://cdn.jsdelivr.net/gh/wiselyG/checkinBot_qa3@main/imgs/madana_0.jpg",
+  "rpc_url": "http://142.171.131.158:9944",
+  "explorer_url": "http://142.171.131.158:4000",
+  "metrics_endpoint": "http://142.171.131.158:9615/metrics",
+  "id": "f7246312-3e47-4473-a0e1-6c2c8b2bf18c"
+}

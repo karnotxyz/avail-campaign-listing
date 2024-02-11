@@ -1,0 +1,8 @@
+{
+  "name": "naser",
+  "logo": "https://r.resimlink.com/pSYURol.png",
+  "rpc_url": "http://89.106.206.205:9944",
+  "explorer_url": "http://89.106.206.205:4000",
+  "metrics_endpoint": "http://89.106.206.205:9615/metrics",
+  "id": "ee1419b4-b31a-43d6-9ddb-36c81cc8e837"
+}

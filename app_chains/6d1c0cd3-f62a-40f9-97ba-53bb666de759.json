@@ -1,0 +1,8 @@
+{
+  "name": "iris",
+  "logo": "https://i.ibb.co/qy3BXDv/logo.jpg",
+  "rpc_url": "http://164.90.177.51:9944",
+  "explorer_url": "http://164.90.177.51:4000",
+  "metrics_endpoint": "http://164.90.177.51:9615/metrics",
+  "id": "6d1c0cd3-f62a-40f9-97ba-53bb666de759"
+}
