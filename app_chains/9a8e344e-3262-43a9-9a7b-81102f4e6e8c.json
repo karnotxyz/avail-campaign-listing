@@ -1,0 +1,9 @@
+{
+  "name": "tarik",
+  "logo": "https://r.resimlink.com/9v2nro.jpg",
+  "rpc_url": "http://185.250.37.33:9944",
+  "explorer_url": "http://185.250.37.33:4000",
+  "metrics_endpoint": "http://185.250.37.33:9615",
+  "id": "9a8e344e-3262-43a9-9a7b-81102f4e6e8c"
+}
+
