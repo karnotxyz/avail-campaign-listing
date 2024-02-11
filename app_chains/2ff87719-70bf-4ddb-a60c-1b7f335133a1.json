@@ -1,0 +1,8 @@
+{
+  "name": "tancon",
+  "logo": "https://r.resimlink.com/Kec27jftq.png",
+  "rpc_url": "http://89.163.151.195:9944",
+  "explorer_url": "http://89.163.151.195:4000",
+  "metrics_endpoint": "http://89.163.151.195:9615/metrics",
+  "id": "2ff87719-70bf-4ddb-a60c-1b7f335133a1"
+}
