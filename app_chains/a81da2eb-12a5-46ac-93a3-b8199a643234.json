@@ -1,0 +1,8 @@
+{
+  "name": "carbon",
+  "logo": "https://r.resimlink.com/eNHkIa7.jpg",
+  "rpc_url": "http://91.107.247.225:9944",
+  "explorer_url": "http://91.107.247.225:4000",
+  "metrics_endpoint": "http://91.107.247.225:9615/metrics",
+  "id": "a81da2eb-12a5-46ac-93a3-b8199a643234"
+}
