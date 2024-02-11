@@ -1,0 +1,8 @@
+{
+  "name": "mkh",
+  "logo": "https://r.resimlink.com/9qrbX-lQ5.png",
+  "rpc_url": "http://62.171.148.23:9944",
+  "explorer_url": "http://62.171.148.23:4000",
+  "metrics_endpoint": "http://62.171.148.23:9615/metrics",
+  "id": "b01543db-9e08-4e46-8693-561b3801c3e5"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Parcham",
+  "logo": "https://r.resimlink.com/dpHhG3.jpg",
+  "rpc_url": "http://167.86.95.31:9944",
+  "explorer_url": "http://167.86.95.31:4000",
+  "metrics_endpoint": "http://167.86.95.31:9615/metrics",
+  "id": "64095a38-41a0-4e88-8bef-41ec53fcff92"
+}
