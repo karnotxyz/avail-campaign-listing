@@ -1,0 +1,8 @@
+{
+  "name": "Boo",
+  "logo": "https://i.postimg.cc/DZyQLxzJ/curved14.png",
+  "rpc_url": "http://46.250.233.131:9944",
+  "explorer_url": "http://46.250.233.131:4000",
+  "metrics_endpoint": "http://46.250.233.131:9615/metrics",
+  "id": "e71f73b9-cfe8-4f52-892f-038404e6895b"
+}
