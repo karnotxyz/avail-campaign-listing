@@ -1,0 +1,8 @@
+{
+  "name": "supervail",
+  "logo": "https://r.resimlink.com/zPqMG1TK.jpg",
+  "rpc_url": "http://144.91.117.157:9944",
+  "explorer_url": "http://144.91.117.157:4000",
+  "metrics_endpoint": "http://144.91.117.157:9615/metrics",
+  "id": "7dbe4205-2759-4ea3-8fa9-1dda991dcd71"
+}
