@@ -1,0 +1,8 @@
+{
+  "name": "tatiana",
+  "logo": "https://placehold.co/400x400/EEE/31343C?font=montserrat&text=Tatiana",
+  "rpc_url": "http://31.220.93.200:9944",
+  "explorer_url": "http://31.220.93.200:4000",
+  "metrics_endpoint": "http://31.220.93.200:9615/metrics",
+  "id": "2c26901a-dd6f-4905-9b07-62f9b1ef736b"
+}
