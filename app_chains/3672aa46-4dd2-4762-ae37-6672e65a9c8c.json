@@ -1,0 +1,8 @@
+{
+  "name": "Parsa",
+  "logo": "https://ibb.co/hBCdMRC",
+  "rpc_url": "http://65.109.178.112:9944",
+  "explorer_url": "http://65.109.178.112:4000",
+  "metrics_endpoint": "http://65.109.178.112:9615/metrics",
+  "id": "3672aa46-4dd2-4762-ae37-6672e65a9c8c"
+}
