@@ -1,0 +1,8 @@
+{
+  "name": "ihsandgn",
+  "logo": "https://r.resimlink.com/Nyh7Y.png",
+  "rpc_url": "http://184.174.32.149:9944",
+  "explorer_url": "http://184.174.32.149:4000",
+  "metrics_endpoint": "http://184.174.32.149:9615",
+  "id": "bead7556-02b4-4188-982b-405e0f198d50"
+}
