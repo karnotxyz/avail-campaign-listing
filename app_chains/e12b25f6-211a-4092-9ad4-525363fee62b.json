@@ -1,0 +1,8 @@
+{
+  "name": "stevens",
+  "logo": "https://r.resimlink.com/lYpaLG_D41B.png",
+  "rpc_url": "http://161.97.166.198:9944",
+  "explorer_url": "http://161.97.166.198:4000",
+  "metrics_endpoint": "http://161.97.166.198:9615/metrics",
+  "id": "e12b25f6-211a-4092-9ad4-525363fee62b"
+}

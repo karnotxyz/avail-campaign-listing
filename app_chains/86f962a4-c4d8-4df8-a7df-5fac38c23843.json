@@ -1,0 +1,8 @@
+{
+  "name": "KingLear",
+  "logo": "https://i.postimg.cc/RhJ6mWRr/18487399.jpg",
+  "rpc_url": "http://135.181.148.47:9944",
+  "explorer_url": "http://135.181.148.47:4000",
+  "metrics_endpoint": "http://135.181.148.47:9615/metrics",
+  "id": "86f962a4-c4d8-4df8-a7df-5fac38c23843"
+}

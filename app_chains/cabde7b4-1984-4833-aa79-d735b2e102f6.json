@@ -1,0 +1,8 @@
+{
+  "name": "tho101",
+  "logo": "https://avatars.githubusercontent.com/u/134053472",
+  "rpc_url": "http://85.209.48.15:9944",
+  "explorer_url": "http://85.209.48.15:4000",
+  "metrics_endpoint": "http://85.209.48.15:9615/metrics",
+  "id": "cabde7b4-1984-4833-aa79-d735b2e102f6"
+}

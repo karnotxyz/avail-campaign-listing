@@ -1,0 +1,8 @@
+{
+  "name": "milliarrxpooicle",
+  "logo": "https://raw.githubusercontent.com/milliarrxpooic1/milliarrxpooic1/main/kt22.jpg",
+  "rpc_url": "http://46.250.229.220:9944",
+  "explorer_url": "http://46.250.229.220:4000",
+  "metrics_endpoint": "http://46.250.229.220:9615/metrics",
+  "id": "1be3bb00-1d5a-4360-81ec-68db6d2cfcb1"
+}

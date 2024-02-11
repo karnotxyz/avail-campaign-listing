@@ -1,0 +1,8 @@
+{
+  "name": "bajo",
+  "logo": "https://i.ibb.co/xqyHrst/logo.png",
+  "rpc_url": "http://49.13.173.178:9944",
+  "explorer_url": "http://49.13.173.178:4000",
+  "metrics_endpoint": "http://49.13.173.178:9615/metrics",
+  "id": "3073dc7e-e41d-40b9-83fc-db5d6e9f7133"
+}

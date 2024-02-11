@@ -1,0 +1,8 @@
+{
+  "name": "bigrod",
+  "logo": "https://avail.tws.im/bigrod.png",
+  "rpc_url": "https://karnot-rpc.tws.im",
+  "explorer_url": "https://karnot-explorer.tws.im",
+  "metrics_endpoint": "https://karnot-metrics.tws.im/metrics",
+  "id": "e203af41-2389-4087-8ba7-ed494dea5ef6"
+}

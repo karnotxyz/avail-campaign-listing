@@ -1,0 +1,8 @@
+{
+  "name": "icochain",
+  "logo": "https://r.resimlink.com/O9Lxk.jpg",
+  "rpc_url": "http://65.109.163.32:9944",
+  "explorer_url": "http://65.109.163.32:4000",
+  "metrics_endpoint": "http://65.109.163.32:9615/metrics",
+  "id": "d7763f94-ba4a-49ce-a51f-97e4920b2beb"
+}

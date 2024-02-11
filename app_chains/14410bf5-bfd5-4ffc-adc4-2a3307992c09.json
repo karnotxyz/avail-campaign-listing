@@ -1,0 +1,8 @@
+{
+  "name": "captrep",
+  "logo": "https://i.ibb.co/q5H9ZYm/Capt-Black.jpg",
+  "rpc_url": "http://109.123.235.122:9944",
+  "explorer_url": "http://109.123.235.122:4000",
+  "metrics_endpoint": "http://109.123.235.122:9615/metrics",
+  "id": "14410bf5-bfd5-4ffc-adc4-2a3307992c09"
+}

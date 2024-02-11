@@ -1,0 +1,8 @@
+{
+  "name": "hamid",
+  "logo": "https://r.resimlink.com/6eYlW9I.png",
+  "rpc_url": "http://49.12.60.46:9944",
+  "explorer_url": "http://49.12.60.46:4000",
+  "metrics_endpoint": "http://49.12.60.46:9615/metrics",
+  "id": "69e389ff-4fd9-488c-8930-caea8348a2bf"
+}

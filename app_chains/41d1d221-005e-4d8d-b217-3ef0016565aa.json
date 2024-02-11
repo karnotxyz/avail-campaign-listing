@@ -1,0 +1,8 @@
+{
+  "name": "vahitnode",
+  "logo": "devnet/vahitnode_4184218-1/logos/vahitnode_4184218-1.png",
+  "rpc_url": "http://84.247.184.24:9944",
+  "explorer_url": "http://84.247.184.24:4000",
+  "metrics_endpoint": "http://84.247.184.24:9615/metrics",
+  "id": "41d1d221-005e-4d8d-b217-3ef0016565aa"
+}

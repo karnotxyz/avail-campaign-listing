@@ -1,0 +1,8 @@
+{
+  "name": "FarmETH",
+  "logo": "https://cdn.discordapp.com/avatars/1050147765818228837/4fa965aaa16aceae6b88db081197cf7c.webp?size=300",
+  "rpc_url": "http://104.251.218.86:9944",
+  "explorer_url": "http://104.251.218.86:4000",
+  "metrics_endpoint": "http://104.251.218.86:9615/metrics",
+  "id": "7545d3a0-3215-4106-89cb-209cf3d40cfa"
+}

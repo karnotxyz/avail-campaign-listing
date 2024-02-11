@@ -1,0 +1,8 @@
+{
+  "name": "phoenix",
+  "logo": "https://imgur.com/vkrUuty.jpg",
+  "rpc_url": "http://84.247.179.121:9944",
+  "explorer_url": "http://84.247.179.121:4000",
+  "metrics_endpoint": "http://84.247.179.121:9615/metrics",
+  "id": "609d5084-0655-4c97-9695-3bb11784ad33"
+}

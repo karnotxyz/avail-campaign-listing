@@ -1,0 +1,8 @@
+{
+  "name": "mutualalmo",
+  "logo": "http://43.130.227.176/logo.jpg",
+  "rpc_url": "http://43.130.227.176:9944",
+  "explorer_url": "http://43.130.227.176:4000",
+  "metrics_endpoint": "http://43.130.227.176:9615/metrics",
+  "id": "52aa8072-f01f-423f-9216-46481f8713e9"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Coha05",
+  "logo": "https://i.imgur.com/Knwaj51.png",
+  "rpc_url": "http://185.148.241.142:9944",
+  "explorer_url": "http://185.148.241.142:4000",
+  "metrics_endpoint": "http://185.148.241.142:9615/metrics",
+  "id": "9596ca4e-98bb-434f-a18b-2b2d6723d1cf"
+}

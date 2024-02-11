@@ -1,0 +1,8 @@
+{
+  "name": "mrchandlerapp",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/880c52765b7d318539996909010cb405_360_360.jpg",
+  "rpc_url": "http://34.68.240.212:9944",
+  "explorer_url": "http://34.68.240.212:4000",
+  "metrics_endpoint": "http://34.68.240.212:9615/metrics",
+  "id": "6a0ce874-b5aa-4066-9c7b-864792db3a06"
+}

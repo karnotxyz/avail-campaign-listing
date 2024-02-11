@@ -1,0 +1,8 @@
+{
+  "name": "hamed",
+  "logo": "https://ibb.co/9mXGbYw",
+  "rpc_url": "http://49.12.58.100:9944",
+  "explorer_url": "http://49.12.58.100:4000",
+  "metrics_endpoint": "http://49.12.58.100:9615/metrics",
+  "id": "169cbc2f-2766-423e-93e7-8c812a2621a0"
+}

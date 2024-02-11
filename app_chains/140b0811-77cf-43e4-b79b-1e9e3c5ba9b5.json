@@ -1,0 +1,8 @@
+{
+  "name": "whisper",
+  "logo": "https://imgur.com/JCARYzB.jpg",
+  "rpc_url": "http://31.220.98.28:9944",
+  "explorer_url": "http://31.220.98.28:4000",
+  "metrics_endpoint": "http://31.220.98.28:9615/metrics",
+  "id": "140b0811-77cf-43e4-b79b-1e9e3c5ba9b5"
+}

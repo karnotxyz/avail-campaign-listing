@@ -1,0 +1,8 @@
+{
+  "name": "xtata",
+  "logo": "https://placehold.co/400x400/black/whitered?text=TT",
+  "rpc_url": "http://164.68.102.58:9944",
+  "explorer_url": "http://164.68.102.58:4000",
+  "metrics_endpoint": "http://164.68.102.58:9615/metrics",
+  "id": "75c8bf24-82fb-4fdf-b3c2-78394c272201"
+}

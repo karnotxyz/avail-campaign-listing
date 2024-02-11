@@ -1,0 +1,8 @@
+{
+  "name": "TransfertASTR",
+  "logo": "https://ibb.co/2WCL29y",
+  "rpc_url": "http://62.171.133.95:9944",
+  "explorer_url": "http://62.171.133.95:4000",
+  "metrics_endpoint": "http://62.171.133.95:9615/metrics",
+  "id": "117f409d-452f-4078-8df8-779afeb91277"
+}

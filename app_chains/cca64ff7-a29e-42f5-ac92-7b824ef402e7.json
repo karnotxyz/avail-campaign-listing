@@ -1,0 +1,8 @@
+{
+  "name": "ps50",
+  "logo": "https://i.ibb.co/gRFYwHN/Sol-Sys-Portrait-Trigo-1080.png",
+  "rpc_url": "http://194.135.80.146:9944",
+  "explorer_url": "http://194.135.80.146:4000",
+  "metrics_endpoint": "http://194.135.80.146:9615/metrics",
+  "id": "cca64ff7-a29e-42f5-ac92-7b824ef402e7"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Astronaut",
+  "logo": "https://im.ge/i/cQNM5T",
+  "rpc_url": "http://149.28.125.161:9944",
+  "explorer_url": "http://149.28.125.161:4000",
+  "metrics_endpoint": "http://149.28.125.161:9615/metrics",
+  "id": "a7ad1b73-9d75-470a-bbcd-38b85eb86356"
+}

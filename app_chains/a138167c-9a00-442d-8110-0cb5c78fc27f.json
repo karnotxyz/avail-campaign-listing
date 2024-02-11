@@ -1,0 +1,8 @@
+{
+  "name": "shimauma",
+  "logo": "https://i.ibb.co/W0S4jp5/akumakingyo.png",
+  "rpc_url": "http://164.70.90.247:9944",
+  "explorer_url": "http://164.70.90.247:4000",
+  "metrics_endpoint": "http://164.70.90.247:9615/metrics",
+  "id": "a138167c-9a00-442d-8110-0cb5c78fc27f"
+}
