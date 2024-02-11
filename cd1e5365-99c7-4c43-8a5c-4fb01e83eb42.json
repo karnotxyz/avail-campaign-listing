@@ -1,0 +1,8 @@
+{
+  "name": "meongcongkok",
+  "logo": "https://i.ibb.co/ykZ7txm/meongcongkok-8530-1.png",
+  "rpc_url": "http://89.117.48.67:9944",
+  "explorer_url": "http://89.117.48.67:4000",
+  "metrics_endpoint": "http://89.117.48.67:9615/metrics",
+  "id": "cd1e5365-99c7-4c43-8a5c-4fb01e83eb42"
+}
