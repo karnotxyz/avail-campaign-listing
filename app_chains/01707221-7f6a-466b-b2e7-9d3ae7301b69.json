@@ -1,8 +1,0 @@
-{
-  "name": "RedGingerBread",
-  "logo": "https://i.ibb.co/t4ZZ37F/madara-sarinem.png",
-  "rpc_url": "http://31.220.89.96:9944",
-  "explorer_url": "http://31.220.89.96:4000",
-  "metrics_endpoint": "http://31.220.89.96:9615/metrics",
-  "id": "01707221-7f6a-466b-b2e7-9d3ae7301b69"
-}
