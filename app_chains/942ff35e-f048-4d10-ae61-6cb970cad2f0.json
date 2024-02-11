@@ -1,8 +1,8 @@
 {
-  "name": "lmao",
-  "logo": "https://ibb.co/tp7v6W9",
-  "rpc_url": "http://43.133.215.71:9944",
-  "explorer_url": "http://43.133.215.71:4000",
-  "metrics_endpoint": "http://43.133.215.71:9615/metrics",
+  "name": "rezarwz",
+  "logo": "https://i.postimg.cc/Ghm0GFZQ/3652-1.png",
+  "rpc_url": "http://95.111.228.57:9944",
+  "explorer_url": "http://95.111.228.57:4000",
+  "metrics_endpoint": "http://95.111.228.57:9615/metrics",
   "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
 }
