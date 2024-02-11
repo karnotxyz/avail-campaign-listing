@@ -1,0 +1,8 @@
+{
+  "name": "ririchain",
+  "logo": "https://ibb.co/nCpFSkW",
+  "rpc_url": "http://89.117.56.78:9944",
+  "explorer_url": "http://89.117.56.78:4000",
+  "metrics_endpoint": "http://89.117.56.78:9615/metrics",
+  "id": "c9b800a4-3529-4277-b5b3-6e2e101c5cc7"
+}
