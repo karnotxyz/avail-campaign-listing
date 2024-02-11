@@ -1,0 +1,8 @@
+{
+  "name": "initianode",
+  "logo": "https://imgur.com/a/3C1HXlR.jpg",
+  "rpc_url": "http://165.232.151.122:9944",
+  "explorer_url": "http://165.232.151.122:4000",
+  "metrics_endpoint": "http://165.232.151.122:9615/metrics",
+  "id": "4d379791-3ebd-4d9e-988d-3f99fc04874a"
+}
