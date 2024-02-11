@@ -1,0 +1,8 @@
+{
+  "name": "bayurnet",
+  "logo": "http://bayur.net/logo.png",
+  "rpc_url": "http://46.250.234.22:9944",
+  "explorer_url": "http://46.250.234.22:4000",
+  "metrics_endpoint": "http://46.250.234.22:9615/metrics",
+  "id": "00dd00c8-725e-41fb-a392-2e98623cfbdd"
+}

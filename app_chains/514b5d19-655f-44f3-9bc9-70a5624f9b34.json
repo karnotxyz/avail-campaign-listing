@@ -1,0 +1,8 @@
+{
+  "name": "XNode",
+  "logo": "https://xnode.tech/images/xnode-logo.svg",
+  "rpc_url": "http://45.147.46.132:9944",
+  "explorer_url": "http://45.147.46.132:4000",
+  "metrics_endpoint": "http://45.147.46.132:9615/metrics",
+  "id": "514b5d19-655f-44f3-9bc9-70a5624f9b34"
+}

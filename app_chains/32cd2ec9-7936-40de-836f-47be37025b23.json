@@ -1,0 +1,8 @@
+{
+  "name": "vulcan",
+  "logo": "https://imgur.com/X3K4pCP.jpg",
+  "rpc_url": "http://84.247.179.120:9944",
+  "explorer_url": "http://84.247.179.120:4000",
+  "metrics_endpoint": "http://84.247.179.120:9615/metrics",
+  "id": "32cd2ec9-7936-40de-836f-47be37025b23"
+}

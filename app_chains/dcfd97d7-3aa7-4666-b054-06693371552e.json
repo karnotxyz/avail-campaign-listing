@@ -1,0 +1,8 @@
+{
+  "name": "beautigirl",
+  "logo": "http://150.109.16.93/static/images/beauti.jpg",
+  "rpc_url": "http://150.109.16.93:9944",
+  "explorer_url": "http://150.109.16.93:4000",
+  "metrics_endpoint": "http://150.109.16.93:9615/metrics",
+  "id": "dcfd97d7-3aa7-4666-b054-06693371552e"
+}

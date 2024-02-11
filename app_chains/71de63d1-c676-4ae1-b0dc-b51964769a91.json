@@ -1,0 +1,8 @@
+{
+  "name": "poolad",
+  "logo": "https://r.resimlink.com/XS5uW2v.png",
+  "rpc_url": "http://46.249.98.213:9944",
+  "explorer_url": "http://46.249.98.213:4000",
+  "metrics_endpoint": "http://46.249.98.213:9615/metrics",
+  "id": "71de63d1-c676-4ae1-b0dc-b51964769a91"
+}

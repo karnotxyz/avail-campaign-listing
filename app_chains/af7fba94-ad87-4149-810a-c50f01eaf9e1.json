@@ -1,0 +1,8 @@
+{
+  "name": "konayaro",
+  "logo": "https://r.resimlink.com/_bE-JTK93NP.png",
+  "rpc_url": "http://91.107.193.155:9944",
+  "explorer_url": "http://91.107.193.155:4000",
+  "metrics_endpoint": "http://91.107.193.155:9615/metrics",
+  "id": "af7fba94-ad87-4149-810a-c50f01eaf9e1"
+}

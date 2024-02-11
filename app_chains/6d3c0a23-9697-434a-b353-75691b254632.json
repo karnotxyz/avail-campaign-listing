@@ -1,0 +1,8 @@
+{
+  "name": "Sampson",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://49.51.193.184:9944",
+  "explorer_url": "http://49.51.193.184:4000",
+  "metrics_endpoint": "http://49.51.193.184:9615/metrics",
+  "id": "6d3c0a23-9697-434a-b353-75691b254632"
+}

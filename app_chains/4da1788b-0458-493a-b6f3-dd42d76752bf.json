@@ -1,0 +1,8 @@
+{
+  "name": "thisrot",
+  "logo": "http://43.133.195.47/logo.jpg",
+  "rpc_url": "http://43.133.195.47:9944",
+  "explorer_url": "http://43.133.195.47:4000",
+  "metrics_endpoint": "http://43.133.195.47:9615/metrics",
+  "id": "4da1788b-0458-493a-b6f3-dd42d76752bf"
+}

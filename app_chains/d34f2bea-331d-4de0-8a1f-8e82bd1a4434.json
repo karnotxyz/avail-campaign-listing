@@ -1,0 +1,8 @@
+{
+  "name": "Hunter",
+  "logo": "https://i.ibb.co/s5pWV56/download.jpg",
+  "rpc_url": "http://43.133.15.57:9944",
+  "explorer_url": "http://43.133.15.57:4000",
+  "metrics_endpoint": "http://43.133.15.57:9615/metrics",
+  "id": "d34f2bea-331d-4de0-8a1f-8e82bd1a4434"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "elkeson",
+  "logo": "https://i.postimg.cc/q72v16Jx/elkeson-6713928-1.png",
+  "rpc_url": "http://45.32.35.179:9944",
+  "explorer_url": "http://45.32.35.179:4000",
+  "metrics_endpoint": "http://45.32.35.179:9615/metrics",
+  "id": "f61f1661-5e7c-452c-a5f9-4f021477d76d"
+}

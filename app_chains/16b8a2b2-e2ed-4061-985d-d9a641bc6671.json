@@ -1,0 +1,8 @@
+{
+  "name": "connectyour1",
+  "logo": "https://ibb.co/sjjNDhx",
+  "rpc_url": "http://161.97.84.166:9944",
+  "explorer_url": "http://161.97.84.166:4000",
+  "metrics_endpoint": "http://161.97.84.166:9615/metrics",
+  "id": "16b8a2b2-e2ed-4061-985d-d9a641bc6671"
+}

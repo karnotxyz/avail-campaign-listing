@@ -1,0 +1,8 @@
+{
+  "name": "aaacat666",
+  "logo": "https://aaacat666.s3.ap-northeast-1.amazonaws.com/aaacat_400png.png",
+  "rpc_url": "http://116.62.67.133:9944",
+  "explorer_url": "http://116.62.67.133:4000",
+  "metrics_endpoint": "http://116.62.67.133:9615/metrics",
+  "id": "d23b7394-9f10-4fc3-ae02-4ad7b0be9779"
+}
