@@ -1,0 +1,8 @@
+{
+  "name": "lesican",
+  "logo": "https://r.resimlink.com/WkhHTV.png",
+  "rpc_url": "http://157.90.253.71:9944",
+  "explorer_url": "http://157.90.253.71:4000",
+  "metrics_endpoint": "http://157.90.253.71:9615/metrics",
+  "id": "3d24626c-67f5-4c5c-94b1-26f365c3a9e5"
+}
