@@ -1,0 +1,8 @@
+{
+  "name": "hapidbotak",
+  "logo": "https://i.imgur.com/NpwaIao.jpeg",
+  "rpc_url": "http:194.233.66.57:9944",
+  "explorer_url": "http://194.233.66.57:4000",
+  "metrics_endpoint": "http://194.233.66.57:9615/metrics",
+  "id": "39f2a1de-9e47-4ed2-a1ae-b3a9835e0289"
+}
