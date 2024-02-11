@@ -1,0 +1,8 @@
+{
+  "name": "oxhojat",
+  "logo": "https://r.resimlink.com/bGVKDtenI.jpg",
+  "rpc_url": "http://161.97.171.250:9944",
+  "explorer_url": "http://161.97.171.250:4000",
+  "metrics_endpoint": "http://161.97.171.250:9615/metrics",
+  "id": "a20f0a5e-0508-4f8c-a186-6fe2e50c0e77"
+}
