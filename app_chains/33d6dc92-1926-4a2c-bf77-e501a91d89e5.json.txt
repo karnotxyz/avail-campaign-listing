@@ -1,0 +1,8 @@
+{
+  "name": "arminaa",
+  "logo": "https://i.postimg.cc/sXvjGcQm/IMG-20240210-120858-837.jpg",
+  "rpc_url": "http://185.217.197.108:9944",
+  "explorer_url": "http://185.217.197.108:4000",
+  "metrics_endpoint": "http://185.217.197.108:9615/metrics",
+  "id": "33d6dc92-1926-4a2c-bf77-e501a91d89e5"
+}
