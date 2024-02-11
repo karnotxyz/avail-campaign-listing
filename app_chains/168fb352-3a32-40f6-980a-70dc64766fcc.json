@@ -1,0 +1,8 @@
+ {
+    "name": "Miko",
+    "logo": "https://r.resimlink.com/6mUIxwD.jpg",
+    "rpc_url": "http://49.13.192.68:9944",
+    "explorer_url": "http://49.13.192.68:4000",
+    "metrics_endpoint": "http://49.13.192.68:9615/metrics", 
+    "id": "168fb352-3a32-40f6-980a-70dc64766fcc"
+  }
