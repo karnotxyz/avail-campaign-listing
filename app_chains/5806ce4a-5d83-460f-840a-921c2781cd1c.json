@@ -1,0 +1,8 @@
+{
+  "name": "bitmojin",
+  "logo": "https://r.resimlink.com/kfj-Lh.png",
+  "rpc_url": "http://173.212.226.106:9944",
+  "explorer_url": "http://173.212.226.106:4000",
+  "metrics_endpoint": "http://173.212.226.106:9615/metrics",
+  "id": "5806ce4a-5d83-460f-840a-921c2781cd1c"
+}
