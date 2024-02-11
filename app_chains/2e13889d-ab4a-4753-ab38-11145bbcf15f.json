@@ -1,0 +1,8 @@
+{
+  "name": "okanm",
+  "logo": "https://r.resimlink.com/UTepbx7.png",
+  "rpc_url": "http://95.217.221.112:9944",
+  "explorer_url": "http://95.217.221.112:4000",
+  "metrics_endpoint": "http://95.217.221.112:9615/metrics",
+  "id": "2e13889d-ab4a-4753-ab38-11145bbcf15f"
+}

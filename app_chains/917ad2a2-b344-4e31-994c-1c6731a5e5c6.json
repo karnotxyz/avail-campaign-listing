@@ -1,0 +1,8 @@
+{
+  "name": "fanaticalcr",
+  "logo": "http://43.133.1.155/logo.jpg",
+  "rpc_url": "http://43.133.1.155:9944",
+  "explorer_url": "http://43.133.1.155:4000",
+  "metrics_endpoint": "http://43.133.1.155:9615/metrics",
+  "id": "917ad2a2-b344-4e31-994c-1c6731a5e5c6"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "blockstube",
+  "logo": "http://43.133.191.15/logo.jpg",
+  "rpc_url": "http://43.133.191.15:9944",
+  "explorer_url": "http://43.133.191.15:4000",
+  "metrics_endpoint": "http://43.133.191.15:9615/metrics",
+  "id": "0d254512-90ab-48f5-8b0c-2385488c09b6"
+}
