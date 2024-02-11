@@ -1,0 +1,8 @@
+{
+  "name": "CJNodes",
+  "logo": "https://ibb.co/XYMrfnJ",
+  "rpc_url": "http://185.250.149.174:9944",
+  "explorer_url": "http://185.250.149.174:4000",
+  "metrics_endpoint": "http://185.250.149.174/metrics",
+  "id": "10c75b73-da99-4bbc-a449-02cb4d24573d"
+}
