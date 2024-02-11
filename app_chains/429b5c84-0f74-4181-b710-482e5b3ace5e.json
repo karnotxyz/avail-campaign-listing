@@ -1,0 +1,8 @@
+{
+  "name": "AvailFatih",
+  "logo": "https://r.resimlink.com/P-FnvatJkK4V.png",
+  "rpc_url": "http://20.173.96.122:9944",
+  "explorer_url": "http://20.173.96.122:4000",
+  "metrics_endpoint": "http://20.173.96.122:9615",
+  "id": "429b5c84-0f74-4181-b710-482e5b3ace5e"
+}
