@@ -1,8 +1,0 @@
-  {
-    "name": "xonenode",
-    "logo": "https://i.imgur.com/SqWPch0.png",
-    "rpc_url": "http://109.123.239.97:9944",
-    "explorer_url": "http://109.123.239.97:4000",
-    "metrics_endpoint": "http://109.123.239.97:9615/metrics",
-    "id": "23bb727d-332c-4ed5-ad6d-5f471f4a124f"
-  }
