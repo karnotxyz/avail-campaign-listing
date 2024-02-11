@@ -1,0 +1,8 @@
+{
+  "name": "NOEX",
+  "logo": "https://noex.io/images/noex_logo_400.png",
+  "rpc_url": "http://31.220.72.219:9944",
+  "explorer_url": "http://31.220.72.219:4000",
+  "metrics_endpoint": "http://31.220.72.219:9615/metrics",
+  "id": "7c86e325-120f-4453-9d5e-93db6cfabde6"
+}
