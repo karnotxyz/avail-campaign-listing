@@ -1,0 +1,8 @@
+{
+    "name": "rakko",
+    "logo": "https://im.ge/i/rakko-up.bSSxwf",
+    "rpc_url": "http://158.220.114.203:9944",
+    "explorer_url": "http://158.220.114.203:4000",
+    "metrics_endpoint": "http://158.220.114.203:9615/metrics",
+    "id": "2a5eacf7-b160-4723-9ed4-c178bc71e9a0"
+  }
