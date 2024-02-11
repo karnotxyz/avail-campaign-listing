@@ -1,0 +1,8 @@
+{
+  "name": "traudien69",
+  "logo": "https://raw.githubusercontent.com/blocksync247/new/main/logo_400x400.png",
+  "rpc_url": "http://109.123.254.29:9944",
+  "explorer_url": "http://109.123.254.29:4000",
+  "metrics_endpoint": "http://109.123.254.29:9615/metrics",
+  "id": "35c4f120-5231-4742-b1f3-711a51ccc07f"
+}
