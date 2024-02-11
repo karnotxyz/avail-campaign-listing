@@ -1,0 +1,8 @@
+{
+  "name": "alperenav",
+  "logo": "https://r.resimlink.com/J90FpWnCm_.jpg",
+  "rpc_url": "http://37.27.23.51:9944",
+  "explorer_url": "http://37.27.23.51:4000",
+  "metrics_endpoint": "http://37.27.23.51:9615",
+  "id": "a83750f1-3857-42e4-80d4-0644223dfcb6"
+}
