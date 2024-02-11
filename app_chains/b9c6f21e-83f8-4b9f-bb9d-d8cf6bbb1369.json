@@ -1,6 +1,6 @@
 {
   "name": "gollo6",
-  "logo": "https://imgur.com/iTVHEyi",
+  "logo": "https://i.imgur.com/iTVHEyi.png",
   "rpc_url": "http://5.189.130.35:9944",
   "explorer_url": "http://5.189.130.35:4000",
   "metrics_endpoint": "http://5.189.130.35:9615/metrics",
