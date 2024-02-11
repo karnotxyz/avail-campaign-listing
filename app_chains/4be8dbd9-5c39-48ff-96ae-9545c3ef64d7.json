@@ -1,8 +1,8 @@
 {
-  "name": "monyaaa1",
-  "logo": "https://imgur.com/im5uInM",
-  "rpc_url": "http://165.22.32.130:9644",
-  "explorer_url": "http://165.22.32.130:4000",
-  "metrics_endpoint": "http://165.22.32.130:9615/metrics",
-  "id": "6d712cd6-7321-49bc-ae3b-7546328b75fc"
+"name": "monyaaa1",
+"logo": "https://imgur.com/im5uInM",
+"rpc_url": "http://165.22.32.130:9644",
+"explorer_url": "http://165.22.32.130:4000",
+"metrics_endpoint": "http://165.22.32.130:9615/metrics",
+"id": "6d712cd6-7321-49bc-ae3b-7546328b75fc"
 }
