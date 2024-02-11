@@ -1,6 +1,6 @@
 {
   "name": "madara",
-  "logo": "https://r.resimlink.com/RngNu.png",
+  "logo": "logo",
   "rpc_url": "http://http://37.27.12.82:9944",
   "explorer_url": "http://http://37.27.12.82:4000",
   "metrics_endpoint": "http://http://37.27.12.82:9615/metrics",
