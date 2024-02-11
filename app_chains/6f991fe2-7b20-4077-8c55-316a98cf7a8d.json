@@ -1,0 +1,8 @@
+{
+  "name": "vito9519",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/136154528/303834849-78dab4bc-ada6-42e3-b916-47b53e3e68a6.png",
+  "rpc_url": "http://82.115.18.213:9944",
+  "explorer_url": "http://82.115.18.213:4000",
+  "metrics_endpoint": "http://82.115.18.213:9615/metrics",
+  "id": "6f991fe2-7b20-4077-8c55-316a98cf7a8d"
+}
