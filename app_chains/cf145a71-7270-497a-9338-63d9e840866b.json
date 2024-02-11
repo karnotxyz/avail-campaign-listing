@@ -1,0 +1,8 @@
+{
+  "name": "tringuyen",
+  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://27.72.31.67:9944",
+  "explorer_url": "http://27.72.31.67:4000",
+  "metrics_endpoint": "http://27.72.31.67:9615/metrics",
+  "id": "cf145a71-7270-497a-9338-63d9e840866b"
+}

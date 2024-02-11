@@ -1,0 +1,8 @@
+{
+  "name": "vero",
+  "logo": "https://i.ibb.co/ChyTMX2/vero-logo.png",
+  "rpc_url": "https://rpc.vero.revonode.xyz",
+  "explorer_url": "https://explorer.vero.revonode.xyz",
+  "metrics_endpoint": "https://metrics.vero.revonode.xyz",
+  "id": "f10188e2-5c3d-4a7d-8805-17b76e357b43"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "silvercatApp",
+  "logo": "https://i.imgur.com/YWxzmHr.jpeg",
+  "rpc_url": "http://37.60.226.117:9944",
+  "explorer_url": "http://37.60.226.117:4000",
+  "metrics_endpoint": "http://37.60.226.117:9615/metrics",
+  "id": "c59f62d9-12c7-446e-bb14-e9742b54ba12"
+}

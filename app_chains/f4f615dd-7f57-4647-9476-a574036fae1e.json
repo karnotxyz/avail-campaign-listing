@@ -1,0 +1,8 @@
+{
+  "name": "Hades Chain",
+  "logo": "https://imgur.com/4joZDFt",
+  "rpc_url": "https://madara-rpc.hades-froopy.shop",
+  "explorer_url": "https://madara-explorer.hades-froopy.shop",
+  "metrics_endpoint": "https://madara-metric.hades-froopy.shop/metrics",
+  "id": "f4f615dd-7f57-4647-9476-a574036fae1e"
+}

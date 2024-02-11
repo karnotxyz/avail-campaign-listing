@@ -1,0 +1,8 @@
+{
+  "name": "monkeygold",
+  "logo": "https://ideogram.ai/api/images/direct/38H_ZUSjQcGI2p2TeH5wkQ.jpg",
+  "rpc_url": "http://91.107.196.166:9944",
+  "explorer_url": "http://91.107.196.166:4000",
+  "metrics_endpoint": "http://91.107.196.166:9615/metrics",
+  "id": "ea87c438-a3d9-4467-af69-07b3cafcceba"
+}

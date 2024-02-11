@@ -1,0 +1,8 @@
+{
+  "name": "FroggyChain",
+  "logo": "https://r.resimlink.com/qSlNTPAOR.jpg",
+  "rpc_url": "http://95.216.155.201:9944",
+  "explorer_url": "http://95.216.155.201:4000",
+  "metrics_endpoint": "http://95.216.155.201:9615/metrics",
+  "id": "d23269d2-c9e8-46f9-9983-f3d850b6f6d3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Canakkale17",
+  "logo": "http://r.resimlink.com/BXjhzTe1-p.png",
+  "rpc_url": "http://37.27.34.7:9944",
+  "explorer_url": "http://37.27.34.7:4000",
+  "metrics_endpoint": "http://37.27.34.7:9615/metrics",
+  "id": "6db9c55e-a57b-4b66-bb5a-1ec66c9b55df"
+}

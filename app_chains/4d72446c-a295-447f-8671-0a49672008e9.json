@@ -1,0 +1,8 @@
+{
+  "name": "j4ransatoru",
+  "logo": "https://ibb.co/Rc7817f",
+  "rpc_url": "http://143.198.218.55:9944",
+  "explorer_url": "http://143.198.218.55:4000",
+  "metrics_endpoint": "http://143.198.218.55:9615/metrics",
+  "id": "4d72446c-a295-447f-8671-0a49672008e9"
+}

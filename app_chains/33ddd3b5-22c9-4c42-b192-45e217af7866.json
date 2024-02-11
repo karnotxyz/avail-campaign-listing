@@ -1,0 +1,8 @@
+{
+  "name": "jamcfly",
+  "logo": "https://i.imgur.com/T66jIAj.jpeg",
+  "rpc_url": "http://173.212.199.5:9944",
+  "explorer_url": "http://173.212.199.5:4000",
+  "metrics_endpoint": "http://173.212.199.5:9615/metrics",
+  "id": "33ddd3b5-22c9-4c42-b192-45e217af7866"
+}

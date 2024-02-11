@@ -1,0 +1,8 @@
+{
+  "name": "det",
+  "logo": "https://i.imgur.com/XkPImA3.png",
+  "rpc_url": "http://84.247.131.164:9944",
+  "explorer_url": "http://84.247.131.164:4000",
+  "metrics_endpoint": "http://84.247.131.164:9615/metrics",
+  "id": "ce8af449-b3ce-469b-8316-f49f2cc54b86"
+}

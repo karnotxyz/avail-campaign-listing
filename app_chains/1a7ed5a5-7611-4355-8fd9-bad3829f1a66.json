@@ -1,0 +1,8 @@
+{
+  "name": "tikir",
+  "logo": "https://raw.githubusercontent.com/tikir4136/ruesandora/main/22.jpeg",
+  "rpc_url": "http://157.90.227.240:9944",
+  "explorer_url": "http://157.90.227.240:4000",
+  "metrics_endpoint": "http://157.90.227.240:9615/metrics",
+  "id": "1a7ed5a5-7611-4355-8fd9-bad3829f1a66"
+}

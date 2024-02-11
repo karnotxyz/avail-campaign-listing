@@ -1,0 +1,8 @@
+{
+  "name": "fisaela",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://149.102.146.232:9944",
+  "explorer_url": "http://149.102.146.232:4000",
+  "metrics_endpoint": "http://149.102.146.232:9615/metrics",
+  "id": "f3a6224a-68d5-4d15-988a-1fc4afe2e441"
+}

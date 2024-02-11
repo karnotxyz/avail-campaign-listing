@@ -1,0 +1,8 @@
+{
+  "name": "collar",
+  "logo": "https://app-v2-mu.vercel.app/logo.svg",
+  "rpc_url": " http://54.89.245.22:9944",
+  "explorer_url": "http://54.89.245.22:4000",
+  "metrics_endpoint": "http://54.89.245.22:9615/metrics",
+  "id": "951556b0-1ac1-470e-a79a-ddbd5a6ee970"
+}

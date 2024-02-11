@@ -1,0 +1,8 @@
+{
+  "name": "prime",
+  "logo": "https://r.resimlink.com/jCG_f9e-58nX.jpg",
+  "rpc_url": "http://37.59.180.158:9944",
+  "explorer_url": "http://37.59.180.158:4000",
+  "metrics_endpoint": "http://37.59.180.158:9615/metrics",
+  "id": "4306738f-b269-46ea-938e-34cf84d19ad4"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "zangetsu",
+  "logo": "https://r.resimlink.com/3m6hoO.png",
+  "rpc_url": "http://95.216.166.218:9944",
+  "explorer_url": "http://95.216.166.218:4000",
+  "metrics_endpoint": "http://95.216.166.218:9615/metrics",
+  "id": "a03155c6-039f-43f0-8a62-9cdaa613e6b8"
+}

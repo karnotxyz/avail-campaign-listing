@@ -1,0 +1,8 @@
+{
+  "name": "Sara",
+  "logo": "https://i.imgur.com/eDaQaWq.png",
+  "rpc_url": "http://91.151.88.187:9944",
+  "explorer_url": "http://91.151.88.187:4000",
+  "metrics_endpoint": "http://91.151.88.187:9615/metrics",
+  "id": "46cd78e5-889c-404d-9484-baa98df31623"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bakkalgazi",
+  "logo": "https://hizliresim.com/qrk4vhs",
+  "rpc_url": "http://65.108.92.159:9944",
+  "explorer_url": "http://65.108.92.159:4000",
+  "metrics_endpoint": "http://65.108.92.159:9615/metrics",
+  "id": "0c487cf4-6571-4d96-a00b-d86750bec3c3"
+}

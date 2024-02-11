@@ -1,0 +1,8 @@
+{
+  "name": "KashifAli",
+  "logo": "https://i.ibb.co/LQxwz9t/IMG-20240202-214808.png",
+  "rpc_url": "http://137.184.95.0:9944",
+  "explorer_url": "http://137.184.95.0:4000",
+  "metrics_endpoint": "http://137.184.95.0:9615/metrics",
+  "id": "c7401909-a85a-4fa2-b1ee-9739f4e31234"
+}

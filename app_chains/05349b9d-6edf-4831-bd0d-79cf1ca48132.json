@@ -1,0 +1,8 @@
+{
+  "name": "rockwell",
+  "logo": "https://r.resimlink.com/NtXiHUKJ.png",
+  "rpc_url": "http://5.189.152.141:9944",
+  "explorer_url": "http://5.189.152.141:4000",
+  "metrics_endpoint": "http://5.189.152.141:9615/metrics",
+  "id": "05349b9d-6edf-4831-bd0d-79cf1ca48132"
+}

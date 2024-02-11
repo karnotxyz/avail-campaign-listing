@@ -1,0 +1,8 @@
+{
+  "name": "TEST1-BAAL",
+  "logo": "https://ibb.co/N3cSHD3",
+  "rpc_url": "http://43.134.168.212:9944",
+  "explorer_url": "http://43.134.168.212:4000",
+  "metrics_endpoint": "http://43.134.168.212:9615/metrics",
+  "id": "6677d3a4-5791-4463-bd97-9a1bfaf4c0be"
+}

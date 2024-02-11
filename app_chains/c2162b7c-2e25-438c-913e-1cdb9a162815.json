@@ -1,0 +1,8 @@
+{
+  "name": "luciolaKami",
+  "logo": "https://raw.githubusercontent.com/luciolanguyen/Node/main/firefly.png",
+  "rpc_url": "http://37.27.59.176:9944",
+  "explorer_url": "http://37.27.59.176:4000",
+  "metrics_endpoint": "http://37.27.59.176:9615/metrics",
+  "id": "c2162b7c-2e25-438c-913e-1cdb9a162815"
+}

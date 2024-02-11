@@ -1,0 +1,8 @@
+{
+  "name": "forzali",
+  "logo": "https://placehold.jp/51b42d/ffffff/400x400.png?text=forzali",
+  "rpc_url": "http://37.60.229.224:9944",
+  "explorer_url": "http://37.60.229.224:4000",
+  "metrics_endpoint": "http://37.60.229.224:9615/metrics",
+  "id": "d99777e2-42df-4ec9-aebb-87d21b88e8eb"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "nebulaarc",
+  "logo": "https://r.resimlink.com/GUNb9.jpg",
+  "rpc_url": "http://65.109.130.105:9944",
+  "explorer_url": "http://65.109.130.105:4000",
+  "metrics_endpoint": "http://65.109.130.105:9615/metrics",
+  "id": "efb71f1b-72f2-4ddd-99fe-127b6a5f3780"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "beautifulsoul",
+  "logo": "https://i.postimg.cc/DfRTkLRG/sneakpeak-2-Artboard-4.png",
+  "rpc_url": "http://34.125.45.164:9944",
+  "explorer_url": "http://34.125.45.164:4000",
+  "metrics_endpoint": "http://34.125.45.164:9615/metrics",
+  "id": "09934e15-36f0-43d3-b081-1532d4fa14cf"
+}
