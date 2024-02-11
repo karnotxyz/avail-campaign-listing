@@ -1,0 +1,8 @@
+{
+  "name": "bombastk",
+  "logo": "https://r.resimlink.com/sBv9fzZVPq.jpg",
+  "rpc_url": "http://162.55.57.247:9944",
+  "explorer_url": "http://162.55.57.247:4000",
+  "metrics_endpoint": "http://162.55.57.247:9615/metrics",
+  "id": "fc1eb766-4217-438e-861c-66f678aa7c4c"
+}
