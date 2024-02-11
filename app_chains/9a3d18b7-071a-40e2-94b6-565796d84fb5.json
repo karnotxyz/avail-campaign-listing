@@ -1,0 +1,8 @@
+{
+  "name": "alinakub",
+  "logo": "https://i.postimg.cc/3wprcCfL/Capture.png",
+  "rpc_url": "http://158.220.99.100:9944",
+  "explorer_url": "http://158.220.99.100:4000",
+  "metrics_endpoint": "http://158.220.99.100:9615/metrics",
+  "id": "9a3d18b7-071a-40e2-94b6-565796d84fb5"
+}
