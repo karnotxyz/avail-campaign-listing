@@ -1,8 +1,0 @@
-{
-  "name": "Feelsogood",
-  "logo": "https://ibb.co/chvgCTR",
-  "rpc_url": "http://158.220.96.132:9944",
-  "explorer_url": "http://158.220.96.132:4000",
-  "metrics_endpoint": "http://158.220.96.132:9615/metrics",
-  "id": "883fdbfa-3e15-4df1-93ea-c559581c22e9"
-}
