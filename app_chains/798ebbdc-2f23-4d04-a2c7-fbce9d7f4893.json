@@ -1,0 +1,8 @@
+{
+  "name": "Gungzzavail",
+  "logo": "https://ibb.co/sKfC18n",
+  "rpc_url": "http://173.249.46.103:9944",
+  "explorer_url": "http://173.249.46.103:4000",
+  "metrics_endpoint": "http://173.249.46.103:9615/metrics",
+  "id": "798ebbdc-2f23-4d04-a2c7-fbce9d7f4893"
+}
