@@ -1,0 +1,8 @@
+{
+  "name": "ermia",
+  "logo": "https://r.resimlink.com/unQXjs65oObz.png",
+  "rpc_url": "http://195.248.243.66:9944",
+  "explorer_url": "http://195.248.243.66:4000",
+  "metrics_endpoint": "http://195.248.243.66:9615/metrics",
+  "id": "4a87300a-a5f7-4ba2-8323-2bca03d5148c"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "hidrogen",
+  "logo": "https://r.resimlink.com/Dn2xy8VXF_.jpg",
+  "rpc_url": "http://37.60.248.9:9944",
+  "explorer_url": "http://37.60.248.9:4000",
+  "metrics_endpoint": "http://37.60.248.9:9615/metrics",
+  "id": "dd7b24e8-0957-45bf-bfb2-9bc823121b88"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "salby",
+  "logo": "https://i.ibb.co/qJQJmWk/12cdf69b-fee5-47de-b11b-933407957259.png",
+  "rpc_url": "http://185.221.237.220:9944",
+  "explorer_url": "http://185.221.237.220:4000",
+  "metrics_endpoint": "http://185.221.237.220:9615/metrics",
+  "id": "814854a4-bd80-4d20-aeab-820238850ee5"
+}

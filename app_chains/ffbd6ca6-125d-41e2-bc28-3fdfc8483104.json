@@ -1,0 +1,8 @@
+{
+  "name": "infrasingularity",
+  "logo": "https://img1.wsimg.com/isteam/ip/abcfa2c0-134f-4de0-b64b-242db7db9da8/blob-10fa053.png",
+  "rpc_url": "http://24.199.78.18:9944",
+  "explorer_url": "http://24.199.78.18:4000",
+  "metrics_endpoint": "http://24.199.78.18:9615/metrics",
+  "id": "ffbd6ca6-125d-41e2-bc28-3fdfc8483104"
+}

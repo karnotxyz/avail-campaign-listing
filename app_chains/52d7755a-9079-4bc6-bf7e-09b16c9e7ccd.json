@@ -1,0 +1,8 @@
+{
+  "name": "benar",
+  "logo": "https://r.resimlink.com/B6vRhSzV7H.jpg",
+  "rpc_url": "http://159.65.94.18:9944",
+  "explorer_url": "http://159.65.94.18:4000",
+  "metrics_endpoint": "http://159.65.94.18:9615/metrics",
+  "id": "52d7755a-9079-4bc6-bf7e-09b16c9e7ccd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jfryhssn",
+  "logo": "https://r.resimlink.com/Gyiorz1hq.jpg",
+  "rpc_url": "http://65.109.180.106:9944",
+  "explorer_url": "http://65.109.180.106:4000",
+  "metrics_endpoint": "http://65.109.180.106:9615/metrics",
+  "id": "743ba063-730a-4bf0-8c39-881e8b51b4c9"
+}

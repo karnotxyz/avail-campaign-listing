@@ -1,0 +1,8 @@
+{
+  "name": "nestea",
+  "logo": "https://i.imgur.com/5Pn4AAT.jpeg",
+  "rpc_url": "http://185.194.216.203:9944",
+  "explorer_url": "http://185.194.216.203:4000",
+  "metrics_endpoint": "http://185.194.216.203:9615/metrics",
+  "id": "91de1a98-9e01-41c9-8653-c34c9c6e82d6"
+}

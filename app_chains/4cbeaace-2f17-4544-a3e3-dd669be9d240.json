@@ -1,0 +1,8 @@
+{
+  "name": "DREAMX",
+  "logo": "https://i.imgur.com/6Iu0e0P.png",
+  "rpc_url": "http://149.50.106.12:9944",
+  "explorer_url": "http://149.50.106.12:4000",
+  "metrics_endpoint": "http://149.50.106.12:9615/metrics",
+  "id": "4cbeaace-2f17-4544-a3e3-dd669be9d240"
+}

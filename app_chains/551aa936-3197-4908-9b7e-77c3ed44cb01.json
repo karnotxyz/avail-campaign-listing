@@ -1,0 +1,8 @@
+{
+  "name": "jackyland",
+  "logo": "https://imgur.com/a/4IZf2k7",
+  "rpc_url": "http://207.180.233.203:9944",
+  "explorer_url": "http://207.180.233.203:4000",
+  "metrics_endpoint": "http://207.180.233.203:9615/metrics",
+  "id": "551aa936-3197-4908-9b7e-77c3ed44cb01"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "berivan",
+  "logo": "https://i.imgur.com/OnMyyQn.jpeg",
+  "rpc_url": "http://5.189.184.134:9944",
+  "explorer_url": "http://5.189.184.134:4000",
+  "metrics_endpoint": "http://5.189.184.134:9615/metrics",
+  "id": "ac294dfc-5989-4365-af8b-3f4e658f6c1b"
+}

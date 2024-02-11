@@ -1,0 +1,8 @@
+{
+  "name": "wall.e",
+  "logo": "https://i.imgur.com/udaNyC5.jpeg",
+  "rpc_url": "http://84.247.183.40:9944",
+  "explorer_url": "http://84.247.183.40:4000",
+  "metrics_endpoint": "http://84.247.183.40:9615/metrics",
+  "id": "28b6ead5-e87d-460c-bf51-c918af12dba3"
+}

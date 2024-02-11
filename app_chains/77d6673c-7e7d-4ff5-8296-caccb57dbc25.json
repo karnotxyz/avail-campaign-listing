@@ -1,0 +1,8 @@
+{
+  "name": "ALAZN",
+  "logo": "https://i.im.ge/2024/02/04/bzIi88.5151ca32-68e9-4acc-b59d-9dcc1b1296d6.th.jpg",
+  "rpc_url": "http://138.68.163.164:9944",
+  "explorer_url": "http://138.68.163.164:4000",
+  "metrics_endpoint": "http://138.68.163.164:9615/metrics",
+  "id": "77d6673c-7e7d-4ff5-8296-caccb57dbc25"
+}

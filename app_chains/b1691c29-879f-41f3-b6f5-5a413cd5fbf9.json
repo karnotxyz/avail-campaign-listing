@@ -1,0 +1,8 @@
+{
+  "name": "LostModern",
+  "logo": "https://i.imgur.com/PdkkYKD.png",
+  "rpc_url": "http://65.108.145.131:9944",
+  "explorer_url": "http://65.108.145.131:4000",
+  "metrics_endpoint": "http://65.108.145.131:9615/metrics",
+  "id": "b1691c29-879f-41f3-b6f5-5a413cd5fbf9"
+}

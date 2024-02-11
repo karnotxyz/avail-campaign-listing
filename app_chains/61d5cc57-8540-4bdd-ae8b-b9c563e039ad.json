@@ -1,0 +1,8 @@
+{
+  "name": "agentr",
+  "logo": "https://i.imgur.com/Jt4Tco7.jpeg",
+  "rpc_url": "http://194.163.185.199:9944",
+  "explorer_url": "http://194.163.185.199:4000",
+  "metrics_endpoint": "http://194.163.185.199:9615/metrics",
+  "id": "61d5cc57-8540-4bdd-ae8b-b9c563e039ad"
+}
