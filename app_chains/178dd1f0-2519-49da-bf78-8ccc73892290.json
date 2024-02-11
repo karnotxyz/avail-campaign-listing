@@ -1,6 +1,6 @@
 {
   "name": "meaw202",
-  "logo": "https://i.ibb.co/hKwKj7b/Img01.jpg",
+  "logo": "http://i.ibb.co/hKwKj7b/Img01.jpg",
   "rpc_url": "http://62.171.142.244:9944",
   "explorer_url": "http://62.171.142.244:4000",
   "metrics_endpoint": "http://62.171.142.244:9615/metrics",
