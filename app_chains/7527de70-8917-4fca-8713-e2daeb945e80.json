@@ -1,0 +1,8 @@
+{
+  "name": "fantasytale",
+  "logo": "https://img1.picmix.com/output/stamp/normal/4/0/9/6/1806904_d0dd6.png",
+  "rpc_url": "http://173.212.207.66:9944",
+  "explorer_url": "http://173.212.207.66:4000",
+  "metrics_endpoint": "http://173.212.207.66:9615/metrics",
+  "id": "7527de70-8917-4fca-8713-e2daeb945e80"
+}

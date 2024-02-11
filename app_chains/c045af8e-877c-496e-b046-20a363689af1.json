@@ -1,0 +1,8 @@
+{
+  "name": "sanicuku",
+  "logo": "https://i.postimg.cc/wjHrhX4d/sanicuku.png",
+  "rpc_url": "http://43.134.130.235:9944",
+  "explorer_url": "http://43.134.130.235:4000",
+  "metrics_endpoint": "http://43.134.130.235:9615/metrics",
+  "id": "c045af8e-877c-496e-b046-20a363689af1"
+}

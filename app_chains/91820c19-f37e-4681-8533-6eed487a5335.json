@@ -1,0 +1,8 @@
+{
+  "name": "tron",
+  "logo": "https://imgur.com/a/BKovVcX",
+  "rpc_url": "http://84.247.135.75:9944",
+  "explorer_url": "http://84.247.135.75:4000",
+  "metrics_endpoint": "http://84.247.135.75:9615/metrics",
+  "id": "91820c19-f37e-4681-8533-6eed487a5335"
+}
