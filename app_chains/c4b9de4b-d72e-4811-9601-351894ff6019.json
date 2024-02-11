@@ -1,0 +1,8 @@
+{
+  "name": "kelvin404",
+  "logo": "https://prnt.sc/VxZc4YAorOsC",
+  "rpc_url": "http://31.187.74.136:9944",
+  "explorer_url": "http://31.187.74.136:4000",
+  "metrics_endpoint": "http://31.187.74.136:9615/metrics",
+  "id": "c4b9de4b-d72e-4811-9601-351894ff6019"
+}
