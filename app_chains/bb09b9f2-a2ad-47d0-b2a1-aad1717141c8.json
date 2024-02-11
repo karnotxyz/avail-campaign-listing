@@ -1,9 +1,9 @@
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.mychain.xyz",
-  "explorer_url": "https://explorer.mychain.xyz",
-  "metrics_endpoint": "https://metrics.mychain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "hodlstory",
+  "logo": "https://imgur.com/a/raUdfcG",
+  "rpc_url": "https://38.242.142.6:9944",
+  "explorer_url": "https://38.242.142.6:4000",
+  "metrics_endpoint": "https://38.242.142.6:9615/metrics",
+  "id": "bb09b9f2-a2ad-47d0-b2a1-aad1717141c8"
 }
 
