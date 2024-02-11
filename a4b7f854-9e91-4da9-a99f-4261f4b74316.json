@@ -1,0 +1,8 @@
+{
+  "name": "ferhat",
+  "logo": "https://imgbox.com/PwD3mD5S.jpg",
+  "rpc_url": "http://185.229.227.47:9944",
+  "explorer_url": "http://185.229.227.47:4000",
+  "metrics_endpoint": "http://185.229.227.47:9615/metrics",
+  "id": "a4b7f854-9e91-4da9-a99f-4261f4b74316"
+}
