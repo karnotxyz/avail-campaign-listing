@@ -1,0 +1,8 @@
+{
+  "name": "ridvanr",
+  "logo": "",
+  "rpc_url": "http://49.13.18.156:9944",
+  "explorer_url": "http://49.13.18.156:4000",
+  "metrics_endpoint": "http://49.13.18.156:9615/metrics",
+  "id": "7febab2b-99e6-43c2-ac35-ce5150b55f0c"
+}
