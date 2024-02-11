@@ -1,0 +1,8 @@
+{
+  "name": "totomal",
+  "logo": "https://i.ibb.co/Pt9H5xF/watermark.png",
+  "rpc_url": "http://217.76.52.42:9944",
+  "explorer_url": "http://217.76.52.42:4000",
+  "metrics_endpoint": "http://217.76.52.42:9615/metrics",
+  "id": "543c83a1-dca1-49dc-bfea-724fad9179ed"
+}
