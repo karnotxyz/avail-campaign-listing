@@ -1,0 +1,8 @@
+{
+  "name": "erat",
+  "logo": "https://r.resimlink.com/B9XlU.png",
+  "rpc_url": "http://http://5.189.156.157/:9944",
+  "explorer_url": "http://http://5.189.156.157/:4000",
+  "metrics_endpoint": "http://http://5.189.156.157/:9615/metrics",
+  "id": "7510d3a6-bf8f-480d-8870-2d8dfc3aff14"
+}
