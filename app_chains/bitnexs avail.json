@@ -1,0 +1,8 @@
+{
+  "name": "bitnexs",
+  "logo": "https://s2.loli.net/2024/02/11/bAW4mMn5QSRU8yJ.jpg",
+  "rpc_url": "http://87.248.139.174:9944",
+  "explorer_url": "http://87.248.139.174:4000",
+  "metrics_endpoint": "http://87.248.139.174:9615/metrics",
+  "id": "34ad4440-50e5-420a-9d0e-f7a01e9ef70b"
+}
