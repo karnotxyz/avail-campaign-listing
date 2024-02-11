@@ -1,0 +1,8 @@
+{
+  "name": "elrond",
+  "logo": "https://raw.githubusercontent.com/SymphonicScream/leo/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(202).png",
+  "rpc_url": "http://65.109.13.124:9944",
+  "explorer_url": "http://65.109.13.124:4000",
+  "metrics_endpoint": "http://65.109.13.124:9615/metrics",
+  "e60449b4-376a-4aa1-a00d-b4768bdbb0c0"
+}
