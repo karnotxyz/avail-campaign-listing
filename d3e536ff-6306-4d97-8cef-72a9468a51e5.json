@@ -1,0 +1,8 @@
+{
+  "name": "ominous",
+  "logo": "Your_Logo_URL",
+  "rpc_url": "http://195.2.76.91:9944",
+  "explorer_url": "http://195.2.76.91:4000",
+  "metrics_endpoint": "http://195.2.76.91:9615/metrics",
+  "id": "d3e536ff-6306-4d97-8cef-72a9468a51e5"
+}
