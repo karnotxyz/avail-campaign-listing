@@ -1,0 +1,8 @@
+{
+  "name": "UmutAvail",
+  "logo": "https://raw.githubusercontent.com/umut48400/avail-campaign-listing/main/crypto%20umut%20logo.jpg",
+  "rpc_url": "http://95.111.230.64",
+  "explorer_url": "http://95.111.230.64:4000",
+  "metrics_endpoint": "http://95.111.230.64:9615/metrics",
+  "id": "2fe3fd56-7b44-4b79-96cd-fee63e7e4592"
+}
