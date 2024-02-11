@@ -1,0 +1,8 @@
+{
+  "name": "YUGO",
+  "logo": "https://i.ibb.co/JHR5Mzf/400-x-400.png",
+  "rpc_url": "http//:149.102.157.204:9944",
+  "explorer_url": "http//:149.102.157.204:4000",
+  "metrics_endpoint": "http://149.102.157.204:9615/metrics",
+  "id": "b9d14230-bb22-4c82-831c-42985f1caeea"
+}
