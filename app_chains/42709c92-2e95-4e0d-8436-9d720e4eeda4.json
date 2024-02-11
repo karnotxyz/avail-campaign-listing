@@ -1,0 +1,8 @@
+{
+  "name": "daisylira",
+  "logo": "https://r.resimlink.com/4KSqO.jpg",
+  "rpc_url": "http://173.249.9.88:9944",
+  "explorer_url": "http://173.249.9.88:4000",
+  "metrics_endpoint": "http://173.249.9.88:9615/metrics",
+  "id": "42709c92-2e95-4e0d-8436-9d720e4eeda4"
+}
