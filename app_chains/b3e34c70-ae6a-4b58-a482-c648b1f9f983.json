@@ -1,0 +1,8 @@
+{
+  "name": "xiaoshui",
+  "logo": "https://imgur.com/L7xTFHQ.png",
+  "rpc_url": "http://43.131.44.162:9944",
+  "explorer_url": "http://43.131.44.162:4000",
+  "metrics_endpoint": "http://43.131.44.162:9615/metrics",
+  "id": "b3e34c70-ae6a-4b58-a482-c648b1f9f983"
+}
