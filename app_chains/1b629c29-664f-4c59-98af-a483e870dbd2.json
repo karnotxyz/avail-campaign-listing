@@ -1,0 +1,8 @@
+{
+  "name": "Elegant",
+  "logo": "https://i.imgur.com/RhJ6KEg.png",
+  "rpc_url": "http://135.181.207.1:9944",
+  "explorer_url": "http://135.181.207.1:4000",
+  "metrics_endpoint": "http://135.181.207.1:9615/metrics",
+  "id": "ad112fd5-74ab-40dc-ba61-f4df271ed365"
+}
