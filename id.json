@@ -1,7 +1,7 @@
 me": "spark",
-  "logo": "https://s2.loli.net/2024/02/11/FhHpE1gymYq2OQK.png",
-    "rpc_url": "http://84.247.183.1:9944",
-      "explorer_url": "http://84.247.183.1:4000",
-        "metrics_endpoint": "http://84.247.183.1:9615/metrics",
-	"id": "50d6e692-439c-49ef-93dc-2c97c8edcec3"
+  "logo": "https://s2.loli.net/2024/02/11/RQKtNxBnihSs6J7.png",
+  "rpc_url": "http://84.247.183.1:9944",
+  "explorer_url": "http://84.247.183.1:4000",
+  "metrics_endpoint": "http://84.247.183.1:9615/metrics",
+  "id": "50d6e692-439c-49ef-93dc-2c97c8edcec3"
 }
