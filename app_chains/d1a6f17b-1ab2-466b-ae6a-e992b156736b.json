@@ -1,0 +1,8 @@
+{
+  "name": "fredcakmaktas",
+  "logo": "https://i.ibb.co/GP7k0kv/fred.png",
+  "rpc_url": "http://5.104.81.253:9944",
+  "explorer_url": "http://5.104.81.253:4000",
+  "metrics_endpoint": "http://5.104.81.253/metrics",
+  "id": "d1a6f17b-1ab2-466b-ae6a-e992b156736b"
+}
