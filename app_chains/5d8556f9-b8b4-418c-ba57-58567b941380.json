@@ -1,0 +1,8 @@
+{
+  "name": "Jenkins",
+  "logo": "https://i.imgur.com/Nitz4ZY.png",
+  "rpc_url": "http://43.130.244.244:9944",
+  "explorer_url": "http://43.130.244.244:4000",
+  "metrics_endpoint": "http://43.130.244.244:9615/metrics",
+  "id": "5d8556f9-b8b4-418c-ba57-58567b941380"
+}

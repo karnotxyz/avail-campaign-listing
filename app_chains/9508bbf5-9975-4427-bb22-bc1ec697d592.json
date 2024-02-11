@@ -1,0 +1,8 @@
+{
+  "name": "didier",
+  "logo": "https://r.resimlink.com/nfS6bIqCW4y.png",
+  "rpc_url": "http://46.228.205.155:9944",
+  "explorer_url": "http://46.228.205.155:4000",
+  "metrics_endpoint": "http://46.228.205.155:9615/metrics",
+  "id": "9508bbf5-9975-4427-bb22-bc1ec697d592"
+}

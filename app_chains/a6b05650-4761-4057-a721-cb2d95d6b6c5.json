@@ -1,0 +1,8 @@
+{
+  "name": "ereb",
+  "logo": "https://im.ge/i/c6vL7T",
+  "rpc_url": "http://167.235.207.47:9944",
+  "explorer_url": "http://167.235.207.47:4000",
+  "metrics_endpoint": "http://167.235.207.47:9615/metrics",
+  "id": "a6b05650-4761-4057-a721-cb2d95d6b6c5"
+}
