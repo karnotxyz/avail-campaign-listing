@@ -1,0 +1,8 @@
+{
+  "name": "esma",
+  "logo": "https://i.imgur.com/BFhhtk4.png",
+  "rpc_url": "http://135.181.81.151:9944",
+  "explorer_url": "http://135.181.81.151:4000",
+  "metrics_endpoint": "http://135.181.81.151:9615/metrics",
+  "id": "9ead7d7b-cfba-40ff-925a-d742e0387b94"
+}
