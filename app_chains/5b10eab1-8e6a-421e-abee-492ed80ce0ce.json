@@ -1,0 +1,8 @@
+{
+  "name": "Boo",
+  "logo": "https://r.resimlink.com/1UYDHEjpZX.jpg",
+  "rpc_url": "http://46.250.233.131:9944",
+  "explorer_url": "http://46.250.233.131:4000",
+  "metrics_endpoint": "http://46.250.233.131:9615/metrics",
+  "id": "5b10eab1-8e6a-421e-abee-492ed80ce0ce"
+}
