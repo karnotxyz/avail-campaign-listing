@@ -1,0 +1,8 @@
+{
+  "name": "nespo383",
+  "logo": "https://i.ibb.co/3pWW4KD/Logo.png",
+  "rpc_url": "http://84.247.175.29:9944",
+  "explorer_url": "http://84.247.175.29:4000",
+  "metrics_endpoint": "http://84.247.175.29:9615/metrics",
+  "id": "c6359739-72d8-43c8-8ca5-46d61c6e336a"
+}
