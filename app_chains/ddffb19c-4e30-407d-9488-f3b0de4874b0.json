@@ -1,0 +1,8 @@
+{
+  "name": "Vinzor",
+  "logo": "https://placehold.co/400/orange/white?text=Vin",
+  "rpc_url": "http://89.185.85.145:9944",
+  "explorer_url": "http://89.185.85.145:4000",
+  "metrics_endpoint": "http://89.185.85.145:9615",
+  "id": "ddffb19c-4e30-407d-9488-f3b0de4874b0"
+}
