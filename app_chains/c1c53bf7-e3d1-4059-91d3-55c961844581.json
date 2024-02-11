@@ -1,0 +1,8 @@
+{
+  "name": "cominooo3",
+  "logo": "https://imgur.com/a/spdWOsX",
+  "rpc_url": "http://202.182.122.158:9944",
+  "explorer_url": "http://202.182.122.158:4000",
+  "metrics_endpoint": "http://202.182.122.158:9615/metrics",
+  "id": "c1c53bf7-e3d1-4059-91d3-55c961844581"
+}
