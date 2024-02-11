@@ -1,0 +1,8 @@
+{
+  "name": "madritista",
+  "logo": "https://r.resimlink.com/2h7WvCm6sV.png", 
+  "rpc_url": "http://91.107.220.251:9944",
+  "explorer_url": "http://91.107.220.251:4000",
+  "metrics_endpoint": "http://91.107.220.251:9615",
+  "id": "1bcde553-d653-4276-9d01-1f49f4be2ae8"
+}
