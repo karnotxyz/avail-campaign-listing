@@ -1,0 +1,8 @@
+{
+    "name": "amiralek",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/50826900/302494750-ed64f479-a999-4f1b-9995-d4ceca1abffc.png",
+    "rpc_url": "https://84.247.166.62:9944",
+    "explorer_url": "https://84.247.166.62:4000",
+    "metrics_endpoint": "https://84.247.166.62:9615",
+    "id": "ae61eca6-969e-4f20-a5e6-feb23fc4ba41"
+  }
