@@ -1,0 +1,8 @@
+{
+  "name": "Mydonez",
+  "logo": "https://r.resimlink.com/jGKyu85CmgBo.png",
+  "rpc_url": "http://37.60.236.227:9944",
+  "explorer_url": "http://37.60.236.227:4000",
+  "metrics_endpoint": "http://37.60.236.227:9615",
+  "id": "c0a9bb46-f4c5-4a9a-816c-182d05c5043b"
+}
