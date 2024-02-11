@@ -1,0 +1,8 @@
+{
+  "name": "monknode",
+  "logo": "https://imgur.com/Svx6TW0",
+  "rpc_url": "http://46.250.236.119:9944",
+  "explorer_url": "http://46.250.236.119:4000",
+  "metrics_endpoint": "http://46.250.236.119:9615/metrics",
+  "id": "8d09737d-3597-4cfd-95a2-d3e5fe873da1"
+}
