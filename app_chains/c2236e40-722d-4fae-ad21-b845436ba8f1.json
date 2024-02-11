@@ -1,0 +1,8 @@
+{
+  "name": "astr0chain",
+  "logo": "https://cdn.discordapp.com/attachments/960590776570626098/1205310284181545070/DALLE_2024-02-01_15.27.06_-_An_abstract_digital_art_profile_picture_featuring_a_futuristic_and_sleek_design_with_vibrant_colors_and_geometric_shapes._The_image_should_convey_a_s.png?ex=65d7e7ad&is=65c572ad&hm=1173b908a7dc003a108544a7aee6f67b46eba7f6750ab902037b2a6b6b286771&",
+  "rpc_url": "http://avail_rpc.a-node.homes",
+  "explorer_url": "http://avail_explorer.a-node.homes",
+  "metrics_endpoint": "http://avail_metrics.a-node.homes",
+  "id": "c2236e40-722d-4fae-ad21-b845436ba8f1"
+}
