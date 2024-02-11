@@ -1,0 +1,8 @@
+{
+  "name": "basey",
+  "logo": "https://i.imgur.com/fyeEnwu.png",
+  "rpc_url": "http://101.32.161.213:9944",
+  "explorer_url": "http://101.32.161.213:4000",
+  "metrics_endpoint": "http://101.32.161.213:9615/metrics",
+  "id": "f395b73d-7979-4460-8397-972ed9453efa"
+}

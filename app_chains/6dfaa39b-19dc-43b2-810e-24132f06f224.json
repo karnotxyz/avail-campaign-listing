@@ -1,0 +1,8 @@
+{
+  "name": "kiki",
+  "logo": "https://i.ibb.co/JF8HZsT/kiki.png",
+  "rpc_url": "http://5.104.80.4:9944",
+  "explorer_url": "http://5.104.80.4:4000",
+  "metrics_endpoint": "http://5.104.80.4:9615/metrics",
+  "id": "6dfaa39b-19dc-43b2-810e-24132f06f224"
+}

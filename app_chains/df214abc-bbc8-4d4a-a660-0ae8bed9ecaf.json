@@ -1,0 +1,8 @@
+{
+  "name": "smartinvest",
+  "logo": "https://smartinvest-explorer.xyz/logo.png",
+  "rpc_url": "http://65.109.88.162:9944",
+  "explorer_url": "http://65.109.88.162:4000",
+  "metrics_endpoint": "http://65.109.88.162:9615/metrics",
+  "id": "df214abc-bbc8-4d4a-a660-0ae8bed9ecaf"
+}
