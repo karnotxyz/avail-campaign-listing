@@ -1,0 +1,8 @@
+{
+  "name": "inddone",
+  "logo": "https://i.imgur.com/SbNbhlM.jpeg",
+  "rpc_url": "http://46.250.233.682:9944",
+  "explorer_url": "http://46.250.233.68:4000",
+  "metrics_endpoint": "http://46.250.233.68:9615/metrics",
+  "id": "5ed0a4cd-1b82-46e0-b43d-28eaab8ae886"
+}
