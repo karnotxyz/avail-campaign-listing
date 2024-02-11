@@ -1,8 +1,8 @@
 {
   "name": "gummyland",
-  "logo": "https://i.imgur.com/XX160BS.png",
+  "logo": "https://i.postimg.cc/BZHgWfGN/Capturewrwq.png",
   "rpc_url": "http://173.249.11.31:9944",
   "explorer_url": "http://173.249.11.31:4000",
   "metrics_endpoint": "http://173.249.11.31:9615/metrics",
-  "id": "3bcb558e-600b-45f4-89f5-dbd4d310eca0"
+  "id": "9e2c4e9a-090c-4f6b-8e20-91cc63a80b99"
 }
