@@ -1,6 +1,6 @@
 {
   "name": "agungryzm",
-  "logo": "https://i.ibb.co/yV6yXsP/FBk-ura-Y-400x400.jpg",
+  "logo": "http://i.ibb.co/yV6yXsP/FBk-ura-Y-400x400.jpg",
   "rpc_url": "http://64.23.165.63:9944",
   "explorer_url": "http://64.23.165.63:4000",
   "metrics_endpoint": "http://64.23.165.63:9615/metrics",
