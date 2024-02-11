@@ -1,0 +1,8 @@
+{
+  "name": "Jongro",
+  "logo": "https://ibb.co/bbTfHwT",
+  "rpc_url": "http://128.140.10.49/:9944",
+  "explorer_url": "http://128.140.10.49:4000",
+  "metrics_endpoint": "http://128.140.10.49:9615/metrics",
+  "id": "f66f8b4f-27ca-451a-be56-3e981dfe87af"
+}
