@@ -1,0 +1,8 @@
+{
+  "name": "sato",
+  "logo": "https://i.ibb.co/sCXwhzc/906208707556282369.png",
+  "rpc_url": "http://173.249.15.140:9944",
+  "explorer_url": "http://173.249.15.140:4000",
+  "metrics_endpoint": "http://173.249.15.140:9615/metrics",
+  "id": "82c82d78-2953-4029-9c2f-1929be1aa6e2"
+}
