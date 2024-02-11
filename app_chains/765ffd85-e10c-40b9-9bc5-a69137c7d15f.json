@@ -1,0 +1,8 @@
+{
+  "name": "smeby",
+  "logo": "https://i.ibb.co/s14n3Lf/20221024-092619.png",
+  "rpc_url": "http://84.247.187.27:9944",
+  "explorer_url": "http://84.247.187.27:4000",
+  "metrics_endpoint": "http://84.247.187.27:9615/metrics",
+  "id": "765ffd85-e10c-40b9-9bc5-a69137c7d15f"
+}
