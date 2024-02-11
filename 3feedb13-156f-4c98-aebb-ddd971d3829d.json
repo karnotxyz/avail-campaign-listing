@@ -1,0 +1,8 @@
+{
+  "name": "madchain",
+  "logo": "https://ibb.co/nCpFSkW",
+  "rpc_url": "http://89.117.56.78:9944",
+  "explorer_url": "http://89.117.56.78:4000",
+  "metrics_endpoint": "http://89.117.56.78:9615/metrics",
+  "id": "3feedb13-156f-4c98-aebb-ddd971d3829d"
+}
