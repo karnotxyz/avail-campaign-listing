@@ -1,0 +1,8 @@
+{
+  "name": "marpiku",
+  "logo": "https://imgur.com/a/d4bUWXv",
+  "rpc_url": "http://126.28.198.88:9944",
+  "explorer_url": "http://126.28.198.88:4000",
+  "metrics_endpoint": "http://126.28.198.88:9615/metrics",
+  "id": "a4ebb274-2415-4e3d-bd0e-e1f6f1892254"
+}
