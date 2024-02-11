@@ -1,0 +1,8 @@
+{
+  "name": "Abraham",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://43.153.109.245:9944",
+  "explorer_url": "http://43.153.109.245:4000",
+  "metrics_endpoint": "http://43.153.109.245:9615/metrics",
+  "id": "f2213268-97a1-476e-98b3-37a031d17d87"
+}

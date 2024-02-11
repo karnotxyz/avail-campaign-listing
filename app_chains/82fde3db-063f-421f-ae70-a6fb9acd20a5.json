@@ -1,0 +1,8 @@
+{
+  "name": "juAhn",
+  "logo": "https://i.ibb.co/8092Ksz/simple-eagle-logo-png-100655.jpg",
+  "rpc_url": "http://37.60.251.127:9944",
+  "explorer_url": "http://37.60.251.127:4000",
+  "metrics_endpoint": "http://37.60.251.127:9615/metrics",
+  "id": "82fde3db-063f-421f-ae70-a6fb9acd20a5"
+}
