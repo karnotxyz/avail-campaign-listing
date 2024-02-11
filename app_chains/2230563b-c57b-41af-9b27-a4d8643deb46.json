@@ -1,0 +1,8 @@
+{
+  "name": "geboy",
+  "logo": "https://r.resimlink.com/qzIrWDNBZ-a.png",
+  "rpc_url": "http://46.250.233.112:9944",
+  "explorer_url": "http://46.250.233.112:4000",
+  "metrics_endpoint": "http://46.250.233.112:9615/metrics",
+  "id": "2230563b-c57b-41af-9b27-a4d8643deb46"
+}
