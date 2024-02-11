@@ -1,0 +1,8 @@
+{
+  "name": "oma",
+  "logo": "https://ibb.co/1sQrr2h",
+  "rpc_url": "http://176.120.75.236:9944",
+  "explorer_url": "http://176.120.75.236:4000",
+  "metrics_endpoint": "http://176.120.75.236:9615/metrics",
+  "id": "0143d153-e2ce-4d80-9391-e55d12ab7bfe"
+}
