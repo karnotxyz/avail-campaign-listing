@@ -1,0 +1,8 @@
+{
+  "name": "Alice",
+  "logo": "https://assetsio.reedpopcdn.com/ow2_blizzcon_2019_screenshot_enemies_nullsector_04_png_jpgcopy.jpg?width=690&quality=80&format=jpg&auto=webp",
+  "rpc_url": "http://37.60.239.150:9944",
+  "explorer_url": "http://37.60.239.150:4000",
+  "metrics_endpoint": "http://37.60.239.150:9615/metrics",
+  "id": "5accf9e4-5fdc-4d0b-a0e9-3b895f7803f9"
+}
