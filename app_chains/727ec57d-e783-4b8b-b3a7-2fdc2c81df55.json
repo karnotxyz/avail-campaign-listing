@@ -1,0 +1,8 @@
+{
+  "name": "Jeager",
+  "logo": "https://ibb.co/hBCdMRC",
+  "rpc_url": "http://65.109.178.112:9944",
+  "explorer_url": "http://65.109.178.112:4000",
+  "metrics_endpoint": "http://65.109.178.112:9615/metrics",
+  "id": "727ec57d-e783-4b8b-b3a7-2fdc2c81df55"
+}
