@@ -1,0 +1,8 @@
+{
+  "name": "etra",
+  "logo": "https://r.resimlink.com/6denBxSc1Wak.png",
+  "rpc_url": "http://64.23.128.90:9944/",
+  "explorer_url": "http://64.23.128.90:4000/",
+  "metrics_endpoint": "http://64.23.128.90:9615/metrics",
+  "id": "294fd132-31be-4375-b60e-6a3402af561b"
+}
