@@ -1,0 +1,8 @@
+{
+  "name": "michy",
+  "logo": "https://ibb.co/nQsGYRd",
+  "rpc_url": "http://217.76.57.136:9944",
+  "explorer_url": "http://217.76.57.136:4000",
+  "metrics_endpoint": "http://217.76.57.136:9613/metrics",
+  "id": "4ca0e94e-b2ee-4992-b061-9a2fc06c19b4"
+}
