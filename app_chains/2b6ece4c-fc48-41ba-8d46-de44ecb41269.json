@@ -1,0 +1,8 @@
+{
+  "name": "oliviax",
+  "logo": "https://imgur.com/OXJRMhx.png",
+  "rpc_url": "http://34.38.39.198:9944",
+  "explorer_url": "http://34.38.39.198:4000",
+  "metrics_endpoint": "http://34.38.39.198:4000:9615/metrics",
+  "id": "2b6ece4c-fc48-41ba-8d46-de44ecb41269"
+}
