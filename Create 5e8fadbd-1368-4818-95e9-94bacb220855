@@ -1,0 +1,8 @@
+{
+  "name": "jinxpromadara",
+  "logo": "https://i.im.ge/2024/02/11/cyaJyS.imresizer-1707625255058.jpg",
+  "rpc_url": "http://146.190.99.58:9944",
+  "explorer_url": "http://146.190.99.58:4000",
+  "metrics_endpoint": "http://146.190.99.58:9615/metrics",
+  "id": "5e8fadbd-1368-4818-95e9-94bacb220855"
+}
