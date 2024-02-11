@@ -1,0 +1,8 @@
+{
+  "name": "jonjon",
+  "logo": "https://imgur.com/a/mf0KRWt",
+  "rpc_url": "http://37.60.229.130:9944",
+  "explorer_url": "http://37.60.229.130:4000",
+  "metrics_endpoint": "http://37.60.229.130:9615/metrics",
+  "id": "9a0bb6b3-9d3d-4d3c-a8bd-51c023850b0c"
+}
