@@ -1,0 +1,8 @@
+{
+  "name": "weste",
+  "logo": "https://i.postimg.cc/0QK14DYS/yguyg2-9870.jpg",
+  "rpc_url": "http://185.252.234.196:9944",
+  "explorer_url": "http://185.252.234.196:4000",
+  "metrics_endpoint": "http://185.252.234.196:9615/metrics",
+  "id": "21244eda-9b7d-4086-bf63-8b961e735457"
+}
