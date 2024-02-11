@@ -1,0 +1,8 @@
+{
+  "name": "scripts",
+  "logo": "https://i.postimg.cc/ZRrfpm7Y/istockphoto-1196786640-612x612.jpg",
+  "rpc_url": "http://64.23.148.121:9944",
+  "explorer_url": "http://64.23.148.121:4000",
+  "metrics_endpoint": "http://64.23.148.121:9615/metrics",
+  "id": "2ce48163-c90f-402b-9ad4-028d03e49c52"
+}
