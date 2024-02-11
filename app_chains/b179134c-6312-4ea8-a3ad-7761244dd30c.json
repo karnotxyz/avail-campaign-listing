@@ -1,0 +1,8 @@
+{
+  "name": "agamor",
+  "logo": "https://i.ibb.co/zmQq8W9/agamor.png",
+  "rpc_url": "http://194.233.73.206:9944",
+  "explorer_url": "http://194.233.73.206:4000",
+  "metrics_endpoint": "http://194.233.73.206:9615/metrics",
+  "id": "b179134c-6312-4ea8-a3ad-7761244dd30c"
+}

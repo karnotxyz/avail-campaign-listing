@@ -1,0 +1,8 @@
+{
+  "name": "Jeniferrr",
+  "logo": "https://i.postimg.cc/hvSqDHw2/jeniferrr.png",
+  "rpc_url": "http://43.156.68.163:9944",
+  "explorer_url": "http://43.156.68.163:4000",
+  "metrics_endpoint": "http://43.156.68.163:9615/metrics",
+  "id": "15fe184e-dd7c-4d78-9b09-766c28ed2fe0"
+}
