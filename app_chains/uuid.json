@@ -1,0 +1,8 @@
+{
+  "name": "fangke1",
+  "logo": "https://r.resimlink.com/3R8kq9.png",
+  "rpc_url": "http://124.156.172.17:9944",
+  "explorer_url": "http://124.156.172.17:4000",
+  "metrics_endpoint": "http://124.156.172.17:9615/metrics",
+  "id": "1020a754-33e8-473f-ab20-6ad5cecf35a0"
+}
