@@ -1,0 +1,8 @@
+{
+  "name": "irma34",
+  "logo": "https://r.resimlink.com/81Y4Xi.png",
+  "rpc_url": "http://173.249.36.218:9944",
+  "explorer_url": "http://173.249.36.218:4000",
+  "metrics_endpoint": "http://173.249.36.218:9615",
+  "id": "2fe8c124-90b6-4e43-8fa0-92679cf313f1"
+}
