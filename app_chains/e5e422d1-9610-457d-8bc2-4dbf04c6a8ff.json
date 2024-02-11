@@ -1,0 +1,8 @@
+{
+  "name": "staylire",
+  "logo": "https://avatars.githubusercontent.com/u/80118910?v=4",
+  "rpc_url": "http://88.198.198.50:9944",
+  "explorer_url": "http://88.198.198.50:4000",
+  "metrics_endpoint": "http://88.198.198.50:9615/metrics",
+  "id": "e5e422d1-9610-457d-8bc2-4dbf04c6a8ff"
+}
