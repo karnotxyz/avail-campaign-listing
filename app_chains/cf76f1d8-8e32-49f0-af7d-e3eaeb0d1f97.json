@@ -1,0 +1,8 @@
+{
+  "name": "shuigod",
+  "logo": "https://imgur.com/vgU81lb.png",
+  "rpc_url": "http://162.62.134.207:9944",
+  "explorer_url": "http://162.62.134.207:4000",
+  "metrics_endpoint": "http://162.62.134.207:9615/metrics",
+  "id": "cf76f1d8-8e32-49f0-af7d-e3eaeb0d1f97"
+}
