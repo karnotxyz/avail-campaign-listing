@@ -1,0 +1,8 @@
+{
+  "name": "jonjon",
+  "logo": "https://im.ge/i/cymasq",
+  "rpc_url": "http://37.60.229.130:9944",
+  "explorer_url": "http://37.60.229.130:4000",
+  "metrics_endpoint": "http://37.60.229.130:9615/metrics",
+  "id": "a88b302f-c457-47f3-b100-5e32dfbd27ce"
+}
