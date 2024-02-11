@@ -1,8 +1,0 @@
-{
-  "name": "pinkpotion",
-  "logo": "https://r.resimlink.com/8ywPr7ThC.png",
-  "rpc_url": "https://64.227.75.162:9944",
-  "explorer_url": "https://64.227.75.162:4000",
-  "metrics_endpoint": "http://64.227.75.162:9615/metrics",
-  "id": "5a0254f0-d6fe-4bb0-9bfe-13b1bd17b881"
-}
