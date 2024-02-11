@@ -1,0 +1,8 @@
+{
+  "name": "memeda111",
+  "logo": "https://imgur.com/1ngdlqu.png",
+  "rpc_url": "http://43.133.114.197:9944",
+  "explorer_url": "http://43.133.114.197:4000",
+  "metrics_endpoint": "http://43.133.114.197:9615/metrics",
+  "id": "80d97165-e660-4058-a8cc-945d44dbc337"
+}

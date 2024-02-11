@@ -1,0 +1,8 @@
+{
+  "name": "shingle",
+  "logo": "https://avatars.githubusercontent.com/u/20315934?s=48&v=4",
+  "rpc_url": "http://95.216.77.69:9944",
+  "explorer_url": "http://95.216.77.69:4000",
+  "metrics_endpoint": "http://95.216.77.69:9615/metrics",
+  "id": "573b61e9-54e6-d6fb-f5e0-2f187bfdba49"
+}
