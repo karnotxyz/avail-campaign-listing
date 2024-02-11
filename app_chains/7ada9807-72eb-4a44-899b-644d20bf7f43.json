@@ -1,0 +1,8 @@
+{
+  "name": "taipro1993",
+  "logo": "https://avatars.githubusercontent.com/u/104402664?s=400&v=4",
+  "rpc_url": "http://81.0.247.172:9944",
+  "explorer_url": "http://81.0.247.172:4000",
+  "metrics_endpoint": "http://81.0.247.172:9615/metrics",
+  "id": "7ada9807-72eb-4a44-899b-644d20bf7f43"
+}
