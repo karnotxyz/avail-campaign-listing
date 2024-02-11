@@ -1,8 +1,0 @@
-{
-  "name": "miriminian",
-  "logo": "https://raw.githubusercontent.com/gehpisikedi/carspeed/main/logo1.png",
-  "rpc_url": "http://37.27.40.36:9944",
-  "explorer_url": "http://37.27.40.36:4000",
-  "metrics_endpoint": "http://37.27.40.36:9615/metrics",
-  "id": "0a9051e5-d86a-42dd-84ae-3ffa2f9d8551"
-}
