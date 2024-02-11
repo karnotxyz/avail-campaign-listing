@@ -1,0 +1,8 @@
+{
+  "name": "Alice",
+  "logo": "https://2.bp.blogspot.com/-U16MhD2cQ84/WPH-B924RcI/AAAAAAAAAnw/E_XlMaBC8YgDazFkNTf9q7r_2fu6P-50wCLcB/s640/anh-nen-overwatch%2B%25281%2529.jpg",
+  "rpc_url": "http://37.60.239.150:9944",
+  "explorer_url": "http://37.60.239.150:4000",
+  "metrics_endpoint": "http://37.60.239.150:9615/metrics",
+  "id": "730cadfb-7ee8-4001-8f41-10ba2cd9df6f"
+}
