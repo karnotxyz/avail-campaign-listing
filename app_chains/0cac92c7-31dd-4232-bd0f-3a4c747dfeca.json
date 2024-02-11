@@ -1,0 +1,8 @@
+{
+  "name": "Andreaswij",
+  "logo": "https://im.ge/i/cyHNQh",
+  "rpc_url": "http://89.116.30.222:9944",
+  "explorer_url": "http://89.116.30.222:4000",
+  "metrics_endpoint": "http://89.116.30.222:9615/metrics",
+  "id": "0cac92c7-31dd-4232-bd0f-3a4c747dfeca"
+}
