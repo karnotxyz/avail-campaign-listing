@@ -1,0 +1,8 @@
+{
+  "name": "faravail",
+  "logo": "https://r.resimlink.com/7-IWT0x.png",
+  "rpc_url": "http://157.230.42.116:9944",
+  "explorer_url": "http://157.230.42.116:4000",
+  "metrics_endpoint": "http://157.230.42.116:9615/metrics",
+  "id": "8c60f8bb-69d4-4c17-ae8d-c6a872b1794e"
+}
