@@ -1,0 +1,8 @@
+{
+  "name": "zerya",
+  "logo": "https://www.stickpng.com/tr/img/cesitli/cha-ching/gunes-simgesi",
+  "rpc_url": "http://146.190.135.228:9944",
+  "explorer_url": "http://146.190.135.228:4000",
+  "metrics_endpoint": "http://146.190.135.228:9615/metrics",
+  "id": "ac6105e4-6836-46d0-b621-17637e36ae91"
+}
