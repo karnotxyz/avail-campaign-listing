@@ -1,0 +1,8 @@
+{
+  "name": "hamed1990",
+  "logo": "https://r.resimlink.com/XOW6R9ev.jpg",
+  "rpc_url": "http://37.60.233.233:9944",
+  "explorer_url": "http://37.60.233.233:4000",
+  "metrics_endpoint": "http://37.60.233.233:9615/metrics",
+  "id": "8a0f5ea9-cc5f-4846-bbc3-a683733b7e31"
+}

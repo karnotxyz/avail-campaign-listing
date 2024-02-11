@@ -1,0 +1,8 @@
+{
+  "name": "itakhost",
+  "logo": "https://github.com/bnb-chain/op-geth/assets/132301514/42ecef5b-33bf-414c-a164-d606062e9de5",
+  "rpc_url": "http://65.109.30.105:9944",
+  "explorer_url": "http://65.109.30.105:4000",
+  "metrics_endpoint": "http://65.109.30.105:9615/metrics",
+  "id": "2121f602-081c-42f0-9af2-53f6a1800967"
+}

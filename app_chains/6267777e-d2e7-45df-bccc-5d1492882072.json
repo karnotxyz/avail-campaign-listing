@@ -1,0 +1,8 @@
+{
+  "name": "bill2024",
+  "logo": "https://pbs.twimg.com/profile_images/1697299503198646273/GTnwCVUC_400x400.jpg",
+  "rpc_url": "http://103.166.228.153:9944",
+  "explorer_url": "http://103.166.228.153:4000",
+  "metrics_endpoint": "http://103.166.228.153:9615/metrics",
+  "id": "6267777e-d2e7-45df-bccc-5d1492882072"
+}

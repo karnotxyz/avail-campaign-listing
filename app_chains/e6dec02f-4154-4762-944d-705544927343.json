@@ -1,0 +1,8 @@
+{
+  "name": "corumlu",
+  "logo": "https://r.resimlink.com/SxkE5t.png",
+  "rpc_url": "http://146.190.141.2:9944",
+  "explorer_url": "http://146.190.141.2:4000",
+  "metrics_endpoint": "http://146.190.141.2:9615/metrics",
+  "id": "e6dec02f-4154-4762-944d-705544927343"
+}

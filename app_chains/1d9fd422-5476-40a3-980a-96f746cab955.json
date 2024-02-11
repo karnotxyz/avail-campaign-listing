@@ -1,0 +1,8 @@
+{
+  "name": "elittt",
+  "logo": "https://r.resimlink.com/62_uhxW.png",
+  "rpc_url": "http://78.47.97.97:9944",
+  "explorer_url": "http://78.47.97.97:4000",
+  "metrics_endpoint": "http://78.47.97.97:9615/metrics",
+  "id": "1d9fd422-5476-40a3-980a-96f746cab955"
+}

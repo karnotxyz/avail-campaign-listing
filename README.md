@@ -31,7 +31,8 @@ format to listing.json.
 4. Enter all the details mentioned above inside the JSON file.
 5. Create a PR with the name "✨ Adding <app_chain_name>"
 6. Wait for all CI checks to pass
-7. If all your CI checks are passing, your branch should automatically merge.
+7. Make sure you're on the latest `main` version. If you're not, you should see an `Update branch` button on the PR page
+8. If all your CI checks are passing, your branch should automatically merge.
 
 Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/195).
 

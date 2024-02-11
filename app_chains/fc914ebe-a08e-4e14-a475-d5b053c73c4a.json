@@ -1,0 +1,8 @@
+{
+  "name": "elysium",
+  "logo": "https://i.imgur.com/6TwD1nD.png",
+  "rpc_url": "http://162.55.46.138:9944",
+  "explorer_url": "http://162.55.46.138:4000",
+  "metrics_endpoint": "http://162.55.46.138:9615/metrics",
+  "id": "fc914ebe-a08e-4e14-a475-d5b053c73c4a"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kayacrypto",
+  "logo": "https://ibb.co/98JNgPr",
+  "rpc_url": "http://135.181.156.156:9944",
+  "explorer_url": "http://135.181.156.156:4000",
+  "metrics_endpoint": "http://135.181.156.156:9615/metrics",
+  "id": "9d9a9427-ad89-482f-998d-4bdcb2d18663"
+}
