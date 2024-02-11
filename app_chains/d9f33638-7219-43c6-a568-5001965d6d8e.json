@@ -1,0 +1,8 @@
+{
+  "name": "andalusia1337",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://46.250.233.127:9944",
+  "explorer_url": "http://46.250.233.127:4000",
+  "metrics_endpoint": "http://46.250.233.127:9615/metrics",
+  "id": "d9f33638-7219-43c6-a568-5001965d6d8e"
+}
