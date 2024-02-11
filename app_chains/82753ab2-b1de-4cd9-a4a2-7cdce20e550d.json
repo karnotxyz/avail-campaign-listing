@@ -1,0 +1,16 @@
+
+./target/release/madara explorer --host=65.108.155.72.
+
+{
+  "name": "ugura",
+  "logo": "https://r.resimlink.com/6FPOEqC8vLD.jpg",
+  "rpc_url": "65.108.155.72:9944",
+  "explorer_url": "65.108.155.72:4000",
+  "metrics_endpoint": "65.108.155.72:9615",
+  "id": "82753ab2-b1de-4cd9-a4a2-7cdce20e550d"
+}
+
+
+
+
+
