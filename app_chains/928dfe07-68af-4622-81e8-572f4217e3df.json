@@ -1,8 +1,10 @@
+[
   {
     "name": "HoodRun",
     "logo": "https://i.imgur.com/Y1VJncy.png",
     "rpc_url": "http://135.181.26.15:9944",
     "explorer_url": "http://135.181.26.15:4000",
     "metrics_endpoint": "http://135.181.26.15:9615/metrics",
-    "id": "928dfe07-68af-4622-81e8-572f4217e3df"
+    "id": "9f5a0d5c-585f-4bea-a19b-fcdec6d70685"
   }
+]
