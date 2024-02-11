@@ -1,0 +1,8 @@
+{
+  "name": "BlackSwan",
+  "logo": "http://github-production-user-asset-6210df.s3.amazonaws.com/92775789/303908594-24b40803-9e0a-4994-9493-3858e911c0bb.png",
+  "rpc_url": "http://88.119.167.40:9944",
+  "explorer_url": "http://88.119.167.40:4000",
+  "metrics_endpoint": "http://88.119.167.40:9615/metrics",
+  "id": "83a1570d-c6fb-4ddb-8bdf-8b15e2ea87a5"
+}
