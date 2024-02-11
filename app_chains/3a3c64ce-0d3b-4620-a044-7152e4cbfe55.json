@@ -1,0 +1,8 @@
+{
+  "name": "kaancan39",
+  "logo": "https://r.resimlink.com/Ke5sD9v.png",
+  "rpc_url": "http://65.109.227.116:9944",
+  "explorer_url": "http://65.109.227.116:4000",
+  "metrics_endpoint": "http://65.109.227.116:9615/metrics",
+  "id": "3a3c64ce-0d3b-4620-a044-7152e4cbfe55"
+}
