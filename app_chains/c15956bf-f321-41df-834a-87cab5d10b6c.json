@@ -1,0 +1,8 @@
+{
+  "name": "CyxalWave",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/CyxalWave.png",
+  "rpc_url": "http://49.51.244.48:9944",
+  "explorer_url": "http://49.51.244.48:4000",
+  "metrics_endpoint": "http://49.51.244.48:9615/metrics",
+  "id": "c15956bf-f321-41df-834a-87cab5d10b6c"
+}

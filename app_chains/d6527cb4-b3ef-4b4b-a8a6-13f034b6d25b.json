@@ -1,0 +1,8 @@
+{
+  "name": "availosis",
+  "logo": "https://r.resimlink.com/4R7tuFmN3A.png",
+  "rpc_url": "http://185.208.172.102:9944",
+  "explorer_url": "http://185.208.172.102:4000",
+  "metrics_endpoint": "http://185.208.172.102:9615/metrics",
+  "id": "d6527cb4-b3ef-4b4b-a8a6-13f034b6d25b"
+}
