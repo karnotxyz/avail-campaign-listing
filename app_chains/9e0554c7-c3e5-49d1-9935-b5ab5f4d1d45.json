@@ -1,0 +1,8 @@
+{
+  "name": "korgan",
+  "logo": "https://r.resimlink.com/6_JQjCunrX.jpg",
+  "rpc_url": "http://192.168.244.170:9944",
+  "explorer_url": "http://192.168.244.170:4000",
+  "metrics_endpoint": "http://192.168.244.170:9615/metrics",
+  "id": "9e0554c7-c3e5-49d1-9935-b5ab5f4d1d45"
+}
