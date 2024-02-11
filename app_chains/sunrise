@@ -1,0 +1,8 @@
+{
+  "name": "sunrise",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/61330844/302118752-63c363ab-e0ee-47b0-b2ce-2b809b3afc68.png",
+  "rpc_url": "http://135.181.146.43:9944",
+  "explorer_url": "http://135.181.146.43:4000",
+  "metrics_endpoint": "http://135.181.146.43:9615/metrics",
+  "id": "c61dc363-f6b6-4c27-a643-4ea3dfb6aae5"
+}
