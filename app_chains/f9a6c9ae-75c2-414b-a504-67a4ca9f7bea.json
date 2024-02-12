@@ -1,0 +1,8 @@
+{
+  "name": "my_app_chain",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/195px-Yin_yang.svg.png",
+  "rpc_url": "http://184.174.32.119:9944",
+  "explorer_url": "http://184.174.32.119:4000",
+  "metrics_endpoint": "http://184.174.32.119:9615/metrics",
+  "id": "f9a6c9ae-75c2-414b-a504-67a4ca9f7bea"
+}
