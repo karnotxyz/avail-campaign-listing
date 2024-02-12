@@ -4,5 +4,6 @@
   "rpc_url": "http://159.69.239.23:9944",
   "explorer_url": "http://159.69.239.23:4000",
   "metrics_endpoint": "http://159.69.239.23:9615/metrics",
-  "id": "1a185c6b-043f-4827-a993-68c529cf6dbc"
+  "id": "npx prettier@latest --write 1332d818-a0d1-41b3-91b9-204ab6bcc64b.json
+"
 }
