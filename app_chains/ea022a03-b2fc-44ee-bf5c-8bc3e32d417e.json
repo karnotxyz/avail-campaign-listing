@@ -1,0 +1,8 @@
+{
+  "name": "ggjr",
+  "logo": "https://i.postimg.cc/MTQrSmX7/bobo-1.png",
+  "rpc_url": "http://5.189.142.175:9944",
+  "explorer_url": "http://5.189.142.175:4000",
+  "metrics_endpoint": "http://5.189.142.175:9615/metrics",
+  "id": "ea022a03-b2fc-44ee-bf5c-8bc3e32d417e"
+}
