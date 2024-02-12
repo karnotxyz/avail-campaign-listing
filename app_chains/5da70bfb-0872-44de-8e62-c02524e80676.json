@@ -1,0 +1,8 @@
+{
+  "name": "BRAVEETH",
+  "logo": "https://i.ibb.co/25xWjzB/brave.jpg",
+  "rpc_url": "http://38.242.196.82:9944",
+  "explorer_url": "http://38.242.196.82:4000",
+  "metrics_endpoint": "http:/38.242.196.82:9615/metrics",
+  "id": "5da70bfb-0872-44de-8e62-c02524e80676"
+}
