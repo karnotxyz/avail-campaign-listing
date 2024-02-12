@@ -1,0 +1,8 @@
+{
+  "name": "frsoci",
+  "logo": "https://img.lu/upload/523c12bc080aa08c2a70d.jpg",
+  "rpc_url": "http://116.203.148.101:9944",
+  "explorer_url": "http://116.203.148.101:4000",
+  "metrics_endpoint": "http://116.203.148.101:9615/metrics",
+  "id": "9dbc954f-9608-4497-b142-357e89bdad8f"
+}
