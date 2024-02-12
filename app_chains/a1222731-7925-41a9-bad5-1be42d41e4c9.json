@@ -1,0 +1,8 @@
+{
+  "name": "radiobow",
+  "logo": "http://43.156.11.104/logo.jpg",
+  "rpc_url": "http://43.156.11.104:9944",
+  "explorer_url": "http://43.156.11.104:4000",
+  "metrics_endpoint": "http://43.156.11.104:9615/metrics",
+  "id": "a1222731-7925-41a9-bad5-1be42d41e4c9"
+}
