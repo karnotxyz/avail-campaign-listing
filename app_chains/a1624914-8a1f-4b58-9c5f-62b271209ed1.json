@@ -1,0 +1,8 @@
+{
+  "name": "KingSuper",
+  "logo": "https://i.ibb.co/jbyrhcB/King-Super-400px.jpg",
+  "rpc_url": "https://rpc-madara.kingsuper.services",
+  "explorer_url": "https://explorer-madara.kingsuper.services",
+  "metrics_endpoint": "https://metrics-madara.kingsuper.services/metrics",
+  "id": "a1624914-8a1f-4b58-9c5f-62b271209ed1"
+}
