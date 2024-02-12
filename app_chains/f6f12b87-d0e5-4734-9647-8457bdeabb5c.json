@@ -1,0 +1,8 @@
+{
+  "name": "name",
+  "logo": "https://r.resimlink.com/9GIhVazLK.jpg",
+  "rpc_url": "https://65.21.155.194:9944",
+  "explorer_url": "https://65.21.155.194:4000",
+  "metrics_endpoint": "https://65.21.155.194:9615",
+  "id": "f6f12b87-d0e5-4734-9647-8457bdeabb5c"
+}
