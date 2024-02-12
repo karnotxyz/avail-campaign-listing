@@ -1,8 +1,0 @@
-{
-   "name": "AMIIIR",
-   "logo": "https://i.ibb.co/7gGNNT5/4124242424.png",
-   "rpc_url": "158.220.105.227:9944",
-   "explorer_url": "158.220.105.227:4000",
-   "metrics_endpoint": "158.220.105.227:9615/metrics",
-   "id": "518a4955-4de8-4b39-883c-d382cc762948"
-}
