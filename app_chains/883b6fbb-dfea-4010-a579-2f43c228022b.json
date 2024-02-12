@@ -1,0 +1,8 @@
+{
+  "name": "sandrane",
+  "logo": "https://raw.githubusercontent.com/sandraneriksen/sandraneriksen/main/s%20ss.png",
+  "rpc_url": "http://23.88.34.76:9944",
+  "explorer_url": "http://23.88.34.76:4000",
+  "metrics_endpoint": "http://23.88.34.76:9615/metrics",
+  "id": "883b6fbb-dfea-4010-a579-2f43c228022b"
+}
