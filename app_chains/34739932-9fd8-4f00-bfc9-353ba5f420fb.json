@@ -1,0 +1,8 @@
+{
+  "name": "fryslab",
+  "logo": "http://43.155.161.25/logo.jpg",
+  "rpc_url": "http://43.155.161.25:9944",
+  "explorer_url": "http://43.155.161.25:4000",
+  "metrics_endpoint": "http://43.155.161.25:9615/metrics",
+  "id": "34739932-9fd8-4f00-bfc9-353ba5f420fb"
+}
