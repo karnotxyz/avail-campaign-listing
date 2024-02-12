@@ -1,0 +1,8 @@
+{
+  "name": "etheae",
+  "logo": "https://i.imgur.com/Q9K6M1s.jpeg",
+  "rpc_url": "http://95.216.137.229:9944",
+  "explorer_url": "http://95.216.137.229:4000",
+  "metrics_endpoint": "http://95.216.137.229:9615/metrics",
+  "id": "4232a401-1406-4814-b5ac-784a3bd97eac"
+}
