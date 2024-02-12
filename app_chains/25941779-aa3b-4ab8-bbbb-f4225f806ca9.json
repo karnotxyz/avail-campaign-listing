@@ -1,0 +1,8 @@
+{
+  "name": "oznurmadara",
+  "logo": "https://r.resimlink.com/hJvNCu.png",
+  "rpc_url": "http://5.78.109.3:9944",
+  "explorer_url": "http://5.78.109.3:4000",
+  "metrics_endpoint": "http://5.78.109.3:9615/metrics",
+  "id": "25941779-aa3b-4ab8-bbbb-f4225f806ca9"
+}
