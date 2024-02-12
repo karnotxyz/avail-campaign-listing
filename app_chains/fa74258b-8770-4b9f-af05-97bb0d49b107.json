@@ -1,0 +1,8 @@
+{
+  "name": "lennona",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://35.231.73.152:9944",
+  "explorer_url": "http://35.231.73.152:4000",
+  "metrics_endpoint": "http://35.231.73.152:9615/metrics",
+  "id": "fa74258b-8770-4b9f-af05-97bb0d49b107"
+}
