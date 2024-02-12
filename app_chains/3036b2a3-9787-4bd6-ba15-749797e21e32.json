@@ -1,0 +1,8 @@
+{
+    "name": "sargesmith",
+    "logo": "https://i.ibb.co/XsRtyMQ/ysms-K3-Nf-400x400.jpg",
+    "rpc_url": "http://84.247.142.67:9944",
+    "explorer_url": "http://84.247.142.67:4000",
+    "metrics_endpoint": "http://84.247.142.67:9615/metrics", 
+    "id": "3036b2a3-9787-4bd6-ba15-749797e21e32"
+  }
