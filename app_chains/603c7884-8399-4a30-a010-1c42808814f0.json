@@ -1,8 +1,0 @@
-{
-  "name": "Nherocode",
-  "logo": "https://i.ibb.co/h8L2qVj/Nherocode.png",
-  "rpc_url": "http://194.233.79.158:9944",
-  "explorer_url": "http://194.233.79.158:4000",
-  "metrics_endpoint": "http://194.233.79.158:9615/metrics",
-  "id": "603c7884-8399-4a30-a010-1c42808814f0"
-}
