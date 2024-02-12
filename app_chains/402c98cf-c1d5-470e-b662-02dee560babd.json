@@ -1,0 +1,8 @@
+{
+  "name": "0xmilad",
+  "logo": "https://r.resimlink.com/eKcFAth.jpg",
+  "rpc_url": "http://159.69.239.14:9944",
+  "explorer_url": "http://159.69.239.14:4000",
+  "metrics_endpoint": "http://159.69.239.14:9615/metrics",
+  "id": "402c98cf-c1d5-470e-b662-02dee560babd.jpg"
+}
