@@ -1,8 +1,8 @@
-{
+{ 
   "name": "ErkantarMadara",
   "logo": "https://r.resimlink.com/UOvo84l96Y2.png",
-  "rpc_url": "https://95.217.20.175:9944",
-  "explorer_url": "https://95.217.20.175:4000",
-  "metrics_endpoint": "https://95.217.20.175:9615",
+  "rpc_url": "http://95.217.20.175:9944",
+  "explorer_url": "http://95.217.20.175:4000",
+  "metrics_endpoint": "http://95.217.20.175:9615/metrics",
   "id": "18390df8-80cd-40c1-92a7-d790588aa93c"
 }
