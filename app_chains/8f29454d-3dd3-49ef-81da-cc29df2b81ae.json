@@ -1,0 +1,8 @@
+{
+  "name": "itsyalcin",
+  "logo": "https://r.resimlink.com/EWChM.png",
+  "rpc_url": "http://207.180.194.133:9944",
+  "explorer_url": "http://207.180.194.133:4000",
+  "metrics_endpoint": "http://207.180.194.133:9615/metrics",
+  "id": "8f29454d-3dd3-49ef-81da-cc29df2b81ae"
+}
