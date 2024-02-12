@@ -1,0 +1,8 @@
+{
+    "name": "0xcna",
+    "logo": "https://ipfs.io/ipfs/Qmdny7MDB5pF9RtRY15MpGTee737zSYzSBS8e6PAgKP7Lu?filename=photo_%DB%B2%DB%B0%DB%B2%DB%B3-%DB%B0%DB%B6-%DB%B2%DB%B0_%DB%B1%DB%B1-%DB%B3%DB%B5-%DB%B3%DB%B3.jpg",
+    "rpc_url": "http://185.110.190.230:9944",
+    "explorer_url": "http://185.110.190.230:4000",
+    "metrics_endpoint": "http://185.110.190.230:9615/metrics",
+    "id": "bd6cf532-09d6-4683-9067-ec67d6c13805"
+  }
