@@ -1,0 +1,8 @@
+{
+  "name": "Maziar",
+  "logo": "https://r.resimlink.com/nbJSe.jpg",
+  "rpc_url": "http://http://159.69.148.2:9944",
+  "explorer_url": "http://http://159.69.148.2:4000",
+  "metrics_endpoint": "http://http://159.69.148.2:9615/metrics",
+  "id": "1d6cfa99-e8eb-41a3-b61f-f71a156fbb49"
+}
