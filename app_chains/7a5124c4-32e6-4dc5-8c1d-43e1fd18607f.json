@@ -1,0 +1,8 @@
+{
+  "name": "GRAC",
+  "logo": "https://madara.gracecampo.online/logo.png",
+  "rpc_url": "https://madara.gracecampo.online",
+  "explorer_url": "https://explorer.gracecampo.online",
+  "metrics_endpoint": "https://metrics.gracecampo.online",
+  "id": "7a5124c4-32e6-4dc5-8c1d-43e1fd18607f"
+}

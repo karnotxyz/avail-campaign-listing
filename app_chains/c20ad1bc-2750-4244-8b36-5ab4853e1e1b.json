@@ -1,0 +1,8 @@
+{
+  "name": "arash60",
+  "logo": "https://r.resimlink.com/dR5gN7GpV.png",
+  "rpc_url": "http://51.38.206.0:9944",
+  "explorer_url": "http://51.38.206.0:4000",
+  "metrics_endpoint": "http://51.38.206.0:9615/metrics",
+  "id": "c20ad1bc-2750-4244-8b36-5ab4853e1e1b"
+}
