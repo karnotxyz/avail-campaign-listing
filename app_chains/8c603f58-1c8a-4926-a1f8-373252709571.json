@@ -1,0 +1,8 @@
+{
+  "name": "omer95",
+  "logo": "https://raw.githubusercontent.com/davoreis/relayer/main/photo_2021-11-23_22-56-00.png",
+  "rpc_url": "http://84.46.255.50:9944",
+  "explorer_url": "http://84.46.255.50:4000",
+  "metrics_endpoint": "http://84.46.255.50:9615/metrics",
+  "id": "8c603f58-1c8a-4926-a1f8-373252709571"
+}
