@@ -1,0 +1,8 @@
+{
+  "name": "Alexandra",
+  "logo": "https://static.wikia.nocookie.net/naruto/images/0/0c/Madara_img2.png/revision/latest?cb=20170704141235&path-prefix=id",
+  "rpc_url": "http://82.208.23.149:9944",
+  "explorer_url": "http://82.208.23.149:4000",
+  "metrics_endpoint": "http://82.208.23.149:9615/metrics",
+  "id": "90b383f3-201b-430b-8750-0b1b1914928a"
+}
