@@ -1,0 +1,8 @@
+{
+  "name": "fouks",
+  "logo": "https://i.imgur.com/t3QnoXY.jpeg",
+  "rpc_url": "http://101.32.98.130:9944",
+  "explorer_url": "http://101.32.98.130:4000",
+  "metrics_endpoint": "http://101.32.98.130:9615/metrics",
+  "id": "66827d6c-c94c-4b50-9589-daaf656607c8"
+}
