@@ -1,0 +1,8 @@
+{ 
+  "nama" :  "mfebriansyah" , 
+  "logo" :  "https://i.ibb.co/Pr7w00P/IMG-20231120-204355-106.png" , 
+  "rpc_url" :  "https://167.99.244.35:9944" , 
+  "explorer_url" :  "https://167.99.244.35:4000" , 
+  "metrics_endpoint" :  "https://167.99.244.35:9615/metrics" , 
+  "id" :  "9c0c5c59-cd1b-4ee3-9f87-564dcde5e733" 
+}
