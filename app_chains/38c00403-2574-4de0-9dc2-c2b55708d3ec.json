@@ -1,0 +1,8 @@
+{
+  "name": "Sepehr",
+  "logo": "https://r.resimlink.com/hma95e.jpg",
+  "rpc_url": "http://167.233.5.226:9944",
+  "explorer_url": "http://167.233.5.226:4000",
+  "metrics_endpoint": "http://167.233.5.226:9615/metrics",
+  "id": "38c00403-2574-4de0-9dc2-c2b55708d3ec"
+}
