@@ -1,0 +1,8 @@
+  {
+    "name": "equlaizer",
+    "logo": "https://r.resimlink.com/4HMaTbgU.jpg",
+    "rpc_url": "http://65.108.49.162:9944",
+    "explorer_url": "http://65.108.49.162:4000",
+    "metrics_endpoint": "http://65.108.49.162:9615/metrics",
+    "id": "b9c581c4-9484-4cba-bcc0-02b50603e1d5"
+  }
