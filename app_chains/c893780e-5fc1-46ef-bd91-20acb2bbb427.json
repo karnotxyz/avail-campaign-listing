@@ -1,0 +1,8 @@
+{
+  "name": "Alphaniko",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/Alphaniko.png",
+  "rpc_url": "http://43.152.72.184:9944",
+  "explorer_url": "http://43.152.72.184:4000",
+  "metrics_endpoint": "http://43.152.72.184:9615/metrics",
+  "id": "c893780e-5fc1-46ef-bd91-20acb2bbb427"
+}

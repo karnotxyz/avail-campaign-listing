@@ -1,0 +1,8 @@
+{
+  "name": "aiueo",
+  "logo": "https://pbs.twimg.com/profile_images/1452001366935695368/OiOchLIN_400x400.jpg",
+  "rpc_url": "http://167.86.92.64:9944",
+  "explorer_url": "http://167.86.92.64:4000",
+  "metrics_endpoint": "http://167.86.92.64:9615/metrics",
+  "id": "c7d354be-16cc-4b50-b4f2-813f1673b1ce"
+}

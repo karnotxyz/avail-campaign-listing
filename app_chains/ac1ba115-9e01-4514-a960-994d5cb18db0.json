@@ -1,0 +1,8 @@
+{
+  "name": "cryptository",
+  "logo": "https://i.imgur.com/f3YNRrv.jpg",
+  "rpc_url": "http://128.199.194.233:9944/",
+  "explorer_url": "http://128.199.194.233:4000/",
+  "metrics_endpoint": "http://128.199.194.233:4000/metrics",
+  "id": "ac1ba115-9e01-4514-a960-994d5cb18db0"
+}

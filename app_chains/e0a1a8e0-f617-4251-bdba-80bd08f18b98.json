@@ -1,0 +1,8 @@
+{
+  "name": "Cyxerion",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/Cyxerion.png",
+  "rpc_url": "http://43.135.175.164:9944",
+  "explorer_url": "http://43.135.175.164:4000",
+  "metrics_endpoint": "http://43.135.175.164:9615/metrics",
+  "id": "e0a1a8e0-f617-4251-bdba-80bd08f18b98"
+}

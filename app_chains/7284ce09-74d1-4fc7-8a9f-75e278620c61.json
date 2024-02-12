@@ -1,0 +1,8 @@
+{
+  "name": "mojtaba",
+  "logo": "https://r.resimlink.com/jmTifhcD.jpg",
+  "rpc_url": "http://185.221.237.169:9944",
+  "explorer_url": "http://185.221.237.169:4000",
+  "metrics_endpoint": "http://185.221.237.169:9615/metrics",
+  "id": "7284ce09-74d1-4fc7-8a9f-75e278620c61"
+}

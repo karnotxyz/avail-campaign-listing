@@ -1,0 +1,8 @@
+{
+  "name": "milord123",
+  "logo": "https://r.resimlink.com/Cr9gWNtqb53.jpg",
+  "rpc_url": "http://159.69.239.13:9944",
+  "explorer_url": "http://159.69.239.13:4000",
+  "metrics_endpoint": "http://159.69.239.13:9615/metrics",
+  "id": "888c07d2-5f7f-431c-bb73-b432198982e8"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "phelpskaren",
+  "logo": "https://r.resimlink.com/IkUZrs4e9W.jpg",
+  "rpc_url": "http://95.217.12.241:9944",
+  "explorer_url": "http://95.217.12.241:4000",
+  "metrics_endpoint": "http://95.217.12.241:9615/metrics",
+  "id": "a7350677-f702-4dee-95bb-a08e22ea074f"
+}

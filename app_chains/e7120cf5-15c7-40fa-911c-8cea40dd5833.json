@@ -1,0 +1,8 @@
+{
+  "name": "thorizer",
+  "logo": "https://im.ge/i/ciP58X",
+  "rpc_url": "http://95.217.5.49:9944",
+  "explorer_url": "http://95.217.5.49:4000",
+  "metrics_endpoint": "http://95.217.5.49:9615/metrics",
+  "id": "e7120cf5-15c7-40fa-911c-8cea40dd5833"
+}
