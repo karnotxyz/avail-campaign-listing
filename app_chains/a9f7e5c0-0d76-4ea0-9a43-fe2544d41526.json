@@ -1,0 +1,8 @@
+{
+  "name": "rezarwz",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/101997722/303912021-96aa0e0c-5449-4eb8-b00d-1be8f2b690a3.png",
+  "rpc_url": "http://95.111.228.57:9944",
+  "explorer_url": "http://95.111.228.57:4000",
+  "metrics_endpoint": "http://95.111.228.57:9615/metrics",
+  "id": "a9f7e5c0-0d76-4ea0-9a43-fe2544d41526"
+}
