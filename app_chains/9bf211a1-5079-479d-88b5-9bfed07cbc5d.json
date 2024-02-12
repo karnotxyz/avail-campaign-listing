@@ -1,0 +1,8 @@
+{
+  "name": "kensh1n",
+  "logo": "https://i.postimg.cc/DyVChNC4/IMG-20220625-230448.jpg",
+  "rpc_url": "http://35.247.85.31:9944",
+  "explorer_url": "http://35.247.85.31:4000",
+  "metrics_endpoint": "http://35.247.85.31:9615/metrics",
+  "id": "9bf211a1-5079-479d-88b5-9bfed07cbc5d"
+}
