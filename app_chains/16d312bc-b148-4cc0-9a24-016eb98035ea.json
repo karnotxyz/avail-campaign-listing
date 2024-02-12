@@ -1,0 +1,8 @@
+{
+  "name": "berhadiah",
+  "logo": "https://images2.imgbox.com/07/fc/fJnwnWXj_o.jpg",
+  "rpc_url": "http://158.220.105.77:9944",
+  "explorer_url": "http://158.220.105.77:4000",
+  "metrics_endpoint": "http://158.220.105.77:9615/metrics",
+  "id": "16d312bc-b148-4cc0-9a24-016eb98035ea"
+}
