@@ -1,0 +1,8 @@
+{
+  "name": "Detector",
+  "logo": "",
+  "rpc_url": "http://65.109.146.207:9944",
+  "explorer_url": "http://65.109.146.207:4000",
+  "metrics_endpoint": "http://65.109.146.207:9615/metrics",
+  "id": "3d283dfe-f017-48ca-b855-fd39741b2204"
+}
