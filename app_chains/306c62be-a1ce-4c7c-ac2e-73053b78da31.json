@@ -1,0 +1,8 @@
+{
+  "name": "hanetoy",
+  "logo": "https://i.imgur.com/6JtWUFP.png",
+  "rpc_url": "http://5.189.188.135:9944",
+  "explorer_url": "http://5.189.188.135:4000",
+  "metrics_endpoint": "http://5.189.188.135:9615/metrics",
+  "id": "306c62be-a1ce-4c7c-ac2e-73053b78da31"
+}

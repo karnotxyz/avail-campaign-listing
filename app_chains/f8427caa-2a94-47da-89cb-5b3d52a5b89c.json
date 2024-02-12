@@ -1,0 +1,8 @@
+{
+  "name": "poetrist",
+  "logo": "https://r.resimlink.com/nR_yVlLa89rI.png",
+  "rpc_url": "http://37.60.252.206:9944",
+  "explorer_url": "http://37.60.252.206:4000",
+  "metrics_endpoint": "http://37.60.252.206:9615/metrics",
+  "id": "f8427caa-2a94-47da-89cb-5b3d52a5b89c"
+}

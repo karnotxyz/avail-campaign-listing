@@ -1,0 +1,8 @@
+{
+  "name": "alicando",
+  "logo": "https://raw.githubusercontent.com/alicans/deneme/main/template.png",
+  "rpc_url": "http://104.248.247.164:9944",
+  "explorer_url": "http://104.248.247.164:4000",
+  "metrics_endpoint": "http://104.248.247.164:9615/metrics",
+  "id": "ad39cf08-a3ba-4e4b-99c7-cff994217ed4"
+}
