@@ -1,0 +1,8 @@
+{
+  "name": "Balance",
+  "logo": "https://i.ibb.co/Y8T9YST/Whats-App-Image-2024-02-03-at-15-49-31-52d98257.png",
+  "rpc_url": "http://173.212.215.150:9944",
+  "explorer_url": "http:173.212.215.150:4000",
+  "metrics_endpoint": "http://173.212.215.150:9615/metrics",
+  "id": "1e1e1e03-a64c-4450-9fd7-cc2e6d5bb1f2"
+}
