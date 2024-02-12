@@ -1,8 +1,0 @@
-{
-  "name": "petros1",
-  "logo": "https://r.resimlink.com/PyxmatceuNdb.png",
-  "rpc_url": "http://49.12.60.228:9944",
-  "explorer_url": "http://49.12.60.228:4000",
-  "metrics_endpoint": "http://49.12.60.228:9615/metrics",
-  "id": "c3d28a65-1daa-4637-9f4e-5498e4ee9861"
-}
