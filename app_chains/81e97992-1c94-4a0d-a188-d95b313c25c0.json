@@ -1,0 +1,8 @@
+{
+  "name": "yuzuric",
+  "logo": "https://ibb.co/cv8G66C",
+  "rpc_url": "http://184.174.33.196:9944",
+  "explorer_url": "http://184.174.33.196:4000",
+  "metrics_endpoint": "http://184.174.33.196:9615/metrics",
+  "id": "81e97992-1c94-4a0d-a188-d95b313c25c0"
+}
