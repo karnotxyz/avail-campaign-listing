@@ -1,0 +1,8 @@
+{
+  "name": "Finora",
+  "logo": "https://r.resimlink.com/hc5XfHMdJs.png",
+  "rpc_url": "http://89.185.85.145:9944",
+  "explorer_url": "http://89.185.85.145:4000",
+  "metrics_endpoint": "http://89.185.85.145:9615/metrics",
+  "id": "e6bfd0f1-cd3c-47f5-936c-7ab6911c86e9"
+}
