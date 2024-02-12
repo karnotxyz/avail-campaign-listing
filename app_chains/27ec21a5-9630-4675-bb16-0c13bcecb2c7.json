@@ -1,0 +1,8 @@
+{
+  "name": "CyxenGlade",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/CyxenGlade.png",
+  "rpc_url": "http://43.153.76.204:9944",
+  "explorer_url": "http://43.153.76.204:4000",
+  "metrics_endpoint": "http://43.153.76.204:9615/metrics",
+  "id": "27ec21a5-9630-4675-bb16-0c13bcecb2c7"
+}

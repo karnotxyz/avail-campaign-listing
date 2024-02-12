@@ -1,0 +1,8 @@
+{
+  "name": "r9kzam",
+  "logo": "https://r.resimlink.com/SWGIv7Y.jpg",
+  "rpc_url": "http://95.217.6.25:9944",
+  "explorer_url": "http://95.217.6.25:4000",
+  "metrics_endpoint": "http://95.217.6.25:9615/metrics",
+  "id": "a513cd16-819d-45d3-9fbf-5a4d297996af"
+}
