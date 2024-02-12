@@ -1,0 +1,8 @@
+{
+  "name": "sorag",
+  "logo": "https://ibb.co/593gpjQ",
+  "rpc_url": "http://37.60.249.213:9944",
+  "explorer_url": "http://37.60.249.213:4000",
+  "metrics_endpoint": "http://37.60.249.213:9615/metrics",
+  "id": "853b3733-d643-4af2-ba10-0e1826408d13"
+}

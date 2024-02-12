@@ -1,0 +1,8 @@
+{
+  "name": "sawasdeekub",
+  "logo": "https://img5.pic.in.th/file/secure-sv1/Screenshot-2024-02-10-180137.png",
+  "rpc_url": "http://185.197.194.36:9944",
+  "explorer_url": "http://185.197.194.36:4000",
+  "metrics_endpoint": "http://185.197.194.36:9615/metrics",
+  "id": "3876faf7-56e4-491b-bc6e-956c4c2a83b4"
+}
