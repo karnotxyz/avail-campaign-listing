@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://assets.ggwp.id/2020/02/fakta-madara-uchiha-639x360.png",
+  "rpc_url": "http://46.250.235.51:9944",
+  "explorer_url": "http://46.250.235.51/:4000",
+  "metrics_endpoint": "http://46.250.235.51:9615/metrics",
+  "id": "5ab24ff5-e03c-4711-8357-24d6d913d0b8"
+}
