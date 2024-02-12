@@ -1,0 +1,8 @@
+{
+    "name":"fengyao",
+    "logo":"https://raw.githubusercontent.com/frankienguyen13/NFTMinting/main/vault.png",
+    "rpc_url":"http://43.129.185.84:9944",
+    "explorer_url":"http://43.129.185.84:4000",
+    "metrics_endpoint":"http://43.129.185.84:9615/metrics",
+    "id":"2fb48d3c-7e96-4d83-8bb4-dcff249b5576"
+}
