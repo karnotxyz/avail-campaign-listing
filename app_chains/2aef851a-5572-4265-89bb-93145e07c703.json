@@ -1,0 +1,8 @@
+{
+  "name": "ekmek",
+  "logo": "https://placehold.co/400x400.png?text=EKMEK",
+  "rpc_url": "http://38.242.130.95:9944",
+  "explorer_url": "http://38.242.130.95:4000",
+  "metrics_endpoint": "http://38.242.130.95:9615/metrics",
+  "id": "2aef851a-5572-4265-89bb-93145e07c703"
+}
