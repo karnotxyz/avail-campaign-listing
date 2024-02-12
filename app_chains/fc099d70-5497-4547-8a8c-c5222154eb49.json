@@ -1,0 +1,8 @@
+{
+  "name": "ttkklei",
+  "logo": "https://i.ibb.co/hXjTNKc/20414-7-goku-transparent-picture.png",
+  "rpc_url": "158.220.99.172:9944",
+  "explorer_url": "http://158.220.99.172:4000",
+  "metrics_endpoint": "http://158.220.99.172:9615/metrics",
+  "id": "fc099d70-5497-4547-8a8c-c5222154eb49"
+}
