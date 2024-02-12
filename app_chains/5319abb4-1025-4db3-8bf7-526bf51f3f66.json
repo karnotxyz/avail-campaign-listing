@@ -1,0 +1,8 @@
+{
+  "name": "ArnoldCNS",
+  "logo": "https://i.imgur.com/mWepeZm.png",
+  "rpc_url": "http://173.212.241.95:9944",
+  "explorer_url": "http://173.212.241.95:4000",
+  "metrics_endpoint": "http://173.212.241.95:9615/metrics",
+  "id": "5319abb4-1025-4db3-8bf7-526bf51f3f66"
+}
