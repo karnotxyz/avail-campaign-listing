@@ -1,0 +1,8 @@
+{
+  "name": "rotijahemerah",
+  "logo": "https://i.ibb.co/t4ZZ37F/madara-sarinem.png",
+  "rpc_url": "http://31.220.89.96:9944",
+  "explorer_url": "http://31.220.89.96:4000",
+  "metrics_endpoint": "http://31.220.89.96:9615/metrics",
+  "id": "3c0116f4-cd7a-4251-aa64-69187d1edeac"
+}
