@@ -1,0 +1,8 @@
+{
+  "name": "Nelson",
+  "logo": "https://i.ibb.co/ZMB2mfy/khdijk.png",
+  "rpc_url": "http://95.216.196.154:9944",
+  "explorer_url": "http://95.216.196.154:4000",
+  "metrics_endpoint": "http://95.216.196.154:9615/metrics",
+  "id": "d685aa08-9279-4053-ab28-c5c80e6e2773"
+}
