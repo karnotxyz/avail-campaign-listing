@@ -1,0 +1,8 @@
+{
+  "name": "baolong",
+  "logo": "https://imgur.com/tSVGRAE.png",
+  "rpc_url": "http://43.157.6.115:9944",
+  "explorer_url": "http://43.157.6.115:4000",
+  "metrics_endpoint": "http://43.157.6.115:9615/metrics",
+  "id": "ef7a27ea-454f-40ed-972e-12fee5386f0f"
+}
