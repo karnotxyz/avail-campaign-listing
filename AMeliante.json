@@ -1,0 +1,8 @@
+{
+  "name": "AMeliante",
+  "logo": "https://r.resimlink.com/3cldKVJBZ2.png",
+  "rpc_url": "http://5.189.164.9:9944",
+  "explorer_url": "http://5.189.164.9:4000",
+  "metrics_endpoint": "http://5.189.164.9:9615",
+  "id": "954136aa-3541-42b4-ba6e-7e57b2cbb31b"
+}
