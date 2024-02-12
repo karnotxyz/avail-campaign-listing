@@ -1,0 +1,8 @@
+{
+  "name": "parisam",
+  "logo": "https://r.resimlink.com/hYr31b.png",
+  "rpc_url": "http://167.233.5.243:9944",
+  "explorer_url": "http://167.233.5.243:4000",
+  "metrics_endpoint": "http://167.233.5.243:9615/metrics",
+  "id": "af3710af-385b-4cf1-8107-70a624dbd69e"
+}

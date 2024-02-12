@@ -1,0 +1,8 @@
+{
+  "name": "damoncrpnode",
+  "logo": "https://r.resimlink.com/EcAVgxb1kYW5.jpg",
+  "rpc_url": "http://134.209.229.70:9944",
+  "explorer_url": "http://134.209.229.70:4000",
+  "metrics_endpoint": "http://134.209.229.70:9615/metrics",
+  "id": "a064ac58-61c8-4fcc-baa1-74eb3cad672b"
+}
