@@ -1,0 +1,8 @@
+{
+  "name": "st_pick1es",
+  "logo": "https://ibb.co/52QNp98",
+  "rpc_url": "https://144.91.111.252:9944",
+  "explorer_url": "https://144.91.111.252:4000",
+  "metrics_endpoint": "https://144.91.111.252:9615/metrics",
+  "id": "bab4344b-8b14-439a-8b93-9b3e88ddce05"
+}
