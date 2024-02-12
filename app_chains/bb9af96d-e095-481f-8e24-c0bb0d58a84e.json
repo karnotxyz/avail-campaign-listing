@@ -1,0 +1,8 @@
+{
+  "name": "mandleer",
+  "logo": "https://i.imgur.com/rPU51J6.png",
+  "rpc_url": "http://43.157.98.148:9944",
+  "explorer_url": "http://43.157.98.148:4000",
+  "metrics_endpoint": "http://43.157.98.148:9615/metrics",
+  "id": "bb9af96d-e095-481f-8e24-c0bb0d58a84e"
+}

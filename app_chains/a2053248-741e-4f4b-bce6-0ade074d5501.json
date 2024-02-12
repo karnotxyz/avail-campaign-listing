@@ -1,0 +1,8 @@
+{
+  "name": "arean",
+  "logo": "https://i.ibb.co/YPrVSqB/Safeimagekit-resized-img.png",
+  "rpc_url": "http://188.166.252.118:9944",
+  "explorer_url": "http://188.166.252.118:4000",
+  "metrics_endpoint": "http://188.166.252.118:9615/metrics",
+  "id": "a2053248-741e-4f4b-bce6-0ade074d5501"
+}
