@@ -1,6 +1,6 @@
 {
   "name": "Rocca",
-  "logo": "Your_Logo_URL",
+  "logo": "https://placehold.co/400x400/black/red?text=dkdsosdkso",
   "rpc_url": "http://37.60.226.16:9944",
   "explorer_url": "http://37.60.226.16:4000",
   "metrics_endpoint": "http://37.60.226.16:9615/metrics",
