@@ -1,0 +1,8 @@
+{
+  "name": "aokitt",
+  "logo": "https://imgur.com/gallery/HbTjgjz",
+  "rpc_url": "http://31.220.77.195:9944",
+  "explorer_url": "http://31.220.77.195:4000",
+  "metrics_endpoint": "http://31.220.77.195:9615/metrics",
+  "id": "a8358ec6-3422-4687-80c6-7db1e06031ce"
+}
