@@ -1,0 +1,8 @@
+{
+  "name": "vlsss",
+  "logo": "https://r.resimlink.com/NYmE5yXq.jpg", 
+  "rpc_url": "http://SUNUCU IP ADRESIN:9944"
+  "explorer_url": "http://217.76.59.113:4000"
+  "metrics_endpoint": "http://217.76.59.113:9615/metrics",
+  "id": "d9e66103-12cf-44c3-9aac-91441f45d66a"
+}
