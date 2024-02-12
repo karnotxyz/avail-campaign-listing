@@ -1,0 +1,8 @@
+{
+  "name": "0xeop",
+  "logo": "https://raw.githubusercontent.com/34btc66/eopnode/main/logo.png",
+  "rpc_url": "http://173.249.4.135:9944",
+  "explorer_url": "http://173.249.4.135:4000",
+  "metrics_endpoint": "http://173.249.4.135:9615/metrics",
+  "id": "1a01dc13-384d-45be-a7d6-1b033bc49681"
+}
