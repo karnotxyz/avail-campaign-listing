@@ -1,0 +1,8 @@
+{
+  "name": "alysanyan",
+  "logo": "https://i.ibb.co.com/qstsvmj/2dfd1d12.jpg",
+  "rpc_url": "http://148.251.11.99:9944",
+  "explorer_url": "http://148.251.11.99:4000/",
+  "metrics_endpoint": "http://148.251.11.99:9615/metrics",
+  "id": "c93103ab-2709-430f-a988-9adc6b0ef587"
+}
