@@ -1,0 +1,8 @@
+{
+  "name": "mrfti",
+  "logo": "https://imgbox.com/HsUS4Hhb",
+  "rpc_url": "http://49.12.57.43:9944",
+  "explorer_url": "http://49.12.57.43:4000",
+  "metrics_endpoint": "http://49.12.57.43:9615/metrics",
+  "id": "d7e1f90a-d614-4a14-b34e-c003b0ac7dd3"
+}
