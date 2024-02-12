@@ -1,0 +1,8 @@
+{
+    "name": "tarik",
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://185.250.37.33",
+    "explorer_url": "http://185.250.37.33:4000",
+    "metrics_endpoint": "http://185.250.37.33:9615/metrics",
+    "id": "d532a19d-c229-4c36-96ab-a1f647b5d40f"
+  }
