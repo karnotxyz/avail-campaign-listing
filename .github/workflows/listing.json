@@ -1,0 +1,8 @@
+{
+  "name": "chocobo-madara",
+  "logo": "https://im.ge/i/cliJb9",
+  "rpc_url": "http://219.94.251.233:9944/",
+  "explorer_url": "http://219.94.251.233/4000/",
+  "metrics_endpoint": "http://219.94.251.233:9615/",
+  "id": "e47733b5-0f8e-4b98-b592-f20153757658"
+}
