@@ -1,0 +1,8 @@
+{
+  "name": "SinA",
+  "logo": "https://r.resimlink.com/1VdyLMTPKIq.png",
+  "rpc_url": "http://49.12.60.34:9944",
+  "explorer_url": "http://49.12.60.34:4000",
+  "metrics_endpoint": "http://49.12.60.34:9615/metrics",
+  "id": "013ddf9a-ffc2-46f4-bdfa-6add31022845"
+}

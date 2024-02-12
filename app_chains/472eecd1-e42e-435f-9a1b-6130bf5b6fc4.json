@@ -1,0 +1,8 @@
+{
+  "name": "viserion",
+  "logo": "https://r.resimlink.com/kw9lWFv_j1.png",
+  "rpc_url": "http://167.86.86.34:9944",
+  "explorer_url": "http://167.86.86.34:4000",
+  "metrics_endpoint": "http://167.86.86.34:9615/metrics",
+  "id": "472eecd1-e42e-435f-9a1b-6130bf5b6fc4"
+}

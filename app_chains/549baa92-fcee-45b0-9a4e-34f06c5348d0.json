@@ -1,0 +1,8 @@
+{
+  "name": "jojojo",
+  "logo": "https://r.resimlink.com/NsrxTbQBFE.png",
+  "rpc_url": "http://159.69.239.29:9944",
+  "explorer_url": "http://159.69.239.29:4000",
+  "metrics_endpoint": "http://159.69.239.29:9615/metrics",
+  "id": "549baa92-fcee-45b0-9a4e-34f06c5348d0"
+}

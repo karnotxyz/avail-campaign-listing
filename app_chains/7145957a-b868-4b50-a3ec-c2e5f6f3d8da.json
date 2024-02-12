@@ -1,0 +1,8 @@
+{
+  "name": "cumareis",
+  "logo": "https://i.imgur.com/CRS6aMh.png",
+  "rpc_url": "http://64.227.105.86:9944",
+  "explorer_url": "http://64.227.105.86:4000",
+  "metrics_endpoint": "http://64.227.105.86:9615/metrics",
+  "id": "7145957a-b868-4b50-a3ec-c2e5f6f3d8da"
+}
