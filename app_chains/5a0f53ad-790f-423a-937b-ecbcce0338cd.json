@@ -1,0 +1,8 @@
+{
+  "name": "ArisCuy",
+  "logo": "https://i.ibb.co/vqPdymS/dragon-removebg-preview.png",
+  "rpc_url": "http://5.189.184.106:9944",
+  "explorer_url": "http://5.189.184.106:4000",
+  "metrics_endpoint": "http://5.189.184.106:9615/metrics",
+  "id": "5a0f53ad-790f-423a-937b-ecbcce0338cd"
+}
