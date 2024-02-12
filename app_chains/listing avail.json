@@ -1,8 +1,8 @@
 {
-    "name": "brgnode",
+    "name": "Barnode",
     "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/121767501/303851551-2a653023-00c7-4791-b476-be2ea1d9b871.png",
-    "rpc_url": "https://85.192.40.188:9944",
-    "explorer_url": "https://85.192.40.188:22",
-    "metrics_endpoint": "https://85.192.40.188:9615",
+    "rpc_url": "https://89.208.105.133:9944",
+    "explorer_url": "https://89.208.105.133:4000",
+    "metrics_endpoint": "https://89.208.105.133:9615",
     "id": "24124144-403f-448b-8bb3-2574bf6760f4"
   }
