@@ -1,0 +1,8 @@
+{
+  "name": "LandB",
+  "logo": "https://i.imgur.com/e7tmxIE.jpeg",
+  "rpc_url": "http://45.85.147.157:9944",
+  "explorer_url": "http://45.85.147.157:4000",
+  "metrics_endpoint": "http://45.85.147.157:9615/metrics",
+  "id": "fc09eb1a-cf3d-4d07-94d3-4aa642cb1b5d"
+}
