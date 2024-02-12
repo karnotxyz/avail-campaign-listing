@@ -1,0 +1,8 @@
+{
+  "name": "polytas",
+  "logo": "Your_Logo_URL",
+  "rpc_url": "http://155.133.27.54:9944",
+  "explorer_url": "http://155.133.27.54:4000",
+  "metrics_endpoint": "http://155.133.27.54:9615/metrics",
+  "id": "53703064-c16c-464a-8f09-83b4bcc2fa40"
+}
