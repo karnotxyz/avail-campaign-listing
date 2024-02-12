@@ -1,0 +1,8 @@
+{
+  "name": "zenith",
+  "logo": "https://r.resimlink.com/_bE-JTK93NP.png",
+  "rpc_url": "http://144.91.97.70:9944",
+  "explorer_url": "http://144.91.97.70:4000",
+  "metrics_endpoint": "http://144.91.97.70:9615/metrics",
+  "id": "9d33afa3-532f-4931-a48a-d3d5f062e048"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xbitz",
+  "logo": "https://i.ibb.co/0MBSh35/Whats-App-Image-2023-12-05-at-16-40-57.png",
+  "rpc_url": "http://173.249.46.58:9944",
+  "explorer_url": "http://173.249.46.58:4000",
+  "metrics_endpoint": "http://173.249.46.58:9615/metrics",
+  "id": "5e1b8b43-ff4f-45bb-a8fe-7814fe5a03bc"
+}

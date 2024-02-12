@@ -1,0 +1,8 @@
+{
+  "name": "aranella",
+  "logo": "https://i.ibb.co/G9bcwdf/400x400.jpg",
+  "rpc_url": "http://207.180.221.246:9944",
+  "explorer_url": "http://207.180.221.246:4000",
+  "metrics_endpoint": "http://207.180.221.246:9615/metrics",
+  "id": "ea7df555-1c40-477c-b7f2-453dfdff8950"
+}
