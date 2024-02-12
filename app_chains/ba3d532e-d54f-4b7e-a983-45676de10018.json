@@ -1,5 +1,6 @@
 { 
-  "nama" :  "adamalr" ,  
+  "nama" :  "adamalr" , 
+  "logo" :  "" , 
   "rpc_url" :  "http://82.208.20.57:9944/" , 
   "explorer_url" :  "http://82.208.20.57:4000/" , 
   "metrics_endpoint" :  "http://82.208.20.57:9615/metrics/" , 
