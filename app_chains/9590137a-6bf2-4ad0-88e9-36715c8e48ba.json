@@ -1,9 +1,0 @@
-{
-  "name": "folica",
-  "logo": "https://r.resimlink.com/fa5WZLoQA6.png",
-  "rpc_url": "http://45.14.224.174:9944",
-  "explorer_url": "http://45.14.224.174:4000",
-  "metrics_endpoint": "http://45.14.224.174:9615/metrics",
-
-  "id": "9590137a-6bf2-4ad0-88e9-36715c8e48ba"
-}
