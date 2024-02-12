@@ -1,0 +1,8 @@
+{
+  "name": "ferdimanaa",
+  "logo": "https://r.resimlink.com/Rk4hWcfuV7a.png",
+  "rpc_url": "http://128.199.219.107:9944",
+  "explorer_url": "http://128.199.219.107:4000",
+  "metrics_endpoint": "http://128.199.219.107:9615",
+  "id": "0ad84f21-71cd-4fca-a598-4b606c1d4e60"
+}
