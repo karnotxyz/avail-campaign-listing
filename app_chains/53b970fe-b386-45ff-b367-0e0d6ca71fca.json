@@ -1,0 +1,8 @@
+{
+  "name": "darya",
+  "logo": "https://r.resimlink.com/SitAaTyJqP.png",
+  "rpc_url": "http://65.108.62.140:9944",
+  "explorer_url": "http://65.108.62.140:4000",
+  "metrics_endpoint": "http://65.108.62.140:9615/metrics",
+  "id": "53b970fe-b386-45ff-b367-0e0d6ca71fca"
+}
