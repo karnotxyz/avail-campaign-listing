@@ -1,0 +1,8 @@
+{
+  "name": "Unlimitedwalliy",
+  "logo": "https://i.ibb.co/Q6YYM96/Unlimitedwalliy.jpg",
+  "rpc_url": "http://149.102.158.17:9944",
+  "explorer_url": "http://149.102.158.17:4000",
+  "metrics_endpoint": "http://149.102.158.17:9615/metrics",
+  "id": "e98c6238-83e5-4927-b776-bcabae910f60"
+}
