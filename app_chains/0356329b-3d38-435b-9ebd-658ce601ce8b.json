@@ -1,0 +1,8 @@
+{
+  "name": "emenes",
+  "logo": "https://i.ibb.co/DRLRRb0/270849470-2105519306281775-567789311317289289-n.jpg",
+  "rpc_url": "http://159.223.201.2:9944",
+  "explorer_url": "http://159.223.201.2:4000",
+  "metrics_endpoint": "http://159.223.201.2:9615/metrics",
+  "id": "0356329b-3d38-435b-9ebd-658ce601ce8b"
+}

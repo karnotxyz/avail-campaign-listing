@@ -1,0 +1,8 @@
+{
+  "name": "amytis",
+  "logo": "https://r.resimlink.com/OdISNv.png",
+  "rpc_url": "http://144.91.116.134:9944",
+  "explorer_url": "http://144.91.116.134:4000",
+  "metrics_endpoint": "http://144.91.116.134:9615/metrics",
+  "id": "d0cbd5f8-e3b2-4020-a031-9e64e1c84bb5"
+}
