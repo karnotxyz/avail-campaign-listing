@@ -1,0 +1,8 @@
+{
+  "name": "kaplanmadara",
+  "logo": "https://r.resimlink.com/q1ByHr.jpg",
+  "rpc_url": "http://45.67.216.196:9944",
+  "explorer_url": "http://45.67.216.196:4000",
+  "metrics_endpoint": "http://45.67.216.196:9615/metrics",
+  "id": "2da6b58c-da94-4ac6-bbb6-2a9fe3ec532e"
+}
