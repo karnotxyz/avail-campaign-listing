@@ -1,0 +1,8 @@
+{
+  "name": “Avail,
+  "logo": "https://r.resimlink.com/xliJSZuzW.png",
+  "rpc_url": "http://178.62.200.244:9944",
+  "explorer_url": "http://178.62.200.244:4000",
+  "metrics_endpoint": "http://178.62.200.244:9615",
+  "id": "b490f78f-169b-4922-8508-3803d0c6efc9"
+}
