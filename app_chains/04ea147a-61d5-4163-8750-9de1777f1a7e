@@ -1,0 +1,8 @@
+{
+  "name": "tosto",
+  "logo": "https://imgur.com/a/pz9uup5",
+  "rpc_url": "http://172.24.110.173:9944",
+  "explorer_url": "http://172.24.110.173:4000",
+  "metrics_endpoint": "http://172.24.110.173:9615/metrics",
+  "id": "04ea147a-61d5-4163-8750-9de1777f1a7e"
+}
