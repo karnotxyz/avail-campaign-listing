@@ -1,0 +1,8 @@
+  {
+    "name": "success",
+    "logo": "https://r.resimlink.com/lavs_gbF.jpg",
+    "rpc_url": "http://103.75.199.225:9944",
+    "explorer_url": "http://103.75.199.225:4000",
+    "metrics_endpoint": "http://103.75.199.225:9615/metrics", 
+    "id": "0e950709-b2c3-4f15-bcdb-8362bf6a8234"
+  }
