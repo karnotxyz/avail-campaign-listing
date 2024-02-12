@@ -1,0 +1,8 @@
+{
+  "name": "morph",
+  "logo": "https://i.ibb.co/cQxRv2y/photo-2024-02-10-19-23-54.png",
+  "rpc_url": "http://38.242.236.137:9944",
+  "explorer_url": "http://38.242.236.137:4000",
+  "metrics_endpoint": "http://38.242.236.137:9615/metrics",
+  "id": "f1a54415-faa9-4c6e-b8a8-f5ac6562adf2"
+}
