@@ -1,0 +1,8 @@
+{
+  "name": "cosmospanda",
+  "logo": "https://i.imgur.com/JpsY3Ol.jpg",
+  "rpc_url": "http://34.105.89.223:9944",
+  "explorer_url": "http://34.105.89.223:4000",
+  "metrics_endpoint": "http://34.105.89.223:9615/metrics",
+  "id": "ea1611e9-974c-4f63-bf60-58f893a8cfe9"
+}
