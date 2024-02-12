@@ -1,0 +1,8 @@
+{
+  "name": "Mustafa",
+  "logo": "https://i.ibb.co/7vWhqXy/indir.png",
+  "rpc_url": "http://143.198.111.14:9944",
+  "explorer_url": "http://143.198.111.14:4000",
+  "metrics_endpoint": "http://143.198.111.14:9615/metrics",
+  "id": "012f2efb-db08-47eb-8914-2d74a264c12e"
+}
