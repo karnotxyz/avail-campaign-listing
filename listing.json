@@ -1,10 +1,10 @@
 [
   {
-    "name": "my_app_chain",
-    "logo": "https://placehold.co/400x400",
-    "rpc_url": "https://rpc.myappchain.xyz",
-    "explorer_url": "https://explorer.myappchain.xyz",
-    "metrics_endpoint": "https://metrics.myappchain.xyz",
-    "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+    "name": "Macull",
+    "logo": "https://imgur.com/j8kfwJT",
+    "rpc_url": "http://20.27.214.102:994",
+    "explorer_url": "http://20.27.214.102:4000",
+    "metrics_endpoint": "http://20.27.214.102:9165/metrics",
+    "id": "7c2bc03a-4941-45b8-871d-b2a939bb54ff"
   }
 ]
