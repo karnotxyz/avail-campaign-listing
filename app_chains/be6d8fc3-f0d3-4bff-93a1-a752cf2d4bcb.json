@@ -1,0 +1,8 @@
+{
+  "name": "survivalbo",
+  "logo": "http://43.156.38.87/logo.jpg",
+  "rpc_url": "http://43.156.38.87:9944",
+  "explorer_url": "http://43.156.38.87:4000",
+  "metrics_endpoint": "http://43.156.38.87:9615/metrics",
+  "id": "be6d8fc3-f0d3-4bff-93a1-a752cf2d4bcb"
+}
