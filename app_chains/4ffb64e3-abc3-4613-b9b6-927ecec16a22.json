@@ -1,0 +1,8 @@
+{
+  "name": "nbdydx",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://45.130.20.116:9944",
+  "explorer_url": "http://45.130.20.116:4000",
+  "metrics_endpoint": "http://45.130.20.116:9615/metrics",
+  "id": "4ffb64e3-abc3-4613-b9b6-927ecec16a22"
+}
