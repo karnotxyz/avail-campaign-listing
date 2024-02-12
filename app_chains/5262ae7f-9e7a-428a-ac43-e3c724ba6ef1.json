@@ -1,0 +1,8 @@
+{
+  "name": "Krampp",
+  "logo": "https://img5.pic.in.th/file/secure-sv1/IMG_7082-removebg-preview.png",
+  "rpc_url": "http://158.220.97.81:9944",
+  "explorer_url": "http://158.220.97.81:4000",
+  "metrics_endpoint": "http://158.220.97.81:9615/metrics",
+  "id": "5262ae7f-9e7a-428a-ac43-e3c724ba6ef1"
+}
