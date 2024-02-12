@@ -1,0 +1,8 @@
+{
+  "name": "AvailKonto",
+  "logo": "https://ibb.co/yhRYyNG",
+  "rpc_url": "http://164.68.102.90:9944",
+  "explorer_url": "http://164.68.102.90:4000",
+  "metrics_endpoint": "http://164.68.102.90:9615/metrics",
+  "id": "23a05f97-2fb7-4a26-8192-ac76075e3f43"
+}
