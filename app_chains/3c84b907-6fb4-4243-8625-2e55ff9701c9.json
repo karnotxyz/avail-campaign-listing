@@ -1,0 +1,8 @@
+{
+  "name": "lagom",
+  "logo": "https://r.resimlink.com/XsDZi3op1.jpg",
+  "rpc_url": "http://95.216.185.163:9944",
+  "explorer_url": "http://95.216.185.163:4000",
+  "metrics_endpoint": "http://95.216.185.163:9615/metrics",
+  "id": "3c84b907-6fb4-4243-8625-2e55ff9701c9"
+}
