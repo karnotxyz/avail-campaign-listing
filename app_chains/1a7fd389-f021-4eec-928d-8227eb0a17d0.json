@@ -1,0 +1,8 @@
+{
+  "name": "fzavail",
+  "logo": "https://r.resimlink.com/U2IqoDv38.jpg",
+  "rpc_url": "http://49.13.136.252:9944",
+  "explorer_url": "http://49.13.136.252:4000",
+  "metrics_endpoint": "http://49.13.136.252:9615/metrics",
+  "id": "1a7fd389-f021-4eec-928d-8227eb0a17d0"
+}
