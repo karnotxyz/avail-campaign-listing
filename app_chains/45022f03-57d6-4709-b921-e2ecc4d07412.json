@@ -1,0 +1,8 @@
+{
+  "name": "arardin",
+  "logo": "https://imgur.com/a/pVyTDWS",
+  "rpc_url": "http://65.108.252.127:9944",
+  "explorer_url": "http://65.108.252.127:4000",
+  "metrics_endpoint": "http://65.108.252.127:9615/metrics",
+  "id": "45022f03-57d6-4709-b921-e2ecc4d07412"
+}

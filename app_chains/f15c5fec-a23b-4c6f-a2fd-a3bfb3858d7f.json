@@ -1,0 +1,8 @@
+{
+  "name": "Zerolight",
+  "logo": "https://i.imgur.com/kyZbSag.png",
+  "rpc_url": "http://116.203.135.229:9944",
+  "explorer_url": "http://116.203.135.229:4000",
+  "metrics_endpoint": "http://116.203.135.229:9615/metrics",
+  "id": "f15c5fec-a23b-4c6f-a2fd-a3bfb3858d7f"
+}
