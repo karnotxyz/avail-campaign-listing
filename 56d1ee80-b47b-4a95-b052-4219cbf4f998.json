@@ -1,6 +1,6 @@
 {
   "name": "testnetfaucet",
-  "logo": "https://ibb.co/fN28kRd",
+  "logo": "https://ibb.co/swY5vZN",
   "rpc_url": "http://147.182.192.40:9944",
   "explorer_url": "http://147.182.192.40:4000",
   "metrics_endpoint": "http://147.182.192.40:9615/metrics",
