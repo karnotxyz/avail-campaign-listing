@@ -1,0 +1,8 @@
+{
+  "name": "nsthic",
+  "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+  "rpc_url": "http://20.255.60.175:9944",
+  "explorer_url": "http://20.255.60.175:4000",
+  "metrics_endpoint": "http://20.255.60.175:9615/metrics",
+  "id": "3f524539-a98b-4c3b-89a6-81a9ef7725f0"
+}
