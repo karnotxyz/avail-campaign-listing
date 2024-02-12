@@ -1,0 +1,8 @@
+{
+  "name": "Raghav",
+  "logo": "https://i.ibb.co/Hg6gHvt/cow.jpg",
+  "rpc_url": "http://161.97.83.15:9944",
+  "explorer_url": "http://161.97.83.15:4000",
+  "metrics_endpoint": "http://161.97.83.15:9615/metrics",
+  "id": "b57becda-cc0f-44cd-a643-529ac2b79acd"
+}
