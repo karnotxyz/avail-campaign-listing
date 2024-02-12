@@ -1,0 +1,8 @@
+{
+  "name": "dewberry",
+  "logo": "https://i.imgur.com/2inyVmu.jpg",
+  "rpc_url": "http://173.212.206.16:9944",
+  "explorer_url": "http://173.212.206.16:4000",
+  "metrics_endpoint": "http://173.212.206.16:9615/metrics",
+  "id": "24df5b8d-6bf1-47b9-b59b-1956cb882f3e"
+}
