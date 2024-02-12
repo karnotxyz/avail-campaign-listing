@@ -1,8 +1,8 @@
 {
-  "name": "coinsspor",
-  "logo": "https://r.resimlink.com/4ZYOMLIi2a.png",
-  "rpc_url": "http://135.181.205.104:9944",
-  "explorer_url": "http://135.181.205.104:4000",
-  "metrics_endpoint": "http://135.181.205.104:9615",
-  "id": "5c5fcb1b-2afb-483c-a2eb-36a1a926c061"
+"name": "coinsspor",
+"logo": "https://r.resimlink.com/4ZYOMLIi2a.png",
+"rpc_url": "http://135.181.205.104:9944",
+"explorer_url": "http://135.181.205.104:4000",
+"metrics_endpoint": "http://135.181.205.104:9615",
+"id": "5c5fcb1b-2afb-483c-a2eb-36a1a926c061"
 }
