@@ -1,0 +1,8 @@
+{
+  "name": "uponoccasi",
+  "logo": "http://43.128.86.72/logo.jpg",
+  "rpc_url": "http://43.128.86.72:9944",
+  "explorer_url": "http://43.128.86.72:4000",
+  "metrics_endpoint": "http://43.128.86.72:9615/metrics",
+  "id": "b171b3f3-fe3f-4531-b6ed-5579d0663044"
+}

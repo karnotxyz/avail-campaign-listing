@@ -1,0 +1,8 @@
+{
+  "name": "rhymeexpo",
+  "logo": "http://43.153.209.231/logo.jpg",
+  "rpc_url": "http://43.153.209.231:9944",
+  "explorer_url": "http://43.153.209.231:4000",
+  "metrics_endpoint": "http://43.153.209.231:9615/metrics",
+  "id": "39a3e985-75a3-4087-920f-248e9e2b47c8"
+}
