@@ -1,0 +1,8 @@
+{
+  "name": "salovio",
+  "logo": "https://r.resimlink.com/3CTJ7avV-58.png",
+  "rpc_url": "http://38.242.137.223:9944",
+  "explorer_url": "http://38.242.137.223:4000",
+  "metrics_endpoint": "http://38.242.137.223:9615/metrics",
+  "id": "fd423019-4e06-4bad-b7af-a4eae8b9ced3"
+}
