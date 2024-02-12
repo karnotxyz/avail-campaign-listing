@@ -1,0 +1,8 @@
+{
+  "name": "matmatmatu",
+  "logo": "https://i.ibb.co/fnjr2yG/img5.png",
+  "rpc_url": "http://43.131.251.88:9944",
+  "explorer_url": "http://43.131.251.88:4000",
+  "metrics_endpoint": "http://43.131.251.88:9615/metrics",
+  "id": "423a9300-47c3-4539-8675-1766565bf8a2"
+}

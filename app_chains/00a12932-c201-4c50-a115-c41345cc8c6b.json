@@ -1,0 +1,8 @@
+{
+  "name": "gils",
+  "logo": "https://gils.dev/logo/logo.svg",
+  "rpc_url": "http://5.78.80.12:9944",
+  "explorer_url": "http://5.78.80.12:4000",
+  "metrics_endpoint": "http://5.78.80.12:9615/metrics",
+  "id": "00a12932-c201-4c50-a115-c41345cc8c6b"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "emre",
+  "logo": "https://r.resimlink.com/Gqdz2oJA.png",
+  "rpc_url": "http://193.164.5.19:9944",
+  "explorer_url": "http://193.164.5.19:4000",
+  "metrics_endpoint": "http://193.164.5.19:9615/metrics",
+  "id": "d54ac5bc-296f-464c-b489-e9a7ee5d8901"
+}

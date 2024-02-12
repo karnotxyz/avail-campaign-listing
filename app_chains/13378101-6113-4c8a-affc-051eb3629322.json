@@ -1,0 +1,8 @@
+{
+  "name": "nastybit",
+  "logo": "https://i.ibb.co/QbVcm0p/cipmail.jpg",
+  "rpc_url": "http://161.97.67.143:9944",
+  "explorer_url": "http://161.97.67.143:4000",
+  "metrics_endpoint": "http://161.97.67.143:9615/metrics",
+  "id": "13378101-6113-4c8a-affc-051eb3629322"
+}

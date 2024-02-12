@@ -1,0 +1,8 @@
+{
+  "name": "goodluck",
+  "logo": "http://43.155.155.78/static/img/goodluck.png",
+  "rpc_url": "http://43.155.155.78:9944",
+  "explorer_url": "http://43.155.155.78:4000",
+  "metrics_endpoint": "http://43.155.155.78:9615/metrics",
+  "id": "5a9b3f91-a0bb-47e5-ba10-f5c85aa13db6"
+}
