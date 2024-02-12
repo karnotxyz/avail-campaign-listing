@@ -1,0 +1,8 @@
+{
+  "name": "definode",
+  "logo": "https://add.pics/images/2024/02/12/resim3a755c55abb5d9a1.png",
+  "rpc_url": "http://31.220.84.168:9944",
+  "explorer_url": "http://31.220.84.168:4000",
+  "metrics_endpoint": "http://31.220.84.168:9615/metrics",
+  "id": "78a58677-2d21-40f5-b3e9-5eb200911bae"
+}
