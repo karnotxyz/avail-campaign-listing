@@ -1,8 +1,0 @@
-{
-  "name": "billseven",
-  "logo": "https://pbs.twimg.com/profile_images/1696483917682163713/U5stKSFM_400x400.jpg",
-  "rpc_url": "http://103.166.228.151:9944",
-  "explorer_url": "http://103.166.228.151:4000",
-  "metrics_endpoint": "http://103.166.228.151:9615/metrics",
-  "id": "6a91cb7a-f3a2-40f7-8c13-630ab30cb5f6"
-}
