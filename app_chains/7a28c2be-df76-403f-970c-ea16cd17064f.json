@@ -1,0 +1,8 @@
+{
+  "name": "dasha",
+  "logo": "https://https://ibb.co/QdRyyK3",
+  "rpc_url": "http://185.81.30.178:9944",
+  "explorer_url": "http://185.81.30.178:4000",
+  "metrics_endpoint": "http://185.81.30.178/metrics",
+  "id": "7a28c2be-df76-403f-970c-ea16cd17064f"
+}
