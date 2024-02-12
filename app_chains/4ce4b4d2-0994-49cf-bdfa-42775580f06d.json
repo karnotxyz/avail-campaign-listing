@@ -1,0 +1,8 @@
+{
+  "name": "bangloe",
+  "logo": "https://www.mongabay.co.id/wp-content/uploads/2023/06/kucing-rumahan-unsplash-768x512.jpeg",
+  "rpc_url": "http://174.138.31.192:9944",
+  "explorer_url": "http://174.138.31.192:4000",
+  "metrics_endpoint": "http://174.138.31.192:9615/metrics",
+  "id": "4ce4b4d2-0994-49cf-bdfa-42775580f06d"
+}
