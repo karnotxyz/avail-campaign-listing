@@ -1,0 +1,8 @@
+{
+  "name": "ZensBL",
+  "logo": "https://xenhub.io/logo/zlogo.png",
+  "rpc_url": "http://192.227.220.37:9944",
+  "explorer_url": "http://192.227.220.37:4000",
+  "metrics_endpoint": "http://192.227.220.37:9615/metrics",
+  "id": "1593"
+}
