@@ -1,0 +1,8 @@
+{
+  "name": "ubuntu",
+  "logo": "http://https://ibb.co/742f6zs",
+  "rpc_url": "http://206.189.11.166:9944",
+  "explorer_url": "http://206.189.11.166:4000",
+  "metrics_endpoint": "http://206.189.11.166:9615/metrics",
+  "id": "fedc25b3-adfe-43d7-a190-53f530749732"
+}
