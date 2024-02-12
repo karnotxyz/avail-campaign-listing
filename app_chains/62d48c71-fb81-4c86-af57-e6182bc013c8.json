@@ -1,0 +1,8 @@
+{
+  "name": "monyaaa1",
+  "logo": "https://imgur.com/OaoV3aW",
+  "rpc_url": "http://165.22.32.130:9644",
+  "explorer_url": "http://165.22.32.130:4000",
+  "metrics_endpoint": "http://165.22.32.130:9615/metrics",
+  "id": "62d48c71-fb81-4c86-af57-e6182bc013c8"
+}
