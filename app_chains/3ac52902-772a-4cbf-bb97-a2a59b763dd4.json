@@ -1,0 +1,8 @@
+{
+  "name": "Volder",
+  "logo": "",
+  "rpc_url": "http://95.217.207.170:9944",
+  "explorer_url": "http://95.217.207.170:4000",
+  "metrics_endpoint": "http://95.217.207.170:9615/metrics",
+  "id": "3ac52902-772a-4cbf-bb97-a2a59b763dd4"
+}
