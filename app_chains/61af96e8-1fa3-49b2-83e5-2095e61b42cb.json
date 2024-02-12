@@ -1,0 +1,8 @@
+{
+  "name": "Charnode",
+  "logo": "https://i.ibb.co/8j8bQqq/charnodelogo.jpg", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "rpc_url": "http://161.35.89.40:9944",
+  "explorer_url": "http://161.35.89.40:4000",
+  "metrics_endpoint": "http://161.35.89.40:9615",
+  "id": "61af96e8-1fa3-49b2-83e5-2095e61b42cb"
+}
