@@ -1,0 +1,8 @@
+{
+  "name": "gsever",
+  "logo": "https://r.resimlink.com/7Jr86scL.png",
+  "rpc_url": "http://167.172.44.120:9944",
+  "explorer_url": "http://167.172.44.120:4000",
+  "metrics_endpoint": "http://167.172.44.120:9615/metrics",
+  "id": "63388a44-e396-4f1e-b28f-fea5a9562a71"
+}
