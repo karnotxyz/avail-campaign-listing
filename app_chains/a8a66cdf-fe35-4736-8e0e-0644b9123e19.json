@@ -1,0 +1,8 @@
+{
+  "name": "jimchain",
+  "logo": "https://placehold.co/400x400/red/white?font=lato&text=Jim",
+  "rpc_url": "http://rpc.demoso.net:7777",
+  "explorer_url": "http://explorer.demoso.net:7777",
+  "metrics_endpoint": "http://metrics.demoso.net:7777/metrics",
+  "id": "a8a66cdf-fe35-4736-8e0e-0644b9123e19"
+}
