@@ -1,0 +1,8 @@
+{
+  "name": "jitterytoma",
+  "logo": "http://43.156.107.11/logo.jpg",
+  "rpc_url": "http://43.156.107.11:9944",
+  "explorer_url": "http://43.156.107.11:4000",
+  "metrics_endpoint": "http://43.156.107.11:9615/metrics",
+  "id": "c2f67d53-668c-4727-a267-fdf72c16e2c8"
+}
