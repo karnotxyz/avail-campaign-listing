@@ -13,18 +13,20 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v42
 
-      - name: Select single changed file
-        id: select-file
-        run: |
-          ALL_CHANGED_FILES=$(echo "${{ steps.changed-files.outputs.all_changed_files }}" | head -n 1)
-          echo "::set-env name=ALL_CHANGED_FILES::$ALL_CHANGED_FILES"
+      - name: Create environment file
+        run: echo "ALL_CHANGED_FILES=$(echo "${{ steps.changed-files.outputs.all_changed_files }}" | head -n 1)" > env-file.env
 
       - name: List all changed files
+        run: cat env-file.env
+
+      - name: Load environment variables
         env:
-          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          ALL_CHANGED_FILES: ${{ steps.set-env.outputs.env_file_content }}
         run: |
+          source env-file.env
+          echo "All changed files: $ALL_CHANGED_FILES"
+
           IFS=', ' read -r -a changed_files_array <<< "$ALL_CHANGED_FILES"
-          echo "All changed files: $changed_files_array"
           echo "All changed files length: ${#changed_files_array[@]}"
 
           if [ ${#changed_files_array[@]} -ne 1 ]; then
@@ -37,3 +39,4 @@ jobs:
               echo "Error: Only a '.json' file must be added in the app_chains folder."
               exit 1
           fi
+
