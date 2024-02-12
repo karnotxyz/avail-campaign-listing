@@ -1,0 +1,8 @@
+{
+  "name": "madarata",
+  "logo": "https://raw.githubusercontent.com/ataxbt/mangataataxbt/main/ataxbt.png", 
+  "rpc_url": "http://161.35.238.223:9944",
+  "explorer_url": "http://161.35.238.223:4000",
+  "metrics_endpoint": "http://161.35.238.223:9615",
+  "id": "bd1dfca9-343c-4676-8b0f-faaf15700a8b"
+}
