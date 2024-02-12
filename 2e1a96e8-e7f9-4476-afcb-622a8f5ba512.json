@@ -1,0 +1,8 @@
+{
+  "name": "my_app_chain",
+  "logo": "https://r.resimlink.com/h_3EZu.jpg",
+  "rpc_url": "https://209.105.242.169:9944",
+  "explorer_url": "https://209.105.242.169:4000",
+  "metrics_endpoint": "https://209.105.242.169:9615/metrics",
+  "id": "2e1a96e8-e7f9-4476-afcb-622a8f5ba512"
+}
