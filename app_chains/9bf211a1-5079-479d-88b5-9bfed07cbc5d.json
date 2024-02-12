@@ -1,0 +1,8 @@
+{
+  "name": "kenshin",
+  "logo": "https://i.postimg.cc/FRmqhBFx/A-nh-chu-p-ma-n-hi-nh-2024-02-13-003248.png",
+  "rpc_url": "http://35.247.85.31:9944",
+  "explorer_url": "http://35.247.85.31:4000",
+  "metrics_endpoint": "http://35.247.85.31:9615/metrics",
+  "id": "9bf211a1-5079-479d-88b5-9bfed07cbc5d"
+}
