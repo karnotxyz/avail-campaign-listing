@@ -1,0 +1,8 @@
+{
+    "name": "ediology",
+    "logo": "https://ibb.co/M2LdCcX",
+    "rpc_url": "http://185.217.127.66:9944",
+    "explorer_url": "http://185.217.127.66:4000",
+    "metrics_endpoint": "http://185.217.127.66:9615/metrics",
+    "id": "6ee497f8-a23a-4987-8258-235e9946a4f0"
+  }
