@@ -1,0 +1,8 @@
+{
+  "name": "ZANNJAGGO",
+  "logo": "https://imgur.com/a/b2O4Mx0",
+  "rpc_url": "http://174.138.31.169:9944",
+  "explorer_url": "http://174.138.31.169:4000",
+  "metrics_endpoint": "http://174.138.31.169:9615/metrics",
+  "id": "0e113dd7-e28e-4e76-81de-f22d00e7bf13"
+}
