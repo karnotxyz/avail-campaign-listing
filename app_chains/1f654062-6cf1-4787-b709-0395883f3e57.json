@@ -1,8 +1,0 @@
-{
-  "name": "xiuwei",
-  "logo": "https://live.staticflickr.com/65535/53512387465_8f12de18ce_w.jpg",
-  "rpc_url": "http://43.133.42.138:9944",
-  "explorer_url": "http://43.133.42.138:4000",
-  "metrics_endpoint": "http://43.133.42.138:9615/metrics",
-  "id": "1f654062-6cf1-4787-b709-0395883f3e57"
-}
