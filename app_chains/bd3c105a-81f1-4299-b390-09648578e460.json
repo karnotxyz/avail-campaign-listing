@@ -1,0 +1,8 @@
+{
+  "name": "cikinova",
+  "logo": "https://prnt.sc/PbpaeV_Ej7kz", 
+  "rpc_url": "http://94.130.108.69:9944",
+  "explorer_url": "http://94.130.108.69:4000",
+  "metrics_endpoint": "http://94.130.108.69:9615",
+  "id": "bd3c105a-81f1-4299-b390-09648578e460"
+}
