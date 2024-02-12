@@ -1,0 +1,10 @@
+[
+ {
+  "name": "kalaief",
+  "logo": "",
+  "rpc_url": "http://20.255.60.175:9944",
+  "explorer_url": "http://20.255.60.175:4000",
+  "metrics_endpoint": "http://20.255.60.175:9615/metrics",
+  "id": "85f13e7b-42e3-4b37-b5de-a834f010c9c7"
+ }
+]
