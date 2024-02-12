@@ -1,0 +1,8 @@
+{
+  "name": "johnwick",
+  "logo": "https://i.imgur.com/JpsY3Ol.jpg",
+  "rpc_url": "http://34.105.89.223:9944",
+  "explorer_url": "http://34.105.89.223:4000",
+  "metrics_endpoint": "http://34.105.89.223:9615/metrics",
+  "id": "1ec78baa-9fa9-4196-a652-2f2440a80c9a"
+}
