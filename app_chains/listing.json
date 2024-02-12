@@ -1,0 +1,10 @@
+ [
+    {
+"name": "kalaief",
+"logo": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+"rpc_url": "http://20.255.60.175:9944",
+"explorer_url": "http://20.255.60.175:4000/",
+"metrics_endpoint": "http://20.255.60.175:9615/metrics",
+"id": "eb80d13b-3592-4f74-9da1-1852bc09ad51"
+    }
+ ]
