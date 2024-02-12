@@ -1,0 +1,8 @@
+{
+  "name": "tosto",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/142492297/304107000-8cbe7d31-3485-4e64-be23-3d01ebf83db9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T134644Z&X-Amz-Expires=300&X-Amz-Signature=c357174010a90aa8ddca582c7582869e678672cd0bf1eb8c88563d3fa6d29fee&X-Amz-SignedHeaders=host&actor_id=142492297&key_id=0&repo_id=743442383",
+  "rpc_url": "http://172.24.110.173:9944",
+  "explorer_url": "http://172.24.110.173:4000",
+  "metrics_endpoint": "http://172.24.110.173:9615/metrics",
+  "id": "86f30b97-b1ed-49fb-a90c-b94fbe891997"
+}
