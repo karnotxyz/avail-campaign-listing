@@ -1,0 +1,8 @@
+{
+  "name": "0xalireza",
+  "logo": "https://r.resimlink.com/sTx0vLR5.jpg",
+  "rpc_url": "http://185.73.115.182:9944",
+  "explorer_url": "http://185.73.115.182:4000",
+  "metrics_endpoint": "http://185.73.115.182:9615/metrics",
+  "id": "85bd76d3-4c64-4b7d-b2fe-7fdba6c2af1a"
+}
