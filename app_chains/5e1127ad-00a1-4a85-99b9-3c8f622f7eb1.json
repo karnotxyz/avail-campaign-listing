@@ -1,0 +1,10 @@
+[
+  {
+  "name": "maculleth",
+  "logo": "https://ibb.co/hLMpfKN",
+  "rpc_url": "http://20.27.214.102:9944/",
+  "explorer_url": "http://20.27.214.102:4000/",
+  "metrics_endpoint": "http://20.27.214.102:9615/metrics",
+  "id": "5e1127ad-00a1-4a85-99b9-3c8f622f7eb1"
+}
+]
