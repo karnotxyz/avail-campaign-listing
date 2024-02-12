@@ -1,0 +1,8 @@
+{
+  "name": "Morza avail",
+  "logo": "https://placehold.co/400x400/EEE/31343C?font=oswald&text=Mor",
+  "rpc_url": "http://99.228.220.90:9944",
+  "explorer_url": "http://99.228.220.90:4000",
+  "metrics_endpoint": "http://99.228.220.90:9615/metrics",
+  "id": "defeec68-414f-4b33-a163-15d5d52c14e0"
+}
