@@ -1,0 +1,8 @@
+{
+  "name": "bogusjohn",
+  "logo": "https://r.resimlink.com/GomUntksF.jpg",
+  "rpc_url": "http://37.27.22.132:9944",
+  "explorer_url": "http://37.27.22.132:4000",
+  "metrics_endpoint": "http://37.27.22.132:9615/metrics",
+  "id": "4ebbde16-134b-4e84-a8ce-f234ba90de0d"
+}
