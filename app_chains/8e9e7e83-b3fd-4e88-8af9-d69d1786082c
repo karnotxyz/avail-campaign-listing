@@ -1,0 +1,8 @@
+{
+  "name": "Dragonriki",
+  "logo": "https://ibb.co/s329h19/logo-400x400.png",
+  "rpc_url": "http://84.247.141.0:9944",
+  "explorer_url": "http://84.247.141.0:4000",
+  "metrics_endpoint": "http://84.247.141.0:9615/metrics",
+  "id": "8e9e7e83-b3fd-4e88-8af9-d69d1786082c"
+}
