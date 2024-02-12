@@ -1,0 +1,8 @@
+{
+  "name": "mahoraga",
+  "logo": "https://i.imgur.com/X927AnG.jpg",
+  "rpc_url": "http://161.97.144.52:9944",
+  "explorer_url": "http://161.97.144.52:4000",
+  "metrics_endpoint": "http://161.97.144.52:9615/metrics",
+  "id": "f7c73f7a-1fa7-45ce-91f3-409af114fc17"
+}
