@@ -1,0 +1,8 @@
+{
+  "name": "vlachy",
+  "logo": "https://ibb.co/4pBZq07",
+  "rpc_url": "http://178.132.4.42:9944",
+  "explorer_url": "http://178.132.4.42:4000",
+  "metrics_endpoint": "http://178.132.4.42:9615/metrics",
+  "id": "a1162f6f-38b3-4fd7-b36d-c3560ea35971"
+}
