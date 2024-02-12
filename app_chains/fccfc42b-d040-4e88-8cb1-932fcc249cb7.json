@@ -1,0 +1,8 @@
+{
+  "name": "tosto",
+  "logo": "http://iili.io/J1PoeCG.jpg",
+  "rpc_url": "http://172.24.110.173:9944",
+  "explorer_url": "http://172.24.110.173:4000",
+  "metrics_endpoint": "http://172.24.110.173:9615/metrics",
+  "id": "bdb96258-8f6a-4b6e-8442-073fcc788ec0"
+}
