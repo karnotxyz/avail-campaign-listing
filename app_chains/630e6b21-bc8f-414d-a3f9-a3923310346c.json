@@ -1,0 +1,8 @@
+{
+  "name": "melibars",
+  "logo": "https://r.resimlink.com/M3ijN.jpg",
+  "rpc_url": "http://5.189.147.162:9944",
+  "explorer_url": "http://5.189.147.162:4000",
+  "metrics_endpoint": "http://5.189.147.162:9615",
+  "id": "630e6b21-bc8f-414d-a3f9-a3923310346c"
+}
