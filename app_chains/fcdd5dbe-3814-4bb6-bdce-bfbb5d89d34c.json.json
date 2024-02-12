@@ -1,0 +1,8 @@
+{
+  "name": "ferhat",
+  "logo": "https://r.resimlink.com/3bM6Ff12P4m5.jpg",
+  "rpc_url": "http://185.229.227.47:9944",
+  "explorer_url": "http://185.229.227.47:4000",
+  "metrics_endpoint": "http://185.229.227.47:9615/metrics",
+  "id": "fcdd5dbe-3814-4bb6-bdce-bfbb5d89d34c"
+}
