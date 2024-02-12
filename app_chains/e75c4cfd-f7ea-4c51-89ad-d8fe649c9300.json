@@ -1,0 +1,8 @@
+{
+  "name": "moyo",
+  "logo": "https://r.resimlink.com/isQ24AGH.png",
+  "rpc_url": "http://167.86.74.119:9944",
+  "explorer_url": "http://167.86.74.119:4000",
+  "metrics_endpoint": "http://167.86.74.119:9615/metrics",
+  "id": "e75c4cfd-f7ea-4c51-89ad-d8fe649c9300"
+}
