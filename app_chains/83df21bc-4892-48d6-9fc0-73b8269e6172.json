@@ -1,0 +1,8 @@
+{
+  "name": "Weeb3dao",
+  "logo": "https://ibb.co/61gpt72/weeb3dao",
+  "rpc_url": "http://46.250.235.45:9944/",
+  "explorer_url": "http://46.250.235.45:4000/",
+  "metrics_endpoint": "http://46.250.235.45:9615/metrics",
+  "id": "83df21bc-4892-48d6-9fc0-73b8269e6172"
+}
