@@ -1,0 +1,8 @@
+{
+  "name": "Rocca",
+  "logo": "Your_Logo_URL",
+  "rpc_url": "http://37.60.226.16:9944",
+  "explorer_url": "http://37.60.226.16:4000",
+  "metrics_endpoint": "http://37.60.226.16:9615/metrics",
+  "id": "a5205cd2-a8d4-4e8a-b843-b08d1b44eb59"
+}
