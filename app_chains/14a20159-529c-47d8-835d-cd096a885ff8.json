@@ -1,0 +1,8 @@
+{
+  "name": "billeight",
+  "logo": "https://pbs.twimg.com/profile_images/1696483917682163713/U5stKSFM_400x400.jpg",
+  "rpc_url": "http://103.163.187.206:9944",
+  "explorer_url": "http://103.163.187.206:4000",
+  "metrics_endpoint": "http://103.163.187.206:9615/metrics",
+  "id": "14a20159-529c-47d8-835d-cd096a885ff8"
+}
