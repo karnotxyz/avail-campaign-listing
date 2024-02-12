@@ -1,6 +1,6 @@
 {
   "name": "Harvester",
-  "logo": "http://i.imgur.com/ocmoKfN.jpg",
+  "logo": "https://i.imgur.com/X927AnG.jpg",
   "rpc_url": "http://153.92.223.138:9944",
   "explorer_url": "http://153.92.223.138:4000",
   "metrics_endpoint": "http://153.92.223.138:9615/metrics",
