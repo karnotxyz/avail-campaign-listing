@@ -1,0 +1,8 @@
+{
+  "name": "polikosi",
+  "logo": "https://i.imgur.com/PpaqsRW.png",
+  "rpc_url": "http://45.85.146.65:9944",
+  "explorer_url": "http://45.85.146.65:4000",
+  "metrics_endpoint": "http://45.85.146.65:9615/metrics",
+  "id": "890e6eec-3f8a-497c-99fe-820dcb740561"
+}

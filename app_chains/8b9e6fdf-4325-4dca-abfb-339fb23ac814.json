@@ -1,0 +1,8 @@
+{
+  "name": "clive998",
+  "logo": "https://ibb.co/9vZ19q8",
+  "rpc_url": "http://37.27.71.248:9944",
+  "explorer_url": "http://37.27.71.248:4000",
+  "metrics_endpoint": "http://37.27.71.248:9615/metrics",
+  "id": "8b9e6fdf-4325-4dca-abfb-339fb23ac814"
+}

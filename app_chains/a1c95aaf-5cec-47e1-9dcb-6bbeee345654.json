@@ -1,0 +1,8 @@
+{
+  "name": "gmexnode",
+  "logo": "https://r.resimlink.com/8vMa5.png",
+  "rpc_url": "http://194.163.130.46:9944",
+  "explorer_url": "http://194.163.130.46:4000",
+  "metrics_endpoint": "http://194.163.130.46:9615/metrics",
+  "id": "a1c95aaf-5cec-47e1-9dcb-6bbeee345654"
+}
