@@ -1,0 +1,8 @@
+{
+  "name": "letruong",
+  "logo": "https://i.ibb.co/b20hKFB/6.png",
+  "rpc_url": "http://5.189.171.5:9944",
+  "explorer_url": "http://5.189.171.5:4000",
+  "metrics_endpoint": "http://5.189.171.5:9615/metrics",
+  "id": "33aa6b1e-55b3-4703-98c2-5f30a4005761"
+}
