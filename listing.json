@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Macull	",
+    "logo": "https://imgur.com/j8kfwJT",
+    "rpc_url": "http://20.27.214.102:994",
+    "explorer_url": "http://20.27.214.102:4000",
+    "metrics_endpoint": "http://20.27.214.102:9615/metrics",
+    "id": "7c2bc03a-4941-45b8-871d-b2a939bb54ff"
+  }
+]
