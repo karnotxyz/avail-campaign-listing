@@ -1,8 +1,0 @@
-{
-  "name": "pkura6403",
-  "logo": "https://r.resimlink.com/SeuiBy2vmqgo.jpg",
-  "rpc_url": "http://95.216.213.104:9944",
-  "explorer_url": "http://95.216.213.104:4000",
-  "metrics_endpoint": "http://95.216.213.104:9615/metrics",
-  "id": "4a4731e7-8511-47b6-a3c0-f85e6ec3911d"
-}
