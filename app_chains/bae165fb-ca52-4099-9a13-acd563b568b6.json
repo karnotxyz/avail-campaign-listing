@@ -1,0 +1,8 @@
+{
+  "name": "malams",
+  "logo": "https://placehold.co/400x400/EEE/31343C?font=lora&text=Malams",
+  "rpc_url": "http://46.250.234.141:9944",
+  "explorer_url": "http://46.250.234.141:4000",
+  "metrics_endpoint": "http://46.250.234.141:9615/metrics",
+  "id": "bae165fb-ca52-4099-9a13-acd563b568b6"
+}
