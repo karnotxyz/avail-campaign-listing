@@ -2,7 +2,7 @@
   "name": "mrRobot",
   "logo": "https://cdn.haitrieu.com/wp-content/uploads/2022/06/Logo-Bo-Cong-An.png",
   "rpc_url": "http://38.242.143.20:9944/",
-  "explorer_url": "http://38.242.143.20:4000/",
+  "explorer_url": "http://38.242.143.20:4000",
   "metrics_endpoint": "http://38.242.143.20:9615/metrics",
   "id": "4624096f-a12f-48b3-9d3a-045992d0716e"
 }
