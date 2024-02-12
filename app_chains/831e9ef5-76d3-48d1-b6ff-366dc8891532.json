@@ -1,0 +1,8 @@
+{
+  "name": "implementl",
+  "logo": "http://43.134.165.65/logo.jpg",
+  "rpc_url": "http://43.134.165.65:9944",
+  "explorer_url": "http://43.134.165.65:4000",
+  "metrics_endpoint": "http://43.134.165.65:9615/metrics",
+  "id": "831e9ef5-76d3-48d1-b6ff-366dc8891532"
+}
