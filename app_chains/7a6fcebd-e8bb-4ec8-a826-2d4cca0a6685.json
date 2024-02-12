@@ -1,0 +1,8 @@
+{
+  "name": "steinatepic",
+  "logo": "https://imgur.com/a/mQZBr7e",
+  "rpc_url": "http://184.174.39.105:9944",
+  "explorer_url": "http://184.174.39.105:4000",
+  "metrics_endpoint": "http://184.174.39.105:9615/metrics",
+  "id": "7a6fcebd-e8bb-4ec8-a826-2d4cca0a6685"
+}
