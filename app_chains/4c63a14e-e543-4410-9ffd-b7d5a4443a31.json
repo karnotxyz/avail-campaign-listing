@@ -1,0 +1,8 @@
+{
+  "name": "forestrain",
+  "logo": "https://r.resimlink.com/Lya9SAR31.png",
+  "rpc_url": "37.60.246.47:9944",
+  "explorer_url": "http://37.60.246.47:4000",
+  "metrics_endpoint": "http://37.60.246.47:9615/metrics",
+  "id": "4c63a14e-e543-4410-9ffd-b7d5a4443a31"
+}
