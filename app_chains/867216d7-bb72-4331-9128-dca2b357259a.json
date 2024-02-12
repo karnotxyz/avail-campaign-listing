@@ -1,0 +1,8 @@
+{
+  "name": "HenryLeth",
+  "logo": "https://i.imgur.com/Y1VJncy.png",
+  "rpc_url": "http://5.189.149.54:9944",
+  "explorer_url": "http://5.189.149.54:4000",
+  "metrics_endpoint": "http://5.189.149.54:9615/metrics",
+  "id": "867216d7-bb72-4331-9128-dca2b357259a"
+}
