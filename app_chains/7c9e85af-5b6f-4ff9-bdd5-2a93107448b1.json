@@ -1,0 +1,8 @@
+{
+  "name": "tosto",
+  "logo": "https://r.resimlink.com/2ge9S.jpg",
+  "rpc_url": "http://172.24.110.173:9944",
+  "explorer_url": "http://172.24.110.173:4000",
+  "metrics_endpoint": "http://172.24.110.173:9615/metrics",
+  "id": "7c9e85af-5b6f-4ff9-bdd5-2a93107448b1"
+}
