@@ -1,0 +1,8 @@
+{
+  "name": "cupid",
+  "logo": "https://ibb.co/Mfw6Y7q",
+  "rpc_url": "http://65.108.152.25:9944",
+  "explorer_url": "http://65.108.152.25:4000",
+  "metrics_endpoint": "http://65.108.152.25:9615/metrics",
+  "id": "c0a2a74c-f71a-42cb-93b5-4b04ac362aab"
+}
