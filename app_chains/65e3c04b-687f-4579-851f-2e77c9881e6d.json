@@ -1,0 +1,8 @@
+{
+  "name": "hidden",
+  "logo": "https://raw.githubusercontent.com/HiDDenCompanion/pompa/main/MIYMIYTHEARCHER.png",
+  "rpc_url": "http://5.161.232.90:9944",
+  "explorer_url": "http://5.161.232.90:4000",
+  "metrics_endpoint": "http://5.161.232.90:9615/metrics",
+  "id": "65e3c04b-687f-4579-851f-2e77c9881e6d"
+}

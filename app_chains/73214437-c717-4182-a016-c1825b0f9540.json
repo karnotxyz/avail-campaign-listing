@@ -1,0 +1,8 @@
+{
+  "name": "Dragon",
+  "logo": "https://placehold.co/400x400/orange/white?text=Dragon",
+  "rpc_url": "http://49.12.60.233:9944",
+  "explorer_url": "http://49.12.60.233:4000",
+  "metrics_endpoint": "http://49.12.60.233:9615/metrics",
+  "id": "73214437-c717-4182-a016-c1825b0f9540"
+}

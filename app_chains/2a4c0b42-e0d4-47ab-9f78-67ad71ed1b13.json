@@ -1,0 +1,8 @@
+{
+  "name": "Maximus",
+  "logo": "https://i.imgur.com/qrokvhc.jpg",
+  "rpc_url": "http://43.134.54.187:9944",
+  "explorer_url": "http://43.134.54.187:4000",
+  "metrics_endpoint": "http://43.134.54.187:9615/metrics",
+  "id": "2a4c0b42-e0d4-47ab-9f78-67ad71ed1b13"
+}

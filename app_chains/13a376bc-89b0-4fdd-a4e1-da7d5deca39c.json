@@ -1,0 +1,8 @@
+{
+  "name": "siriusx",
+  "logo": "https://raw.githubusercontent.com/Bathanus/logo/main/95367470.png",
+  "rpc_url": "http://194.163.190.62:9944",
+  "explorer_url": "http://194.163.190.62:4000",
+  "metrics_endpoint": "http://194.163.190.62:9615/metrics",
+  "id": "13a376bc-89b0-4fdd-a4e1-da7d5deca39c"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "avocado",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/avocado_2177968-1/logos/avocado_2177968-1.png",
+  "rpc_url": "https://a1.avocadothelight.xyz",
+  "explorer_url": "https://a3.avocadothelight.xyz",
+  "metrics_endpoint": "https://a2.avocadothelight.xyz/metrics",
+  "id": "77d7d060-6f32-4820-b6aa-98bb19f3b3cf"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kimb",
+  "logo": "https://imgur.com/a/LxEsHLE",
+  "rpc_url": "http://23.88.63.8:9944",
+  "explorer_url": "http://23.88.63.8:4000",
+  "metrics_endpoint": "http://23.88.63.8:9615/metrics",
+  "id": "d19acfce-3ab1-4901-8002-9deacd75d549"
+}

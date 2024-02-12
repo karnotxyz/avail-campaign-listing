@@ -1,0 +1,8 @@
+{
+  "name": "toubaho",
+  "logo": "https://r.resimlink.com/Tw_b2r4.jpg",
+  "rpc_url": "http://49.12.60.52:9944",
+  "explorer_url": "http://49.12.60.52:4000",
+  "metrics_endpoint": "http://49.12.60.52:9615/metrics",
+  "id": "88b753c9-3d2f-44e4-9130-78762dedf13a"
+}

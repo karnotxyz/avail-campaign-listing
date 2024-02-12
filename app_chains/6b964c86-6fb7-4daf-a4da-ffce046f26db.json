@@ -1,0 +1,8 @@
+{
+  "name": "nkazankuru",
+  "logo": "https://i.imgur.com/f2eSHFe.png",
+  "rpc_url": "http://207.244.224.193:9944",
+  "explorer_url": "http://207.244.224.193:4000",
+  "metrics_endpoint": "http://207.244.224.193:9615/metrics",
+  "id": "6b964c86-6fb7-4daf-a4da-ffce046f26db"
+}

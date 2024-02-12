@@ -1,0 +1,8 @@
+{
+  "name": "romain",
+  "logo": "https://im.ge/i/123.bTBV0L",
+  "rpc_url": "http://139.59.213.101:9944",
+  "explorer_url": "http://139.59.213.101:4000",
+  "metrics_endpoint": "http://139.59.213.101:9615/metrics",
+  "id": "0c9fd346-87e6-4397-a8b5-9f32078779e2"
+}

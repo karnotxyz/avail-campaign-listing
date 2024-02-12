@@ -1,0 +1,8 @@
+{
+  "name": "anuoa",
+  "logo": "https://i.imgur.com/sHnH0iN.jpeg",
+  "rpc_url": "http://161.97.73.25:9944",
+  "explorer_url": "http://161.97.73.25:4000",
+  "metrics_endpoint": "http://161.97.73.25:9615/metrics",
+  "id": "355b9ef2-4709-4ff4-8410-45f7cb957836"
+}

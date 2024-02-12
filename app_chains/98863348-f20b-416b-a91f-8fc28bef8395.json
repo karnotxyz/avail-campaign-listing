@@ -1,0 +1,8 @@
+{
+  "name": "bitedu",
+  "logo": "https://i.imgur.com/xfN4Rci.jpg",
+  "rpc_url": "http://49.13.2.228:9944",
+  "explorer_url": "http://49.13.2.228:4000",
+  "metrics_endpoint": "http://49.13.2.228:9615/metrics",
+  "id": "98863348-f20b-416b-a91f-8fc28bef8395"
+}

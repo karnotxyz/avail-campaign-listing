@@ -1,0 +1,8 @@
+{
+  "name": "arito",
+  "logo": "https://i.imgur.com/PaNtiOE.png",
+  "rpc_url": "http://104.154.83.205:9944",
+  "explorer_url": "http://104.154.83.205:4000",
+  "metrics_endpoint": "http://104.154.83.205:9615/metrics",
+  "id": "03115b7c-a659-4478-bfb6-626e54f88e37"
+}

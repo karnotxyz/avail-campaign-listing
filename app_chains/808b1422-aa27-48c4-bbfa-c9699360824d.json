@@ -1,0 +1,8 @@
+{
+  "name": "toance",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://149.102.157.149:9944",
+  "explorer_url": "http://149.102.157.149:4000",
+  "metrics_endpoint": "http://149.102.157.149:9615/metrics",
+  "id": "808b1422-aa27-48c4-bbfa-c9699360824d"
+}

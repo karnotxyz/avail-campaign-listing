@@ -1,0 +1,8 @@
+{
+  "name": "Wade",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://43.153.96.254:9944",
+  "explorer_url": "http://43.153.96.254:4000",
+  "metrics_endpoint": "http://43.153.96.254:9615/metrics",
+  "id": "41a31c1d-dc05-4294-95d1-d27a21f6439a"
+}
