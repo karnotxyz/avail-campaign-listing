@@ -1,6 +1,6 @@
 {
   "name": "moba",
-  "logo": "https://placehold.co/600x400/black/white/?text=moba",
+  "logo": "https://placehold.co/400x400/black/white/?text=moba",
   "rpc_url": "http://82.115.20.147:9944",
   "explorer_url": "http://82.115.20.147:4000",
   "metrics_endpoint": "http://82.115.20.147:9615/metrics",
