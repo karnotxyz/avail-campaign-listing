@@ -1,0 +1,8 @@
+{
+  "name": "mesut",
+  "logo": "https://r.resimlink.com/npuzT0.png",
+  "rpc_url": "http://188.132.165.151:9944",
+  "explorer_url": "http://188.132.165.151:4000",
+  "metrics_endpoint": "http://188.132.165.151:9615/metrics",
+  "id": "dd78b898-2d24-4e5f-9ce2-0910d3e9bb34"
+}
