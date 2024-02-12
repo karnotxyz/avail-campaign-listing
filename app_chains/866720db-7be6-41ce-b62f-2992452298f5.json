@@ -1,0 +1,8 @@
+{
+  "name": "hajreza",
+  "logo": "https://r.resimlink.com/hTkpRd.png",
+  "rpc_url": "http://65.109.195.222:9944",
+  "explorer_url": "http://65.109.195.222:4000",
+  "metrics_endpoint": "http://65.109.195.222:9615/metrics",
+  "id": "866720db-7be6-41ce-b62f-2992452298f5"
+}

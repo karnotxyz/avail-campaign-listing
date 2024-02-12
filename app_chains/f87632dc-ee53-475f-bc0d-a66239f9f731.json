@@ -1,0 +1,8 @@
+{
+  "name": "firefox",
+  "logo": "https://i.ibb.co/7g6tDxC/109460230.png",
+  "rpc_url": "http://65.108.243.49:9944",
+  "explorer_url": "http://65.108.243.49:4000",
+  "metrics_endpoint": "http://65.108.243.49:9615/metrics",
+  "id": "f87632dc-ee53-475f-bc0d-a66239f9f731"
+}
