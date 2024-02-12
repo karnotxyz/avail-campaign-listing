@@ -1,0 +1,8 @@
+{
+  "name": "sephoria",
+  "logo": "https://imgur.com/a/weIFzWX",
+  "rpc_url": "http://37.27.35.42:9944",
+  "explorer_url": "http://37.27.35.42:4000",
+  "metrics_endpoint": "http://37.27.35.42:9615/metrics",
+  "id": "d81f25d2-af5c-4270-9204-9da3426905f9"
+}

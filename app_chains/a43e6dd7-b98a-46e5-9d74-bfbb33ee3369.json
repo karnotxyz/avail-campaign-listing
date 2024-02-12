@@ -1,0 +1,8 @@
+{
+  "name": "bountyblok",
+  "logo": "https://bountyblok.io/bountyblok-all-white-logo.png",
+  "rpc_url": "https://madara-bounty-blok-devnet.karnot.xyz",
+  "explorer_url": "https://compass-bounty-blok-devnet.karnot.xyz",
+  "metrics_endpoint": "https://madara-bounty-blok-devnet.karnot.xyz/metrics",
+  "id": "a43e6dd7-b98a-46e5-9d74-bfbb33ee3369"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "maragung",
+  "logo": "https://ibb.co/JttxPdZ",
+  "rpc_url": "http://109.123.238.97:9944",
+  "explorer_url": "http://109.123.238.97:4000",
+  "metrics_endpoint": "http://109.123.238.97:9615/metrics",
+  "id": "c966312b-f38f-4a20-b51f-f66475547e0d"
+}

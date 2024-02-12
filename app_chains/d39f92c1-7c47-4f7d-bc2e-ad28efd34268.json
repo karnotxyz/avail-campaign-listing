@@ -1,0 +1,8 @@
+{
+  "name": "mix",
+  "logo": "https://missuo.ru/file/30c2f34939edc52185a08.png",
+  "rpc_url": "http://43.134.113.61:9944",
+  "explorer_url": "http://43.134.113.61:4000",
+  "metrics_endpoint": "http://43.134.113.61:9615/metrics",
+  "id": "d39f92c1-7c47-4f7d-bc2e-ad28efd34268"
+}

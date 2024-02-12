@@ -1,0 +1,8 @@
+{
+  "name": "fible1",
+  "logo": "https://im.ge/i/bHblxJ",
+  "rpc_url": "http://135.181.2.104:9944",
+  "explorer_url": "http://135.181.2.104:4000",
+  "metrics_endpoint": "http://135.181.2.104:9615/metrics",
+  "id": "e1681168-83aa-4c0e-b602-c97f529e2874"
+}

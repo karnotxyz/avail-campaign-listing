@@ -1,0 +1,8 @@
+{
+  "name": "code5488",
+  "logo": "https://i.imgur.com/JFv3SU6.png",
+  "rpc_url": "http://38.242.244.135:9944",
+  "explorer_url": "http://38.242.244.135:4000",
+  "metrics_endpoint": "http://38.242.244.135:9615/metrics",
+  "id": "0b8d4e29-ed95-42dc-9d60-6a4f71640fa7"
+}

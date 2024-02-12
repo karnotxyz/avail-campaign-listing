@@ -1,0 +1,8 @@
+{
+  "name": "tizdandoon",
+  "logo": "https://i.ibb.co/mtP9jgq/mamal-logo.png",
+  "rpc_url": "http://168.119.100.13:9944",
+  "explorer_url": "http://168.119.100.13:4000",
+  "metrics_endpoint": "http://168.119.100.13:9615/metrics",
+  "id": "1296fa52-6f86-461f-a23c-5ee5d3ab1bae"
+}

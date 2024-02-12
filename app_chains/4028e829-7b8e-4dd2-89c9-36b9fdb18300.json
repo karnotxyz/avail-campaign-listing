@@ -1,0 +1,8 @@
+{
+  "name": "blackwhale",
+  "logo": "http://avatars.githubusercontent.com/u/139575102?s=400&u=f269b589b52794b8d675f3bb5f943d53a402da86&v=4",
+  "rpc_url": "http://49.12.56.182:9944",
+  "explorer_url": "http://49.12.56.182:4000",
+  "metrics_endpoint": "http://49.12.56.182:9615/metrics",
+  "id": "4028e829-7b8e-4dd2-89c9-36b9fdb18300"
+}

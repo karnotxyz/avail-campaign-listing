@@ -1,0 +1,8 @@
+{
+  "name": "berkanky",
+  "logo": "https://i.imgur.com/2IIgtVr.png",
+  "rpc_url": "http://95.216.147.189:9944",
+  "explorer_url": "http://95.216.147.189:4000",
+  "metrics_endpoint": "http://95.216.147.189:9615/metrics",
+  "id": "0be75174-b68f-4927-a124-837ed790b693"
+}

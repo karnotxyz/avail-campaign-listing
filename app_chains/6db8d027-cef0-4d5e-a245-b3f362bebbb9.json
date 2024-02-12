@@ -1,0 +1,8 @@
+{
+  "name": "gazi",
+  "logo": "https://r.resimlink.com/XHjMk89QhrNE.jpeg",
+  "rpc_url": "http://116.203.189.71:9944",
+  "explorer_url": "http://116.203.189.71:4000",
+  "metrics_endpoint": "http://116.203.189.71:9615/metrics",
+  "id": "6db8d027-cef0-4d5e-a245-b3f362bebbb9"
+}

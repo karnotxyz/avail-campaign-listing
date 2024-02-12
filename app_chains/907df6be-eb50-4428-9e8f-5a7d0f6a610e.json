@@ -1,0 +1,8 @@
+{
+  "name": "meneter",
+  "logo": "https://github.com/meneter/Wormholes-Testnet/blob/main/meneter.jpg?raw=true",
+  "rpc_url": "http://37.27.44.168:9944",
+  "explorer_url": "http://37.27.44.168:4000",
+  "metrics_endpoint": "http://37.27.44.168:9615/metrics",
+  "id": "907df6be-eb50-4428-9e8f-5a7d0f6a610e"
+}

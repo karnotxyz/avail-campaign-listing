@@ -1,0 +1,8 @@
+{
+  "name": "fud",
+  "logo": "http://43.155.174.223/static/img/fud.png",
+  "rpc_url": "http://43.155.174.223:9944",
+  "explorer_url": "http://43.155.174.223:4000",
+  "metrics_endpoint": "http://43.155.174.223:9615/metrics",
+  "id": "c11bc0f1-5098-4bb4-8960-05bf8371a2c2"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jaberi",
+  "logo": "https://r.resimlink.com/S8ULyzt9hr.png",
+  "rpc_url": "http://103.75.198.52:9944",
+  "explorer_url": "http://103.75.198.52:4000",
+  "metrics_endpoint": "http://103.75.198.52:9615/metrics",
+  "id": "ceed35bf-a51b-41f9-8c7a-966eaa2f3fd5"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Substaince",
+  "logo": "https://i.ibb.co/qy3RThF/Cargobase-logo-square-400x400-1.png",
+  "rpc_url": "http://37.27.41.108:9944",
+  "explorer_url": "http://37.27.41.108:4000",
+  "metrics_endpoint": "http://37.27.41.108:9615/metrics",
+  "id": "ab31c2a7-72be-4392-a052-c0429ccfe792"
+}

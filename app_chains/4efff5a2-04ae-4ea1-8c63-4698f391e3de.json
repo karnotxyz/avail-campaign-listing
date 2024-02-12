@@ -1,0 +1,8 @@
+{
+  "name": "kenneth",
+  "logo": "https://i.imgur.com/nuyAus6.jpeg",
+  "rpc_url": "http://85.31.239.89:9944",
+  "explorer_url": "http://85.31.239.89:4000",
+  "metrics_endpoint": "http://85.31.239.89:9615/metrics",
+  "id": "4efff5a2-04ae-4ea1-8c63-4698f391e3de"
+}

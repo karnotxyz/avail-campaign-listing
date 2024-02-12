@@ -1,0 +1,8 @@
+{
+  "name": "0xmofcious",
+  "logo": "https://i.ibb.co/1snKbfP/logo.png",
+  "rpc_url": "http://91.108.241.88:9944",
+  "explorer_url": "http://91.108.241.88:4000",
+  "metrics_endpoint": "http://91.108.241.88:9615/metrics",
+  "id": "9584fac9-3fb0-4166-8266-988cd04eb542"
+}

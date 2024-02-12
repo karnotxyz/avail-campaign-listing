@@ -1,0 +1,8 @@
+{
+  "name": "Pikachu",
+  "logo": "https://i.imgur.com/NQuEKLB.png",
+  "rpc_url": "http://45.141.151.103:9944",
+  "explorer_url": "http://45.141.151.103:4000",
+  "metrics_endpoint": "http://45.141.151.103:9615/metrics",
+  "id": "e72440a4-c077-4e0f-a8dc-ab10980acf96"
+}

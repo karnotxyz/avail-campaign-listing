@@ -1,0 +1,8 @@
+{
+  "name": "ulduz",
+  "logo": "https://ipfs.io/ipfs/QmeFi4j83gEAwLnzRNP3fno5iVnokbp5FZkR66qHGD2EBn?filename=ulduz1.jpg",
+  "rpc_url": "http://49.12.58.107:9944",
+  "explorer_url": "http://49.12.58.107:4000",
+  "metrics_endpoint": "http://49.12.58.107:9615/metrics",
+  "id": "a9531da7-fbd3-4abc-bce4-87cf3a46499d"
+}

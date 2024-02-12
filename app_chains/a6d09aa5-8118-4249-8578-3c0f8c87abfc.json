@@ -1,0 +1,8 @@
+{
+  "name": "uncharted",
+  "logo": "https://avatars.githubusercontent.com/u/53430833?v=4",
+  "rpc_url": "http://167.86.112.114:9944",
+  "explorer_url": "http://167.86.112.114:4000",
+  "metrics_endpoint": "http://167.86.112.114:9615/metrics",
+  "id": "a6d09aa5-8118-4249-8578-3c0f8c87abfc"
+}

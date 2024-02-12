@@ -1,0 +1,8 @@
+{
+  "name": "EdgeMan",
+  "logo": "https://s2.loli.net/2024/02/04/9apZPI4OH8wmyCS.jpg",
+  "rpc_url": "http://87.248.130.134:9944",
+  "explorer_url": "http://87.248.130.134:4000",
+  "metrics_endpoint": "http://87.248.130.134:9615/metrics",
+  "id": "0ec12133-7042-4642-ad38-c514cd7abcc2"
+}
