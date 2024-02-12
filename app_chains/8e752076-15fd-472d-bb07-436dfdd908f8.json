@@ -1,0 +1,8 @@
+{
+  "name": "tosto",
+  "logo": "https://cliply.co/wp-content/uploads/2020/08/442008112_GLANCING_AVATAR_3D_400.png",
+  "rpc_url": "http://172.24.110.173:9944",
+  "explorer_url": "http://172.24.110.173:4000",
+  "metrics_endpoint": "http://172.24.110.173:9615/metrics",
+  "id": "8e752076-15fd-472d-bb07-436dfdd908f8"
+}
