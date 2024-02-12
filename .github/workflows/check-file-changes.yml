@@ -13,6 +13,12 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v42
 
+      - name: Select single changed file
+        id: select-file
+        run: |
+          ALL_CHANGED_FILES=$(echo "${{ steps.changed-files.outputs.all_changed_files }}" | head -n 1)
+          echo "::set-env name=ALL_CHANGED_FILES::$ALL_CHANGED_FILES"
+
       - name: List all changed files
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
