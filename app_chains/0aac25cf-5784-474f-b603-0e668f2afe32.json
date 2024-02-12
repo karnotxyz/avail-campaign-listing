@@ -1,0 +1,8 @@
+{
+  "name": "ATOM",
+  "logo": "https://r.resimlink.com/FU9GtK8TDAM-.png",
+  "rpc_url": "http://49.12.56.176:9944",
+  "explorer_url": "http://49.12.56.176:4000",
+  "metrics_endpoint": "http://49.12.56.176:9615/metrics",
+  "id": "0aac25cf-5784-474f-b603-0e668f2afe32"
+}

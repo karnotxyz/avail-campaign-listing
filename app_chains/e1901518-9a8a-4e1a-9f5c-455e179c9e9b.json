@@ -1,0 +1,8 @@
+{
+  "name": "reang0x",
+  "logo": "https://i.imgur.com/DUmY89U.jpeg",
+  "rpc_url": "http://194.233.80.18:9944",
+  "explorer_url": "http://194.233.80.18:4000",
+  "metrics_endpoint": "http://194.233.80.18:9615/metrics",
+  "id": "e1901518-9a8a-4e1a-9f5c-455e179c9e9b"
+}
