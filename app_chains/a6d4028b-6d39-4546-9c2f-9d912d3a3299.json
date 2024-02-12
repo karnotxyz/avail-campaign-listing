@@ -1,8 +1,8 @@
 {
   "name": "Harvester",
-  "logo": "https://ibb.co/NjNWLr3",
-  "rpc_url": "https://153.92.223.138:9944",
-  "explorer_url": "https://153.92.223.138:4000",
-  "metrics_endpoint": "https://153.92.223.138:9615",
+  "logo": "http://ibb.co/NjNWLr3",
+  "rpc_url": "http://153.92.223.138:9944",
+  "explorer_url": "http://153.92.223.138:4000",
+  "metrics_endpoint": "http://153.92.223.138:9615",
   "id": "a6d4028b-6d39-4546-9c2f-9d912d3a3299"
 }
