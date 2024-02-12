@@ -1,0 +1,8 @@
+{
+	"name": "Vane",
+	"logo": "https://google.com/?&bih=695&biw=1536&hl=en",
+	"rpc_url": "http://158.220.85.55:9944",
+	"explorer_url": "http://158.220.85.55:4000",
+	"metrics_endpoint": "http://158.220.85.55:9615/metrics",
+	"id": "840475a5-157d-4646-a33d-1780f613894d"
+]
