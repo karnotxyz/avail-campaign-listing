@@ -1,0 +1,8 @@
+{
+  "name": "peyman131",
+  "logo": "https://i.pinimg.com/280x280_RS/76/90/0a/76900a9e0340e1bfe213825abe33c48c.jpg",
+  "rpc_url": "http://159.69.239.20:9944",
+  "explorer_url": "http://159.69.239.20:4000",
+  "metrics_endpoint": "http://159.69.239.20:9615/metrics",
+  "id": "7b06fb28-9082-4706-bf1f-06abfc3f7f2a"
+}
