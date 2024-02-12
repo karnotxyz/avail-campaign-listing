@@ -1,8 +1,8 @@
 {
   "name": "Avail-Madara",
-  "logo": "https://r.resimlink.com/D879y.jpg",
+  "logo": "https://ibb.co/Ln6ZCDG",
   "rpc_url": "http://65.21.49.57:9944",
   "explorer_url": "http://65.21.49.57:4000",
-  "metrics_endpoint": "http://65.21.49.57:9615",
+  "metrics_endpoint": "http://65.21.49.57:9615/metrics",
   "id": "cfd6bf0a-9717-4e68-9c2e-5c8a10cbe250"
 }
