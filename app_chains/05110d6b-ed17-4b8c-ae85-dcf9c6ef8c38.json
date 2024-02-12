@@ -1,0 +1,8 @@
+{
+  "name": "RonggoSWS",
+  "logo": "https://i.ibb.co/wpQKX3R/photo-3506191815196911545-c.jpg",
+  "rpc_url": "http://161.97.117.122:4000",
+  "explorer_url": "http://161.97.117.122:4000",
+  "metrics_endpoint": "http://161.97.117.122:4000",
+  "id": "05110d6b-ed17-4b8c-ae85-dcf9c6ef8c38"
+}
