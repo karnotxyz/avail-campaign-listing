@@ -1,0 +1,8 @@
+{
+  "name": "beng",
+  "logo": "https://i.ibb.co/Fmw2cR0/2024-02-09-21-06-44.png",
+  "rpc_url": "https://167.86.88.24:9944",
+  "explorer_url": "https://167.86.88.24:4000",
+  "metrics_endpoint": "https://167.86.88.24:9615/metrics",
+  "id": "0dd43e15-bfa6-4436-a3af-992561ccd88c"
+}
