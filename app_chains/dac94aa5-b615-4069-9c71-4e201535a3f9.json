@@ -1,0 +1,8 @@
+{
+  "name": "janaj",
+  "logo": "https://raw.githubusercontent.com/jjanou/some/main/JanaL.png",
+  "rpc_url": "http://5.75.231.214:9944",
+  "explorer_url": "http://5.75.231.214:4000",
+  "metrics_endpoint": "http://5.75.231.214:9615/metrics",
+  "id": "dac94aa5-b615-4069-9c71-4e201535a3f9"
+}
