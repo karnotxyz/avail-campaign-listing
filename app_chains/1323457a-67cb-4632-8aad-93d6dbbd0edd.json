@@ -1,0 +1,8 @@
+{
+  "name": "suspiciuss",
+  "logo": "http://43.131.255.36/pic/suspic.png",
+  "rpc_url": "http://43.131.255.36:9944",
+  "explorer_url": "http://43.131.255.36:4000",
+  "metrics_endpoint": "http://43.131.255.36:9615/metrics",
+  "id": "1323457a-67cb-4632-8aad-93d6dbbd0edd"
+}
