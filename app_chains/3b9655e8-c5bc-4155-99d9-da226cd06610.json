@@ -1,0 +1,8 @@
+{
+  "name": "izzetcava",
+  "logo": "https://r.resimlink.com/yRxJGCjB8.png",
+  "rpc_url": "http://147.45.40.53:9944",
+  "explorer_url": "http://147.45.40.53:4000",
+  "metrics_endpoint": "http://147.45.40.53:9615/metrics",
+  "id": "f0d067fc-72a0-4602-8252-119348957ad0"
+}
