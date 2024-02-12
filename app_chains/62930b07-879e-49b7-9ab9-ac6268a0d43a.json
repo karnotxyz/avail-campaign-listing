@@ -1,0 +1,8 @@
+{
+    "name": "bbehnam86",
+    "logo": "https://i.ibb.co/GxFxTtz/400-400.png",
+    "rpc_url": "https://185.208.172.246:9944",
+    "explorer_url": "https://185.208.172.246:4000",
+    "metrics_endpoint": "https://185.208.172.246:9615/metrics",
+    "id": "62930b07-879e-49b7-9ab9-ac6268a0d43a"
+  }
