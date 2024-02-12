@@ -1,0 +1,8 @@
+{
+  "name": "danilova",
+  "logo": "https://i.postimg.cc/8k28zt3p/51-a1355de63ee4d3f9b5415473fc8466f9.png",
+  "rpc_url": "http://34.82.185.181:9944",
+  "explorer_url": "http://34.82.185.181:4000",
+  "metrics_endpoint": "http://34.82.185.181:9615/metrics",
+  "id": "f2c1aa7e-eb0b-46a5-928a-b58e1f857e1f"
+}
