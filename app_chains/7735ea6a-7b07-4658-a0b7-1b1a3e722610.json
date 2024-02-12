@@ -1,0 +1,8 @@
+{
+  "name": "reminom",
+  "logo": "https://i.ibb.co/mJmnBsF/remino-3400064-1.png",
+  "rpc_url": "http://78.47.227.142:9944",
+  "explorer_url": "http://78.47.227.142:4000",
+  "metrics_endpoint": "http://78.47.227.142:9615/metrics",
+  "id": "7735ea6a-7b07-4658-a0b7-1b1a3e722610"
+}

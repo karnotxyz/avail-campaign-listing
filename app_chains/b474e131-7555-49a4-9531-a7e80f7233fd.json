@@ -1,0 +1,8 @@
+{
+  "name": "Conixia",
+  "logo": "https://i.imgur.com/fPw2Zof.png",
+  "rpc_url": "http://173.212.246.180:9944",
+  "explorer_url": "http://173.212.246.180:4000",
+  "metrics_endpoint": "http://173.212.246.180:9615/metrics",
+  "id": "b474e131-7555-49a4-9531-a7e80f7233fd"
+}
