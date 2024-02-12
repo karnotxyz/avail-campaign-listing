@@ -1,0 +1,8 @@
+{
+  "name": "mona",
+  "logo": "https://imgur.com/OaoV3aW",
+  "rpc_url": "http://138.197.1.39:9644",
+  "explorer_url": "http://138.197.1.39:4000",
+  "metrics_endpoint": "http://138.197.1.39:9615/metrics",
+  "id": "1246a99d-33a8-4303-9383-7d5638d5d88c"
+}
