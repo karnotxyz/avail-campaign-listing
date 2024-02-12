@@ -1,0 +1,8 @@
+{
+  "name": "slevensy",
+  "logo": "https://i.ibb.co/RDSR7gc/IMG-1154.jpg",
+  "rpc_url": "http://46.250.234.149:9944",
+  "explorer_url": "http://46.250.234.149:4000",
+  "metrics_endpoint": "http://46.250.234.149:9615/metrics",
+  "id": "a0ee688f-f747-4eca-9661-4d4ed9bc609d"
+}
