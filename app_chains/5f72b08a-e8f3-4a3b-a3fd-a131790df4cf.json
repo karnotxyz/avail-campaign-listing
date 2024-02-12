@@ -1,8 +1,0 @@
-{
-  "name": "slevensy",
-  "logo": "https://i.imgur.com/4kzLne0.jpg",
-  "rpc_url": "http://46.250.234.149:9944",
-  "explorer_url": "http://46.250.234.149:4000",
-  "metrics_endpoint": "http://46.250.234.149:9615/metrics",
-  "id": "5f72b08a-e8f3-4a3b-a3fd-a131790df4cf"
-}
