@@ -1,0 +1,8 @@
+{
+  "name": "cupon",
+  "logo": "https://i.ibb.co/tBS13n0/2024-02-11-212002.png",
+  "rpc_url": "http://31.220.81.245:9944",
+  "explorer_url": "http://31.220.81.245:4000",
+  "metrics_endpoint": "http://31.220.81.245:9615/metrics",
+  "id": "4e39f213-27f6-4a87-8830-f545a0db6503"
+}
