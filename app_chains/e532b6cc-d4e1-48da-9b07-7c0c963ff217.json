@@ -1,0 +1,8 @@
+{
+  "name": "zentsu-madera",
+  "logo": "https://i.imgur.com/0gumJhU.png",
+  "rpc_url": "http://38.242.237.22:9944",
+  "explorer_url": "http://38.242.237.22:4000",
+  "metrics_endpoint": "http://38.242.237.22:9615/metrics",
+  "id": "e532b6cc-d4e1-48da-9b07-7c0c963ff217"
+}

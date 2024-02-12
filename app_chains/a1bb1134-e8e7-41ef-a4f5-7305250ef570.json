@@ -1,0 +1,8 @@
+{
+  "name": "mohammad9066",
+  "logo": "https://r.resimlink.com/CEGgT6OMeK3.jpg",
+  "rpc_url": "http://135.181.157.66:9944",
+  "explorer_url": "http://135.181.157.66:4000",
+  "metrics_endpoint": "http://135.181.157.66:9615/metrics",
+  "id": "a1bb1134-e8e7-41ef-a4f5-7305250ef570"
+}

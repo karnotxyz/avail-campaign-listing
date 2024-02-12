@@ -1,0 +1,8 @@
+{
+  "name": "MysticCyxx",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/MysticCyxx.png",
+  "rpc_url": "http://49.51.47.165:9944",
+  "explorer_url": "http://49.51.47.165:4000",
+  "metrics_endpoint": "http://49.51.47.165:9615/metrics",
+  "id": "e329a81e-ada6-4b82-8e48-7e0e7543e373"
+}

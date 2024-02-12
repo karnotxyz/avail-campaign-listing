@@ -1,0 +1,8 @@
+{
+  "name": "Horizon",
+  "logo": "https://ibb.co/MPwY9QK/400x400",
+  "rpc_url": "https://173.212.254.90:9944",
+  "explorer_url": "https://173.212.254.90:4000",
+  "metrics_endpoint": "https://173.212.254.90:9615/metrics",
+  "id": "753de0a4-68cd-4d63-8496-27eb55582c62"
+}

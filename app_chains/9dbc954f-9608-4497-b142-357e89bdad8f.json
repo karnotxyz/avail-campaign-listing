@@ -1,0 +1,8 @@
+{
+  "name": "frsoci",
+  "logo": "https://github.com/davidgholmes26/Clash-of-Nodes-Madara---Karnot-Appchains-Challenge/blob/a9525d846b72b9f8071baabc9fcf8ff37a107d40/pinguino-tux.png",
+  "rpc_url": "http://116.203.148.101:9944",
+  "explorer_url": "http://116.203.148.101:4000",
+  "metrics_endpoint": "http://116.203.148.101:9615/metrics",
+  "id": "9dbc954f-9608-4497-b142-357e89bdad8f"
+}

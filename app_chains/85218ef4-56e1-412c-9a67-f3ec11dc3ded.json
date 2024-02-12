@@ -1,0 +1,8 @@
+{
+  "name": "Nexus",
+  "logo": "http://43.155.171.175/static/img/nexus.png",
+  "rpc_url": "http://43.155.171.175:9944",
+  "explorer_url": "http://43.155.171.175:4000",
+  "metrics_endpoint": "http://43.155.171.175:9615/metrics",
+  "id": "85218ef4-56e1-412c-9a67-f3ec11dc3ded"
+}

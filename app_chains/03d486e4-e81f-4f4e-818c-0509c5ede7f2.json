@@ -1,0 +1,8 @@
+{
+  "name": "mlknode",
+  "logo": "https://i.imgur.com/i7HpPRX.png",
+  "rpc_url": "http://168.119.111.126:9944",
+  "explorer_url": "http://168.119.111.126:4000",
+  "metrics_endpoint": "http://168.119.111.126:9615/metrics",
+  "id": "03d486e4-e81f-4f4e-818c-0509c5ede7f2"
+}
