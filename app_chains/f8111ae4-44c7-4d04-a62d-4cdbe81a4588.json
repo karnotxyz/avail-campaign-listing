@@ -1,0 +1,8 @@
+{
+  "name": "rez",
+  "logo": "https://i.ibb.co/r31vLdm/photo-2024-02-11-14-56-20.png",
+  "rpc_url": "http://5.189.164.190:9944",
+  "explorer_url": "http://5.189.164.190:4000",
+  "metrics_endpoint": "http://5.189.164.190:9615/metrics",
+  "id": "f8111ae4-44c7-4d04-a62d-4cdbe81a4588"
+}

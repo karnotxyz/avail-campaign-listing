@@ -1,0 +1,8 @@
+{
+  "name": "qpt222",
+  "logo": "https://i.ibb.co/7XcQx3L/23-PW46r-K-400x400.jpg",
+  "rpc_url": "http://155.133.22.77:9944",
+  "explorer_url": "http://155.133.22.77:4000",
+  "metrics_endpoint": "http://155.133.22.77:9615/metrics",
+  "id": "0399ab43-910f-4313-8afe-8135bbc1223b"
+}
