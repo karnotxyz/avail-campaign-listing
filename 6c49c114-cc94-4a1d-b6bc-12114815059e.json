@@ -1,0 +1,8 @@
+{
+  "name": "giewijaya",
+  "logo": "https://imgur.com/a/VVfpjSU.jpg",
+  "rpc_url": "http://64.23.190.87:9944",
+  "explorer_url": "http://64.23.190.87:4000",
+  "metrics_endpoint": "http://64.23.190.87:9615/metrics",
+  "id": "6c49c114-cc94-4a1d-b6bc-12114815059e"
+}
