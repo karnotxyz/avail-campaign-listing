@@ -1,0 +1,8 @@
+{
+  "name": "mustbaked",
+  "logo": "http://43.134.121.150/logo.jpg",
+  "rpc_url": "http://43.134.121.150:9944",
+  "explorer_url": "http://43.134.121.150:4000",
+  "metrics_endpoint": "http://43.134.121.150:9615/metrics",
+  "id": "a4eacc4e-94c2-4364-80ea-5ff065f48970"
+}

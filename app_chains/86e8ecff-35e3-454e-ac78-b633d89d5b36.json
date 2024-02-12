@@ -1,0 +1,8 @@
+{
+  "name": "construction",
+  "logo": "https://r.resimlink.com/WzIvJu2pRCax.jpg",
+  "rpc_url": "http://49.13.123.38:9944",
+  "explorer_url": "http://49.13.123.38:4000",
+  "metrics_endpoint": "http://49.13.123.38:9615/metrics",
+  "id": "86e8ecff-35e3-454e-ac78-b633d89d5b36"
+}
