@@ -1,0 +1,8 @@
+{
+  "name": "Alice",
+  "logo": "https://png.pngtree.com/element_pic/00/16/09/2057e0eecf792fb.jpg",
+  "rpc_url": "http://37.60.239.150:9944",
+  "explorer_url": "http://37.60.239.150:4000",
+  "metrics_endpoint": "http://37.60.239.150:9615/metrics",
+  "id": "167756b1-7c02-40f7-a7b1-345497b42c9e"
+}
