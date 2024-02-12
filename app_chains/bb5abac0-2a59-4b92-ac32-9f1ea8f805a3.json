@@ -1,0 +1,8 @@
+{
+  "name": "HANNAH",
+  "logo": "https://r.resimlink.com/VjZn8C.png",
+  "rpc_url": "http://38.242.138.107:9944",
+  "explorer_url": "http://38.242.138.107:4000",
+  "metrics_endpoint": "http://38.242.138.107:9615/metrics",
+  "id": "bb5abac0-2a59-4b92-ac32-9f1ea8f805a3"
+}
