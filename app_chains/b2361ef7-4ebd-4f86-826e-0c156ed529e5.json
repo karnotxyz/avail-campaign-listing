@@ -1,0 +1,8 @@
+{
+  "name": "Fuzzy",
+  "logo": "https://r.resimlink.com/enhMc.png",
+  "rpc_url": "http://188.166.74.81:9944",
+  "explorer_url": "http://188.166.74.81:4000",
+  "metrics_endpoint": "http://188.166.74.81:9615/metrics",
+  "id": "b2361ef7-4ebd-4f86-826e-0c156ed529e5"
+}

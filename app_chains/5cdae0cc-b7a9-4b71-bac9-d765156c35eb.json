@@ -1,0 +1,8 @@
+{
+  "name": "minus502",
+  "logo": "https://pbs.twimg.com/profile_images/1696483917682163713/U5stKSFM_400x400.jpg",
+  "rpc_url": "http://103.166.228.151:9944",
+  "explorer_url": "http://103.166.228.151:4000",
+  "metrics_endpoint": "http://103.166.228.151:9615/metrics",
+  "id": "5cdae0cc-b7a9-4b71-bac9-d765156c35eb"
+}

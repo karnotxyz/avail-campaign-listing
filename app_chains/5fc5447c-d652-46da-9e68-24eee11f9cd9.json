@@ -1,0 +1,8 @@
+{
+  "name": "NomindChain",
+  "logo": "https://i.ibb.co/WgQ8vHf/lucky-pp.png",
+  "rpc_url": "http://194.233.85.79:9944",
+  "explorer_url": "http://194.233.85.79:4000",
+  "metrics_endpoint": "http://194.233.85.79:9615/metrics",
+  "id": "5fc5447c-d652-46da-9e68-24eee11f9cd9"
+}
