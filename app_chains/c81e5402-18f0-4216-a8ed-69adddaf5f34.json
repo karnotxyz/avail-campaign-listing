@@ -1,0 +1,8 @@
+{
+  "name": "infinitymadara",
+  "logo": "https://i.ibb.co/mSqrHY1/DALL-E-2024-01-09-21-08-25-Design-a-new-Valorant-inspired-image-by-incorporating-elements-from-the-u.png",
+  "rpc_url": "http://109.123.253.61:9944",
+  "explorer_url": "http://109.123.253.61:4000",
+  "metrics_endpoint": "http://109.123.253.61:9615/metrics",
+  "id": "c81e5402-18f0-4216-a8ed-69adddaf5f34"
+}
