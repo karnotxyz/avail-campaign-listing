@@ -1,0 +1,8 @@
+{
+  "name": "moopig",
+  "logo": "https://imgur.com/Ams0xqS",
+  "rpc_url": "http://34.125.154.72:9944",
+  "explorer_url": "http://34.125.154.72:4000",
+  "metrics_endpoint": "http://34.125.154.72:9615/metrics",
+  "id": "490dae90-ff12-4756-905e-309f7ea802b6"
+}
