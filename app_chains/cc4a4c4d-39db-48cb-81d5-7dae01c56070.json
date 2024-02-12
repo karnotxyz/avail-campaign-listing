@@ -1,0 +1,8 @@
+{
+  "name": "miraimhysa",
+  "logo": "https://i.imgur.com/ZNWlDfQ.png",
+  "rpc_url": "http://157.245.60.158:9944",
+  "explorer_url": "http://157.245.60.158:4000",
+  "metrics_endpoint": "http://157.245.60.158:9615/metrics",
+  "id": "cc4a4c4d-39db-48cb-81d5-7dae01c56070"
+}
