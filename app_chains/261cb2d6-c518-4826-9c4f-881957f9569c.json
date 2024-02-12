@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorld",
+  "logo": "https://i.ibb.co/j5FfSZd/user.png",
+  "rpc_url": "http://203.156.231.27:9944",
+  "explorer_url": "http://203.156.231.27:4000",
+  "metrics_endpoint": "http://203.156.231.27:9615/metrics",
+  "id": "261cb2d6-c518-4826-9c4f-881957f9569c"
+}
