@@ -1,0 +1,8 @@
+{
+  "name": "terynbyu",
+  "logo": "https://r.resimlink.com/FYtPIrBjgb.jpg",
+  "rpc_url": "http://65.108.94.54:9944",
+  "explorer_url": "http://65.108.94.54:4000",
+  "metrics_endpoint": "http://65.108.94.54:9615/metrics",
+  "id": "1e32f272-d51d-4777-9485-b17e2760fcd6"
+}

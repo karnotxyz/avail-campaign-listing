@@ -1,0 +1,8 @@
+{
+  "name": "burcukale",
+  "logo": "https://raw.githubusercontent.com/Mysterious098/rollapp-registry/main/devnet/burcukale_4112966-1/logos/burcukale_4112966-1.png.png",
+  "rpc_url": "http://95.111.225.202:9944",
+  "explorer_url": "http://95.111.225.202:4000",
+  "metrics_endpoint": "http://95.111.225.202:9615/metrics",
+  "id": "ae13f80b-856b-4886-b4ad-0dabbc1cd920"
+}
