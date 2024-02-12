@@ -1,0 +1,8 @@
+{
+  "name": "Johnwick",
+  "logo": "https://i.ibb.co/QXjNbDb/Screenshot-2024-02-04-222420.png",
+  "rpc_url": "http://173.249.43.115:9944",
+  "explorer_url": "http://173.249.43.115:4000",
+  "metrics_endpoint": "http://173.249.43.115:9615/metrics",
+  "id": "d33e1ecb-23e2-4226-a8c7-418a2c303196"
+}
