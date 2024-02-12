@@ -1,0 +1,8 @@
+{
+  "name": "Shavail",
+  "logo": "https://r.resimlink.com/tDO84U2W.png",
+  "rpc_url": "http://195.181.241.81:9944",
+  "explorer_url": "http://195.181.241.81:4000",
+  "metrics_endpoint": "http://195.181.241.81:9615/metrics",
+  "id": "d268dece-9887-4481-97d4-aa835e66ccd1"
+}
