@@ -1,0 +1,8 @@
+{
+  "name": "coinsspor",
+  "logo": "https://r.resimlink.com/4ZYOMLIi2a.png",
+  "rpc_url": "http://135.181.205.104:9944",
+  "explorer_url": "http://135.181.205.104:4000",
+  "metrics_endpoint": "http://135.181.205.104:9615",
+  "id": "a773e7ae-deb8-453f-8c9b-36469c6b8efc"
+}
