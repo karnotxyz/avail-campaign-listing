@@ -1,8 +1,0 @@
-{
-  "name": "APPCHAINHEE",
-  "logo": "https://i.ibb.co/KDcrMkz/hee.png",
-  "rpc_url": "http://173.249.37.229:9944",
-  "explorer_url": "http://173.249.37.229:4000",
-  "metrics_endpoint": "http://173.249.37.229:9615/metrics",
-  "id": "775be78f-f6a9-4ce7-a01b-ccc51e79a162"
-}
