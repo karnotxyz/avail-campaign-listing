@@ -1,0 +1,8 @@
+{
+  "name": "bayzz90",
+  "logo": "https://ibb.co/hLMpfKN",
+  "rpc_url": "http://20.27.214.102:9944/",
+  "explorer_url": "http://20.27.214.102:4000",
+  "metrics_endpoint": "http://20.27.214.102:9615/metrics",
+  "id": "490b2b7f-eb2e-4d3d-a11b-9ea643d73b0c"
+}
