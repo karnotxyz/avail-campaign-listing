@@ -1,0 +1,8 @@
+{
+  "name":"emilymeth",
+  "logo":"https://ibb.co/grhxrP2",
+  "rpc_url":"http://194.116.173.114:9944",
+  "explorer_url":"http://194.116.173.114:4000",
+  "metrics_endpoint":"http://194.116.173.114:9615/metrics",
+  "id":"86248ae3-ec04-463a-8231-5060bcd31d18"
+}
