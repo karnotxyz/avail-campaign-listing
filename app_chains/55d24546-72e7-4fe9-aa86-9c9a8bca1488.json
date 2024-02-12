@@ -1,0 +1,8 @@
+{
+  "name": "woolshould",
+  "logo": "http://43.134.129.102/logo.jpg",
+  "rpc_url": "http://43.134.129.102:9944",
+  "explorer_url": "http://43.134.129.102:4000",
+  "metrics_endpoint": "http://43.134.129.102:9615/metrics",
+  "id": "55d24546-72e7-4fe9-aa86-9c9a8bca1488"
+}
