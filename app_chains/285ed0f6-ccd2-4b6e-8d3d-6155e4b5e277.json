@@ -1,0 +1,8 @@
+{
+  "name": "MadaraKarnot",
+  "logo": "https://r.resimlink.com/wo-tyh_.png",
+  "rpc_url": "http://95.217.20.175:9944",
+  "explorer_url": "http://95.217.20.175:4000",
+  "metrics_endpoint": "http://95.217.20.175:9615/metrics", 
+  "id": "285ed0f6-ccd2-4b6e-8d3d-6155e4b5e277"
+}
