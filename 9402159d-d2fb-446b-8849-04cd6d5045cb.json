@@ -1,8 +1,0 @@
-{
-  "name": "seederda",
-  "logo": "https://i.imgur.com/Eo7facE.png",
-  "rpc_url": "http://173.249.36.48:9944",
-  "explorer_url": "http://173.249.36.48:4000",
-  "metrics_endpoint": "http://173.249.36.48:9615/metrics",
-  "id": "9402159d-d2fb-446b-8849-04cd6d5045cb"
-}
