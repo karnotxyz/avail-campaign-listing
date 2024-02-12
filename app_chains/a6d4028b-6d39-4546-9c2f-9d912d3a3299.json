@@ -1,6 +1,6 @@
 {
   "name": "Harvester",
-  "logo": "http://ibb.co/NjNWLr3",
+  "logo": "https://ibb.co/NjNWLr3",
   "rpc_url": "http://153.92.223.138:9944",
   "explorer_url": "http://153.92.223.138:4000",
   "metrics_endpoint": "http://153.92.223.138:9615",
