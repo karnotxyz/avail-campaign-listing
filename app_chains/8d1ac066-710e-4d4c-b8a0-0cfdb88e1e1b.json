@@ -1,0 +1,8 @@
+{
+    "name": "srontol",
+    "logo": "http://i.ibb.co/2h6kzGk/ss1.png",
+    "rpc_url": "http://103.179.86.34:9944",
+    "explorer_url": "http://103.179.86.34:4000",
+    "metrics_endpoint": "http://103.179.86.34:9615/metrics",
+    "id": "8d1ac066-710e-4d4c-b8a0-0cfdb88e1e1b"
+  }
