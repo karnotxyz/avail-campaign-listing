@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://placehold.co/400x400/red/white?font=lato&text=vin",
+  "rpc_url": "http://31.187.74.136:9944",
+  "explorer_url": "http://31.187.74.136:4000",
+  "metrics_endpoint": "http://31.187.74.136:9615/metrics",
+  "id": "341042d8-cb82-4a98-9254-258ef4df1806"
+}
