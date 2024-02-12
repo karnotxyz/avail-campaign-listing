@@ -1,0 +1,8 @@
+{
+    "name": "padidao",
+    "logo": "https://i.ibb.co/1Q2k3Qs/padi.jpg",
+    "rpc_url": "http://173.212.235.37:9944",
+    "explorer_url": "http://173.212.235.37:4000",
+    "metrics_endpoint": "http://173.212.235.37:9615/metrics",
+    "id": "276e9948-7f07-44cf-8630-49630888a3d5"
+}
