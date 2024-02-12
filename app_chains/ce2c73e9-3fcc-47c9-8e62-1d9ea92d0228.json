@@ -1,8 +1,8 @@
-  {
-    "name": "moshiri",
-    "logo": "https://r.resimlink.com/-PN1StLIxKGA.png",
-    "rpc_url": "http://45.144.29.83:9944",
-    "explorer_url": "http://45.144.29.83:4000",
-    "metrics_endpoint": "http://45.144.29.83:9615/metrics", 
-    "id": "ce2c73e9-3fcc-47c9-8e62-1d9ea92d0228"
-  }
+{
+  "name": "moshiri",
+  "logo": "https://r.resimlink.com/-PN1StLIxKGA.png",
+  "rpc_url": "http://45.144.29.83:9944",
+  "explorer_url": "http://45.144.29.83:4000",
+  "metrics_endpoint": "http://45.144.29.83:9615/metrics",
+  "id": "ce2c73e9-3fcc-47c9-8e62-1d9ea92d0228"
+}
