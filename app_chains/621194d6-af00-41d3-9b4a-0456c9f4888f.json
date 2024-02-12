@@ -1,0 +1,8 @@
+{
+  "name": "muratn",
+  "logo": "https://i.hizliresim.com/lw7t2z7.png",
+  "rpc_url": "http://84.46.245.210:9944",
+  "explorer_url": "http://84.46.245.210:4000",
+  "metrics_endpoint": "http://84.46.245.210:9615/metrics",
+  "id": "621194d6-af00-41d3-9b4a-0456c9f4888f"
+}
