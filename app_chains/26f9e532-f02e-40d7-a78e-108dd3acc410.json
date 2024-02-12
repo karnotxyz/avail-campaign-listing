@@ -1,0 +1,8 @@
+{
+  "name": "donatmanis",
+  "logo": "https://i.ibb.co/NLbpFyx/madara-sarinem.png",
+  "rpc_url": "http://159.89.196.106:9944",
+  "explorer_url": "http://159.89.196.106:4000",
+  "metrics_endpoint": "http://159.89.196.106:9615/metrics",
+  "id": "26f9e532-f02e-40d7-a78e-108dd3acc410"
+}
