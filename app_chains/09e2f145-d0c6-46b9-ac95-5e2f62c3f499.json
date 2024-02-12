@@ -1,0 +1,8 @@
+{
+  "name": "saeedt",
+  "logo": "http://r.resimlink.com/VNv-Oib8Yo.png",
+  "rpc_url": "http://77.105.146.94:9944",
+  "explorer_url": "http://77.105.146.94:4000",
+  "metrics_endpoint": "http://77.105.146.94:9615/metrics",
+  "id": "09e2f145-d0c6-46b9-ac95-5e2f62c3f499"
+}
