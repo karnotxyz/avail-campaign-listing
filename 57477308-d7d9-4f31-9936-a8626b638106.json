@@ -1,8 +1,8 @@
 {
   "name": "Raghav",
-  "logo": "https://r.resimlink.com/qkPWGUVwSd1T.webp",
-  "rpc_url": "http://206.189.8.43:9944",
-  "explorer_url": "http://206.189.8.43:4000",
-  "metrics_endpoint": "http://206.189.8.43:9615/metrics",
+  "logo": "https://i.ibb.co/Hg6gHvt/cow.jpg",
+  "rpc_url": "http://161.97.83.15:9944",
+  "explorer_url": "http://161.97.83.15:4000",
+  "metrics_endpoint": "http://161.97.83.15:9615/metrics",
   "id": "57477308-d7d9-4f31-9936-a8626b638106"
 }
