@@ -1,4 +1,4 @@
-name: Automatic Approve
+name: Automatic Merge Cron
 
 on:
   schedule:
