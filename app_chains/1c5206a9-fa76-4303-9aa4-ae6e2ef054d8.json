@@ -1,0 +1,8 @@
+{
+  "name": "candysand",
+  "logo": "https://i.ibb.co/TgHw33H/3221.png",
+  "rpc_url": "http://37.60.233.114:9944",
+  "explorer_url": "http://37.60.233.114:4000",
+  "metrics_endpoint": "http://37.60.233.114:9615/metrics",
+  "id": "1c5206a9-fa76-4303-9aa4-ae6e2ef054d8"
+}
