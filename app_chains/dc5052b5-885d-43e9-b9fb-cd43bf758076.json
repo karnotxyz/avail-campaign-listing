@@ -1,6 +1,6 @@
 {
  "name": "Matoskok",
- "logo": "https://i.ibb.co/VvgnzdH/lion-head-clipart-md.png",
+ "logo": "",
  "rpc_url": "http://37.60.238.106:9944",
  "explorer_url": "http://37.60.238.106:4000",
  "metrics_endpoint": "http://37.60.238.106:9615/metrics",
