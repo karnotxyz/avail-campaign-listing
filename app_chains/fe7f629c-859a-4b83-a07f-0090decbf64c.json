@@ -1,0 +1,8 @@
+{
+  "name": "scaffolding",
+  "logo": "http://43.134.60.194/logo.jpg",
+  "rpc_url": "http://43.134.60.194:9944",
+  "explorer_url": "http://43.134.60.194:4000",
+  "metrics_endpoint": "http://43.134.60.194:9615/metrics",
+  "id": "fe7f629c-859a-4b83-a07f-0090decbf64c"
+}

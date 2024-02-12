@@ -1,0 +1,8 @@
+{
+  "name": "kerriwyllie",
+  "logo": "https://r.resimlink.com/rdLS3091qOH4.jpg",
+  "rpc_url": "http://65.109.165.108:9944",
+  "explorer_url": "http://65.109.165.108:4000",
+  "metrics_endpoint": "http://65.109.165.108:9615/metrics",
+  "id": "8fb5af67-ca98-49cb-80f3-e0728725f544"
+}

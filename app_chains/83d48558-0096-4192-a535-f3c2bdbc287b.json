@@ -1,0 +1,8 @@
+{
+  "name": "alcibiades",
+  "logo": "https://r.resimlink.com/l7Ed2sm.jpg",
+  "rpc_url": "http://45.67.216.196:9944",
+  "explorer_url": "http://45.67.216.196:4000",
+  "metrics_endpoint": "http://45.67.216.196:9615/metrics",
+  "id": "83d48558-0096-4192-a535-f3c2bdbc287b"
+}
