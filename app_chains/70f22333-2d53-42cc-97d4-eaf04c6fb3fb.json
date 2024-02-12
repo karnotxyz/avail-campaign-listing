@@ -1,0 +1,8 @@
+{
+  "name": "tana",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106548980/303326295-9884c07f-3579-4a7a-9708-0f80965556fa.png",
+  "rpc_url": "http://38.242.193.21:9944",
+  "explorer_url": "http://38.242.193.21:4000",
+  "metrics_endpoint": "http://38.242.193.21:9615/metrics",
+  "id": "70f22333-2d53-42cc-97d4-eaf04c6fb3fb"
+}
