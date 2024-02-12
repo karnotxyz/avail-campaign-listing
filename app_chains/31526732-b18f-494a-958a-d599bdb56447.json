@@ -1,0 +1,8 @@
+{
+  "name": "matt",
+  "logo": "https://i.ibb.co/kSTRYWC/Mage-b6c07e85.png",
+  "rpc_url": "https:/84.247.187.136:9944",
+  "explorer_url": "https://84.247.187.136:4000",
+  "metrics_endpoint": "https://84.247.187.136:9615/metrics",
+  "id": "31526732-b18f-494a-958a-d599bdb56447"
+}
