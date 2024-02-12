@@ -1,0 +1,8 @@
+{
+  "name": "BDR",
+  "logo": "https://r.resimlink.com/MdQ-Xm.jpg",
+  "rpc_url": "http://167.86.120.45:9944",
+  "explorer_url": "http://167.86.120.45:4000",
+  "metrics_endpoint": "http://167.86.120.45:9615/metrics",
+  "id": "06378ab5-5609-4294-8aa3-95bcf1014b4d"
+}
