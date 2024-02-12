@@ -1,0 +1,9 @@
+{
+	"name": "soulchef",
+	"logo": "https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgaming-logo&psig=AOvVaw3XXx7Z88QSLqpDoBTQXfNA&ust=1707732118955000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiT5YSEo4QDFQAAAAAdAAAAABAE",
+	"rpc_url": "http://64.176.41.72:9944",
+	"explorer_url": "http://64.176.41.72:4000",
+	"metrics_endpoint": "http://64.176.41.72:9615/metrics",
+	"id": "56de0d14-ce8a-4e92-acef-7ef3a0ce96e0"
+}
+
