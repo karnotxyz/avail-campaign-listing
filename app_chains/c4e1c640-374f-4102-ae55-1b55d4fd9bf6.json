@@ -1,0 +1,8 @@
+{
+  "name": "tuna",
+  "logo": "https://ibb.co/6XhqBPV",
+  "rpc_url": "http://37.60.246.36:9944",
+  "explorer_url": "http://37.60.246.36:4000",
+  "metrics_endpoint": "http://37.60.246.36:9615/metrics",
+  "id": "c4e1c640-374f-4102-ae55-1b55d4fd9bf6"
+}
