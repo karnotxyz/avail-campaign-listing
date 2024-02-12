@@ -1,0 +1,8 @@
+{
+  "name": "markepele",
+  "logo": "https://i.imgur.com/umHZ5vO.jpeg",
+  "rpc_url": "http://128.199.94.146:9944",
+  "explorer_url": "http://128.199.94.146:4000",
+  "metrics_endpoint": "http://128.199.94.146:9615/metrics",
+  "id": "97dee3fe-1711-4141-a035-45dfa0a437d8"
+}
