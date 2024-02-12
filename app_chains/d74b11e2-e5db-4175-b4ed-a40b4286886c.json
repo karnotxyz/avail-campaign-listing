@@ -1,0 +1,8 @@
+{
+  "name": "rafzkzkzk",
+  "logo": "https://raw.githubusercontent.com/rafzks1/mad/main/109168540.jpg",
+  "rpc_url": "http://95.143.196.16:9944",
+  "explorer_url": "http://95.143.196.16:4000",
+  "metrics_endpoint": "http://95.143.196.16:9615/metrics",
+  "id": "d74b11e2-e5db-4175-b4ed-a40b4286886c"
+}

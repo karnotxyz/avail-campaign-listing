@@ -1,0 +1,8 @@
+{
+  "name": "scalcclrcmhs",
+  "logo": "https://raw.githubusercontent.com/scalcclrcmhs4/scalcclrcmhs4/main/dff.jpg",
+  "rpc_url": "http://46.250.231.79:9944",
+  "explorer_url": "http://46.250.231.79:4000",
+  "metrics_endpoint": "http://46.250.231.79:9615/metrics",
+  "id": "707ac302-a2c1-4934-a55e-fb22593a7046"
+}

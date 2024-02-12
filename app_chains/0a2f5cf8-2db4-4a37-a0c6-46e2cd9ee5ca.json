@@ -1,0 +1,8 @@
+{
+  "name": "CityBoy",
+  "logo": "https://i.ibb.co/X2bR3HW/images-2.jpg",
+  "rpc_url": "http://43.163.194.71:9944",
+  "explorer_url": "http://43.163.194.71:4000",
+  "metrics_endpoint": "http://43.163.194.71:9615/metrics",
+  "id": "0a2f5cf8-2db4-4a37-a0c6-46e2cd9ee5ca"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "papichulo447",
+  "logo": "https://i.ibb.co/FXkKTXW/524652-2277193-updates.webp",
+  "rpc_url": "http://75.119.159.3:9944",
+  "explorer_url": "http://75.119.159.3:4000",
+  "metrics_endpoint": "http://75.119.159.3:9615/metrics",
+  "id": "72120f42-9b28-4eae-b889-7b84ee3b526d"
+}
