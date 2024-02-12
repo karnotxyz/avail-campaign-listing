@@ -1,0 +1,8 @@
+{
+  "name": "mtfvkk",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://34.83.253.172:9944",
+  "explorer_url": "http://34.83.253.172:4000",
+  "metrics_endpoint": "http://34.83.253.172:9615/metrics",
+  "id": "e4115b4b-b662-4248-b601-d0b0f2484d5f"
+}

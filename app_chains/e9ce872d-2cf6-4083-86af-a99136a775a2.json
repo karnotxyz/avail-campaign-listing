@@ -1,0 +1,8 @@
+{
+  "name": "sznlouiseamadine",
+  "logo": "https://i.imgur.com/Vps8oDA.png",
+  "rpc_url": "http://31.220.94.251:9944",
+  "explorer_url": "http://31.220.94.251:4000",
+  "metrics_endpoint": "http://31.220.94.251:9615/metrics",
+  "id": "e9ce872d-2cf6-4083-86af-a99136a775a2"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bubblegues",
+  "logo": "http://43.159.51.28/logo.jpg",
+  "rpc_url": "http://43.159.51.28:9944",
+  "explorer_url": "http://43.159.51.28:4000",
+  "metrics_endpoint": "http://43.159.51.28:9615/metrics",
+  "id": "1f02376b-f9bd-470a-8dd5-accc1c01e33b"
+}

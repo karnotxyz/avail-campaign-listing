@@ -1,0 +1,8 @@
+{
+  "name": "kuli",
+  "logo": "https://i.ibb.co/cTJs3hL/photo-2023-08-20-12-43-26.jpg",
+  "rpc_url": "http://194.163.187.163:9944",
+  "explorer_url": "http://194.163.187.163:4000",
+  "metrics_endpoint": "http://194.163.187.163:9615/metrics",
+  "id": "ab05263b-6697-48a9-93ac-5c7a63e3c56f"
+}
