@@ -1,0 +1,8 @@
+{
+   "name": "metafire",
+   "logo": "https://r.resimlink.com/NGJY3xCXDZB.png",
+   "rpc_url": "http://167.86.98.204:9944",
+   "explorer_url": "http://167.86.98.204:4000",
+   "metrics_endpoint": "http://167.86.98.204:9615/metrics", 
+   "id": "19978310-59e9-4b18-be59-d60554f865cd"
+}
