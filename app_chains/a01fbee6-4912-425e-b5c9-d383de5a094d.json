@@ -1,0 +1,8 @@
+{
+    "name": "psychee",
+    "logo": "https://i.ibb.co/RSWc046/9c54f8b0-4497-4ad2-ba77-de547edd9dd9.jpg",
+    "rpc_url": "http://158.220.99.171:9944",
+    "explorer_url": "http://158.220.99.171:4000",
+    "metrics_endpoint": "http://158.220.99.171:9615/metrics",
+    "id": "a01fbee6-4912-425e-b5c9-d383de5a094d"
+  }
