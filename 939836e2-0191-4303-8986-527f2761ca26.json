@@ -1,0 +1,8 @@
+{
+  "name": "zheezzy",
+  "logo": "https://pic.in.th/image/zQ52St",
+  "rpc_url": "http://158.220.102.243:9944",
+  "explorer_url": "http://158.220.102.243:4000",
+  "metrics_endpoint": "http://158.220.102.243:9615/metrics",
+  "id": "939836e2-0191-4303-8986-527f2761ca26"
+}
