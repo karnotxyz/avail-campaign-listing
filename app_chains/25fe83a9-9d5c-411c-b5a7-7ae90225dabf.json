@@ -1,0 +1,8 @@
+{
+  "name": "fetelin1",
+  "logo": "https://r.resimlink.com/wDKtPl.png",
+  "rpc_url": "http://167.86.122.232:9944",
+  "explorer_url": "http://167.86.122.232:4000",
+  "metrics_endpoint": "http://167.86.122.232:9615/metrics",
+  "id": "25fe83a9-9d5c-411c-b5a7-7ae90225dabf"
+}
