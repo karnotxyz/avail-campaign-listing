@@ -1,0 +1,8 @@
+{
+  "name": "raoofsin",
+  "logo": "https://r.resimlink.com/fqpQxOR.jpg",
+  "rpc_url": "http://167.233.5.234:9944",
+  "explorer_url": "http://167.233.5.234:4000",
+  "metrics_endpoint": "http://167.233.5.234:9615/metrics",
+  "id": "26e68b74-e05f-438c-bef3-11814cea89b6"
+}
