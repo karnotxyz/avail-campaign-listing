@@ -1,0 +1,8 @@
+{
+  "name": "banana",
+  "logo": "https://i.imgur.com/W2uzxFB.jpg",
+  "rpc_url": "http://173.212.207.41:9944",
+  "explorer_url": "http://173.212.207.41:4000",
+  "metrics_endpoint": "http://173.212.207.41:9615/metrics",
+  "id": "d0670026-20f7-4d1f-abc0-8a68dc781df8"
+}

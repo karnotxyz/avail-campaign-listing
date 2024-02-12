@@ -1,0 +1,8 @@
+{
+  "name": "mccaffertynyla",
+  "logo": "https://r.resimlink.com/ziGqB.jpg",
+  "rpc_url": "http://37.27.43.155:9944",
+  "explorer_url": "http://37.27.43.155:4000",
+  "metrics_endpoint": "http://37.27.43.155:9615/metrics",
+  "id": "2f008ce5-b11d-491c-b801-2c82b02692bc"
+}
