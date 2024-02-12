@@ -1,0 +1,8 @@
+{
+  "name": "kerempars",
+  "logo": "https://r.resimlink.com/0FhR9Ccr8.png",
+  "rpc_url": "http://128.199.61.233:9944",
+  "explorer_url": "http://128.199.61.233:4000",
+  "metrics_endpoint": "http://128.199.61.233:9615",
+  "id": "6bc4472b-cb07-4c3d-8ad1-391d78e46414"
+}
