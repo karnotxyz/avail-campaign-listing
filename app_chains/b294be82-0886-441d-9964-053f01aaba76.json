@@ -1,0 +1,8 @@
+{
+  "name": "calvinjoe",
+  "logo": "https://i.ibb.co.com/TY57xZk/109791765.jpg",
+  "rpc_url": "http://88.198.52.89:9944",
+  "explorer_url": "http://88.198.52.89:4000/",
+  "metrics_endpoint": "http://88.198.52.89:9615/metrics",
+  "id": "b294be82-0886-441d-9964-053f01aaba76"
+}
