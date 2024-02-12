@@ -1,0 +1,8 @@
+{
+  "name": "mohammad67",
+  "logo": "https://r.resimlink.com/ojNal.png",
+  "rpc_url": "http://65.108.153.73:9944",
+  "explorer_url": "http://65.108.153.73:4000",
+  "metrics_endpoint": "http://65.108.153.73:9615/metrics",
+  "id": "a2c273fb-f7e1-4eb8-8d08-8b191df5f865"
+}
