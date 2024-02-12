@@ -1,0 +1,8 @@
+{
+  "name": "amarief",
+  "logo": "https://r.resimlink.com/c-XaqfK7.jpg",
+  "rpc_url": "http://37.60.253.14:9944",
+  "explorer_url": "http://37.60.253.14:4000",
+  "metrics_endpoint": "http://37.60.253.14:9615/metrics",
+  "id": "52f7a659-2658-4b28-a102-301ffe8e5431"
+}
