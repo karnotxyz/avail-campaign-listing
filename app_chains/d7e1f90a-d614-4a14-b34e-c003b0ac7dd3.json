@@ -1,8 +1,8 @@
 {
-   "name": "mrfti",
-   "logo": "https://imgbox.com/HsUS4Hhb",
-   "rpc_url": "http://49.12.57.43:9944",
-   "explorer_url": "http://49.12.57.43:4000",
-   "metrics_endpoint": "http://49.12.57.43:9615/metrics",
-   "id": "6f571b31-aa01-45ba-89d3-1f84319ae7d2"
+  "name": "mrfti",
+  "logo": "https://imgbox.com/HsUS4Hhb",
+  "rpc_url": "http://49.12.57.43:9944",
+  "explorer_url": "http://49.12.57.43:4000",
+  "metrics_endpoint": "http://49.12.57.43:9615/metrics",
+  "id": "6f571b31-aa01-45ba-89d3-1f84319ae7d2"
 }
