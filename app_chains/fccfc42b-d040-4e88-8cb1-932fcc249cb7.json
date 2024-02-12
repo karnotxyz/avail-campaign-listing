@@ -1,0 +1,8 @@
+{
+  "name": "tosto",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/142492297/304107000-8cbe7d31-3485-4e64-be23-3d01ebf83db9.jpg",
+  "rpc_url": "http://172.24.110.173:9944",
+  "explorer_url": "http://172.24.110.173:4000",
+  "metrics_endpoint": "http://172.24.110.173:9615/metrics",
+  "id": "fccfc42b-d040-4e88-8cb1-932fcc249cb7"
+}
