@@ -1,8 +1,8 @@
 {
   "name": "lukatada",
   "logo": "https://lukatada.s3.af-south-1.amazonaws.com/frog",
-  "rpc_url": "http://localhost:9944",
-  "explorer_url": "http://localhost:3003",
-  "metrics_endpoint": "http://localhost:9615",
+  "rpc_url": "https://lukatada-cidm3qux1-lukatadas-projects.vercel.app/",
+  "explorer_url": "https://lukatada-cidm3qux1-lukatadas-projects.vercel.app/",
+  "metrics_endpoint": "https://lukatada-cidm3qux1-lukatadas-projects.vercel.app/",
   "id": "4cad16ed-ad66-43b0-aabc-c7073ea987a1"
 }
