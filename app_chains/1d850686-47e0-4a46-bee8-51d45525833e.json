@@ -1,0 +1,8 @@
+{
+  "name": "0xpompeiib",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0xed5af388653567af2f388e6224dc7c4b3241c544/TVRjd05UQTVNell3TlE9PV80NjEy.png",
+  "rpc_url": "http://150.109.245.751:9944",
+  "explorer_url": "http://150.109.245.75:4000",
+  "metrics_endpoint": "http://150.109.245.75:9615/metrics",
+  "id": "1d850686-47e0-4a46-bee8-51d45525833e"
+}
