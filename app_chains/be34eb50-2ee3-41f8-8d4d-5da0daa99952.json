@@ -1,0 +1,8 @@
+{
+  "name": "boss",
+  "logo": "https://r.resimlink.com/o_OMspRn.jpg",
+  "rpc_url": "http://159.65.139.189:9944",
+  "explorer_url": "http://159.65.139.189:4000",
+  "metrics_endpoint": "http://159.65.139.189:9615/metrics",
+  "id": "be34eb50-2ee3-41f8-8d4d-5da0daa99952"
+}

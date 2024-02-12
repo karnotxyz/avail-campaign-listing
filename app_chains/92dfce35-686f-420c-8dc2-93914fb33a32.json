@@ -1,0 +1,8 @@
+{
+  "name": "jakejkb",
+  "logo": "https://ibb.co/GtPW7vm",
+  "rpc_url": "http://85.208.48.161:9944",
+  "explorer_url": "http://85.208.48.161:4000",
+  "metrics_endpoint": "http://85.208.48.161:9615/metrics",
+  "id": "92dfce35-686f-420c-8dc2-93914fb33a32"
+}
