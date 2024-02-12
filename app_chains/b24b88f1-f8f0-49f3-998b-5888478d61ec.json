@@ -1,0 +1,8 @@
+{
+  "name": "ibrahimn",
+  "logo": "https://placehold.co/400x400.png?text=ibrahim",
+  "rpc_url": "http://82.208.20.134:9944",
+  "explorer_url": "http://82.208.20.134:4000",
+  "metrics_endpoint": "http://82.208.20.134:9615/metrics",
+  "id": "b24b88f1-f8f0-49f3-998b-5888478d61ec"
+}
