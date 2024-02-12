@@ -1,0 +1,8 @@
+{
+  "name": "icepro001",
+  "logo": "https://i.imgur.com/yyx6Iul.png",
+  "rpc_url": "http://43.153.90.46:9944",
+  "explorer_url": "http://43.153.90.46:4000",
+  "metrics_endpoint": "http://43.153.90.46:9615/metrics",
+  "id": "c4eb2597-d50e-4304-a0a3-231e5598d8ed"
+}
