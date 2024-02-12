@@ -1,0 +1,8 @@
+{
+  "name": "slazenger",
+  "logo": "https://i.pinimg.com/736x/be/76/1a/be761af64dd89efb37bb424946fb31c3.jpg",
+  "rpc_url": "http://128.140.76.114:9944",
+  "explorer_url": "http://128.140.76.114:4000",
+  "metrics_endpoint": "http://128.140.76.114:9615/metrics",
+  "id": "74f43e30-cd5a-447d-a7ad-8f23f205c7e5"
+}
