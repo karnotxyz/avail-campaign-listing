@@ -1,8 +1,8 @@
 {
-	"name": "Vane",
-	"logo": "https://drive.google.com/file/d/1ymdGofa-wShdBkEqXllrAG2SYrq0NtSH/view?usp=drive_link",
-	"rpc_url": "http://158.220.85.55:9944",
-	"explorer_url": "http://158.220.85.55:4000",
-	"metrics_endpoint": "http://158.220.85.55:9615/metrics",
-	"id": "1bb48770-560c-494d-9ec3-c91bf7f002c4"
+  "name": "Vane",
+  "logo": "https://drive.google.com/file/d/1ymdGofa-wShdBkEqXllrAG2SYrq0NtSH/view?usp=drive_link",
+  "rpc_url": "http://158.220.85.55:9944",
+  "explorer_url": "http://158.220.85.55:4000",
+  "metrics_endpoint": "http://158.220.85.55:9615/metrics",
+  "id": "1bb48770-560c-494d-9ec3-c91bf7f002c4"
 }
