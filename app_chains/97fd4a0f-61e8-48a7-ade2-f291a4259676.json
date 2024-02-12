@@ -1,5 +1,4 @@
-[
-  {
+{
     "name": "bayzz90",
     "logo": "https://avatars.githubusercontent.com/u/17765242?s=400&u=45b500d9d086b7bdd22bbec54799409d1f660a03&v=4",
     "rpc_url": "http://20.27.214.102:994",
@@ -7,4 +6,3 @@
     "metrics_endpoint": "http://20.27.214.102:9165/metrics",
     "id": "97fd4a0f-61e8-48a7-ade2-f291a4259676"
   }
-]
