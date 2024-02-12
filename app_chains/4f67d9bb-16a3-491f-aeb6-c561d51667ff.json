@@ -1,0 +1,8 @@
+{
+  "name": "selefkos",
+  "logo": "",
+  "rpc_url": "http://172.234.80.44:9944",
+  "explorer_url": "http://172.234.80.44:4000",
+  "metrics_endpoint": "http://172.234.80.44:9615/metrics",
+  "id": "4f67d9bb-16a3-491f-aeb6-c561d51667ff"
+}
