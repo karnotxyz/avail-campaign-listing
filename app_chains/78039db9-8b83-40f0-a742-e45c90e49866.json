@@ -1,0 +1,8 @@
+{
+  "name": "tvgrqxdr",
+  "logo": "https://r.resimlink.com/vnYz14pAw.jpg",
+  "rpc_url": "http://135.181.34.196:9944",
+  "explorer_url": "http://135.181.34.196:4000",
+  "metrics_endpoint": "http://135.181.34.196:9615/metrics",
+  "id": "78039db9-8b83-40f0-a742-e45c90e49866"
+}

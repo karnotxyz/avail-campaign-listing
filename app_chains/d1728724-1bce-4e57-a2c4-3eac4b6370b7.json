@@ -1,0 +1,8 @@
+{
+  "name": "knode",
+  "logo": "https://r.resimlink.com/waCYXWm.jpg",
+  "rpc_url": "http://135.181.146.43:9944",
+  "explorer_url": "http://135.181.146.43:4000",
+  "metrics_endpoint": "http://135.181.146.43:9615/metrics",
+  "id": "d1728724-1bce-4e57-a2c4-3eac4b6370b7"
+}
