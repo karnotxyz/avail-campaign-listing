@@ -1,8 +1,0 @@
-{
-  "name": "iryante",
-  "logo": "https://ibb.co/PMpSxqr",
-  "rpc_url": "http://45.151.122.97:9944",
-  "explorer_url": "http://45.151.122.97:4000",
-  "metrics_endpoint": "http://45.151.122.97/metrics",
-  "id": "0c199725-62f4-4a36-8eca-e60fa38b6b81"
-}
