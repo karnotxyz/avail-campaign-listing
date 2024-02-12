@@ -1,0 +1,8 @@
+{
+  "name": "jestieen",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://194.233.90.78:9944",
+  "explorer_url": "http://194.233.90.78:4000",
+  "metrics_endpoint": "http://194.233.90.78:9615/metrics",
+  "id": "24a24e3c-929d-4565-beb1-8546eeba42d2"
+}
