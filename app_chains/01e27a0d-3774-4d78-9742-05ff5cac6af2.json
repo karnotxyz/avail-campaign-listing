@@ -1,0 +1,8 @@
+{
+  "name": "Pengavail",
+  "logo": "https://i.ibb.co/jW8LHBD/6.jpg",
+  "rpc_url": "http://78.153.130.96:9944",
+  "explorer_url": "http://78.153.130.96:4000",
+  "metrics_endpoint": "http://78.153.130.96:9615/metrics",
+  "id": "01e27a0d-3774-4d78-9742-05ff5cac6af2"
+}
