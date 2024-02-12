@@ -1,0 +1,8 @@
+{
+  "name": "therion",
+  "logo": "https://r.resimlink.com/28pFdPf.jpg",
+  "rpc_url": "http://144.91.74.33:9944",
+  "explorer_url": "http://144.91.74.33:4000",
+  "metrics_endpoint": "http://144.91.74.33:9615/metrics",
+  "id": "bb1e80bb-e46f-451f-8249-8ae1c560e04d"
+}
