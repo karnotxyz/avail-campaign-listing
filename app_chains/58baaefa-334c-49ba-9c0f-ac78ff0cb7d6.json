@@ -1,0 +1,8 @@
+{
+  "name": "farmcaster",
+  "logo": "https://i.postimg.cc/W41skg95/Logo-farmcaster.png",
+  "rpc_url": "https://184.174.33.121:9944",
+  "explorer_url": "https://184.174.33.121:9944:4000",
+  "metrics_endpoint": "https://184.174.33.121:9615/metrics",
+  "id": "58baaefa-334c-49ba-9c0f-ac78ff0cb7d6"
+}
