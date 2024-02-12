@@ -1,0 +1,8 @@
+{
+    "name": "kakashi",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/36866139/303943776-25b3379e-a8e5-4ff6-a257-2a6291a8e6c6.png",
+    "rpc_url": "https://167.233.5.241:9944",
+    "explorer_url": "https://167.233.5.241:4000",
+    "metrics_endpoint": "https://167.233.5.241:9615/metrics",
+    "id": "eb73ca21-7414-4821-a019-86ff5ab9dcb1"
+  }
