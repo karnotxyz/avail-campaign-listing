@@ -1,0 +1,8 @@
+{
+  "name": "kaannode39",
+  "logo": "https://r.resimlink.com/m3ahKLwrPx.png",
+  "rpc_url": "http://65.109.227.116:9944",
+  "explorer_url": "http://65.109.227.116:4000",
+  "metrics_endpoint": "http://65.109.227.116:9615/metrics",
+  "id": "2af9f582-475d-43bd-9b9e-9d5c64ad1714"
+}
