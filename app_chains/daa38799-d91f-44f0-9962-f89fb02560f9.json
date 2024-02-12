@@ -1,0 +1,8 @@
+{
+  "name": "keyde",
+  "logo": "https://i.imgur.com/YXXZqmx.png",
+  "rpc_url": "http://84.247.141.203:9944",
+  "explorer_url": "http://84.247.141.203:4000",
+  "metrics_endpoint": "http://84.247.141.203:9615/metrics",
+  "id": "daa38799-d91f-44f0-9962-f89fb02560f9"
+}

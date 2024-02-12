@@ -1,0 +1,8 @@
+{
+  "name": "joss",
+  "logo": "https://r.resimlink.com/fLd8kj.png",
+  "rpc_url": "http://146.190.111.147:9944",
+  "explorer_url": "http://146.190.111.147:4000",
+  "metrics_endpoint": "http://146.190.111.147:9615/metrics",
+  "id": "36ea8192-173b-4933-bcd6-6c0c6af2c15f"
+}

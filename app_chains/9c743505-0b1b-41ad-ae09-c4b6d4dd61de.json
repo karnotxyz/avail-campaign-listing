@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://i.ibb.co/58tN4HT/thumb2-zero-two-manga-anime-characters-pink-hair-darling-in-the-franxx.jpg",
+  "rpc_url": "http://38.242.221.223:9944",
+  "explorer_url": "http://38.242.221.223:4000",
+  "metrics_endpoint": "http://38.242.221.223:9615/metrics",
+  "id": "9c743505-0b1b-41ad-ae09-c4b6d4dd61de"
+}

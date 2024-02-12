@@ -1,0 +1,8 @@
+{
+  "name": "paragenies",
+  "logo": "https://i.imgur.com/GBhMmJP.jpg",
+  "rpc_url": "http://49.13.134.201:9944",
+  "explorer_url": "http://49.13.134.201:4000",
+  "metrics_endpoint": "http://49.13.134.201:9615/metrics",
+  "id": "51552e65-5e7b-4cc6-bdfb-f0c6c94dee25"
+}
