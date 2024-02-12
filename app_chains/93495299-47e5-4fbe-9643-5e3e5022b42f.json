@@ -1,0 +1,8 @@
+{
+  "name": "foliokaku",
+  "logo": "",
+  "rpc_url": "http://38.242.243.108:9944",
+  "explorer_url": "http://38.242.243.108:4000",
+  "metrics_endpoint": "http://38.242.243.108:9615/metrics",
+  "id": "93495299-47e5-4fbe-9643-5e3e5022b42f"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Roinchi",
+  "logo": "https://i.imgur.com/binI4UH.jpg",
+  "rpc_url": "http://134.209.97.184:9944",
+  "explorer_url": "http://134.209.97.184:4000",
+  "metrics_endpoint": "http://134.209.97.184:9615/metrics",
+  "id": "32713055-2158-4440-937b-c5c8762e9d90"
+}
