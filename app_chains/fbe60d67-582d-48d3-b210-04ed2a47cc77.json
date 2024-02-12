@@ -1,0 +1,8 @@
+{
+  "name": "saygo",
+  "logo": "https://r.resimlink.com/A2Wcmz.png",
+  "rpc_url": "http://217.79.180.148:9944",
+  "explorer_url": "http://217.79.180.148:4000",
+  "metrics_endpoint": "http://217.79.180.148:9615/metrics",
+  "id": "fbe60d67-582d-48d3-b210-04ed2a47cc77"
+}
