@@ -1,0 +1,8 @@
+{
+  "name": "namaste",
+  "logo": "https://i.imgur.com/4MyrAi3.jpep",
+  "rpc_url": "http://65.21.61.26:9944",
+  "explorer_url": "http://65.21.61.26:4000",
+  "metrics_endpoint": "http://65.21.61.26:9615/metrics",
+  "id": "6ee0e188-2384-4a57-ac77-a109f90ff27f"
+}
