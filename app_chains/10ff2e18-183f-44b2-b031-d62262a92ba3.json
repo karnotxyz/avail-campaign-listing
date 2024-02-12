@@ -1,0 +1,8 @@
+{
+  "name": "researchaft",
+  "logo": "http://129.226.152.218/logo.jpg",
+  "rpc_url": "http://129.226.152.218:9944",
+  "explorer_url": "http://129.226.152.218:4000",
+  "metrics_endpoint": "http://129.226.152.218:9615/metrics",
+  "id": "10ff2e18-183f-44b2-b031-d62262a92ba3"
+}
