@@ -1,0 +1,8 @@
+{
+  "name": "petros1",
+  "logo": "https://r.resimlink.com/EUTFl_r.png",
+  "rpc_url": "http://49.12.60.228:9944",
+  "explorer_url": "http://49.12.60.228:4000",
+  "metrics_endpoint": "http://49.12.60.228:9615/metrics",
+  "id": "9773eae4-f52a-4140-af74-8f248dc9aa95"
+}
