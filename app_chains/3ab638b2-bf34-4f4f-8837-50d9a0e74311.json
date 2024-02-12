@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://i.ibb.co/QbVcm0p/cipmail.jpg",
+  "rpc_url": "http://144.91.81.224:9944",
+  "explorer_url": "http://144.91.81.224:4000",
+  "metrics_endpoint": "http://144.91.81.224:9615/metrics",
+  "id": "3ab638b2-bf34-4f4f-8837-50d9a0e74311"
+}
