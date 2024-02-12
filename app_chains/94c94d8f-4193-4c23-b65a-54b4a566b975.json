@@ -1,0 +1,8 @@
+{
+   "name": "fahim142",
+   "logo": "https://r.resimlink.com/V3pTi-MDvldy.gif",
+   "rpc_url": "http://193.29.104.143:9944",
+   "explorer_url": "http://193.29.104.143:4000",
+   "metrics_endpoint": "http://193.29.104.143:9615/metrics", 
+   "id": "94c94d8f-4193-4c23-b65a-54b4a566b975"
+}
