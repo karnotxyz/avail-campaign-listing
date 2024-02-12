@@ -1,0 +1,8 @@
+{
+  "name": "siriusblack",
+  "logo": "https://r.resimlink.com/mQO-fPu.jpg",
+  "rpc_url": "http://82.115.17.32:9944",
+  "explorer_url": "http://82.115.17.32:4000",
+  "metrics_endpoint": "http://82.115.17.32:9615/metrics",
+  "id": "f638240a-5b43-4ecd-8f9c-cdf920877a26"
+}
