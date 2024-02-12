@@ -1,6 +1,6 @@
 {
   "name": "ominous",
-  "logo": "Your_Logo_URL",
+  "logo": "https://cdn-images.threadless.com/threadless-media/artist_shops/shops/ominous/products/380202/shirt-1512360437-3c61465c4f33da20d0d71cf18b94ff96.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJ0cmltIiwgW2ZhbHNlLCBmYWxzZV0sIHt9XSwgWyJyZXNpemUiLCBbXSwgeyJ3aWR0aCI6IDk5Ni4wLCAiYWxsb3dfdXAiOiBmYWxzZSwgImhlaWdodCI6IDk5Ni4wfV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzEyMDAsIDEyMDBdLCB7ImJhY2tncm91bmQiOiAiMDUwMDAwIn1dLCBbInJlc2l6ZSIsIFs3NjhdLCB7fV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzc2OCwgNzY4LCAiI2ZmZmZmZiJdLCB7fV0sIFsiZW5jb2RlIiwgWyJqcGciLCA4NV0sIHt9XV19",
   "rpc_url": "http://195.2.76.91:9944",
   "explorer_url": "http://195.2.76.91:4000",
   "metrics_endpoint": "http://195.2.76.91:9615/metrics",
