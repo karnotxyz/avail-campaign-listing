@@ -1,0 +1,8 @@
+{
+  "name": "luckavail",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://34.74.168.51:9944",
+  "explorer_url": "http://34.74.168.51:4000",
+  "metrics_endpoint": "http://34.74.168.51:9615/metrics",
+  "id": "cb807590-fc58-4800-8154-4f111a78d51c"
+}
