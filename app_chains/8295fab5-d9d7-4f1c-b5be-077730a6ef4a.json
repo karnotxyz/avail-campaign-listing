@@ -1,0 +1,8 @@
+{
+  "name": "availbestevel",
+  "logo": "https://add.pics/images/2024/02/12/d5nx7jxIw7yC-mh6108484b1856d0c7.png",
+  "rpc_url": "http://43.134.12.38:9944",
+  "explorer_url": "http://43.134.12.38:4000",
+  "metrics_endpoint": "http://43.134.12.38:9615/metrics",
+  "id": "8295fab5-d9d7-4f1c-b5be-077730a6ef4a"
+}
