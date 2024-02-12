@@ -1,8 +1,8 @@
 {
-  "name": "HenryLeth",
+  "name": "Henryto",
   "logo": "https://i.imgur.com/Y1VJncy.png",
   "rpc_url": "http://5.189.149.54:9944",
   "explorer_url": "http://5.189.149.54:4000",
   "metrics_endpoint": "http://5.189.149.54:9615/metrics",
-  "id": "18dcf363-c9c2-4075-8ed7-c81636329fc9"
+  "id": "e23c4bd5-7f23-4aae-bed8-7d99f461c579"
 }
