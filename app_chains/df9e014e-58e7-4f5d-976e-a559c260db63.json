@@ -1,0 +1,8 @@
+{
+  "name": "sbrmadra",
+  "logo": "https://r.resimlink.com/QqZNI146BVwy.png",
+  "rpc_url": "http://65.109.199.184:9944",
+  "explorer_url": "http://65.109.199.184:4000",
+  "metrics_endpoint": "http://65.109.199.184:9615/metrics",
+  "id": "df9e014e-58e7-4f5d-976e-a559c260db63"
+}

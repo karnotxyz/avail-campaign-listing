@@ -1,0 +1,8 @@
+{
+  "name": "blockchaindev",
+  "logo": "https://imgur.com/a/BFH55vJ",
+  "rpc_url": "http://37.60.229.99:9944",
+  "explorer_url": "http://37.60.229.99:4000",
+  "metrics_endpoint": "http://37.60.229.99:9615/metrics",
+  "id": "ecd29795-a5bf-44c3-90f7-438389afae8e"
+}

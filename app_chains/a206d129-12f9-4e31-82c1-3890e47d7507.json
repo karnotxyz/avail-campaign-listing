@@ -1,0 +1,8 @@
+{
+  "name": "Monster",
+  "logo": "https://i.ibb.co/8cj0mJF/1707380487639.jpg",
+  "rpc_url": "http://43.163.217.42:9944",
+  "explorer_url": "http://43.163.217.42:4000",
+  "metrics_endpoint": "http://43.163.217.42:9615/metrics",
+  "id": "a206d129-12f9-4e31-82c1-3890e47d7507"
+}
