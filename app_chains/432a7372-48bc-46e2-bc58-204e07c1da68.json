@@ -1,0 +1,8 @@
+{
+  "name": "pinguinlucu",
+  "logo": "https://i.ibb.co/HTXNJvp/madara-soemi.png",
+  "rpc_url": "http://164.90.214.52:9944",
+  "explorer_url": "http://164.90.214.52:4000",
+  "metrics_endpoint": "http://164.90.214.52:9615/metrics",
+  "id": "432a7372-48bc-46e2-bc58-204e07c1da68"
+}
