@@ -1,0 +1,8 @@
+{
+  "name": "definode",
+  "logo": "https://r.resimlink.com/rYHV2-DbG0.png",
+  "rpc_url": "http://31.220.84.168:9944",
+  "explorer_url": "http://31.220.84.168:4000",
+  "metrics_endpoint": "http://31.220.84.168:9615/metrics",
+  "id": "2096db84-b93e-4a19-8976-7d204a291400"
+}
