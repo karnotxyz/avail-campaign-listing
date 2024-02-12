@@ -1,0 +1,8 @@
+{
+  "name": "thickcoral",
+  "logo": "https://i.postimg.cc/1t4Nym44/thickcoral.png",
+  "rpc_url": "http://49.51.200.156:9944",
+  "explorer_url": "http://49.51.200.156:4000",
+  "metrics_endpoint": "http://49.51.200.156:9615/metrics",
+  "id": "59522f4b-1ce2-48b8-bc8a-2f9555b5062a"
+}

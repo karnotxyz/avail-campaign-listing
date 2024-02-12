@@ -1,0 +1,8 @@
+{
+  "name": "angelin",
+  "logo": "https://i.postimg.cc/ncNB9tkj/IMG-20220409-185259.jpg",
+  "rpc_url": "http://34.23.244.224:9944",
+  "explorer_url": "http://34.23.244.224:4000",
+  "metrics_endpoint": "http://34.23.244.224:9615/metrics",
+  "id": "b7445009-4a93-4cba-93fc-320ee60e46ee"
+}
