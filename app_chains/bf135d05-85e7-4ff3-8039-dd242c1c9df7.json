@@ -1,0 +1,8 @@
+{
+  "name": "FAKEHAMSTER",
+  "logo": "https://imgur.com/U9cLyrt",
+  "rpc_url": "http://165.22.54.167:9944",
+  "explorer_url": "http://165.22.54.167:4000",
+  "metrics_endpoint": "http://165.22.54.167:9615/metrics",
+  "id": "bf135d05-85e7-4ff3-8039-dd242c1c9df7"
+}

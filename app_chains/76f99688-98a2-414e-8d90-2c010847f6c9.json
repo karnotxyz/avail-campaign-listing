@@ -1,0 +1,8 @@
+{
+  "name": "zezibr",
+  "logo": "https://r.resimlink.com/hyUODgof8Ep.png",
+  "rpc_url": "http://5.199.135.151:9944",
+  "explorer_url": "http://5.199.135.151:4000",
+  "metrics_endpoint": "http://5.199.135.151:9615/metrics",
+  "id": "76f99688-98a2-414e-8d90-2c010847f6c9"
+}

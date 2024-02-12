@@ -1,0 +1,8 @@
+{
+  "name": "YavuzALP",
+  "logo": "https://i.ibb.co/80s4NjP/s-logo.png",
+  "rpc_url": "http://116.203.186.49:9944",
+  "explorer_url": "http://116.203.186.49:4000",
+  "metrics_endpoint": "http://116.203.186.49:9615/metrics",
+  "id": "186ef5fd-416b-4143-9e24-935c605fc66d"
+}
