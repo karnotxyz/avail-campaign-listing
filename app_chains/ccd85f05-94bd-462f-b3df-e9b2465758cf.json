@@ -1,0 +1,8 @@
+{
+  "name": "furion",
+  "logo": "https://i.ibb.co/3TTjGHC/cl.png",
+  "rpc_url": "http://157.90.148.122:9944",
+  "explorer_url": "http://157.90.148.122:4000",
+  "metrics_endpoint": "http://157.90.148.122:9615/metrics",
+  "id": "ccd85f05-94bd-462f-b3df-e9b2465758cf"
+}
