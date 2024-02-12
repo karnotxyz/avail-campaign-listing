@@ -1,0 +1,8 @@
+{
+  "name": "angganode",
+  "logo": "https://r.resimlink.com/Ma8dVC2ZpvHW.png",
+  "rpc_url": "https://46.250.235.1",
+  "explorer_url": "https://46.250.235.1:9615/metrics",
+  "metrics_endpoint": "46.250.235.1",
+  "id": "3aca8c8d-5166-4d80-b408-b8349c1f5b86"
+}
