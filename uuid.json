@@ -1,0 +1,8 @@
+{
+  "name": "fengyao",
+  "logo": "http://r.resimlink.com/xzLDi-KGn.jpg",
+  "rpc_url": "http://43.135.51.169:9944",
+  "explorer_url": "http://43.135.51.169:4000",
+  "metrics_endpoint": "http://43.135.51.169:9615/metrics",
+  "id": "a3dcf440-5b23-419f-8a69-538a2fbe8536"
+}
