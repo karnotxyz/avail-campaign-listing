@@ -1,0 +1,8 @@
+{
+  "name": "0xpenguin",
+  "logo": "https://i.ibb.co/q1cHSFv/F34-W8s-b0-AA-J-9.jpg",
+  "rpc_url": "http://35.202.122.60:9944",
+  "explorer_url": "http://35.202.122.60:4000",
+  "metrics_endpoint": "http://35.202.122.60:9615/metrics",
+  "id": "368525ab-1493-4019-8b8e-308d1ea1f2d2"
+}

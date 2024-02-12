@@ -1,0 +1,8 @@
+{
+  "name": "maynardv",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x8a90cab2b38dba80c64b7734e58ee1db38b8992e/9261.png",
+  "rpc_url": "http://162.62.126.59:9944",
+  "explorer_url": "http://162.62.126.59:4000",
+  "metrics_endpoint": "http://162.62.126.59:9615/metrics",
+  "id": "273a89be-129a-44d1-b0b2-cc9d5c994968"
+}
