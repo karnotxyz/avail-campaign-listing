@@ -1,0 +1,8 @@
+{
+  "name": "Asno",
+  "logo": "https://i.imgur.com/A5Z8gcf.png",
+  "rpc_url": "http://38.242.233.69:9944",
+  "explorer_url": "http://38.242.233.69:4000",
+  "metrics_endpoint": "38.242.233.69:9615/metrics",
+  "id": "b673d4a9-1d17-4e11-a019-1457d9c892da"
+}
