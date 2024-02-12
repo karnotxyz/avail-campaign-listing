@@ -1,0 +1,8 @@
+{
+  "name": "DaUnknown",
+  "logo": "https://i.ibb.co/fkL2n5h/The-Composable-Expedition-0.png",
+  "rpc_url": "https://104.237.1.194:4000",
+  "explorer_url": "https://104.237.1.194:4000",
+  "metrics_endpoint": "https://104.237.1.194:4000/metrics",
+  "id": "88d7e8e7-0a2c-4ea3-a0ab-562158c552a3"
+}
