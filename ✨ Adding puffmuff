@@ -1,0 +1,8 @@
+{
+  "name": "puffmuff",
+  "logo": "https://r.resimlink.com/Ex0_Ys6n.jpg",
+  "rpc_url": "https://65.109.236.150:9944",
+  "explorer_url": "https://65.109.236.150:4000",
+  "metrics_endpoint": "https://65.109.236.150:9615",
+  "id": "08e37142-f1e2-4b7b-a487-015324046234"
+}
