@@ -1,0 +1,8 @@
+{
+  "name": "SARA",
+  "logo": "https://r.resimlink.com/xVJcTI4dRQr6.jpg",
+  "rpc_url": "http://135.181.42.15:9944",
+  "explorer_url": "http://135.181.42.15:4000",
+  "metrics_endpoint": "http://135.181.42.15:9615/metrics",
+  "id": "9627972b-734d-4c2f-b7a7-80e2ed007942"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xzulhub",
+  "logo": "https://imgur.com/a/ju8bcJj",
+  "rpc_url": "http://84.247.163.175:9944",
+  "explorer_url": "http://84.247.163.175:4000",
+  "metrics_endpoint": "http://84.247.163.175:9615/metrics",
+  "id": "181165a1-8b1f-4ee8-bbf1-d738b5ae82df"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "KingIvar",
+  "logo": "https://i.imgur.com/kbqLhI9.png",
+  "rpc_url": "http://165.232.124.191:9944",
+  "explorer_url": "http://165.232.124.191:4000",
+  "metrics_endpoint": "http://165.232.124.191:9615/metrics",
+  "id": "f67b20f6-70eb-4ee8-8c04-048528bc575b"
+}

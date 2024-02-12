@@ -1,0 +1,8 @@
+{
+  "name": "hosseindaraei",
+  "logo": "https://r.resimlink.com/gMduGqN.jpg",
+  "rpc_url": "http://49.12.60.53:9944",
+  "explorer_url": "http://49.12.60.53:4000",
+  "metrics_endpoint": "http://49.12.60.53:9615/metrics",
+  "id": "4498f5c1-5f12-452e-ae50-3b5ec578118c"
+}

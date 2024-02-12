@@ -1,0 +1,8 @@
+{
+  "name": "hiva",
+  "logo": "https://i.ibb.co/dQHnd2W/photo-2024-02-09-03-15-48.jpg",
+  "rpc_url": "http://161.97.70.3:9944",
+  "explorer_url": "http://161.97.70.3:4000",
+  "metrics_endpoint": "http://161.97.70.3:9615/metrics",
+  "id": "dbbde36b-85df-4fa3-a4f1-50d510bb2f79"
+}

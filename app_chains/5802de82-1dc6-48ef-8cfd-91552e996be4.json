@@ -1,0 +1,8 @@
+{
+  "name": "zuri",
+  "logo": "https://i.ibb.co/xYLqNL3/btclogos.png",
+  "rpc_url": "http://185.216.75.82.:9944",
+  "explorer_url": "http://185.216.75.82:4000",
+  "metrics_endpoint": "http://185.216.75.82:9615/metrics",
+  "id": "5802de82-1dc6-48ef-8cfd-91552e996be4"
+}

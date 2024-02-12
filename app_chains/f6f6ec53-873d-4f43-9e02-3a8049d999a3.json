@@ -1,0 +1,8 @@
+{
+  "name": "rezaaaa0001",
+  "logo": "https://placehold.co/400x400/black/darkred?text=rezaaaa0001",
+  "rpc_url": "http://91.107.189.97:9944",
+  "explorer_url": "http://91.107.189.97:4000",
+  "metrics_endpoint": "http://91.107.189.97:9615/metrics",
+  "id": "f6f6ec53-873d-4f43-9e02-3a8049d999a3"
+}

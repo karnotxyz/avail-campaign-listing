@@ -1,0 +1,8 @@
+{
+  "name": "noderunner2",
+  "logo": "https://i.imgur.com/dhzsGIg.png",
+  "rpc_url": "https://rpc2.noderunner.site",
+  "explorer_url": "https://explorer2.noderunner.site",
+  "metrics_endpoint": "https://metric2.noderunner.site",
+  "id": "8ee06bdd-15a4-423c-964d-8ce0cd7e2e06"
+}

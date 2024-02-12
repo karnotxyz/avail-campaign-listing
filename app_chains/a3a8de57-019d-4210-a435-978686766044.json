@@ -1,0 +1,8 @@
+{
+  "name": "maspins",
+  "logo": "https://i.im.ge/2024/02/08/cLiaLK.milidi-dower-logo.png",
+  "rpc_url": "http://161.97.96.97:9944",
+  "explorer_url": "http://161.97.96.97:4000",
+  "metrics_endpoint": "http://161.97.96.97:9615/metrics",
+  "id": "a3a8de57-019d-4210-a435-978686766044"
+}

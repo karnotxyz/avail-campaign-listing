@@ -1,0 +1,8 @@
+{
+  "name": "DripsteinChain",
+  "logo": "https://i.im.ge/2024/02/07/csNTTC.DRIPSTEIN.png",
+  "rpc_url": "http://173.249.35.188:9944",
+  "explorer_url": "http://173.249.35.188:4000",
+  "metrics_endpoint": "http://173.249.35.188:9615/metrics",
+  "id": "a09e52fd-9931-41ab-9522-e9e24bf4ea53"
+}

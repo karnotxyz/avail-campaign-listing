@@ -1,0 +1,8 @@
+{
+  "name": "Yogicz",
+  "logo": "https://im.ge/i/cATlv1",
+  "rpc_url": "http://144.91.126.213:9944",
+  "explorer_url": "http://144.91.126.213:4000",
+  "metrics_endpoint": "http://144.91.126.213:9615/metrics",
+  "id": "ad8403f0-8d8d-42d2-a062-b8dd49d184f0"
+}

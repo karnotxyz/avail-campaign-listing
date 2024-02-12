@@ -1,0 +1,8 @@
+{
+  "name": "uzo_3952869-1",
+  "logo": "https://raw.githubusercontent.com/uzeyirce/rollapp-registry/6ae1a9b064d0792e553375b4c4be82a1cde6f21b/devnet/uzo_3952869-1/logos/uzo_3952869-1.png",
+  "rpc_url": "http://94.130.231.94:9944",
+  "explorer_url": "http://94.130.231.94:4000",
+  "metrics_endpoint": "http://94.130.231.94:9615/metrics",
+  "id": "e8df34f4-d517-454c-8489-023dfeb4f509"
+}
