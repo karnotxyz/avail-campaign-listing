@@ -1,0 +1,8 @@
+{
+  "name": "0xsimeon",
+  "logo": "https://i.ibb.co/rQFxbdv/0xs.png",
+  "rpc_url": "http://207.180.248.73:9944",
+  "explorer_url": "http://207.180.248.73:4000",
+  "metrics_endpoint": "http://207.180.248.73:9615/metrics",
+  "id": "2630cd76-e583-45a2-980e-5939164a4829"
+}
