@@ -1,0 +1,8 @@
+{
+  "name": "zheezzy",
+  "logo": "https://imgur.com/a/XPwm3xQ.png",
+  "rpc_url": "http://158.220.102.243:9944",
+  "explorer_url": "http://158.220.102.243:4000",
+  "metrics_endpoint": "http://158.220.102.243:9615/metrics",
+  "id": "d7cb25a8-80e6-429f-a0a1-24ac7333672c"
+}
