@@ -1,0 +1,8 @@
+{
+  "name": "skydream",
+  "logo": "https://ibb.co/Tmctd31",
+  "rpc_url": "http://185.73.115.187:9944",
+  "explorer_url": "http://185.73.115.187:4000",
+  "metrics_endpoint": "http://185.73.115.187:9615/metrics",
+  "id": "f3bb7c30-9b8b-45d5-a872-027bc8fa9b90"
+}
