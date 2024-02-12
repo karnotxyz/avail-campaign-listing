@@ -1,0 +1,8 @@
+{
+  "name": "huntingm",
+  "logo": "http://43.128.252.84/logo.jpg",
+  "rpc_url": "http://43.128.252.84:9944",
+  "explorer_url": "http://43.128.252.84:4000",
+  "metrics_endpoint": "http://43.128.252.84:9615/metrics",
+  "id": "80299840-e9ee-4358-903c-4db60337da9d"
+}
