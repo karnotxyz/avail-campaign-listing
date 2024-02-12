@@ -1,0 +1,8 @@
+{
+  "name": "nocontextsoftware",
+  "logo": "https://i.ibb.co/NyWj2YC/149850465.jpg",
+  "rpc_url": "http://65.109.236.61:9944",
+  "explorer_url": "http://65.109.236.61:4000",
+  "metrics_endpoint": "http://65.109.236.61:9615/metrics",
+  "id": "1c081b70-6dda-4dee-aefe-7855378ffac9"
+}
