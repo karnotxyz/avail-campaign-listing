@@ -1,0 +1,8 @@
+{
+  "name": "frankiee",
+  "logo": "https://i.ibb.co/kmpTG1b/frankieelogo.png",
+  "rpc_url": "http://5.189.160.229:9944",
+  "explorer_url": "http://5.189.160.229:4000",
+  "metrics_endpoint": "http://5.189.160.229:9615/metrics",
+  "id": "00db46ce-050c-4735-a3ea-83a5082eeced"
+}
