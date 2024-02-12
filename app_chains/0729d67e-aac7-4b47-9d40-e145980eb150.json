@@ -1,0 +1,8 @@
+{
+  "name": "iseng",
+  "logo": "https://thumbs2.imgbox.com/3d/46/P8zWypgu_t.jpg",
+  "rpc_url": "http://167.86.71.45:9944",
+  "explorer_url": "http://167.86.71.45:4000",
+  "metrics_endpoint": "http://167.86.71.45:9615/metrics",
+  "id": "0729d67e-aac7-4b47-9d40-e145980eb150"
+}
