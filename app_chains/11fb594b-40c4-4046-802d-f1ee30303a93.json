@@ -1,0 +1,8 @@
+{
+  "name": "sakuya",
+  "logo": "https://i.ibb.co/1XcQVHp/konohana.png",
+  "rpc_url": "http://37.60.226.149:9944",
+  "explorer_url": "http://37.60.226.149:4000",
+  "metrics_endpoint": "http://37.60.226.149:9615/metrics",
+  "id": "11fb594b-40c4-4046-802d-f1ee30303a93"
+}

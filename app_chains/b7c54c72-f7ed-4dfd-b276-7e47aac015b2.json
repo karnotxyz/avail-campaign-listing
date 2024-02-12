@@ -1,0 +1,8 @@
+{
+  "name": "penguinsur",
+  "logo": "http://43.156.28.85/logo.jpg",
+  "rpc_url": "http://43.156.28.85:9944",
+  "explorer_url": "http://43.156.28.85:4000",
+  "metrics_endpoint": "http://43.156.28.85:9615/metrics",
+  "id": "b7c54c72-f7ed-4dfd-b276-7e47aac015b2"
+}
