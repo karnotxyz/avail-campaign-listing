@@ -1,0 +1,8 @@
+{
+  "name": "ggjr",
+  "logo": "https://img2.pic.in.th/pic/image_165228071835383006919cf8732t0fb7f47e.jpeg",
+  "rpc_url": "http://5.189.142.175:9944",
+  "explorer_url": "http://5.189.142.175:4000",
+  "metrics_endpoint": "http://5.189.142.175:9615/metrics",
+  "id": "b8093592-8c2f-4f55-97df-56f518607bec"
+}
