@@ -1,0 +1,8 @@
+{
+  "name": "Orlando",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://43.153.107.226:9944",
+  "explorer_url": "http://43.153.107.226:4000",
+  "metrics_endpoint": "http://43.153.107.226:9615/metrics",
+  "id": "63f61b9b-463b-441e-8afe-a78a7d2cb169"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Peace",
+  "logo": "https://i.ibb.co/X81wW3G/download-3.png",
+  "rpc_url": "http://43.163.237.241:9944",
+  "explorer_url": "http://43.163.237.241:4000",
+  "metrics_endpoint": "http://43.163.237.241:9615/metrics",
+  "id": "12ae4b9a-e10b-4f8c-b0a4-9128a92345c4"
+}
