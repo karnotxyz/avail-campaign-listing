@@ -1,0 +1,10 @@
+
+
+{
+    "name": "OXNONSTOPE",
+    "logo": "https://fr.freepik.com/photos-vecteurs-libre/logo-png",
+    "rpc_url": "https://79.137.204.104:9944",
+    "explorer_url": "https://79.137.204.104:4000",
+    "metrics_endpoint": "https://79.137.204.104:9615",
+    "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  }
