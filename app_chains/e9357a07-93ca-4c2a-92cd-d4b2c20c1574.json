@@ -1,0 +1,8 @@
+{
+  "name": "karakulak",
+  "logo": "https://r.resimlink.com/mtIOU.png",
+  "rpc_url": "http://65.21.56.0:9944",
+  "explorer_url": "http://65.21.56.0:4000",
+  "metrics_endpoint": "http://65.21.56.0:9615/metrics",
+  "id": "e9357a07-93ca-4c2a-92cd-d4b2c20c1574"
+}
