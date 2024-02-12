@@ -1,0 +1,8 @@
+{
+  "name": "007atamert",
+  "logo": "https://r.resimlink.com/yVRX3HgW.jpg",
+  "rpc_url": "http://207.180.251.161:9944",
+  "explorer_url": "http://207.180.251.161:4000",
+  "metrics_endpoint": "http://207.180.251.161:9615",
+  "id": "c228974e-b6d3-48c7-b8b7-5a0599ed77da"
+}
