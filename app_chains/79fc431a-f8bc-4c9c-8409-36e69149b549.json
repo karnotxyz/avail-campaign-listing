@@ -1,0 +1,8 @@
+{
+  "name": "football",
+  "logo": "https://r.resimlink.com/FyXeI4B.jpg",
+  "rpc_url": "http://75.119.134.228:9944",
+  "explorer_url": "http://75.119.134.228:4000",
+  "metrics_endpoint": "http://75.119.134.228:9615/metrics",
+  "id": "79fc431a-f8bc-4c9c-8409-36e69149b549"
+}
