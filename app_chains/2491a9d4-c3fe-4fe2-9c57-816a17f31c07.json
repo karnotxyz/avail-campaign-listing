@@ -1,0 +1,8 @@
+{
+  "name": "gokean",
+  "logo": "https://r.resimlink.com/jmAPHv-tuF.png",
+  "rpc_url": "http://95.216.164.167:9944",
+  "explorer_url": "http://95.216.164.167:4000",
+  "metrics_endpoint": "http://95.216.164.167:9615/metrics",
+  "id": "82565be4-c821-41ca-a7a6-0aaf668f30cb"
+}
