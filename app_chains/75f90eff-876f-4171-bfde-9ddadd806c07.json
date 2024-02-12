@@ -1,0 +1,8 @@
+{
+  "name": "RFA",
+  "logo": "https://r.resimlink.com/ja-thXcZsNxW.png",
+  "rpc_url": "http://159.69.239.30:9944",
+  "explorer_url": "http://159.69.239.30:4000",
+  "metrics_endpoint": "http://159.69.239.30:9615/metrics",
+  "id": "75f90eff-876f-4171-bfde-9ddadd806c07"
+}
