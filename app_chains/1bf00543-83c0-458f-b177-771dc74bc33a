@@ -1,0 +1,8 @@
+{
+  "name": "morza avail",
+  "logo": "https://placehold.co/400x400?text=Morza",
+  "rpc_url": "http://172.17.255.255:9944",
+  "explorer_url": "http://172.17.255.255:4000",
+  "metrics_endpoint": "http://172.17.255.255:9615/metrics",
+  "id": "1bf00543-83c0-458f-b177-771dc74bc33a"
+}
