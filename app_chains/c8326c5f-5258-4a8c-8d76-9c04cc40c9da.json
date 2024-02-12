@@ -1,0 +1,8 @@
+{
+  "name": "Yanawan",
+  "logo": "https://i.imgur.com/gWEzN1b.png",
+  "rpc_url": "http://167.172.93.141:9944",
+  "explorer_url": "http://167.172.93.141:4000",
+  "metrics_endpoint": "http://167.172.93.141:9615/metrics",
+  "id": "c8326c5f-5258-4a8c-8d76-9c04cc40c9da"
+}
