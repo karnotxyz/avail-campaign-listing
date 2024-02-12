@@ -1,0 +1,8 @@
+{
+  "name": "skumay",
+  "logo": "https://filebroker-cdn.lazada.co.id/kf/S3143c317c803491183e95b68502a2cddG.jpg",
+  "rpc_url": "http://188.166.182.158:9944",
+  "explorer_url": "http://188.166.182.158:4000",
+  "metrics_endpoint": "http://188.166.182.158:9615/metrics",
+  "id": "6c005bed-9474-425a-8d45-1f7cf84c7a31"
+}
