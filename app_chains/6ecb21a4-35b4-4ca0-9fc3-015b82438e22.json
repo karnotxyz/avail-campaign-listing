@@ -1,0 +1,8 @@
+{
+  "name": "izuma",
+  "logo": "https://r.resimlink.com/VjNKkqUSu.jpg",
+  "rpc_url": "http://167.86.67.154:9944",
+  "explorer_url": "http://167.86.67.154:4000",
+  "metrics_endpoint": "http://167.86.67.154:9615/metrics",
+  "id": "6ecb21a4-35b4-4ca0-9fc3-015b82438e22"
+}
