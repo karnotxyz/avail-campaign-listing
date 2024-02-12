@@ -1,0 +1,10 @@
+[
+  {
+    "name": "cryptomacull",
+    "logo": "http://imgur.com/j8kfwJT",
+    "rpc_url": "http://20.27.214.102:994",
+    "explorer_url": "http://20.27.214.102:4000",
+    "metrics_endpoint": "http://20.27.214.102:9165/metrics",
+    "id": "36aad605-d925-4f20-8872-c7b557911005"
+  }
+]
