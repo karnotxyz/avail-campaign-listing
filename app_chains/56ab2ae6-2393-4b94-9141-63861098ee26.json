@@ -1,0 +1,8 @@
+{
+  "name": "billjian2",
+  "logo": "https://pbs.twimg.com/profile_images/1722326396192833536/TMUEgK0s_400x400.jpg",
+  "rpc_url": "http://45.139.227.226:9944",
+  "explorer_url": "http://45.139.227.226:4000",
+  "metrics_endpoint": "http://45.139.227.226:9615/metrics",
+  "id": "56ab2ae6-2393-4b94-9141-63861098ee26"
+}
