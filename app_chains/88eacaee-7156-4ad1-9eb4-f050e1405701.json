@@ -1,0 +1,8 @@
+{
+  "name": "slecxz",
+  "logo": "https://i.imgur.com/3znJ8fR.png",
+  "rpc_url": "http://46.250.236.48:9944",
+  "explorer_url": "http://46.250.236.48:4000",
+  "metrics_endpoint": "http://46.250.236.48:9615/metrics",
+  "id": "88eacaee-7156-4ad1-9eb4-f050e1405701"
+}
