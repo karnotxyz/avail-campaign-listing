@@ -1,6 +1,6 @@
 {
   "name": "Harvester",
-  "logo": "https://i.imgur.com/X927AnG.jpg",
+  "logo": "https://s.cafebazaar.ir/images/icons/com.splash.splash_512x512.png",
   "rpc_url": "http://153.92.223.138:9944",
   "explorer_url": "http://153.92.223.138:4000",
   "metrics_endpoint": "http://153.92.223.138:9615/metrics",
