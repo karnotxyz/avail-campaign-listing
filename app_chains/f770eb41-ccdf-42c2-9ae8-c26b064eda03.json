@@ -1,6 +1,6 @@
 {
   "name": "smrtnode",
-  "logo": "https://imgur.com/gallery/HpGkCt9",
+  "logo": "https://i.postimg.cc/FFdX7qk6/704643.png",
   "rpc_url": "http://185.218.124.39:9944",
   "explorer_url": "http://185.218.124.39:4000",
   "metrics_endpoint": "http://185.218.124.39:9615/metrics",
