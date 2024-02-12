@@ -1,10 +1,10 @@
 {
-    "name": "aram",
-    "logo": "https://i.ibb.co/H7VbS0b/Alpha-Drops-Logo.jpg",
-    "rpc_url": "http://158.220.102.26",
-    "explorer_url": "http://158.220.102.26:4000",
-    "metrics_endpoint": "http://158.220.102.26:9615",
-    "id": "fbf2e1ab-e5ea-409f-bf90-a344a651bb6e"
-  }
+  "name": "aram",
+  "logo": "https://i.ibb.co/H7VbS0b/Alpha-Drops-Logo.jpg",
+  "rpc_url": "http://158.220.102.26",
+  "explorer_url": "http://158.220.102.26:4000",
+  "metrics_endpoint": "http://158.220.102.26:9615",
+  "id": "fbf2e1ab-e5ea-409f-bf90-a344a651bb6e"
+}
 
   
