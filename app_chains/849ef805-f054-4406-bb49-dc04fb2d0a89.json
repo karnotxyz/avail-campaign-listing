@@ -1,0 +1,8 @@
+{
+  "name": "beerio",
+  "logo": "https://imgur.com/a/xUPCirC",
+  "rpc_url": "http://5.189.147.235:9944",
+  "explorer_url": "http://5.189.147.235:4000",
+  "metrics_endpoint": "http://5.189.147.235:9615/metrics",
+  "id": "849ef805-f054-4406-bb49-dc04fb2d0a89"
+}

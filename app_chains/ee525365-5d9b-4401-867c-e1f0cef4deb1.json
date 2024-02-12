@@ -1,0 +1,8 @@
+{
+  "name": "turbanprec",
+  "logo": "http://43.159.40.98/logo.jpg",
+  "rpc_url": "http://43.159.40.98:9944",
+  "explorer_url": "http://43.159.40.98:4000",
+  "metrics_endpoint": "http://43.159.40.98:9615/metrics",
+  "id": "ee525365-5d9b-4401-867c-e1f0cef4deb1"
+}
