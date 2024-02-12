@@ -1,0 +1,8 @@
+{
+    "name": "mocitafa",
+    "logo": "http://r.resimlink.com/jq9Mc.png",
+    "rpc_url": "http://75.119.133.212:9944",
+    "explorer_url": "http://75.119.133.212:4000",
+    "metrics_endpoint": "http://75.119.133.212:9615/metrics",
+    "id": "7d3cd5fc-3b1c-415d-9558-6622f128b3f6"
+}
