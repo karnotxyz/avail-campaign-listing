@@ -1,0 +1,8 @@
+{
+  "name": "deadsea",
+  "logo": "https://pbs.twimg.com/profile_images/1690340157843771392/U_QnNVvV_400x400.jpg",
+  "rpc_url": "https://rpc.myappchain.xyz",
+  "explorer_url": "http://194.233.93.108:4000/",
+  "metrics_endpoint": "http://194.233.93.108:9615/metrics",
+  "id": "37dec5be-64fd-4fee-9e79-f83d49854a26"
+}
