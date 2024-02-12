@@ -1,0 +1,9 @@
+
+{
+  "name": "sipalingtestnet",
+  "logo": "https://i.imgur.com/h6tPs8V.png",
+  "rpc_url": "http://158.220.124.55:9944",
+  "explorer_url": "http://158.220.124.55:4000",
+  "metrics_endpoint": "http://158.220.124.55:9615/metrics",
+  "id": "00bd5ada-bf3e-483b-9d1b-3a65fda49176"
+}
