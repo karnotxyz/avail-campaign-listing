@@ -1,0 +1,8 @@
+{
+  "name": "ZEIRYU",
+  "logo": "https://i.ibb.co/fG7C4Bk/images.png",
+  "rpc_url": "http://161.35.224.213:9944",
+  "explorer_url": "http://161.35.224.213:4000",
+  "metrics_endpoint": "http://161.35.224.213:9615/metrics",
+  "id": "b6c2c63f-5118-4ac1-bfce-03b5e3584117"
+}
