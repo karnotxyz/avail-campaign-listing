@@ -1,0 +1,8 @@
+{
+  "name": "halo",
+  "logo": "https://i.ibb.co/yhLvXrN/halo-copy2.png",
+  "rpc_url": "http://193.176.179.42:9944",
+  "explorer_url": "http://193.176.179.42:4000",
+  "metrics_endpoint": "http://193.176.179.42:9615/metrics",
+  "id": "2c8b0785-597d-4482-a406-82fff226347b"
+}
