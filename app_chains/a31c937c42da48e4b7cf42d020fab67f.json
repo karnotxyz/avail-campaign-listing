@@ -1,8 +1,8 @@
 {
-  "name": "Matoskok",
-  "logo": "https://i.ibb.co/VvgnzdH/lion-head-clipart-md.png",
-  "rpc_url": "http://37.60.238.106:9944",
-  "explorer_url": "http://37.60.238.106:4000",
-  "metrics_endpoint": "http://37.60.238.106:9615/metrics",
-  "id": "a31c937c42da48e4b7cf42d020fab67f"
+"name":"Matoskok",
+"logo":"https://i.ibb.co/VvgnzdH/lion-head-clipart-md.png",
+"rpc_url":"http://37.60.238.106:9944",
+"explorer_url":"http://37.60.238.106:4000",
+ "metrics_endpoint":"http://37.60.238.106:9615/metrics",
+ "id":"a31c937c42da48e4b7cf42d020fab67f"
 }
