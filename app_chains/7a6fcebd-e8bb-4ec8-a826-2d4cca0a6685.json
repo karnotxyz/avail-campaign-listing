@@ -1,0 +1,8 @@
+{
+    "name": "steinatepic",
+    "logo": "https://placehold.co/400x400",
+    "rpc_url": "https://184.174.39.105:9944",
+    "explorer_url": "https://184.174.39.105:4000",
+    "metrics_endpoint": "https://184.174.39.105:9615/metrics",
+    "id": "7a6fcebd-e8bb-4ec8-a826-2d4cca0a6685"
+  }
