@@ -1,0 +1,8 @@
+{
+"name": "Gabi",
+"logo": "https://r.resimlink.com/j9O5xm3uC.png",
+"rpc_url": "http://37.27.2.200:9944",
+"explorer_url": "http://37.27.2.200:4000",
+"metrics_endpoint": "http://37.27.2.200:9615",
+"id": "73961e3d-806f-4cd1-a617-5730045b9c7e"
+}
