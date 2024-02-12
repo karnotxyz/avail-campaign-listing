@@ -1,0 +1,8 @@
+{
+  "name": "edithgha",
+  "logo": "https://ibb.co/CmhbDVS",
+  "rpc_url": "http://173.249.8.157:9944/",
+  "explorer_url": "http://173.249.8.157:4000/",
+  "metrics_endpoint": "http://173.249.8.157:9615/metrics",
+  "id": "bd631650-5394-408c-9b1c-c54fdb2f17c9"
+}
