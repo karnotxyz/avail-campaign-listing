@@ -1,0 +1,8 @@
+{
+  "name": "aattyyop",
+  "logo": "https://r.resimlink.com/kvjSXIUt8D.png",
+  "rpc_url": "http://119.28.30.244:9944",
+  "explorer_url": "http://119.28.30.244:4000",
+  "metrics_endpoint": "http://119.28.30.244:9615/metrics",
+  "id": "2a242a68-2b71-4018-83d1-816391604ffe"
+}
