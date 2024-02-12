@@ -1,0 +1,8 @@
+{
+  "name": "assesddef",
+  "logo": "https://imgur.com/a/cJRFEME",
+  "rpc_url": "http://154.26.133.234:9944",
+  "explorer_url": "http://154.26.133.234:4000",
+  "metrics_endpoint": "http://154.26.133.234:9615/metrics",
+  "id": "1b81bb8c-1315-4907-bb65-9e65f4da7f97"
+}
