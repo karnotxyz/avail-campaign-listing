@@ -1,0 +1,8 @@
+{
+  "name": "mcgee",
+  "logo": "https://imgur.com/c1DS5q5.png",
+  "rpc_url": "http://43.157.59.198:9944",
+  "explorer_url": "http://43.157.59.198:4000",
+  "metrics_endpoint": "http://43.157.59.198:9615/metrics",
+  "id": "03eda5fc-9aa5-4163-b924-7c4def70975b"
+}
