@@ -1,0 +1,8 @@
+{
+  "name": "nichoqu",
+  "logo": "https://r.resimlink.com/y1giYqCbGD3h.png",
+  "rpc_url": "http://49.12.60.61:9944",
+  "explorer_url": "http://49.12.60.61:4000",
+  "metrics_endpoint": "http://49.12.60.61:9615/metrics",
+  "id": "b687c501-7bb1-41ba-979a-3c99b4dfea38"
+}
