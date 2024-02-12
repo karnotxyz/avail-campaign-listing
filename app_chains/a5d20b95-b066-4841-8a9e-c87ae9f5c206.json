@@ -1,0 +1,8 @@
+{
+  "name": "nusirevan",
+  "logo": "https://r.resimlink.com/pLs_3Xjz.png",
+  "rpc_url": "http://65.109.141.29:26652",
+  "explorer_url": "http://65.109.141.29:4000",
+  "metrics_endpoint": "http://65.109.141.29:9615/metrics",
+  "id": "a5d20b95-b066-4841-8a9e-c87ae9f5c206"
+}
