@@ -1,8 +1,0 @@
-{
-  "name": "ramesh",
-  "logo": "https://r.resimlink.com/ehLMFRt.jpg",
-  "rpc_url": "http://84.46.251.208:9944",
-  "explorer_url": "http://84.46.251.208:4000",
-  "metrics_endpoint": "http://84.46.251.208:9615/metrics",
-  "id": "9e8dd002-d069-4829-9bc7-f1a2c93f346b"
-}
