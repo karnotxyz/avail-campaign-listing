@@ -1,0 +1,8 @@
+  {
+    "name": "osaga83",
+    "logo": "https://r.resimlink.com/Wt-YueCh3JGf.jpg",
+    "rpc_url": "http://161.97.108.149:9944",
+    "explorer_url": "http://161.97.108.149:4000",
+    "metrics_endpoint": "http://161.97.108.149:9615/metrics",
+    "id": "b5ab6425-fd55-4ee1-8fab-9d47fcd3c32c"
+  }
