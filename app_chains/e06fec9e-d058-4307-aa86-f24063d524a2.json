@@ -1,0 +1,8 @@
+{
+  "name": "siri",
+  "logo": "https://r.resimlink.com/92PZr.png",
+  "rpc_url": "http://87.107.104.104:9944",
+  "explorer_url": "http://87.107.104.104:4000",
+  "metrics_endpoint": "http://87.107.104.104:9615/metrics",
+  "id": "e06fec9e-d058-4307-aa86-f24063d524a2"
+}
