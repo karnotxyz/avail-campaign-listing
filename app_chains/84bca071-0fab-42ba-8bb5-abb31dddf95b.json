@@ -1,0 +1,8 @@
+{
+  "name": "mickeymrdt”,
+  "logo": "https://r.resimlink.com/DwRFsXkSn.png", 
+  "rpc_url": "http://46.250.237.29:9944",
+  "explorer_url": "http://46.250.237.29:4000",
+  "metrics_endpoint": "http://46.250.237.29:9615/metrics”,
+  "id": "84bca071-0fab-42ba-8bb5-abb31dddf95b" 
+}
