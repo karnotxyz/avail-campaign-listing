@@ -1,0 +1,8 @@
+{
+  "name": "madaraFlame",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/137729914/303376018-cf2cf3e2-782e-4515-a79a-631fb69ffc8b.png",
+  "rpc_url": "http://167.233.5.251:9944",
+  "explorer_url": "http://167.233.5.251:4000",
+  "metrics_endpoint": "http://167.233.5.251:9615/metrics",
+  "id": "98ce3ef4-00c1-4883-832b-c95c5388e355"
+}
