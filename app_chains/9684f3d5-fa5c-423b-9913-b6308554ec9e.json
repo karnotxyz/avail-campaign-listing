@@ -1,0 +1,8 @@
+{
+  "name": "deneth",
+  "logo": "https://r.resimlink.com/8EMfk.png",
+  "rpc_url": "http://38.242.239.128:9944",
+  "explorer_url": "http://38.242.239.128:4000",
+  "metrics_endpoint": "http://38.242.239.128:9615/metrics",
+  "id": "9684f3d5-fa5c-423b-9913-b6308554ec9e"
+}
