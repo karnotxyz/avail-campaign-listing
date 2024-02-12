@@ -1,0 +1,8 @@
+{
+  "name": "mantap",
+  "logo": "https://r.resimlink.com/qnjCiMhP.jpg",
+  "rpc_url": "http://46.250.233.122:9944",
+  "explorer_url": "http://46.250.233.122:4000",
+  "metrics_endpoint": "http://46.250.233.122:9615/metrics",
+  "id": "7e3076c8-5e4a-4c76-8a4b-c388d60d60d2"
+}
