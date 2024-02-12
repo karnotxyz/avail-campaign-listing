@@ -1,0 +1,8 @@
+{
+  "name": "availroza",
+  "logo": "https://r.resimlink.com/OZgqQf.jpg",
+  "rpc_url": "http://5.199.143.140:9944",
+  "explorer_url": "http://5.199.143.140:4000",
+  "metrics_endpoint": "http://5.199.143.140:9615/metrics", 
+  "id": "498cf03a-5b2a-4f64-83cb-80381a251ca4"
+}
