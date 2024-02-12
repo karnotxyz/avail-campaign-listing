@@ -1,0 +1,8 @@
+{
+  "name": "siskaa06",
+  "logo": "https://ibb.co/qmkwDN5",
+  "rpc_url": "http://104.131.162.158:9944",
+  "explorer_url": "http://104.131.162.158:4000",
+  "metrics_endpoint": "http://104.131.162.158:9615/metrics",
+  "id": "81661177-e126-4c4a-b591-1ba04a03ac6c"
+}
