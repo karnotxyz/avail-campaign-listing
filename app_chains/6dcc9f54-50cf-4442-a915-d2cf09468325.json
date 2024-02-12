@@ -1,8 +1,0 @@
-{
-  "name": "hamzin",
-  "logo": "https://imgur.com/NMCZ3CP.png",
-  "rpc_url": "http://38.242.131.98:9944",
-  "explorer_url": "http://38.242.131.98:4000",
-  "metrics_endpoint": "http://38.242.131.98:9615/metrics",
-  "id": "6dcc9f54-50cf-4442-a915-d2cf09468325"
-}
