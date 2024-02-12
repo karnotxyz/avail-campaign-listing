@@ -1,0 +1,8 @@
+{
+  "name": "MGM Sport Club",
+  "logo": "https://r.resimlink.com/ZwmAozfsu8.jpeg",
+  "rpc_url": "http://185.197.250.250:9944",
+  "explorer_url": "http://185.197.250.250:4000",
+  "metrics_endpoint": "http://185.197.250.250:9615/metrics",
+  "id": "57349a97-f6a6-4557-bcc5-6416b58e3485"
+ }
