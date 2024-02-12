@@ -1,0 +1,8 @@
+{
+  "name": "fatmuh",
+  "logo": "https://i.imgur.com/uKB7I2r.jpeg",
+  "rpc_url": "http://64.23.182.211:9944",
+  "explorer_url": "http://64.23.182.211:4000",
+  "metrics_endpoint": "http://64.23.182.211:9615/metrics",
+  "id": "6b31fdc3-b4eb-4714-abdc-c03cca03855d"
+}
