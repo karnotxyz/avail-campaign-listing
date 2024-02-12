@@ -1,0 +1,8 @@
+{
+  "name": "ggjr",
+  "logo": "https://imgur.com/a/qpeyLXu",
+  "rpc_url": "http://5.189.142.175:9944",
+  "explorer_url": "http://5.189.142.175:4000",
+  "metrics_endpoint": "http://5.189.142.175:9615/metrics",
+  "id": "b33929fd-91bf-46eb-b55a-d46f88e6c5ac"
+}
