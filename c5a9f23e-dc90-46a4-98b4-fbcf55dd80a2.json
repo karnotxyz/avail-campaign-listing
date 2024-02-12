@@ -1,0 +1,8 @@
+{
+  "name": "boomsday",
+  "logo": "https://ibb.co/BjpcMNy/img2.png",
+  "rpc_url": "http://109.205.182.205:9944",
+  "explorer_url": "http://109.205.182.205:4000",
+  "metrics_endpoint": "http://109.205.182.205:9615/metrics",
+  "id": "c5a9f23e-dc90-46a4-98b4-fbcf55dd80a2"
+}
