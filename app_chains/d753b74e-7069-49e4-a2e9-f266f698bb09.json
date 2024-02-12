@@ -1,0 +1,8 @@
+{
+  "name": "Bayzz",
+  "logo": ""https://avatars.githubusercontent.com/u/17765242?s=400&u=45b500d9d086b7bdd22bbec54799409d1f660a03&v=4",
+  "rpc_url": "http://20.27.214.102:9944",
+  "explorer_url": "http://20.27.214.102:4000",
+  "metrics_endpoint": "http://20.27.214.102:9615/metrics",
+  "id": "d753b74e-7069-49e4-a2e9-f266f698bb09"
+}
