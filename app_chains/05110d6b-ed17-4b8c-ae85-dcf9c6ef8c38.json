@@ -1,0 +1,8 @@
+{
+  "name": "ronggosws",
+  "logo": "https://i.ibb.co/TB3d7bT/sws.jpg",
+  "rpc_url": "http://161.97.117.122:9944",
+  "explorer_url": "http://161.97.117.122:4000",
+  "metrics_endpoint": "http://161.97.117.122:9615/metrics",
+  "id": "05110d6b-ed17-4b8c-ae85-dcf9c6ef8c38"
+}
