@@ -1,0 +1,8 @@
+{
+  "name": "holigan",
+  "logo": "https://pin.it/47it30iP0",
+  "rpc_url": "http://46.250.235.22:9944",
+  "explorer_url": "http://46.250.235.22:4000",
+  "metrics_endpoint": "http://46.250.235.22:9615/metrics",
+  "id": "5f32a590-a5f2-4a56-8e47-fc12b49ce562"
+}
