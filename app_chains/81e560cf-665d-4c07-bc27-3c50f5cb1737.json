@@ -1,0 +1,8 @@
+{
+  "name": "ditoz",
+  "logo": "https://i.imgur.com/RY8Uz7R.png",
+  "rpc_url": "http://188.166.186.172:9944",
+  "explorer_url": "http://188.166.186.172:4000",
+  "metrics_endpoint": "http://188.166.186.172:9615/metrics",
+  "id": "81e560cf-665d-4c07-bc27-3c50f5cb1737"
+}
