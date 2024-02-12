@@ -1,0 +1,8 @@
+{
+  "name": "dsmd",
+  "logo": "https://imgur.com/lQIVMHw",
+  "rpc_url": "http://207.180.220.185:9944",
+  "explorer_url": "http://207.180.220.185:4000",
+  "metrics_endpoint": "http://207.180.220.185:9615/metrics",
+  "id": "e3e91297-c92b-4ad6-aed4-07e2503950c2"
+}
