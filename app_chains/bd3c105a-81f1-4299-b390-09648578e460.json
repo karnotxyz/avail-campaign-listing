@@ -1,0 +1,9 @@
+{
+  "name": "cikinova",
+  "logo": "https://r.resimlink.com/N3Lt5.jpg", 
+  "rpc_url": "http://94.130.108.69:9944",
+  "explorer_url": "http://94.130.108.69:4000",
+  "metrics_endpoint": "http://94.130.108.69:9615/metrics",
+  "id": "bd3c105a-81f1-4299-b390-09648578e460"
+
+}
