@@ -1,0 +1,8 @@
+{
+  "name": "iyamuremyekarorero",
+  "logo": "https://i.imgur.com/Nt8AxZY.png",
+  "rpc_url": "http://62.171.186.156:9944",
+  "explorer_url": "http://62.171.186.156:4000",
+  "metrics_endpoint": "http://62.171.186.156:9615/metrics",
+  "id": "2f2acf37-49e4-41bc-97ce-4977c9b91710"
+}
