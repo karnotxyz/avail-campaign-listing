@@ -1,0 +1,8 @@
+{
+  "name": "farshid51",
+  "logo": "https://r.resimlink.com/WrL8S7uX.jpg",
+  "rpc_url": "http://173.249.19.240:9944",
+  "explorer_url": "http://173.249.19.240:4000",
+  "metrics_endpoint": "http://173.249.19.240:9615/metrics",
+  "id": "9a7f870e-ff8b-49fc-ae43-c3399e414641"
+}
