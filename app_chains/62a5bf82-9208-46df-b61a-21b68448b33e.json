@@ -1,0 +1,8 @@
+  {
+    "name": "SVMadara",
+    "logo": "https://imgur.com/a/hf3B2QP.png",
+    "rpc_url": "http://142.93.104.53:9944",
+    "explorer_url": "http://142.93.104.53:4000",
+    "metrics_endpoint": "http://142.93.104.53:9615/metrics",
+    "id": "62a5bf82-9208-46df-b61a-21b68448b33e"
+  }
