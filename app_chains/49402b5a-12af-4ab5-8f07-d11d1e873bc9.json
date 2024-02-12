@@ -1,0 +1,8 @@
+{
+  "name": "femalebridg",
+  "logo": "http://43.153.71.118/logo.jpg",
+  "rpc_url": "http://43.153.71.118:9944",
+  "explorer_url": "http://43.153.71.118:4000",
+  "metrics_endpoint": "http://43.153.71.118:9615/metrics",
+  "id": "49402b5a-12af-4ab5-8f07-d11d1e873bc9"
+}
