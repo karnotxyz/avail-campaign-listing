@@ -1,0 +1,8 @@
+{
+  "name": "pashmam",
+  "logo": "https://r.resimlink.com/ThpuSl.png",
+  "rpc_url": "http://65.109.213.143:9944",
+  "explorer_url": "http://65.109.213.143:4000",
+  "metrics_endpoint": "http://65.109.213.143:9615/metrics",
+  "id": "fa348bd0-a999-4814-94cd-e7568aa6feaa"
+}
