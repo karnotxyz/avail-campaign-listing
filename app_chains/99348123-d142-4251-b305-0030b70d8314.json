@@ -1,0 +1,8 @@
+{
+  "name": "longdadada",
+  "logo": "https://imgur.com/TvUUpPB.png",
+  "rpc_url": "http://43.131.16.50:9944",
+  "explorer_url": "http://43.131.16.50:4000",
+  "metrics_endpoint": "http://43.131.16.50:9615/metrics",
+  "id": "99348123-d142-4251-b305-0030b70d8314"
+}
