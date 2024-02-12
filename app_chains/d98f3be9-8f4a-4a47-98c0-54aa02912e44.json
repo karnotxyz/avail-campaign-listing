@@ -1,8 +1,8 @@
 {
-  "name": "rucci",
-  "logo": "https://i.ibb.co/2sty1L6/123.jpg",
-  "rpc_url": "http://194.163.148.185:9944",
-  "explorer_url": "http://194.163.148.185:4000",
-  "metrics_endpoint": "http://194.163.148.185:9615/metrics",
-  "id": "d98f3be9-8f4a-4a47-98c0-54aa02912e44"
+"name":"rucci",
+"logo":"https://i.ibb.co/2sty1L6/123.jpg",
+"rpc_url":"http://194.163.148.185:9944",
+"explorer_url":"http://194.163.148.185:4000",
+"metrics_endpoint":"http://194.163.148.185:9615/metrics",
+"id":"d98f3be9-8f4a-4a47-98c0-54aa02912e44"
 }
