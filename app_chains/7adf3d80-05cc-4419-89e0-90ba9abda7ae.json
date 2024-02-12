@@ -1,0 +1,8 @@
+{
+  "name": "ephemera555",
+  "logo": "https://r.resimlink.com/FaLZ2N3.jpg",
+  "rpc_url": "http://95.216.200.66:9944",
+  "explorer_url": "http://95.216.200.66:4000",
+  "metrics_endpoint": "http://95.216.200.66:9615/metrics",
+  "id": "7adf3d80-05cc-4419-89e0-90ba9abda7ae"
+}
