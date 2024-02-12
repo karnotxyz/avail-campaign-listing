@@ -1,0 +1,8 @@
+{
+  "name": "rendzt",
+  "logo": "https://i.ibb.co/FzCHgY2/EG-hitam-putih.jpg",
+  "rpc_url": "http://167.71.173.136:9944",
+  "explorer_url": "http://167.71.173.136:4000",
+  "metrics_endpoint": "http://167.71.173.136:9615/metrics",
+  "id": "8251fd55-0b65-44b6-b882-ed2030c3702f"
+}
