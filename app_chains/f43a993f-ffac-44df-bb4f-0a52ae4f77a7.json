@@ -1,0 +1,8 @@
+{
+  "name": "hendryfan",
+  "logo": "https://i.ibb.co/myrdTVk/imresizer-1707728739400.png",
+  "rpc_url": "http://192.18.133.39:9944",
+  "explorer_url": "http://192.18.133.39:4000",
+  "metrics_endpoint": "http://192.18.133.39:9615/metrics",
+  "id": "f43a993f-ffac-44df-bb4f-0a52ae4f77a7"
+}
