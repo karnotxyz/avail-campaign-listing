@@ -1,0 +1,8 @@
+{
+  "name": "cupid",
+  "logo": "https://pasteboard.co/3uWEQeCtguCU.jpg",
+  "rpc_url": "http://65.108.152.25:9944",
+  "explorer_url": "http://65.108.152.25:4000",
+  "metrics_endpoint": "http://65.108.152.25:9615/metrics",
+  "id": "c35dfcf8-5b0e-4859-8a7e-68a2c795237c"
+}
