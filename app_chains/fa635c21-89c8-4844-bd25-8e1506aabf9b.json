@@ -1,0 +1,8 @@
+{
+  "name": "Momobf",
+  "logo": "https://i.ibb.co/rF4h9vn/madara.jpg",
+  "rpc_url": "http://164.68.102.90:9944",
+  "explorer_url": "http://164.68.102.90:4000",
+  "metrics_endpoint": "http://164.68.102.90:9615/metrics",
+  "id": "fa635c21-89c8-4844-bd25-8e1506aabf9b"
+}
