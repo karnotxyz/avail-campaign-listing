@@ -1,0 +1,8 @@
+{
+  "name": "rosamiaf",
+  "logo": "https://placehold.co/400x400.png?text=rosamiaf",
+  "rpc_url": "http://43.155.174.12:9944",
+  "explorer_url": "http:/43.155.174.12:4000",
+  "metrics_endpoint": "http://43.155.174.12:9615/metrics",
+  "id": "a05f79ab-291a-440a-bdd8-97c111d8b829"
+}
