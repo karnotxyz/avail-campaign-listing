@@ -1,1 +1,8 @@
-{"name":"vini","logo":"https://i.im.ge/2024/02/04/bJanjc.pngwing-com.png","rpc_url":"http://161.97.83.189:9944","explorer_url":"http://161.97.83.189:4000","metrics_endpoint":"http://161.97.83.189:9615/metrics","id":"e83168ce-5e29-42ae-b94e-a0ef17a34a0f"}
+{
+  "name":"vini",
+  "logo":"https://i.im.ge/2024/02/04/bJanjc.pngwing-com.png",
+  "rpc_url":"http://161.97.83.189:9944",
+  "explorer_url":"http://161.97.83.189:4000",
+  "metrics_endpoint":"http://161.97.83.189:9615/metrics",
+  "id":"e83168ce-5e29-42ae-b94e-a0ef17a34a0f"
+}
