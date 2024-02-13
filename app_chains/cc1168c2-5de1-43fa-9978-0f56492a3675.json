@@ -1,0 +1,15 @@
+{
+
+  "name": "zenon4689",
+
+  "logo": "https://ibb.co/bWnWBZf",
+
+  "rpc_url": "http://144.91.71.246:9944",
+
+  "explorer_url": "http://144.91.71.246:4000",
+
+  "metrics_endpoint": "http://144.91.71.246:9615/metrics",
+
+  "id": "cc1168c2-5de1-43fa-9978-0f56492a3675"
+
+}
