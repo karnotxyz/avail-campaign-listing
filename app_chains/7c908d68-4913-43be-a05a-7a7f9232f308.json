@@ -1,0 +1,8 @@
+{
+  "name": "spxwow",
+  "logo": "https://imgur.com/a/uV8oSas",
+  "rpc_url": "http://154.53.57.194:9944",
+  "explorer_url": "http://154.53.57.194:4000",
+  "metrics_endpoint": "http://154.53.57.194:9615/metrics",
+  "id": "7c908d68-4913-43be-a05a-7a7f9232f308"
+}
