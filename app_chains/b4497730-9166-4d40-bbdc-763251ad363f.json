@@ -1,0 +1,8 @@
+{
+  "name": "gembil",
+  "logo": "https://i.ibb.co/DgZsRFK/PFPcat.jpg",
+  "rpc_url": "http://173.212.252.62:9944",
+  "explorer_url": "http://173.212.252.62:4000",
+  "metrics_endpoint": "http://173.212.252.62:9615/metrics",
+  "id": "b4497730-9166-4d40-bbdc-763251ad363f"
+}
