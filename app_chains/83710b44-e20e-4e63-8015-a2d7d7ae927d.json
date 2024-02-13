@@ -1,0 +1,8 @@
+{
+  "name": "Blvckishh",
+  "logo": "https://i.ibb.co/Tqt7tt4/Blvckishh.jpg",
+  "rpc_url": "http://161.97.109.133:9944",
+  "explorer_url": "http://161.97.109.133:4000",
+  "metrics_endpoint": "http://161.97.109.133:9615/metrics",
+  "id": "83710b44-e20e-4e63-8015-a2d7d7ae927d"
+}
