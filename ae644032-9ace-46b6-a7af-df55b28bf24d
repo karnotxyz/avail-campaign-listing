@@ -1,0 +1,8 @@
+{
+  "name": "tehselup",
+  "logo": "https://r.resimlink.com/AZ0uiG.jpg",
+  "rpc_url": "http://194.233.70.252:9944",
+  "explorer_url": "http://194.233.70.252:4000",
+  "metrics_endpoint": "http://194.233.70.252:9615/metrics",
+  "id": "ae644032-9ace-46b6-a7af-df55b28bf24d.json"
+}
