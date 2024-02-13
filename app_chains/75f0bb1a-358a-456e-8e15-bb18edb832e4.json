@@ -1,8 +1,8 @@
 {
     "name": "shoolan",
     "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/108602924/304413004-1e1d860a-6c9b-4fb5-b35c-dc13aaaea668.png",
-    "rpc_url": "194.163.191.230:9944",
-    "explorer_url": "194.163.191.230:4000",
-    "metrics_endpoint": "194.163.191.230:9615/metrics",
+    "rpc_url": "http://194.163.191.230:9944",
+    "explorer_url": "http://194.163.191.230:4000",
+    "metrics_endpoint": "http://194.163.191.230:9615/metrics",
     "id": "75f0bb1a-358a-456e-8e15-bb18edb832e4"
   }
