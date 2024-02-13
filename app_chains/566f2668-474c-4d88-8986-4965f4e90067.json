@@ -1,0 +1,8 @@
+{
+  "name": "awshz",
+  "logo": "https://i.imgur.com/q4FFqto.jpg",
+  "rpc_url": "http://178.128.116.174:9944",
+  "explorer_url": "http://178.128.116.174:4000",
+  "metrics_endpoint": "http://178.128.116.174:9615/metrics",
+  "id": "566f2668-474c-4d88-8986-4965f4e90067"
+}
