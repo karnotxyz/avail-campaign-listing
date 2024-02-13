@@ -1,0 +1,8 @@
+{
+  "name": "hcotry",
+  "logo": "https://i.imgur.com/xNzsaxS.jpg",
+  "rpc_url": "http://8.218.220.214:9944",
+  "explorer_url": "http://8.218.220.214:4000",
+  "metrics_endpoint": "http://8.218.220.214:9615/metrics",
+  "id": "dcec9844-09ad-4c99-b27a-a3db82901066"
+}
