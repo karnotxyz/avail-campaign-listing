@@ -1,0 +1,8 @@
+{
+  "name": "Eyeline",
+  "logo": "https://i.ibb.co/PTQYfdL/illustration-logo-eyes-free-vector-1.jpg",
+  "rpc_url": "http://128.140.47.30:9944",
+  "explorer_url": "http://128.140.47.30:4000",
+  "metrics_endpoint": "http://128.140.47.30:9615/metrics",
+  "id": "c218caf5-3054-4139-9658-1f727239e80c"
+}

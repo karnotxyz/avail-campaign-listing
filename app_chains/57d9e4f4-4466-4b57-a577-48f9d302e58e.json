@@ -1,0 +1,8 @@
+{
+  "name": "ybhtwert",
+  "logo": "https://r.resimlink.com/NyqgW-.jpg",
+  "rpc_url": "http://95.216.203.11:9944",
+  "explorer_url": "http://95.216.203.11:4000",
+  "metrics_endpoint": "http://95.216.203.11:9615/metrics",
+  "id": "57d9e4f4-4466-4b57-a577-48f9d302e58e"
+}
