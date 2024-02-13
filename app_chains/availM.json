@@ -1,0 +1,8 @@
+{
+    "name": "mehrshad",
+    "logo": "https://github.com/khakifirooz/set-alarm-clock-with-js/blob/main/files/Clock-High-Quality.png",
+    "rpc_url": "https://167.233.5.250:9944",
+    "explorer_url": "https://167.233.5.250:4000",
+    "metrics_endpoint": "https://167.233.5.250:9615/metrics",
+    "id": "c2a8a90f-3bff-43ea-899f-6256066aa52f"
+  }
