@@ -1,0 +1,8 @@
+{
+  "name": "leyla",
+  "logo": "https://r.resimlink.com/qihu19R8.jpg",
+  "rpc_url": "http://167.233.5.246:9944",
+  "explorer_url": "http://167.233.5.246:4000",
+  "metrics_endpoint": "http://167.233.5.246:9615/metrics",
+  "id": "3c9b1976-6c84-4e70-b775-3a36378c742f"
+}
