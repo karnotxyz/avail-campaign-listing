@@ -1,0 +1,8 @@
+{
+  "name": "vinsmoke",
+  "logo": "https://i.imgur.com/p0eddmu.png",
+  "rpc_url": "http://84.247.186.164:9944",
+  "explorer_url": "http://84.247.186.164:4000",
+  "metrics_endpoint": "http://84.247.186.164:9615/metrics",
+  "id": "a23c7de5-e969-4776-88b8-ee559523222d"
+}

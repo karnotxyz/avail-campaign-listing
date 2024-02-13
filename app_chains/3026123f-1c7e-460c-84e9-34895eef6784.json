@@ -1,0 +1,8 @@
+{
+  "name": "OLLIE",
+  "logo": "https://i.ibb.co/4Sghq1v/Untitled.jpg",
+  "rpc_url": "http://109.205.182.125:9944",
+  "explorer_url": "http://109.205.182.125:4000",
+  "metrics_endpoint": "http://109.205.182.125:9615/metrics",
+  "id": "3026123f-1c7e-460c-84e9-34895eef6784"
+}

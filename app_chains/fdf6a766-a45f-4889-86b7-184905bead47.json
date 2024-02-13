@@ -1,0 +1,8 @@
+{
+  "name": "hongnhung",
+  "logo": "https://i.ibb.co/y8vdDs7/5.png",
+  "rpc_url": "http://158.220.99.180:9944",
+  "explorer_url": "http://158.220.99.180:4000",
+  "metrics_endpoint": "http://158.220.99.180:9615/metrics",
+  "id": "fdf6a766-a45f-4889-86b7-184905bead47"
+}

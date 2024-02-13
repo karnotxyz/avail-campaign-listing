@@ -1,0 +1,8 @@
+{
+  "name": "ulshames",
+  "logo": "https://r.resimlink.com/QaSp0dt3.jpg",
+  "rpc_url": "http://95.214.177.196:9944",
+  "explorer_url": "http://95.214.177.196:4000",
+  "metrics_endpoint": "http://95.214.177.196:9615/metrics",
+  "id": "9b754547-d9ef-4347-9b9d-b5cc4a96953f"
+}
