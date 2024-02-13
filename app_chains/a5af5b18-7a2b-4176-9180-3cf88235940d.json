@@ -1,0 +1,8 @@
+{
+  "name": "ameeeeeenq",
+  "logo": "https://i.ibb.co/9sGbDVq/Kiewit.png",
+  "rpc_url": "http://185.221.237.213:9944",
+  "explorer_url": "http://185.221.237.213:4000",
+  "metrics_endpoint": "http://185.221.237.213:9615/metrics",
+  "id": "a5af5b18-7a2b-4176-9180-3cf88235940d"
+}
