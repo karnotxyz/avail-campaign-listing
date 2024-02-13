@@ -1,0 +1,8 @@
+{
+  "name": "WER",
+  "logo": "https://ibb.co/C0Y2Y44",
+  "rpc_url": "http://VPS/173.212.249.12:9944",
+  "explorer_url": "http://VPS/173.212.249.12:4000",
+  "metrics_endpoint": "http://VPS/173.212.249.12:9615/metrics",
+  "id": "8e6e3c06-2ea6-4705-88c7-64efda24e5c1"
+}
