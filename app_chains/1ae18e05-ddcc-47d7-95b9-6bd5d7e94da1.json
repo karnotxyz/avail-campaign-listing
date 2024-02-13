@@ -1,0 +1,8 @@
+{
+	"name": "earthhill",
+	"logo": "https://raw.githubusercontent.com/malendashin/metadata/main/earthhill_400x400.jpg",
+	"rpc_url": "http://165.232.93.5:9944",
+	"explorer_url": "http://165.232.93.5:4000",
+	"metrics_endpoint": "http://SUNUCU-İP-YAZ:9615/metrics",
+	"id": "1ae18e05-ddcc-47d7-95b9-6bd5d7e94da1"
+}
