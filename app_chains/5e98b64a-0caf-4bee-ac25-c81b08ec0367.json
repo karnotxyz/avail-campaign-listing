@@ -1,0 +1,8 @@
+{
+  "name": "solt",
+  "logo": "https://ibb.co/0p5SLyt",
+  "rpc_url": "http://84.247.174.164:9944",
+  "explorer_url": "http://84.247.174.164:4000",
+  "metrics_endpoint": "http://84.247.174.164:9615/metrics",
+  "id": "5e98b64a-0caf-4bee-ac25-c81b08ec0367"
+}
