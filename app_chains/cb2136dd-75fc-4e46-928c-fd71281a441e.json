@@ -1,0 +1,8 @@
+{
+  "name": "notapp",
+  "logo": "https://placehold.co/400x400?text=notapp",
+  "rpc_url": "http://192.236.179.75:9944",
+  "explorer_url": "http://192.236.179.75:4000",
+  "metrics_endpoint": "http://192.236.179.75:9615/metrics",
+  "id": "cb2136dd-75fc-4e46-928c-fd71281a441e"
+}
