@@ -1,0 +1,8 @@
+{
+  "name": "sina1",
+  "logo": "https://r.resimlink.com/vAJrTgCeQ.jpg",
+  "rpc_url": "http://185.110.190.230:9944",
+  "explorer_url": "http://185.110.190.230:4000",
+  "metrics_endpoint": "http://185.110.190.230:9615/metrics",
+  "id": "d857f972-b33e-4b4f-ab1a-21d4d5835985"
+}
