@@ -1,0 +1,8 @@
+{
+  "name": "kenshin",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/137729914/303376018-cf2cf3e2-782e-4515-a79a-631fb69ffc8b.png",
+  "rpc_url": "http://167.233.5.251:9944",
+  "explorer_url": "http://167.233.5.251:4000",
+  "metrics_endpoint": "http://167.233.5.251:9615/metrics",
+  "id": "b7a9673a-a9b5-4655-99da-f3baab9359e3"
+}
