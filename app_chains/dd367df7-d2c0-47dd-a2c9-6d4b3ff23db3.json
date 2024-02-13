@@ -1,0 +1,8 @@
+{
+  "name": "SNOW",
+  "logo": "https://i.ibb.co/4Sghq1v/Untitled.jpg",
+  "rpc_url": "http://84.247.164.87:9944",
+  "explorer_url": "http://84.247.164.87:4000",
+  "metrics_endpoint": "http://84.247.164.87:9615/metrics",
+  "id": "dd367df7-d2c0-47dd-a2c9-6d4b3ff23db3"
+}

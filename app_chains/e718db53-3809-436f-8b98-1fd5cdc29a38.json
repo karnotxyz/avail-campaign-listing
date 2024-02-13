@@ -1,0 +1,8 @@
+{
+  "name": "sanem",
+  "logo": "https://r.resimlink.com/U-JTEV0.png",
+  "rpc_url": "http://188.132.130.79:9944",
+  "explorer_url": "http://188.132.130.79:4000",
+  "metrics_endpoint": "http://188.132.130.79:9615/metrics",
+  "id": "e718db53-3809-436f-8b98-1fd5cdc29a38"
+}

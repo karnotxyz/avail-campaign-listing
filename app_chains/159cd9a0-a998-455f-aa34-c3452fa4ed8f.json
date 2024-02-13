@@ -1,0 +1,8 @@
+{
+  "name": "donald",
+  "logo": "https://i.postimg.cc/J4nmN72p/donald.png",
+  "rpc_url": "http://43.153.102.213:9944",
+  "explorer_url": "http://43.153.102.213:4000",
+  "metrics_endpoint": "http://43.153.102.213:9615/metrics",
+  "id": "159cd9a0-a998-455f-aa34-c3452fa4ed8f"
+}

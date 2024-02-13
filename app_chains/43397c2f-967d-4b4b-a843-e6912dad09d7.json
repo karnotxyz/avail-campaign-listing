@@ -1,0 +1,8 @@
+{
+  "name": "nyarr",
+  "logo": "https://i.ibb.co/YLL9PD4/image.png",
+  "rpc_url": "https://rpc.madara.nyarr.click",
+  "explorer_url": "https://explorer.madara.nyarr.click",
+  "metrics_endpoint": "https://metrics.madara.nyarr.click/metrics",
+  "id": "43397c2f-967d-4b4b-a843-e6912dad09d7"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "rollap-isim",
+  "logo": "https://r.resimlink.com/Rb7kV.png",
+  "rpc_url": "http://154.53.56.53:9944",
+  "explorer_url": "http://154.53.56.53:4000",
+  "metrics_endpoint": "http://154.53.56.53:9615/metrics",
+  "id": "375f3bd6-c956-45c8-8053-a54c8ec460e7"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "mclachsss",
+  "logo": "https://i.postimg.cc/rFdz0JTk/Capture.png",
+  "rpc_url": "http://158.220.99.98:9944",
+  "explorer_url": "http://158.220.99.98:4000",
+  "metrics_endpoint": "http://158.220.99.98:9615/metrics",
+  "id": "2ee2ffa0-65d3-4976-a796-d58c52c894a6"
+}

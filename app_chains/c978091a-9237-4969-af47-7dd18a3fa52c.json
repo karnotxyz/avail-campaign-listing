@@ -1,0 +1,8 @@
+{
+  "name": "hamster",
+  "logo": "https://imgur.com/a/zoY5fkC",
+  "rpc_url": "http://95.216.203.37:9944",
+  "explorer_url": "http://95.216.203.37:4000",
+  "metrics_endpoint": "http://95.216.203.37:9615/metrics",
+  "id": "c978091a-9237-4969-af47-7dd18a3fa52c"
+}
