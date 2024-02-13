@@ -1,0 +1,8 @@
+{
+  "name": "rza",
+  "logo": "https://r.resimlink.com/sPMXq.png",
+  "rpc_url": "http://185.224.129.135:9944",
+  "explorer_url": "http://185.224.129.135:4000",
+  "metrics_endpoint": "http://185.224.129.135:9615/metrics",
+  "id": "e013eedd-98a2-4b03-8a3f-42be776bab7b"
+}
