@@ -1,6 +1,6 @@
 {
   "name": "luffy",
-  "logo": "https://ibb.co/NnT9FCJ",
+  "logo": "https://ibb.co/NnT9FCJ/logo-colored400x400.png",
   "rpc_url": "https://http://178.18.249.53:9944",
   "explorer_url": "https://http://178.18.249.53:4000",
   "metrics_endpoint": "https://http://178.18.249.53:9615/metrics",
