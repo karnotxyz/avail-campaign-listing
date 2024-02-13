@@ -1,0 +1,8 @@
+{
+  "name": "su",
+  "logo": "https://r.resimlink.com/wP4oQ.jpg",
+  "rpc_url": "http://173.249.50.94:9944",
+  "explorer_url": "http://173.249.50.94:4000",
+  "metrics_endpoint": "http://173.249.50.94:9615/metrics",
+  "id": "1a6a04d5-98af-4c34-9f61-e10fa4b403ee"
+}
