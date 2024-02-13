@@ -1,0 +1,8 @@
+{
+  "name": "SrknNode",
+  "logo": "https://r.resimlink.com/ln6Q3PUhH4g.png",
+  "rpc_url": "http://65.109.143.11:9944",
+  "explorer_url": "http://65.109.143.11:4000",
+  "metrics_endpoint": "http://65.109.143.11:9615/metrics",
+  "id": "502aeb22-ed22-4191-a650-c9b046cc6905"
+}
