@@ -1,0 +1,8 @@
+{
+  "name": "johnga",
+  "logo": "https://avatars.githubusercontent.com/u/83752881",
+  "rpc_url": "http://43.133.197.242:9944",
+  "explorer_url": "http://43.133.197.242:4000",
+  "metrics_endpoint": "http://43.133.197.242:9615/metrics",
+  "id": "ad8e6d51-a7e8-4ab0-812b-16a1cd8b9dc9"
+}
