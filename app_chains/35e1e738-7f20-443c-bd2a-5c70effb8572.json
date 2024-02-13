@@ -1,0 +1,8 @@
+{
+  "name": "eli",
+  "logo": "https://placehold.co/400x400/black/darkred?text=eli&font=Lora",
+  "rpc_url": "http://134.122.100.153:9944",
+  "explorer_url": "http://134.122.100.153:4000",
+  "metrics_endpoint": "http://134.122.100.153:9615/metrics",
+  "id": "35e1e738-7f20-443c-bd2a-5c70effb8572"
+}
