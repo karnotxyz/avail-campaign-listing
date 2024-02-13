@@ -2,7 +2,7 @@
     "name": "CryptoWhizard",
     "logo": "https://raw.githubusercontent.com/cryptowhizard/avail-node-details/main/139334570.png",
     "rpc_url": "http://45.144.28.154:9944",
-    "explorer_url": "http://45.144.28.154:4000/",
+    "explorer_url": "http://45.144.28.154:4000",
     "metrics_endpoint": "http://45.144.28.154:9615/metrics",
     "id": "a32eb504-b168-4bc1-92a6-5f9405a220ca"
-  }
+}
