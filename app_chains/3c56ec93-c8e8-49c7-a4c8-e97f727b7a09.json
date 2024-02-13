@@ -1,0 +1,8 @@
+{
+  "name": "damoel",
+  "logo": "https://i.ibb.co/P5DrfqL/opensea.png",
+  "rpc_url": "http://157.245.206.214:9944",
+  "explorer_url": "http://157.245.206.214:4000",
+  "metrics_endpoint": "http://157.245.206.214:9615/metrics",
+  "id": "3c56ec93-c8e8-49c7-a4c8-e97f727b7a09"
+}
