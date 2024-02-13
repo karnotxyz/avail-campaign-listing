@@ -1,0 +1,8 @@
+{
+  "name": "alcibiades34",
+  "logo": "https://r.resimlink.com/luygcrK.jpg",
+  "rpc_url": "http://5.189.164.248:9944",
+  "explorer_url": "http://5.189.164.248:4000",
+  "metrics_endpoint": "http://5.189.164.248:9615/metrics",
+  "id": "c4efa758-1bd4-4b96-8408-e7543cbe8486"
+}
