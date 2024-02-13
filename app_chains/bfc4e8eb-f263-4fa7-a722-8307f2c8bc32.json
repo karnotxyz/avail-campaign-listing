@@ -1,0 +1,8 @@
+{
+  "name": "puxonisme",
+  "logo": "https://i.imgur.com/aigM6eN.jpeg",
+  "rpc_url": "http://203.89.25.153:9944",
+  "explorer_url": "http://203.89.25.153:4000",
+  "metrics_endpoint": "http://203.89.25.153:9615/metrics",
+  "id": "bfc4e8eb-f263-4fa7-a722-8307f2c8bc32"
+}
