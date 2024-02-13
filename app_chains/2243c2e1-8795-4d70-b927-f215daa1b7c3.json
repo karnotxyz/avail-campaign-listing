@@ -1,0 +1,8 @@
+{
+  "name": "thedawgfatherj",
+  "logo": "https://opensea.io/assets/ethereum/0xacf63e56fd08970b43401492a02f6f38b6635c91/8648",
+  "rpc_url": "http://43.133.82.34:9944",
+  "explorer_url": "http://43.133.82.34:4000",
+  "metrics_endpoint": "http://43.133.82.34:9615/metrics",
+  "id": "2243c2e1-8795-4d70-b927-f215daa1b7c3"
+}
