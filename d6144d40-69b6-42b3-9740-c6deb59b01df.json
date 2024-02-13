@@ -1,0 +1,8 @@
+{
+    "name": "grimfandango",
+    "logo": "https://r.resimlink.com/2Vz31g.jpg",
+    "rpc_url": "http://167.86.78.185:9944",
+    "explorer_url": "http://167.86.78.185:4000",
+    "metrics_endpoint": "http://167.86.78.185:9615/metrics",
+    "id": "d6144d40-69b6-42b3-9740-c6deb59b01df"
+  }
