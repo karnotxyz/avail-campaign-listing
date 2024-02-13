@@ -1,0 +1,8 @@
+{
+  "name": "barana",
+  "logo": "https://r.resimlink.com/kRq5Z.jpg",
+  "rpc_url": "http://89.107.57.158:9944",
+  "explorer_url": "http://89.107.57.158:4000",
+  "metrics_endpoint": "http://89.107.57.158:9615/metrics",
+  "id": "e339a61d-76bb-43a7-bd46-c263a0f7846c"
+}
