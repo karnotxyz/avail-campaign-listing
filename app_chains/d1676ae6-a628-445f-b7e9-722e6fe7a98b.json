@@ -1,0 +1,8 @@
+{
+  "name": "tmoondata",
+  "logo": "https://i.postimg.cc/yx4QQqL0/moon.jpg",
+  "rpc_url": "http://124.156.160.249:9944",
+  "explorer_url": "http://124.156.160.249:4000",
+  "metrics_endpoint": "http://124.156.160.249:9615/metrics",
+  "id": "d1676ae6-a628-445f-b7e9-722e6fe7a98b"
+}
