@@ -1,0 +1,8 @@
+{
+  "name": "diankian",
+  "logo": "https://i.ibb.co/LR9L6xG/3009-5108f.png",
+  "rpc_url": "http://188.34.166.166:9944",
+  "explorer_url": "http://188.34.166.166:4000",
+  "metrics_endpoint": "http://188.34.166.166:9615/metrics",
+  "id": "ca154a78-e4ac-4da5-b996-dd4179c27abc"
+}
