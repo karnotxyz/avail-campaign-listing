@@ -1,0 +1,9 @@
+{
+    "name": "gramsaed",
+    "logo": "https://imgur.com/a/xD3qCMx",
+    "rpc_url": "http://135.181.30.95:9944",
+    "explorer_url": "http://135.181.30.95:4000",
+    "metrics_endpoint": "http://135.181.30.95:9615/metrics",
+    "id": "4f18c4e1-31ed-4862-aefc-372c7fb1f82b"
+
+}
