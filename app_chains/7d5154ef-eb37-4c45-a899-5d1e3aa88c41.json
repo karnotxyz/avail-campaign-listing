@@ -1,0 +1,8 @@
+{
+    "name": "blackpaopao",
+    "logo": "https://i.imgur.com/Yw58RA9.png",
+    "rpc_url": "http://139.64.165.25:9944",
+    "explorer_url": "http://139.64.165.25:4000",
+    "metrics_endpoint": "http://139.64.165.25:9615/metrics",
+    "id": "7d5154ef-eb37-4c45-a899-5d1e3aa88c41"
+  }
