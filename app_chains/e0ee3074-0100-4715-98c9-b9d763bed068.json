@@ -1,0 +1,8 @@
+{
+  "name": "morester",
+  "logo": "https://i.imgur.com/HfsgCXq.jpg",
+  "rpc_url": "http://167.235.242.104:9944",
+  "explorer_url": "http://167.235.242.104:4000",
+  "metrics_endpoint": "http://167.235.242.104:9615/metrics",
+  "id": "e0ee3074-0100-4715-98c9-b9d763bed068"
+}
