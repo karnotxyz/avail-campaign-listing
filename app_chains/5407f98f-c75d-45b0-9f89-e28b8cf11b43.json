@@ -1,0 +1,8 @@
+{
+  "name": "NodeBud",
+  "logo": "https://raw.githubusercontent.com/vtu4993/vtu4993/main/photo_2023-12-22_20-59-25.jpg",
+  "rpc_url": "http://109.123.246.140:9944",
+  "explorer_url": "http://109.123.246.140:4000",
+  "metrics_endpoint": "http://109.123.246.140:9615/metrics",
+  "id": "5407f98f-c75d-45b0-9f89-e28b8cf11b43"
+}
