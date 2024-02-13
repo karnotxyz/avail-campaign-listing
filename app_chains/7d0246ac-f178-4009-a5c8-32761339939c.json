@@ -1,0 +1,8 @@
+{
+  "name": "uthersunlighter",
+  "logo": "https://i.ibb.co.com/0GVtzS0/mylogo.jpg",
+  "rpc_url": "http://95.217.114.220:9944",
+  "explorer_url": "http://95.217.114.220:4000/",
+  "metrics_endpoint": "http://95.217.114.220:9615/metrics",
+  "id": "7d0246ac-f178-4009-a5c8-32761339939c"
+}
