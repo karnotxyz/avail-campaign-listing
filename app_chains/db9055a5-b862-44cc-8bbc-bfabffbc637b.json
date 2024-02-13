@@ -1,0 +1,8 @@
+{
+  "name": "hkavail",
+  "logo": "https://i.ibb.co/nBMgWMh/0xKevin.png",
+  "rpc_url": "http://155.133.23.200:9944",
+  "explorer_url": "http://155.133.23.200:4000",
+  "metrics_endpoint": "http://155.133.23.200:9615/metrics",
+  "id": "db9055a5-b862-44cc-8bbc-bfabffbc637b"
+}
