@@ -1,0 +1,8 @@
+{
+    "name": "barisdural1",
+    "logo": "https://r.resimlink.com/K_W34.jpg", //
+    "rpc_url": "http://65.109.227.50:9944",
+    "explorer_url": "http://65.109.227.50:4000",
+    "metrics_endpoint": "http://65.109.227.50:9615/metrics",
+    "id": "812dd9c5-a4d5-423a-a316-dfe125a5e7db"
+  }
