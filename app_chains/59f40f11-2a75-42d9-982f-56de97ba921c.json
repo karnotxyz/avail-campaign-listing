@@ -1,0 +1,8 @@
+{
+  "name": "0xmrcoins",
+  "logo": "https://mint.fun/api/nft/7777777:0x47788c1857292334ae1184E4691973862bE417d5/457?format=auto&crop=1%3A1",
+  "rpc_url": "http://162.62.57.218:9944",
+  "explorer_url": "http://162.62.57.218:4000",
+  "metrics_endpoint": "http://162.62.57.218:9615/metrics",
+  "id": "59f40f11-2a75-42d9-982f-56de97ba921c"
+}
