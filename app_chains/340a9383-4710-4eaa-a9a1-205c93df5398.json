@@ -1,0 +1,8 @@
+{
+  "name": "szueb",
+  "logo": "https://i.ibb.co/PCPgyNs/patrik.png",
+  "rpc_url": "http://128.199.97.168:9944",
+  "explorer_url": "http://128.199.97.168:4000",
+  "metrics_endpoint": "http://128.199.97.168:9615/metrics",
+  "id": "340a9383-4710-4eaa-a9a1-205c93df5398"
+}
