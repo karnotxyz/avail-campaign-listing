@@ -1,8 +1,8 @@
 {
   "name": "ahmadio",
   "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/56671244/303839918-cf598754-ce79-4bd7-af85-c113cf53fdee.png",
-  "rpc_url": "http://123.123.123.123:9944",
-  "explorer_url": "http://123.123.123.123:4000",
-  "metrics_endpoint": "http://123.123.123.123:9615/metrics",
-  "id": "3918a250-4900-4941-9b37-ec2bac8f5705"
+  "rpc_url": "http://159.69.239.22:9944",
+  "explorer_url": "http://159.69.239.22:4000",
+  "metrics_endpoint": "http://159.69.239.22:9615/metrics",
+  "id": "8a808352-16c6-408a-9217-e1abc5606557"
 }
