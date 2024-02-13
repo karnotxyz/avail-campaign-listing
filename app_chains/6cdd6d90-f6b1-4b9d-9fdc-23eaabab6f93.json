@@ -1,0 +1,8 @@
+{
+  "name": "adr7513",
+  "logo": "https://r.resimlink.com/QgKtXHoTPV1.png",
+  "rpc_url": "http://88.99.80.0:9944",
+  "explorer_url": "http://88.99.80.0:4000",
+  "metrics_endpoint": "http://88.99.80.0:9615/metrics",
+  "id": "6cdd6d90-f6b1-4b9d-9fdc-23eaabab6f93"
+}
