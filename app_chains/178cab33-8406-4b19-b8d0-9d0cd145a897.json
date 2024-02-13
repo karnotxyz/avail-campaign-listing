@@ -1,0 +1,8 @@
+{
+  "name": "oguzfb1",
+  "logo": "https://r.resimlink.com/gOzBo0.jpg",
+  "rpc_url": "http://65.109.14.73:9944",
+  "explorer_url": "http://65.109.14.73:4000",
+  "metrics_endpoint": "http://65.109.14.73:9615",
+  "id": "178cab33-8406-4b19-b8d0-9d0cd145a897"
+}
