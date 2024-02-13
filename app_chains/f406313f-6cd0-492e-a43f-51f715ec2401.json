@@ -1,0 +1,8 @@
+{
+  "name": "hossein",
+  "logo": "https://r.resimlink.com/2uk3OE.png",
+  "rpc_url": "https://144.91.107.61:9944",
+  "explorer_url": "https://144.91.107.61:4000",
+  "metrics_endpoint": "https://144.91.107.61:9615/metrics",
+  "id": "f406313f-6cd0-492e-a43f-51f715ec2401"
+}
