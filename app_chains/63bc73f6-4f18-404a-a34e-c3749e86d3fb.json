@@ -1,6 +1,6 @@
 {
   "name": "daydream",
-  "logo": "https://img.imgyukle.com/2024/02/13/yvtnSp.png",
+  "logo": "https://raw.githubusercontent.com/daydreaminmr/re/main/12.png",
   "rpc_url": "http://173.249.12.117:9944",
   "explorer_url": "http://173.249.12.117:4000",
   "metrics_endpoint": "http://173.249.12.117:9615/metrics",
