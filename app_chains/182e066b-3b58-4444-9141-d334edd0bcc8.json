@@ -1,0 +1,8 @@
+{
+  "name": "maousama",
+  "logo": "https://i.ibb.co/jMz4YQy/maousama.png",
+  "rpc_url": "http://158.220.92.72:9944",
+  "explorer_url": "http://158.220.92.72:4000",
+  "metrics_endpoint": "http://158.220.92.72:9615/metrics",
+  "id": "182e066b-3b58-4444-9141-d334edd0bcc8"
+}
