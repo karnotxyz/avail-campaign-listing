@@ -1,0 +1,8 @@
+{
+  "name": "projectorpr",
+  "logo": "http://43.134.24.51/logo.jpg",
+  "rpc_url": "http://43.134.24.51:9944",
+  "explorer_url": "http://43.134.24.51:4000",
+  "metrics_endpoint": "http://43.134.24.51:9615/metrics",
+  "id": "b52f422b-decf-4db3-8906-2a82f37b6db9"
+}
