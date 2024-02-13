@@ -1,0 +1,8 @@
+{
+  "name": "mozani",
+  "logo": "https://placehold.co/400x400?text=Morza",
+  "rpc_url": "http://99.228.220.90:9944",
+  "explorer_url": "http://99.228.220.90:4000",
+  "metrics_endpoint": "http://99.228.220.90:9615/metrics",
+  "id": "35c4fd97-4b3f-44de-abfb-ec47f55df469"
+}
