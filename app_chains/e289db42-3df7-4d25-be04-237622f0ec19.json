@@ -1,0 +1,8 @@
+{
+  "name": "Elihadi",
+  "logo": "https://r.resimlink.com/-OBZ5aSxVigp.png",
+  "rpc_url": "http://167.233.5.227:9944",
+  "explorer_url": "http://167.233.5.227:4000",
+  "metrics_endpoint": "http://167.233.5.227:9615/metrics",
+  "id": "e289db42-3df7-4d25-be04-237622f0ec19"
+}

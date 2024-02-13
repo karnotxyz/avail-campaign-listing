@@ -1,0 +1,8 @@
+{
+  "name": "CyxaraNova",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/CyxaraNova.png",
+  "rpc_url": "http://43.153.23.198:9944",
+  "explorer_url": "http://43.153.23.198:4000",
+  "metrics_endpoint": "http://43.153.23.198:9615/metrics",
+  "id": "2708ca53-2455-48a9-87c6-7c3abe6e5572"
+}

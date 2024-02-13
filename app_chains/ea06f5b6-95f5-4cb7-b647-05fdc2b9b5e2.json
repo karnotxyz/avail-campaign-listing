@@ -1,0 +1,8 @@
+{
+  "name": "arnette",
+  "logo": "https://i.ibb.co/4K3F34W/46155905.jpg",
+  "rpc_url": "http://135.181.111.5:9944",
+  "explorer_url": "http://135.181.111.5:4000",
+  "metrics_endpoint": "http://135.181.111.5:9615/metrics",
+  "id": "ea06f5b6-95f5-4cb7-b647-05fdc2b9b5e2"
+}
