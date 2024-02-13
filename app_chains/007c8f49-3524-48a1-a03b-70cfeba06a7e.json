@@ -1,0 +1,8 @@
+{
+  "name": "btccat",
+  "logo": "https://imgur.com/L2uQKNG.png",
+  "rpc_url": "http://43.131.12.107:9944",
+  "explorer_url": "http://43.131.12.107:4000",
+  "metrics_endpoint": "http://43.131.12.107:9615/metrics",
+  "id": "007c8f49-3524-48a1-a03b-70cfeba06a7e"
+}
