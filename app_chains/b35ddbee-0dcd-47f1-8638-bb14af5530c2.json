@@ -1,0 +1,8 @@
+{
+  "name": "discountry",
+  "logo": "https://i.imgur.com/NsTCgrX.png",
+  "rpc_url": "http://23.94.44.153:9944",
+  "explorer_url": "http://23.94.44.153:4000",
+  "metrics_endpoint": "http://23.94.44.153:9615/metrics",
+  "id": "b35ddbee-0dcd-47f1-8638-bb14af5530c2"
+}

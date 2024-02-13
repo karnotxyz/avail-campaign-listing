@@ -1,0 +1,8 @@
+{
+  "name": "wanheda",
+  "logo": "https://r.resimlink.com/_9t1uRSX8.png",
+  "rpc_url": "http://37.60.245.107:9944",
+  "explorer_url": "http://37.60.245.107:4000",
+  "metrics_endpoint": "http://37.60.245.107:9615/metrics",
+  "id": "35c1fee2-4c63-4078-a076-89ea5d5a22fc"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wtlj",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://170.106.148.58:9944",
+  "explorer_url": "http://170.106.148.58:4000",
+  "metrics_endpoint": "http://170.106.148.58:9615/metrics",
+  "id": "58488b21-fe74-4180-8a05-432acd0febce"
+}

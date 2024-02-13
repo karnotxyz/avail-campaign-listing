@@ -1,0 +1,8 @@
+{
+  "name": "lightcone",
+  "logo": "https://i.imgur.com/DDlIzbN.jpeg",
+  "rpc_url": "http://5.42.84.59:9944",
+  "explorer_url": "http://5.42.84.59:4000",
+  "metrics_endpoint": "http://5.42.84.59:9615/metrics",
+  "id": "abc18513-1a71-499f-ab2a-2339afbdb3c5"
+}

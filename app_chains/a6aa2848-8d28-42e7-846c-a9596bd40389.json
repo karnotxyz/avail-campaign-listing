@@ -1,0 +1,8 @@
+{
+  "name": "TuaMada",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/5f4de63f56562e5fdeea9298d35b14bc216b174a/devnet/tunganh_5595024-1/logos/tunganh_5595024-1.png",
+  "rpc_url": "http://167.86.93.60:9944",
+  "explorer_url": "http://167.86.93.60:4000",
+  "metrics_endpoint": "http://167.86.93.60:9615/metrics",
+  "id": "a6aa2848-8d28-42e7-846c-a9596bd40389"
+}

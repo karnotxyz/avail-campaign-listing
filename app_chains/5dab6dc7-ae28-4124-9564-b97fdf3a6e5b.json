@@ -1,0 +1,8 @@
+{
+  "name": "dogaogulcan",
+  "logo": "https://raw.githubusercontent.com/0xdogasezer/logo/main/logo.png",
+  "rpc_url": "http://45.85.147.91:9944",
+  "explorer_url": "http://45.85.147.91:4000",
+  "metrics_endpoint": "http://45.85.147.91:9615/metrics",
+  "id": "5dab6dc7-ae28-4124-9564-b97fdf3a6e5b"
+}

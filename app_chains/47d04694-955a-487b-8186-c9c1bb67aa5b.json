@@ -1,0 +1,8 @@
+{
+  "name": "emma",
+  "logo": "https://i.ibb.co/hfdyvx7/photo-2024-02-07-13-10-34.jpg",
+  "rpc_url": "http://38.242.237.63:9944",
+  "explorer_url": "http://38.242.237.63:4000",
+  "metrics_endpoint": "http://38.242.237.63:9615/metrics",
+  "id": "47d04694-955a-487b-8186-c9c1bb67aa5b"
+}

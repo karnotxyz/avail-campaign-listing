@@ -1,0 +1,8 @@
+{
+  "name": "FLYTOMOON-MANDARA",
+  "logo": "https://i.ibb.co/WvpfvWB/photo-2021-04-08-00-29-15-2.jpg",
+  "rpc_url": "http://95.111.241.238:9944",
+  "explorer_url": "http://95.111.241.238:4000",
+  "metrics_endpoint": "http://95.111.241.238:9615/metrics",
+  "id": "217c49f6-3cfb-4755-a8fc-001c9a7753af"
+}

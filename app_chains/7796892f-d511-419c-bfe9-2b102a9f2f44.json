@@ -1,0 +1,8 @@
+{
+  "name": "reedchain",
+  "logo": "https://r.resimlink.com/ghLm9E.png",
+  "rpc_url": "http://173.212.250.23:9944",
+  "explorer_url": "http://173.212.250.23:4000",
+  "metrics_endpoint": "http://173.212.250.23:9615/metrics",
+  "id": "7796892f-d511-419c-bfe9-2b102a9f2f44"
+}

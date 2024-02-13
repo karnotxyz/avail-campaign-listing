@@ -1,0 +1,8 @@
+{
+  "name": "shassi",
+  "logo": "https://i.ibb.co/yXVc286/shassi.png",
+  "rpc_url": "http://37.27.36.166:9944",
+  "explorer_url": "http://37.27.36.166:4000",
+  "metrics_endpoint": "http://37.27.36.166:9615/metrics",
+  "id": "d3e4962b-0069-4af2-889a-783fec673aba"
+}

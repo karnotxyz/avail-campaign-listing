@@ -1,0 +1,8 @@
+{
+  "name": "cartok01",
+  "logo": "https://raw.githubusercontent.com/cartok01/assets/main/cartoklogo.jpg",
+  "rpc_url": "http://84.247.188.230:9944",
+  "explorer_url": "http://84.247.188.230:4000",
+  "metrics_endpoint": "http://84.247.188.230:9615/metrics",
+  "id": "daea7332-4b76-4a3c-8b2b-3a17d6676712"
+}

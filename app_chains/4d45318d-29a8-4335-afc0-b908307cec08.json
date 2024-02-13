@@ -1,0 +1,8 @@
+{
+  "name": "senol",
+  "logo": "https://r.resimlink.com/jVZPQ3dmJp.jpg",
+  "rpc_url": "http://157.90.164.105:9944",
+  "explorer_url": "http://157.90.164.105:4000",
+  "metrics_endpoint": "http://157.90.164.105:9615/metrics",
+  "id": "4d45318d-29a8-4335-afc0-b908307cec08"
+}

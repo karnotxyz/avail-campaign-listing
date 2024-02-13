@@ -1,0 +1,8 @@
+{
+  "name": "dasamuka",
+  "logo": "https://dasamuka.ar-io.dev/_nuxt/icon.6fbc8e89.png",
+  "rpc_url": "http://178.18.251.146:9944",
+  "explorer_url": "http://178.18.251.146:7000",
+  "metrics_endpoint": "http://178.18.251.146:9615/metrics",
+  "id": "f46d0003-9866-4500-9bd6-c7cdb6df0f37"
+}

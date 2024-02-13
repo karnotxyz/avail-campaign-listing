@@ -1,0 +1,8 @@
+{
+  "name": "igubee",
+  "logo": "https://github.com/igubee/ExordeLabs/blob/main/116573402.jpg?raw=true",
+  "rpc_url": "http://65.21.109.166:9944",
+  "explorer_url": "http://65.21.109.166:4000",
+  "metrics_endpoint": "http://65.21.109.166:9615/metrics",
+  "id": "397fb7ed-ca0f-40ca-b646-06233dbcb242"
+}

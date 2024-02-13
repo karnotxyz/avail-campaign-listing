@@ -1,0 +1,8 @@
+{
+  "name": "scholesmadara",
+  "logo": "https://r.resimlink.com/-JfWXIT0O38e.jpg",
+  "rpc_url": "http://65.109.2.47:9944",
+  "explorer_url": "http://65.109.2.47:4000",
+  "metrics_endpoint": "http://65.109.2.47:9615/metrics",
+  "id": "df208659-b376-41f5-9356-2e69b8b325c8"
+}

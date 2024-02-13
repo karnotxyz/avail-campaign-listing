@@ -1,0 +1,8 @@
+{
+  "name": "DANGGIA",
+  "logo": "https://i.imgur.com/L2OEcjb.jpg",
+  "rpc_url": "http://dadid.ddns.net:9944",
+  "explorer_url": "http://dadid.ddns.net:4000",
+  "metrics_endpoint": "http://dadid.ddns.net:9615/metrics",
+  "id": "e06d4835-e3f4-49db-8e33-8bd649ca78fa"
+}

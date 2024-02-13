@@ -1,0 +1,8 @@
+{
+  "name": "Monkey",
+  "logo": "https://i.ibb.co/mCQDL1m/images-1.jpg",
+  "rpc_url": "http://43.163.247.241:9944",
+  "explorer_url": "http://43.163.247.241:4000",
+  "metrics_endpoint": "http://43.163.247.241:9615/metrics",
+  "id": "c9052e4b-cf4e-457f-89af-26f8ee0c388f"
+}

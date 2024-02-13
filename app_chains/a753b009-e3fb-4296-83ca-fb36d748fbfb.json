@@ -1,0 +1,8 @@
+{
+  "name": "Moza",
+  "logo": "https://i.imgur.com/HF05wu6.png",
+  "rpc_url": "http://84.247.180.34:9944",
+  "explorer_url": "http://84.247.180.34:4000",
+  "metrics_endpoint": "http://84.247.180.34:9615/metrics",
+  "id": "a753b009-e3fb-4296-83ca-fb36d748fbfb"
+}

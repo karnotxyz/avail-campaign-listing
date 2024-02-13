@@ -1,0 +1,8 @@
+{
+  "name": "hyperco",
+  "logo": "https://ibb.co/F4z23hW",
+  "rpc_url": "http://146.190.236.92:9944",
+  "explorer_url": "http://146.190.236.92:4000",
+  "metrics_endpoint": "http://146.190.236.92:9615/metrics",
+  "id": "e2dd2190-16f0-4d88-8c28-5471f15e28dc"
+}

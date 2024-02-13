@@ -1,0 +1,8 @@
+{
+  "name": "HakanN",
+  "logo": "https://r.resimlink.com/z_8ioU2aGV.jpg",
+  "rpc_url": "http://173.249.42.146:9944",
+  "explorer_url": "http://173.249.42.146:4000",
+  "metrics_endpoint": "http://173.249.42.146:9615/metrics",
+  "id": "912e4381-09b5-453e-9aac-162b387c3808"
+}

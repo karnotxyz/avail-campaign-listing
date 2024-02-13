@@ -5,7 +5,9 @@ import requests
 import sys
 
 APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
-JSON_URL = "https://raw.githubusercontent.com/karnotxyz/avail-campaign-listing/main/listing.json"
+JSON_URL = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/contents/app_chains"
+TREE_API = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/git/trees"
+ROOT_TREE_URL = f"{TREE_API}/main"
 TIMEOUT_IN_MS = 500
 
 
@@ -20,11 +22,19 @@ def validate_json_array(json_file):
 
 
 def download_json_file(url):
-    response = requests.get(url, timeout=TIMEOUT_IN_MS)
-    if response.status_code == 200:
-        return response.json()
+    root_tree = requests.get(ROOT_TREE_URL, timeout=TIMEOUT_IN_MS)
+    if root_tree.status_code == 200:
+        root_tree = root_tree.json()
     else:
-        print(f"Error: Failed to download JSON file from {url}.")
+        print(f"Error: Failed to download root tree from {ROOT_TREE_URL}.")
+
+    # root_tree.tree is an array of dics with key "path", filter out element with path "app_chains"
+    app_chain_sha = [d for d in root_tree['tree'] if d['path'] == 'app_chains'][0]['sha']
+    response = requests.get(f"{TREE_API}/{app_chain_sha}", timeout=TIMEOUT_IN_MS)
+    if response.status_code == 200:
+        return response.json()['tree']
+    else:
+        print(f"Error: Failed to download app_chains tree file from {url}.")
 
 
 def check_required_keys(obj):
@@ -106,20 +116,29 @@ def check_duplicate_urls_in_latest_entry():
     new_entry = None
     print(f"entries -> {list_of_files}")
     if list_of_files is not None:
+        IDS = []
         RPC_URLS = []
         METRICS_URLS = []
         EXPLORER_URLS = []
-        IDS = []
+        new_entry_app_chain_id = None
         for entry in data:
-            RPC_URLS.append(entry["rpc_url"])
-            METRICS_URLS.append(entry["metrics_endpoint"])
-            EXPLORER_URLS.append(entry["explorer_url"])
-            IDS.append(entry["id"])
+            IDS.append(entry["path"].split('.')[0])
 
         for file in list_of_files:
+            temp_file = None
             app_chain_id = file.split('.')[0]
             if app_chain_id not in IDS:
+                # check .json exists in filename at the end and is present only once
+                if not (file.endswith(".json") and file.count(".json") == 1):
+                    print(f"Error: The file {file} is not a valid JSON file.")
+                    sys.exit(1)
                 new_entry_loc = APP_CHAIN_DIRECTORY + "/" + file
+                new_entry_app_chain_id = file.split('.')[0]
+            else:
+                temp_file = read_json_file(APP_CHAIN_DIRECTORY + "/" + file)
+                RPC_URLS.append(temp_file.get('rpc_url'))
+                METRICS_URLS.append(temp_file.get("metrics_endpoint"))
+                EXPLORER_URLS.append(temp_file.get("explorer_url"))
 
         if new_entry_loc == "":
             print("Error: entry already exists or invalid")
@@ -128,6 +147,9 @@ def check_duplicate_urls_in_latest_entry():
         new_entry = read_json_file(new_entry_loc)
         if not new_entry:
             print("Error: Latest entry does not")
+            sys.exit(1)
+        if new_entry_app_chain_id and new_entry_app_chain_id != new_entry["id"]:
+            print(f"Error: File Name & App Chain Id is not same. ID-> {new_entry['id']}, FileName -> {new_entry_app_chain_id}.")
             sys.exit(1)
         if new_entry and new_entry["rpc_url"] in RPC_URLS:
             print(f"Error: The RPC URL {new_entry['rpc_url']} is already present in the JSON file.")

@@ -1,0 +1,8 @@
+{
+  "name": "luongloc",
+  "logo": "https://i.imgur.com/dhzsGIg.png",
+  "rpc_url": "https://rpc.noderunner.site",
+  "explorer_url": "https://explorer.noderunner.site",
+  "metrics_endpoint": "https://metric.noderunner.site",
+  "id": "e15f101d-1226-486d-ad85-93d4a6ed5fea"
+}

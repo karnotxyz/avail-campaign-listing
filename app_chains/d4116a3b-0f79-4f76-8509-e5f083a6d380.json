@@ -1,0 +1,8 @@
+{
+  "name": "kriptoreis53",
+  "logo": "https://raw.githubusercontent.com/kemevo/deneme/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-03%20025106.png",
+  "rpc_url": "http://37.60.233.189:9944",
+  "explorer_url": "http://37.60.233.189:4000/",
+  "metrics_endpoint": "http://37.60.233.189:9615/metrics",
+  "id": "d4116a3b-0f79-4f76-8509-e5f083a6d380"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "alireza",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/137776874/303356708-cf36892e-bde2-4cdc-b25c-029ff293e5f8.png",
+  "rpc_url": "http://5.189.133.173:9944",
+  "explorer_url": "http://5.189.133.173:4000",
+  "metrics_endpoint": "http://5.189.133.173:9615/metrics",
+  "id": "4411b14b-ebac-41d3-90b1-9c4a9cbf886d"
+}

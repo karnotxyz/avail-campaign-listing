@@ -1,0 +1,8 @@
+{
+  "name": "dfvcyxre",
+  "logo": "https://avail-1257774372.cos.na-siliconvalley.myqcloud.com/dfvcyxre.png",
+  "rpc_url": "http://43.153.58.215:9944",
+  "explorer_url": "http://43.153.58.215:4000",
+  "metrics_endpoint": "http://43.153.58.215:9615/metrics",
+  "id": "88c3e5ee-c52a-403b-be8e-f2e38934ce88"
+}
