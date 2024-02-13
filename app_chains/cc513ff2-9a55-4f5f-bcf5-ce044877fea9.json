@@ -1,8 +1,0 @@
-{
-  "name": "marimo",
-  "logo": "https://i.ibb.co/r4BcPq4/photo-2024-02-13-23-30-24.jpg",
-  "rpc_url": "http://84.46.254.252:9944",
-  "explorer_url": "http://84.46.254.252:4000",
-  "metrics_endpoint": "http://84.46.254.252:9615/metrics",
-  "id": "cc513ff2-9a55-4f5f-bcf5-ce044877fea9"
-}
