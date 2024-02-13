@@ -1,0 +1,8 @@
+  {
+    "name": "Whale3",
+    "logo": "https://i.ibb.co/T89BGwC/blog-33.png",
+    "rpc_url": "http://5.189.168.39:9944",
+    "explorer_url": "http://5.189.168.39:4000",
+    "metrics_endpoint": "http://5.189.168.39:9615/metrics",
+    "id": "1b5ac4bc-af5b-4456-ace6-f56443c3ea47"
+  }
