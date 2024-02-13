@@ -1,0 +1,8 @@
+{
+  "name": "daydream",
+  "logo": "https://img.imgyukle.com/2024/02/13/yvtnSp.png",
+  "rpc_url": "http://173.249.12.117:9944",
+  "explorer_url": "http://173.249.12.117:4000",
+  "metrics_endpoint": "http://173.249.12.117:9615/metrics",
+  "id": "63bc73f6-4f18-404a-a34e-c3749e86d3fb"
+}
