@@ -42,7 +42,7 @@ Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pu
 
 ### How to fix prettier?
 
-Install npx and run `npx prettier@latest --write .` on the repo root.
+Install npx and run `npx prettier@latest --write .` 
 
 ### My `validate-entry` check keeps failing
 
