@@ -1,8 +1,0 @@
-{
-  "name": "pancakespi",
-  "logo": "http://43.134.230.222/logo.jpg",
-  "rpc_url": "http://43.134.230.222:9944",
-  "explorer_url": "http://43.134.230.222:4000",
-  "metrics_endpoint": "http://43.134.230.222:9615/metrics",
-  "id": ""
-}
