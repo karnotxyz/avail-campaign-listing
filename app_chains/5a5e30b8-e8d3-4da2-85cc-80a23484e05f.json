@@ -1,8 +1,8 @@
 {
   "name": "Lifeiswhatyoumakeit",
   "logo": "https://ibb.co/VwgqgKD",
-  "rpc_url": "http://194.163.173.200:9944",
+  "rpc_url": "http://194.163.173.200:4000",
   "explorer_url": "http://194.163.173.200:4000",
-  "metrics_endpoint": "http://194.163.173.200:9615/metrics",
+  "metrics_endpoint": "http://194.163.173.200:4000/metrics",
   "id": "5a5e30b8-e8d3-4da2-85cc-80a23484e05f"
 }
