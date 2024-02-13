@@ -1,0 +1,8 @@
+{
+  "name": "forgetful-book",
+  "logo": "https://ibb.co/4VpzWNF",
+  "rpc_url": "http://46.226.160.34:4000",
+  "explorer_url": "http://46.226.160.34:4000",
+  "metrics_endpoint": "http://46.226.160.34:9615/metrics",
+  "id": "0416c413-b4e4-42b1-9e6d-52b4c66035f7"
+}
