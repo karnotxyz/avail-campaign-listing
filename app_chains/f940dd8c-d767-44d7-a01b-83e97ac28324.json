@@ -1,0 +1,8 @@
+{
+  "name": "campbemike",
+  "logo": "https://i.postimg.cc/FRy9k0jx/mike.avif",
+  "rpc_url": "http://43.133.209.76:9944",
+  "explorer_url": "http://43.133.209.76:4000",
+  "metrics_endpoint": "http://43.133.209.76:9615/metrics",
+  "id": "f940dd8c-d767-44d7-a01b-83e97ac28324"
+}
