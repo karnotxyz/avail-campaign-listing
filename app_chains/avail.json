@@ -1,0 +1,8 @@
+{
+    "name": "hamedgri",
+    "logo": "https://github.com/PRAISERJWELLER/avail-campaign-listing/blob/main/logo.png",
+    "rpc_url": "https://195.201.93.169:9944",
+    "explorer_url": "https://195.201.93.169:4000",
+    "metrics_endpoint": "https://195.201.93.169:9615/metrics",
+    "id": "ddbf9efa-c57c-4b01-8aad-4cf616496c34"
+  }
