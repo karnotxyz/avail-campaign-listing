@@ -1,0 +1,8 @@
+{
+  "name": "mohsen",
+  "logo": "https://r.resimlink.com/YVMODPpFis.jpg",
+  "rpc_url": "http://45.87.43.163:9944",
+  "explorer_url": "http://45.87.43.163:4000",
+  "metrics_endpoint": "http://45.87.43.163:9615/metrics",
+  "id": "a01c027b-7428-4052-a9b2-08eb245e6dc7"
+}
