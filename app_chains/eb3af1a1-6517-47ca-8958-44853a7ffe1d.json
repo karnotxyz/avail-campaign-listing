@@ -1,0 +1,8 @@
+{
+  "name": "sezgioz",
+  "logo": "https://placehold.co/400x400.png?text=SEZGI",
+  "rpc_url": "http://161.97.79.129:9944",
+  "explorer_url": "http://161.97.79.129:4000",
+  "metrics_endpoint": "http://161.97.79.129:9615/metrics",
+  "id": "eb3af1a1-6517-47ca-8958-44853a7ffe1d"
+}

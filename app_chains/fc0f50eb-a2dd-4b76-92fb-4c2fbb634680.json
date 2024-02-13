@@ -1,0 +1,8 @@
+{
+  "name": "donkrieg",
+  "logo": "https://i.ibb.co/c1wPcw2/d5db0rx-9c4ccd92-7aa2-4266-be59-7ee425208f52.jpg",
+  "rpc_url": "http://80.92.206.187:9944",
+  "explorer_url": "http://80.92.206.187:4000",
+  "metrics_endpoint": "http://80.92.206.187:9615/metrics",
+  "id": "fc0f50eb-a2dd-4b76-92fb-4c2fbb634680"
+}
