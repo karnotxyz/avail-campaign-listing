@@ -1,0 +1,8 @@
+{ 
+  "nama" :  "manday" , 
+  "logo" :  "https://ibb.co/fS1bDGT" , 
+  "rpc_url" :  "https://173.249.2.46:9944" , 
+  "explorer_url" :  "https://173.249.2.46:4000" , 
+  "metrics_endpoint" :  "https://173.249.2.46:9615/metrics" , 
+  "id" :  "80a8b29a-46f2-41d8-aa11-ad96c35c777e" 
+}
