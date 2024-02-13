@@ -1,0 +1,8 @@
+{
+  "name": "hasty",
+  "logo": "https://i.imgur.com/vTsOmme.png",
+  "rpc_url": "http://167.235.242.104:9944",
+  "explorer_url": "http://167.235.242.104:4000",
+  "metrics_endpoint": "http://167.235.242.104:9615/metrics",
+  "id": "5bfff8d2-1664-459c-87a4-796021973106"
+}
