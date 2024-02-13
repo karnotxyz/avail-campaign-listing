@@ -1,0 +1,8 @@
+{
+  "name": "s2nodes",
+  "logo": "https://github.com/sametsezer/images/blob/main/logo.png",
+  "rpc_url": "http://188.3.59.66:9944",
+  "explorer_url": "http://188.3.59.66:4000",
+  "metrics_endpoint": "http://188.3.59.66:9615/metrics",
+  "id": "6cfe332a-65fa-4e3e-bac0-a1dd6f5150f7"
+}
