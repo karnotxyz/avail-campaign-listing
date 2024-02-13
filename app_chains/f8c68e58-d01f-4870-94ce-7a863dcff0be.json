@@ -1,0 +1,8 @@
+{
+  "name": "diablox",
+  "logo": "https://i.ibb.co/3MQHnTS/diablox.png",
+  "rpc_url": "http://38.242.130.134:9944",
+  "explorer_url": "http://38.242.130.134:4000",
+  "metrics_endpoint": "http://38.242.130.134:9615/metrics",
+  "id": "f8c68e58-d01f-4870-94ce-7a863dcff0be"
+}
