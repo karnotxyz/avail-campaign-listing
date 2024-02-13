@@ -1,0 +1,8 @@
+{
+  "name": "xploudo",
+  "logo": "https://i.seadn.io/s/raw/files/02bac1f8b318e13d0a97f948d2edb5ef.png?auto=format&dpr=1&w=1000",
+  "rpc_url": "http://43.155.158.22:9944",
+  "explorer_url": "http://43.155.158.22:4000",
+  "metrics_endpoint": "http://43.155.158.22:9615/metrics",
+  "id": "20dc42e6-43fc-4cb0-9d04-08f41b50ce04"
+}
