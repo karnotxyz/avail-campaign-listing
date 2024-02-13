@@ -1,6 +1,6 @@
 {
   "name": "meteverse3",
-  "logo": " https://hizliresim.com/h5mc1p5”
+  "logo": "https://hizliresim.com/h5mc1p5”
   "rpc_url": "http://51.20.131.111:9944",
   "explorer_url": "http://51.20.131.111:4000",
   "metrics_endpoint": "http://51.20.131.111:9615",
