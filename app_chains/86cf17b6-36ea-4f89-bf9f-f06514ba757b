@@ -1,0 +1,8 @@
+{
+  "name": "jamesbonds",
+  "logo": "https://i.ibb.co/sbfT8Y6/imresizer-1707774802988.png",
+  "rpc_url": "http://94.176.239.242:9944",
+  "explorer_url": "http://94.176.239.242:4000",
+  "metrics_endpoint": "http://94.176.239.242:9615/metrics",
+  "id": "86cf17b6-36ea-4f89-bf9f-f06514ba757b"
+}
