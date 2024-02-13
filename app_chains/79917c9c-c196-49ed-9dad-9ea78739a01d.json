@@ -1,0 +1,8 @@
+{
+  "name": "quangnguyen11230",
+  "logo": "",
+  "rpc_url": "http://108.61.187.170:9944",
+  "explorer_url": "http://108.61.187.170:4000",
+  "metrics_endpoint": "http://108.61.187.170:9615/metrics",
+  "id": "79917c9c-c196-49ed-9dad-9ea78739a01d"
+}
