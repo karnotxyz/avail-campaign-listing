@@ -1,0 +1,8 @@
+{
+  "name": "gramsaed",
+  "logo": "https://r.resimlink.com/ixeJd.jpg",
+  "rpc_url": "http://135.181.30.95:9944",
+  "explorer_url": "http://135.181.30.95:4000",
+  "metrics_endpoint": "http://135.181.30.95:9615/metrics",
+  "id": "4ca3e9d6-5131-45d7-b049-b68e4c897459"
+}
