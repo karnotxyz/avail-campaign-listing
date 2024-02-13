@@ -1,0 +1,8 @@
+{
+  "name": "meteverse3",
+  "logo": "https://placehold.co/400x400", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "rpc_url": "http://51.20.131.111:9944",
+  "explorer_url": "http://51.20.131.111:4000",
+  "metrics_endpoint": "51.20.131.111:9615",
+  "id": "fc8464be-64ef-4f54-bfac-5d728ec27eec"
+}
