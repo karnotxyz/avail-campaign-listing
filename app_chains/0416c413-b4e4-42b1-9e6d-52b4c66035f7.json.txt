@@ -1,6 +1,6 @@
 {
   "name": "forgetful-book",
-  "logo": "https://placehold.co/400x400",
+  "logo": "https://ibb.co/4VpzWNF",
   "rpc_url": "http://46.226.160.34:4000",
   "explorer_url": "http://46.226.160.34:4000",
   "metrics_endpoint": "http://46.226.160.34:9615/metrics",
