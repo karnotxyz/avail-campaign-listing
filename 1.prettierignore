@@ -1,6 +1,0 @@
-# Ignore all HTML files:
-**/*.html
-# Ignore all json files:
-**/*.json
-# Ignore all md files:
-**/*.md
