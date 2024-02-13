@@ -1,0 +1,8 @@
+{
+  "name": "kami",
+  "logo": "https://r.resimlink.com/5S4ja.jpg",
+  "rpc_url": "http://31.220.77.151:9944",
+  "explorer_url": "http://31.220.77.151:4000",
+  "metrics_endpoint": "http://31.220.77.151:9615/metrics",
+  "id": "cf45bcdb-8c07-4ee6-8b01-fedd36b9e1a2"
+}
