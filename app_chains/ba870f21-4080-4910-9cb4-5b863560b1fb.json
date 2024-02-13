@@ -1,0 +1,8 @@
+{
+  "name": "ArtiDS_app1",
+  "logo": "https://i.ibb.co/bv1XhSx/Arti-DS-NFT.jpg",
+  "rpc_url": "http://194.163.181.6:9944",
+  "explorer_url": "http://194.163.181.6:4000",
+  "metrics_endpoint": "http://194.163.181.6:9615/metrics",
+  "id": "ba870f21-4080-4910-9cb4-5b863560b1fb"
+}

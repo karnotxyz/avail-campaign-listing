@@ -1,0 +1,8 @@
+{
+  "name": "kennode",
+  "logo": "https://i.ibb.co/MhNM6TF/kennode.png",
+  "rpc_url": "http://65.21.244.95:9944",
+  "explorer_url": "http://65.21.244.95:4000",
+  "metrics_endpoint": "http://65.21.244.95:9615/metrics",
+  "id": "02c4a96f-d237-489e-a3bd-512f52275ff1"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SlimeChain",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1z9I4EUITkZQDO2JfbTI76fspbgFm-HeoOQ&usqp=CAU",
+  "rpc_url": "http://212.90.121.207:9944",
+  "explorer_url": "http://212.90.121.207:4000",
+  "metrics_endpoint": "http://212.90.121.207:9615/metrics",
+  "id": "fb536cc7-073e-477a-9386-21aa7d38fb9b"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pempeklahat",
+  "logo": "http://i.imgur.com/SBsfpJw.jpeg",
+  "rpc_url": "http://185.111.159.122:9944",
+  "explorer_url": "http://185.111.159.122:4000",
+  "metrics_endpoint": "http://185.111.159.122:9615/metrics",
+  "id": "3957f7dc-0f0f-4eea-b2c7-f49839f37fda"
+}

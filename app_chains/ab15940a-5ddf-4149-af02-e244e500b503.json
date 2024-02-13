@@ -1,0 +1,8 @@
+{
+  "name": "mznode",
+  "logo": "https://imgur.com/QFHjIZK",
+  "rpc_url": "http://37.60.251.189:9944",
+  "explorer_url": "http://37.60.251.189:4000",
+  "metrics_endpoint": "http://37.60.251.189:9615/metrics",
+  "id": "ab15940a-5ddf-4149-af02-e244e500b503"
+}
