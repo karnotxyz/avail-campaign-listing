@@ -1,0 +1,8 @@
+{
+  "name": "diamond_hands",
+  "logo": "https://m.media-amazon.com/images/I/41GRojpiBVL._SS400_.jpg",
+  "rpc_url": "194.163.153.19:9944",
+  "explorer_url": "194.163.153.19:4000",
+  "metrics_endpoint": "194.163.153.19:9615/metrics",
+  "id": "971cc667-a72d-451a-8f7f-e2d06ebcc60"
+}
