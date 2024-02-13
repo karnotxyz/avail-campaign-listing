@@ -1,0 +1,8 @@
+{
+  "name": "ParaJolly",
+  "logo": "https://i.imgur.com/8FCWhWQ.png",
+  "rpc_url": "http://134.209.21.210:9944",
+  "explorer_url": "http://134.209.21.210:4000",
+  "metrics_endpoint": "http://134.209.21.210:9615/metrics",
+  "id": "cf4221be-1259-411e-bbb3-b967690470a4"
+}
