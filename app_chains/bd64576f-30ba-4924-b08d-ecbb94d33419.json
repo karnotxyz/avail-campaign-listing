@@ -1,0 +1,8 @@
+{
+  "name": "treeko301p",
+  "logo": "https://looksrare.org/_next/image?url=https%3A%2F%2Fstatic.looksnice.org%2F0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D%2F0xadd067ace742d2efa06b63ffb9866ebea0b61c2168f1115d54a866cc9584c529&w=1600&q=75",
+  "rpc_url": "http://43.155.154.184:9944",
+  "explorer_url": "http://43.155.154.184:4000",
+  "metrics_endpoint": "http://43.155.154.184:9615/metrics",
+  "id": "bd64576f-30ba-4924-b08d-ecbb94d33419"
+}
