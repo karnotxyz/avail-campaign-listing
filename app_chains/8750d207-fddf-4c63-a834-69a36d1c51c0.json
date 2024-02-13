@@ -1,0 +1,7 @@
+{
+  "name": "NUPELDA",
+  "logo": "https://r.resimlink.com/pc7W2BFfba4.jpg", 
+  "rpc_url": "http://188.166.67.175:9944",
+  "explorer_url": "http://188.166.67.175:4000",
+  "metrics_endpoint": "188.166.67.175:9615",
+  "id": "8750d207-fddf-4c63-a834-69a36d1c51c0" 
