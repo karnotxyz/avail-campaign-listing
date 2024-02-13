@@ -1,0 +1,8 @@
+{
+  "name": "cloudzeraz",
+  "logo": "https://opensea.io/assets/ethereum/0x524cab2ec69124574082676e6f654a18df49a048/21580",
+  "rpc_url": "http://43.131.232.152:9944",
+  "explorer_url": "http://43.131.232.152:4000",
+  "metrics_endpoint": "http://43.131.232.152:9615/metrics",
+  "id": "9404023a-9455-4fdb-84b7-eeda25ae009d"
+}
