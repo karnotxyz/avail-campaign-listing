@@ -1,0 +1,8 @@
+{
+  "name": "Avail_blast",
+  "logo": "https://ibb.co/51NX220",
+  "rpc_url": "http://158.220.96.86:9944",
+  "explorer_url": "http://158.220.96.86:4000",
+  "metrics_endpoint": "http://158.220.96.86:9615/metrics",
+  "id": "64f1c337-ce84-4d48-a0ba-38188d355fad"
+}
