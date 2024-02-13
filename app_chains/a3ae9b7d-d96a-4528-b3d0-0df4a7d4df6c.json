@@ -1,0 +1,8 @@
+{
+  "name": "gramsaed",
+  "logo": "https://avatars.githubusercontent.com/u/114110927?s=400&u=2054157727c797f992d3de7bf09137b7b6ecff3c&v=4",
+  "rpc_url": "http://135.181.30.95:9944",
+  "explorer_url": "http://135.181.30.95:4000",
+  "metrics_endpoint": "http://135.181.30.95:9615/metrics",
+  "id": "a3ae9b7d-d96a-4528-b3d0-0df4a7d4df6c"
+}
