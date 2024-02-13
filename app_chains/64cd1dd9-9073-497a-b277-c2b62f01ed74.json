@@ -1,0 +1,8 @@
+{
+  "name": "himo",
+  "logo": "https://i.ibb.co/LgjV2ZR/Adult-Lion-Test-3.png",
+  "rpc_url": "http://45.87.43.167:9944",
+  "explorer_url": "http://45.87.43.167:4000",
+  "metrics_endpoint": "http://45.87.43.167:9615/metrics",
+  "id": "64cd1dd9-9073-497a-b277-c2b62f01ed74"
+}
