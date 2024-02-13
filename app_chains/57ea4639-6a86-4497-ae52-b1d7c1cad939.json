@@ -1,0 +1,8 @@
+{
+  "name": "katakijoduduk",
+  "logo": "https://i.ibb.co/mCfjgty/madara-patmo.png",
+  "rpc_url": "http://46.101.87.182:9944",
+  "explorer_url": "http://46.101.87.182:4000",
+  "metrics_endpoint": "http://46.101.87.182:9615/metrics",
+  "id": "57ea4639-6a86-4497-ae52-b1d7c1cad939"
+}
