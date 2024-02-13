@@ -1,0 +1,8 @@
+{
+  "name": "wakin",
+  "logo": "https://i.ibb.co/C2TDx0H/AA.png",
+  "rpc_url": "http://84.247.170.182:9944",
+  "explorer_url": "http://84.247.170.182:4000",
+  "metrics_endpoint": "http://84.247.170.182:9615/metrics",
+  "id": "5e1a9674-5504-45ea-bb88-c853459ca517"
+}
