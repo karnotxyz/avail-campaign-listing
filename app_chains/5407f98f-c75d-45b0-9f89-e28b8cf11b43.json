@@ -1,0 +1,8 @@
+{
+  "name": "NodeBud",
+  "logo": "https://avatars.githubusercontent.com/u/39983021?s=400&u=87c43c3fa8816331a75d62ed8d97bcf851c2c444&v=4",
+  "rpc_url": "http://109.123.246.140:9944",
+  "explorer_url": "http://109.123.246.140:4000",
+  "metrics_endpoint": "http://109.123.246.140:9615/metrics",
+  "id": "5407f98f-c75d-45b0-9f89-e28b8cf11b43"
+}
