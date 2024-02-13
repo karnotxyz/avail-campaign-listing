@@ -1,0 +1,8 @@
+{
+  "name": "morteza",
+  "logo": "https://r.resimlink.com/l_8YisSoR36Z.png",
+  "rpc_url": "http://212.52.1.41:9944",
+  "explorer_url": "http://212.52.1.41:4000",
+  "metrics_endpoint": "http://212.52.1.41:9615/metrics",
+  "id": "d3e9a82c-3b6e-4332-8a24-dabb9e7a0e7e"
+}

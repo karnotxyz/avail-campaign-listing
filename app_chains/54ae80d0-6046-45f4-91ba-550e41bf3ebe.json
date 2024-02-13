@@ -1,0 +1,8 @@
+{
+  "name": "kojiro",
+  "logo": "https://i.im.ge/2024/02/10/c64ml1.51799383131-e8f2b2a6d8-o.th.jpg",
+  "rpc_url": "http://173.249.18.81:9944",
+  "explorer_url": "http://173.249.18.81:4000",
+  "metrics_endpoint": "http://173.249.18.81:9615/metrics",
+  "id": "54ae80d0-6046-45f4-91ba-550e41bf3ebe"
+}

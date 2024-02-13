@@ -1,0 +1,8 @@
+{
+  "name": "elektrik",
+  "logo": "https://imgur.com/a/mQZBr7e",
+  "rpc_url": "http://173.212.212.140:9944",
+  "explorer_url": "http://173.212.212.140:4000",
+  "metrics_endpoint": "http://173.212.212.140:9615/metrics",
+  "id": "3d92384c-1dfd-4c3d-a2be-f9a33c2c8f55"
+}
