@@ -1,0 +1,8 @@
+{
+  "name": "belalm",
+  "logo": "https://r.resimlink.com/vSHeoNZ2FkI.png",
+  "rpc_url": "http://49.12.60.43:9944",
+  "explorer_url": "http://49.12.60.43:4000",
+  "metrics_endpoint": "http://49.12.60.43/metrics",
+  "id": "bbb66a6c-1e9c-48b7-98e9-e3641c8b3796"
+}

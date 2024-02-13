@@ -1,0 +1,8 @@
+{
+  "name": "nguyenhungtuan",
+  "logo": "https://i.ibb.co/sybrxtg/4.png",
+  "rpc_url": "http://158.220.99.182:9944",
+  "explorer_url": "http://158.220.99.182:4000",
+  "metrics_endpoint": "http://158.220.99.182:9615/metrics",
+  "id": "e9d5ca9f-dc21-4b4a-acaa-242a3eb242df"
+}

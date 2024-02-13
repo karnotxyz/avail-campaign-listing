@@ -1,0 +1,8 @@
+{
+  "name": "0xornidazol",
+  "logo": "https://r.resimlink.com/59HexPd.jpg",
+  "rpc_url": "http://5.104.87.109:9944",
+  "explorer_url": "http://5.104.87.109:4000",
+  "metrics_endpoint": "http://5.104.87.109:9615/metrics",
+  "id": "dc5728dc-6834-4c43-8408-b51820bca46a"
+}

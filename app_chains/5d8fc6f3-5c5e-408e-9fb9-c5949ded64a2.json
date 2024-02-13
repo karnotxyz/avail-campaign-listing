@@ -1,0 +1,8 @@
+{
+  "name": "coonman",
+  "logo": "https://i.miji.bid/2024/02/05/e18cd5e88941f86910d51ddb8f8adc09.png",
+  "rpc_url": "http://43.156.83.246:9944",
+  "explorer_url": "http://43.156.83.246:4000",
+  "metrics_endpoint": "http://43.156.83.246:9615/metrics",
+  "id": "5d8fc6f3-5c5e-408e-9fb9-c5949ded64a2"
+}

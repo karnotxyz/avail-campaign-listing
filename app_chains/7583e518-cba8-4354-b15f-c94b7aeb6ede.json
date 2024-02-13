@@ -1,0 +1,8 @@
+{
+  "name": "ali",
+  "logo": "http://r.resimlink.com/2jEsv6o.png",
+  "rpc_url": "http://5.189.157.199:9944",
+  "explorer_url": "http://5.189.157.199:4000",
+  "metrics_endpoint": "http://5.189.157.199:9615/metrics",
+  "id": "7583e518-cba8-4354-b15f-c94b7aeb6ede"
+}

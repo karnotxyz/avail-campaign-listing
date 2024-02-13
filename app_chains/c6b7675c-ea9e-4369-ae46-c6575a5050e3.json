@@ -1,0 +1,8 @@
+{
+  "name": "echo",
+  "logo": "https://i.imgur.com/FfvuVJm.jpg",
+  "rpc_url": "http://144.91.96.238:9944",
+  "explorer_url": "http://144.91.96.238:4000",
+  "metrics_endpoint": "http://144.91.96.238:9615/metrics",
+  "id": "c6b7675c-ea9e-4369-ae46-c6575a5050e3"
+}

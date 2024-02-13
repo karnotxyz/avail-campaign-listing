@@ -1,0 +1,8 @@
+{
+  "name": "chandler",
+  "logo": "https://r.resimlink.com/m62o5HCpO.png",
+  "rpc_url": "http://5.189.137.2:9944",
+  "explorer_url": "http://5.189.137.2:4000",
+  "metrics_endpoint": "http://5.189.137.2:9615/metrics",
+  "id": "d74733c2-aa80-4fb5-9fb7-1483bdd081d9"
+}

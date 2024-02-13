@@ -1,0 +1,8 @@
+{
+  "name": "saha",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106548980/303326295-9884c07f-3579-4a7a-9708-0f80965556fa.png",
+  "rpc_url": "http://207.180.234.72:9944",
+  "explorer_url": "http://207.180.234.72:4000",
+  "metrics_endpoint": "http://207.180.234.72:9615/metrics",
+  "id": "11b095eb-0ccc-4e3a-a083-0a469846b2d4"
+}
