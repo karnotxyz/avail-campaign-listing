@@ -1,0 +1,8 @@
+{
+  "name": "unreka",
+  "logo": "https://r.resimlink.com/EXuTadB.png",
+  "rpc_url": "http://64.23.177.156:9944",
+  "explorer_url": "http://64.23.177.156:4000",
+  "metrics_endpoint": "http://64.23.177.156:9615/metrics",
+  "id": "2b077322-bb53-4bfd-92b7-40b1a50b6f97"
+}
