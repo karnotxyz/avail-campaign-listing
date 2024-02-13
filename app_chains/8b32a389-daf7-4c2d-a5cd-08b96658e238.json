@@ -1,0 +1,8 @@
+{
+  "name": "madara444",
+  "logo": "https://r.resimlink.com/gOzBo0.jpg",
+  "rpc_url": "http://65.109.14.73:9944",
+  "explorer_url": "http://65.109.14.73:4000",
+  "metrics_endpoint": "http://65.109.14.73:9615",
+  "id": "8b32a389-daf7-4c2d-a5cd-08b96658e238"
+}
