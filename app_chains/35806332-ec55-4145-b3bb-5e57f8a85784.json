@@ -1,0 +1,8 @@
+{
+  "name": "minhphat",
+  "logo": "https://github.com/phatbm/profile/blob/main/minhphat.jpg",
+  "rpc_url": "http://31.220.72.135:9944",
+  "explorer_url": "http://31.220.72.135:4000",
+  "metrics_endpoint": "http://31.220.72.135:9615/metrics",
+  "id": "35806332-ec55-4145-b3bb-5e57f8a85784"
+}
