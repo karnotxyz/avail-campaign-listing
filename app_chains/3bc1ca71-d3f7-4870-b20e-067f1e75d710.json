@@ -1,0 +1,8 @@
+{
+  "name": "HOJUUN2",
+  "logo": "https://ibb.co/FwBSSSX",
+  "rpc_url": "http://37.60.226.129/:9944",
+  "explorer_url": "http://37.60.226.129/:4000",
+  "metrics_endpoint": "http://37.60.226.129/:9615/metrics",
+  "id": "3bc1ca71-d3f7-4870-b20e-067f1e75d710"
+}
