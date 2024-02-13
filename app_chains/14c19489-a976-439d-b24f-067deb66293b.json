@@ -1,0 +1,8 @@
+{
+  "name": "GeminiWiston",
+  "logo": "https://i.ibb.co/VY1rJ5s/images.png/400x400",
+  "rpc_url": "https://63.142.255.69:9944",
+  "explorer_url": "https://63.142.255.69:4000",
+  "metrics_endpoint": "https://63.142.255.69/metrics",
+  "id": "14c19489-a976-439d-b24f-067deb66293b"
+}
