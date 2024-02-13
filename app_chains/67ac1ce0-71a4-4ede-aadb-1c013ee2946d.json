@@ -1,0 +1,8 @@
+{
+  "name": "witness",
+  "logo": "https://r.resimlink.com/rWhLqm.jpg", 
+  "rpc_url": "http://194.233.90.94:9944",
+  "explorer_url": "http://194.233.90.94:4000",
+  "metrics_endpoint": "http://194.233.90.94:9615",
+  "id": "67ac1ce0-71a4-4ede-aadb-1c013ee2946d"
+}
