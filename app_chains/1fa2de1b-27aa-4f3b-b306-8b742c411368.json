@@ -1,0 +1,8 @@
+{
+  "name": "assykaan",
+  "logo": "https://r.resimlink.com/m3ahKLwrPx.png",
+  "rpc_url": "http://65.109.227.116:9944",
+  "explorer_url": "http://65.109.227.116:4000",
+  "metrics_endpoint": "http://65.109.227.116:9615/metrics",
+  "id": "1fa2de1b-27aa-4f3b-b306-8b742c411368"
+}
