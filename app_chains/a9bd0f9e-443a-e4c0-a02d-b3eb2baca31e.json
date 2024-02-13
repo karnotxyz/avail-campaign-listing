@@ -1,0 +1,8 @@
+{
+  "name": "kkbbccdapps",
+  "logo": "https://i.ibb.co/9943YFY/kkbbcc-logo.jpg",
+  "rpc_url": "https://184.174.39.157:9944",
+  "explorer_url": "http://184.174.39.157:4000",
+  "metrics_endpoint": "https://184.174.39.157:9615/metrics",
+  "id": "a9bd0f9e-443a-e4c0-a02d-b3eb2baca31e"
+}
