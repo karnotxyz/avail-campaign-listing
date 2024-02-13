@@ -1,0 +1,8 @@
+{
+  "name": "Jamal",
+  "logo": "https://placehold.co/400x400.png",
+  "rpc_url": "http://38.242.151.164:9944",
+  "explorer_url": "http://38.242.151.164:4000",
+  "metrics_endpoint": "http://38.242.151.164:9615/metrics",
+  "id": "791f2b42-a3fb-46fd-a869-8043c2afa1cf"
+}
