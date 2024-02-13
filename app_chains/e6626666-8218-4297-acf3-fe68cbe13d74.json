@@ -1,0 +1,8 @@
+{
+  "name": "hawa",
+  "logo": "https://imgur.com/a/cFQQHzX",
+  "rpc_url": "http://161.97.116.48:9944",
+  "explorer_url": "http://161.97.116.48:4000",
+  "metrics_endpoint": "http://161.97.116.48:9615/metrics",
+  "id": "e6626666-8218-4297-acf3-fe68cbe13d74"
+}
