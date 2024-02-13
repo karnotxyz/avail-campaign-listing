@@ -1,8 +1,8 @@
 {
-    "name": "minqun",
-    "logo": "https://ibb.co/7gS4T6k",
-    "rpc_url": "http://185.81.30.84:9944",
-    "explorer_url": "http://185.81.30.84:4000",
-    "metrics_endpoint": "http://185.81.30.84:9615/metrics",
-    "id": "11f8e965-ccb7-444b-bc43-34dc34eff8ee"
+  "name": "minqun",
+  "logo": "https://ibb.co/7gS4T6k",
+  "rpc_url": "http://185.81.30.84:9944",
+  "explorer_url": "http://185.81.30.84:4000",
+  "metrics_endpoint": "http://185.81.30.84:9615/metrics",
+  "id": "11f8e965-ccb7-444b-bc43-34dc34eff8ee"
 }
