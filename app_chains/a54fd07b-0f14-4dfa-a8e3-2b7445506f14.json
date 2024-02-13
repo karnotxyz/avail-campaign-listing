@@ -1,0 +1,8 @@
+{
+  "name": "raju",
+  "logo": "https://ibb.co/QkmHVkB",
+  "rpc_url": "http://170.64.185.254:9944",
+  "explorer_url": "http://170.64.185.254:4000",
+  "metrics_endpoint": "http://170.64.185.254:9615/metrics",
+  "id": "a54fd07b-0f14-4dfa-a8e3-2b7445506f14"
+}
