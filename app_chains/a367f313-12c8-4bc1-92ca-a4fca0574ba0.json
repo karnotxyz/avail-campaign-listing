@@ -1,0 +1,8 @@
+{
+  "name": "jewel",
+  "logo": "https://imgur.com/I7PVpuY.png",
+  "rpc_url": "http://43.157.23.251:9944",
+  "explorer_url": "http://43.157.23.251:4000",
+  "metrics_endpoint": "http://43.157.23.251:9615/metrics",
+  "id": "a367f313-12c8-4bc1-92ca-a4fca0574ba0"
+}

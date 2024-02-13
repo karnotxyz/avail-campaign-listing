@@ -1,0 +1,8 @@
+{
+  "name": "Bernard",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/95563850/302898821-bf1eea51-56cc-4249-8e45-cf67a464b54e.png",
+  "rpc_url": "http://176.9.227.231:9944",
+  "explorer_url": "http://176.9.227.231:4000",
+  "metrics_endpoint": "http://176.9.227.231:9615/metrics",
+  "id": "25ff0b11-e715-4a1e-875a-95a72b13d0a0"
+}
