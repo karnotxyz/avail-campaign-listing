@@ -1,8 +1,8 @@
 {
-   "name": "hossein",
-   "logo": "https://r.resimlink.com/2uk3OE.png",
-   "rpc_url": "https://144.91.107.61:9944",
-   "explorer_url": "https://144.91.107.61:4000",
-   "metrics_endpoint": "https://144.91.107.61:9615/metrics",
-   "id": "67edaeac-315e-42c9-a33f-603004238229"
-  }
+  "name": "hossein",
+  "logo": "https://r.resimlink.com/y78G5LJA3ZN.jpg",
+  "rpc_url": "https://144.91.107.61:9944",
+  "explorer_url": "https://144.91.107.61:4000",
+  "metrics_endpoint": "https://144.91.107.61:9615/metrics",
+  "id": "67edaeac-315e-42c9-a33f-603004238229"
+}
