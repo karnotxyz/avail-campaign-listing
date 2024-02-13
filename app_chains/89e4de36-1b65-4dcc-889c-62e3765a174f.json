@@ -4,6 +4,6 @@
   "rpc_url": "http://82.208.20.57:9944",
   "explorer_url": "http://82.208.20.57:4000",
   "metrics_endpoint": "http://82.208.20.57:9615/metrics",
-  "id": "89e4de36-1b65-4dcc-889c-62e3765a174f"
+  "id": "89e4de36-1b65-4dcc-889c-62e3765a174f",
 }
 
