@@ -1,0 +1,8 @@
+{
+  "name": "klein",
+  "logo": "https://pbs.twimg.com/profile_images/1681264232690511879/u80-SCct_400x400.jpg",
+  "rpc_url": "http://75.119.146.156:9944",
+  "explorer_url": "http://75.119.146.156:4000",
+  "metrics_endpoint": "http://75.119.146.156:9615/metrics",
+  "id": "dd02d6d2-7ab7-4d59-9b34-2d3a5d4833bb"
+}
