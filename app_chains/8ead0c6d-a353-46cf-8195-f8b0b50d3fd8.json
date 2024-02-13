@@ -1,0 +1,8 @@
+{
+  "name": "0xkidlat",
+  "logo": "https://opensea.io/assets/ethereum/0xe43d741e21d8bf30545a88c46e4ff5681518ebad/243",
+  "rpc_url": "http://43.131.243.90:9944",
+  "explorer_url": "http://43.131.243.90:4000",
+  "metrics_endpoint": "http://43.131.243.90:9615/metrics",
+  "id": "8ead0c6d-a353-46cf-8195-f8b0b50d3fd8"
+}
