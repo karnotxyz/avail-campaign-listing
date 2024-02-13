@@ -1,0 +1,8 @@
+{
+  "name": "SerKan",
+  "logo": "https://r.resimlink.com/LTs0l5w.png",
+  "rpc_url": "http://207.180.249.96:9944",
+  "explorer_url": "http://207.180.249.96:4000",
+  "metrics_endpoint": "http://207.180.249.96:9615/metrics",
+  "id": "7bba76e2-a2a4-48cd-9f3b-074f57fe8b2a"
+}
