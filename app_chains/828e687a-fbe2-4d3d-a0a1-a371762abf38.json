@@ -1,0 +1,8 @@
+{
+  "name": "SivicNet",
+  "logo": "https://i.ibb.co/j5FfSZd/user.png",
+  "rpc_url": "http://117.144.16.190:9944",
+  "explorer_url": "http://117.144.16.190:4000",
+  "metrics_endpoint": "http://117.144.16.190:9615/metrics",
+  "id": "828e687a-fbe2-4d3d-a0a1-a371762abf38"
+}

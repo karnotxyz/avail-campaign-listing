@@ -1,0 +1,8 @@
+{
+  "name": "shahan",
+  "logo": "https://r.resimlink.com/Q7UaMlXP43.jpg",
+  "rpc_url": "http://158.220.99.220:9944",
+  "explorer_url": "http://158.220.99.220:4000",
+  "metrics_endpoint": "http://158.220.99.220:9615/metrics",
+  "id": "353edf63-917a-4a8c-8148-03fdd70569db"
+}
