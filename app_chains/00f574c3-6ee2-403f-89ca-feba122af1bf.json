@@ -1,0 +1,8 @@
+{
+    "name": "atalmatal48",
+    "logo": "https://r.resimlink.com/8zAjU5t.jpg",
+    "rpc_url": "http://49.12.193.98:9944",
+    "explorer_url": "http://49.12.193.98:4000",
+    "metrics_endpoint": "http://49.12.193.98:9615/metrics",
+    "id": "00f574c3-6ee2-403f-89ca-feba122af1bf"
+  }
