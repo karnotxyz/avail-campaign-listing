@@ -1,0 +1,8 @@
+{
+  "name": "spacex",
+  "logo": "https://r.resimlink.com/U2OI9cR.jpg",
+  "rpc_url": "http://135.181.94.100:9944",
+  "explorer_url": "http://135.181.94.100:4000",
+  "metrics_endpoint": "http://135.181.94.100:9615/metrics",
+  "id": "864a8c9f-12b2-4dc3-85fa-f2d284537c62"
+}
