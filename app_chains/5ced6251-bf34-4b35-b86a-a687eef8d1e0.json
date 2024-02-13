@@ -1,0 +1,8 @@
+{
+  "name": "CryptoTurk",
+  "logo": "https://r.resimlink.com/42RiuO7Eq.jpg",
+  "rpc_url": "http://49.13.82.254:9944",
+  "explorer_url": "http://49.13.82.254:4000",
+  "metrics_endpoint": "http://49.13.82.254:9615",
+  "id": "5ced6251-bf34-4b35-b86a-a687eef8d1e0" 
+}
