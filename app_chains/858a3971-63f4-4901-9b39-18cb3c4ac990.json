@@ -1,0 +1,8 @@
+{
+  "name": "vmi1657205",
+  "logo": "https://r.resimlink.com/Pl5Tad39YV.jpg",
+  "rpc_url": "http://158.220.92.245:9944",
+  "explorer_url": "158.220.92.245:4000",
+  "metrics_endpoint": "158.220.92.245:9615/metrics",
+  "id": "858a3971-63f4-4901-9b39-18cb3c4ac990"
+}
