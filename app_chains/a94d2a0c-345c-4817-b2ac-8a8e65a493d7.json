@@ -1,0 +1,9 @@
+{
+  "name": "belalangeth",
+  "logo": "https://imgur.com/5wPQTl3",
+  "rpc_url": "http://65.21.52.164:9944",
+  "explorer_url": "http://65.21.52.164:4000",
+  "metrics_endpoint": "65.21.52.164:9615/metrics",
+  "id": "a94d2a0c-345c-4817-b2ac-8a8e65a493d7"
+}
+
