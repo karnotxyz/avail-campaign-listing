@@ -1,0 +1,8 @@
+{
+  "name": "fadil",
+  "logo": "https://imgur.com/a/qhYBt6u",
+  "rpc_url": "http://46.250.232.71:9944",
+  "explorer_url": "http://46.250.232.71:4000",
+  "metrics_endpoint": "http://46.250.232.71:9615/metrics",
+  "id": "b4aac6af-0f2a-49e2-8346-a219b171e75c"
+}
