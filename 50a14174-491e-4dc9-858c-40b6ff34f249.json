@@ -1,0 +1,8 @@
+{
+  "name": "PELERKUDA",
+  "logo": "https://r.resimlink.com/7FSpQxAyB-jV.png",
+  "rpc_url": "http://46.250.235.87:9944",
+  "explorer_url": "http://46.250.235.87:4000",
+  "metrics_endpoint": "http://46.250.235.87:9615/metrics",
+  "id": "50a14174-491e-4dc9-858c-40b6ff34f249"
+}
