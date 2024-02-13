@@ -1,0 +1,8 @@
+{
+  "name": "kevin",
+  "logo": "https://i.imgur.com/2ulAcaW.jpeg",
+  "rpc_url": "http://43.163.193.3:9944",
+  "explorer_url": "http://43.163.193.3:4000",
+  "metrics_endpoint": "http://43.163.193.3:9615/metrics",
+  "id": "e2d5956a-db7f-451b-86e3-b25dfcbfc87d"
+}
