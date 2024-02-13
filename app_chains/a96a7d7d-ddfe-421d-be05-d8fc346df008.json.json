@@ -1,0 +1,8 @@
+{
+    "name": "aliavail",
+    "logo": "https://r.resimlink.com/dw96fWLx0au.png",
+    "rpc_url": "http://65.108.159.71:9944",
+    "explorer_url": "http://65.108.159.71:4000",
+    "metrics_endpoint": "http://65.108.159.71:9615",
+    "id": "a96a7d7d-ddfe-421d-be05-d8fc346df008"
+}
