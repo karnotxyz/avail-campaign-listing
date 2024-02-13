@@ -1,0 +1,8 @@
+{
+  "name": "nama_app_chain_kamu",
+  "logo": "url_image_app_chain_kamu",
+  "rpc_url": "http://IP_VPS_KAMU:9944",
+  "explorer_url": "http://IP_VPS_KAMU:4000",
+  "metrics_endpoint": "http://IP_VPS_KAMU:9615/metrics",
+  "id": "UID_KAMU"
+}
