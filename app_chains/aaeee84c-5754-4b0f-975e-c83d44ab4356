@@ -1,0 +1,13 @@
+{
+  "name": "notapp",
+  "logo": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/bafybeib3wwk3fisuslus2g2lh6plkgoj42ekfwco2beuyz6bleo73rpaey/Screenshot%20February%2013%202024%2001%3A43%3A19.png",
+  "rpc_url": "http://192.236.179.75:9944",
+  "explorer_url": "http://192.236.179.75:4000",
+  "metrics_endpoint": "http://192.236.179.75:9615/metrics",
+  "id": "aaeee84c-5754-4b0f-975e-c83d44ab4356"
+}
+
+
+
+
+
