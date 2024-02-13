@@ -1,0 +1,8 @@
+{
+  "name": "Feraxapp",
+  "logo": "https://i.imgur.com/ajsPRE7.jpeg",
+  "rpc_url": "http://65.109.171.130:9944",
+  "explorer_url": "http://65.109.171.130:4000",
+  "metrics_endpoint": "http://65.109.171.130:9615/metrics",
+  "id": "a83353b2-2018-46e7-898c-f13285a4dd84"
+}
