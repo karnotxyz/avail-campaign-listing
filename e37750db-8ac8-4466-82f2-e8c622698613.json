@@ -1,0 +1,8 @@
+{
+  "name": "Emrah-01",
+  "logo": "https://r.resimlink.com/E109dZhG.png",
+  "rpc_url": "http://164.92.157.135:9944",
+  "explorer_url": "http://164.92.157.135:4000",
+  "metrics_endpoint": "http://164.92.157.135:9615/metrics",
+  "id": "e37750db-8ac8-4466-82f2-e8c622698613"
+}
