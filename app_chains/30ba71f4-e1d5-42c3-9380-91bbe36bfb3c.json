@@ -1,9 +1,8 @@
-
- {
-   "name": "Haj Ali",
-   "logo": "https://r.resimlink.com/vW8hYgTf.png",
-   "rpc_url": "http://89.106.206.110:9944",
-   "explorer_url": "http://89.106.206.110:4000",
-   "metrics_endpoint": "http://89.106.206.110:9615/metrics", 
-   "id": "30ba71f4-e1d5-42c3-9380-91bbe36bfb3c"
- }
+{
+  "name": "Haj Ali",
+  "logo": "https://r.resimlink.com/vW8hYgTf.png",
+  "rpc_url": "http://89.106.206.110:9944",
+  "explorer_url": "http://89.106.206.110:4000",
+  "metrics_endpoint": "http://89.106.206.110:9615/metrics",
+  "id": "30ba71f4-e1d5-42c3-9380-91bbe36bfb3c"
+}
