@@ -1,0 +1,8 @@
+{
+    "name": "kingbarong",
+    "logo": "https://ibb.co/ZBYqzF3",
+    "rpc_url": "http://206.189.153.86:9944",
+    "explorer_url": "http://206.189.153.86:4000",
+    "metrics_endpoint": "http://3206.189.153.86/metrics",
+    "id": "a59bec0c-0b99-4b28-8fdd-bda14f44b5c3"
+  }
