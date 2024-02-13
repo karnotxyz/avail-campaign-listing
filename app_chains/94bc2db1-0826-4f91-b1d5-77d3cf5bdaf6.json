@@ -1,0 +1,8 @@
+{
+  "name": "PELERKUDA",
+  "logo": "https://i.imgur.com/duedOAA.jpeg",
+  "rpc_url": "http://46.250.235.87:9944",
+  "explorer_url": "http://46.250.235.87:4000",
+  "metrics_endpoint": "http://46.250.235.87:9615/metrics",
+  "id": "94bc2db1-0826-4f91-b1d5-77d3cf5bdaf6"
+}
