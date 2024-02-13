@@ -1,0 +1,8 @@
+{
+  "name": "832cdca5-efba-4801-9778-e4c69f956e46",
+  "logo": "https://i.ibb.co.com/jDdDs2W/Michel-logo.jpg",
+  "rpc_url": "http://65.21.239.60:9944",
+  "explorer_url": "http://65.21.239.60:4000/",
+  "metrics_endpoint": "http://65.21.239.60:9615/metrics",
+  "id": "832cdca5-efba-4801-9778-e4c69f956e46"
+}
