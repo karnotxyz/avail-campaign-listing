@@ -1,8 +1,0 @@
-{
-   "name": "rich",
-   "logo": "https://r.resimlink.com/JcMHT.jpg",
-   "rpc_url": "http://185.231.59.36:9944",
-   "explorer_url": "http://185.231.59.36:4000",
-   "metrics_endpoint": "http://185.231.59.36:9615/metrics", 
-   "id": "230546f9-50f2-48df-80ab-0a585e329292"
-}
