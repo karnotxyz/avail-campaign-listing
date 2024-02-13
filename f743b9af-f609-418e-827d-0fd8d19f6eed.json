@@ -1,0 +1,9 @@
+npx prettier@latest --write .
+{
+  "name": "kingbarong",
+  "logo": "https://ibb.co/ZBYqzF3",
+  "rpc_url": "http://206.189.153.86:9944",
+  "explorer_url": "http://206.189.153.86:4000",
+  "metrics_endpoint": "http://206.189.153.86:9615/metrics",
+  "id": "f743b9af-f609-418e-827d-0fd8d19f6eed"
+}
