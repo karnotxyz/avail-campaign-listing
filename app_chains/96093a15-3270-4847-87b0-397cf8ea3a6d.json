@@ -1,0 +1,8 @@
+{
+  "name": "lambo",
+  "logo": "https://i.ibb.co/SDSvJ2F/kidqprtx.png",
+  "rpc_url": "http://88.99.81.93:9944",
+  "explorer_url": "http://88.99.81.93:4000",
+  "metrics_endpoint": "http://88.99.81.93:9615/metrics",
+  "id": "96093a15-3270-4847-87b0-397cf8ea3a6d"
+}
