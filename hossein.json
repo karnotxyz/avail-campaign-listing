@@ -1,8 +1,0 @@
-{
-    "name": "hossein",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/117856305/304027176-c1f9cebc-8064-4725-a3b3-3aff5fec43b1.png",
-    "rpc_url": "https://144.91.107.61:9944",
-    "explorer_url": "https://144.91.107.61:4000",
-    "metrics_endpoint": "https://144.91.107.61:9615/metrics",
-    "id": "67edaeac-315e-42c9-a33f-603004238229"
-  }
