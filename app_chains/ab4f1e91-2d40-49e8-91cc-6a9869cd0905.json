@@ -1,0 +1,8 @@
+{
+  "name": "armanto",
+  "logo": "https://imgur.com/a/doA2iJh",
+  "rpc_url": "http://5.161.209.179:9944",
+  "explorer_url": "http://5.161.209.179:4000",
+  "metrics_endpoint": "http://5.161.209.179:9615/metrics",
+  "id": "ab4f1e91-2d40-49e8-91cc-6a9869cd0905"
+}
