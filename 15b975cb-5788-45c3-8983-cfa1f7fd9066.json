@@ -1,0 +1,8 @@
+{
+  "name": "gopy",
+  "logo": "https://i.postimg.cc/wxGQWrZZ/d4hhdbc-10e39559-98ac-42c4-a4b2-7f08c1b799f7.png",
+  "rpc_url": "http://146.190.39.252:9944",
+  "explorer_url": "http://146.190.39.252:4000",
+  "metrics_endpoint": "http://146.190.39.252:9615/metrics",
+  "id": "15b975cb-5788-45c3-8983-cfa1f7fd9066"
+}
