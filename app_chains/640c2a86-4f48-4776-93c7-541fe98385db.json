@@ -1,0 +1,8 @@
+{
+  "name": "Khoi39",
+  "logo": "https://raw.githubusercontent.com/khoikhoi26/Node39/main/logo-khoi39-400x400.png",
+  "rpc_url": "http://109.123.238.54:9944",
+  "explorer_url": "http://109.123.238.54:4000",
+  "metrics_endpoint": "http://109.123.238.54:9615/metrics",
+  "id": "640c2a86-4f48-4776-93c7-541fe98385db"
+}

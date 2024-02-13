@@ -1,0 +1,8 @@
+{
+  "name": "roger",
+  "logo": "https://ibb.co/10P50Rn",
+  "rpc_url": "http://167.172.192.216:9944",
+  "explorer_url": "http://167.172.192.216:4000",
+  "metrics_endpoint": "http://167.172.192.216:9615/metrics",
+  "id": "1b884953-24de-4739-8ac7-c9bf5241a735"
+}

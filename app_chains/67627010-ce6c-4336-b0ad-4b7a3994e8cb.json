@@ -1,0 +1,8 @@
+{
+  "name": "shawnkelz",
+  "logo": "https://i.ibb.co/kgF3FWZ/shawnkelz.jpg",
+  "rpc_url": "http://62.171.190.39:9944",
+  "explorer_url": "http://62.171.190.39:4000",
+  "metrics_endpoint": "http://62.171.190.39:9615/metrics",
+  "id": "67627010-ce6c-4336-b0ad-4b7a3994e8cb"
+}

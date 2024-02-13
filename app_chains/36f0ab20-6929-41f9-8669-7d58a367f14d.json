@@ -1,0 +1,8 @@
+{
+  "name": "fatih",
+  "logo": "https://r.resimlink.com/YQzpXEGx9w.png",
+  "rpc_url": "http://188.132.165.116:9944",
+  "explorer_url": "http://188.132.165.116:4000",
+  "metrics_endpoint": "http://188.132.165.116:9615/metrics",
+  "id": "36f0ab20-6929-41f9-8669-7d58a367f14d"
+}
