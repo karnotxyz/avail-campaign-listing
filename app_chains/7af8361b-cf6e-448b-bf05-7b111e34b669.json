@@ -1,0 +1,8 @@
+{
+"name": "Kaanmap",
+"logo": "https://r.resimlink.com/m3ahKLwrPx.png",
+"rpc_url": "http://65.109.227.116:9944",
+"explorer_url": "http://65.109.227.116:4000",
+"metrics_endpoint": "http://65.109.227.116:9615/metrics",
+"id": "7af8361b-cf6e-448b-bf05-7b111e34b669"
+}
