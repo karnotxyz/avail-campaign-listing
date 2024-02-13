@@ -38,13 +38,7 @@ format to listing.json.
 
 Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/195).
 
-## FAQs
 
-### How to fix prettier?
-
-Install npx and run `npx prettier@latest --write .` on the repo root.
-
-### My `validate-entry` check keeps failing
 
 Make sure all your entrypoints (`rpc_url`, `explorer_url`, `metrics_endpoint`) are up and working correctly.
 
