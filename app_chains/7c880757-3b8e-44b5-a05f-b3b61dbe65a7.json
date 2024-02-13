@@ -1,0 +1,8 @@
+{
+  "name": "msaeedmt",
+  "logo": "https://github.com/msaeedmt/Testnet/blob/main/testnet.jpg",
+  "rpc_url": "http://49.12.60.36:9944",
+  "explorer_url": "http://49.12.60.36:4000",
+  "metrics_endpoint": "http://49.12.60.36:9615/metrics",
+  "id": "7c880757-3b8e-44b5-a05f-b3b61dbe65a7"
+}
