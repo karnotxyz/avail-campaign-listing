@@ -1,8 +1,8 @@
 {
   "name": "padi_dao",
   "logo": "https://i.ibb.co/rGCSYfD/Screenshot-2024-02-13-09-30-53-131-com-android-chrome-edit.jpg",
-  "rpc_url": "http://158.220.105.236:9944/",
-  "explorer_url": "http://158.220.105.236:4000/",
+  "rpc_url": "http://158.220.105.236:9944",
+  "explorer_url": "http://158.220.105.236:4000",
   "metrics_endpoint": "http://158.220.105.236:9615/metrics",
   "id": "c2f620f8-bc73-4f9e-b384-f8ec58d2f3d3"
 }
