@@ -1,8 +1,8 @@
 {
-    "name": "msaeedmt",
-    "logo": "https://github.com/msaeedmt/Testnet/blob/main/testnet.jpg",
-    "rpc_url": "http://49.12.60.36:9944",
-    "explorer_url": "http://49.12.60.36:4000",
-    "metrics_endpoint": "http://49.12.60.36:9615/metrics",
-    "id": "ba30b2a9-eb0f-4124-922c-db71bcd775fc"
-  }
+  "name": "msaeedmt",
+  "logo": "https://github.com/msaeedmt/Testnet/blob/main/testnet.jpg",
+  "rpc_url": "http://49.12.60.36:9944",
+  "explorer_url": "http://49.12.60.36:4000",
+  "metrics_endpoint": "http://49.12.60.36:9615/metrics",
+  "id": "ba30b2a9-eb0f-4124-922c-db71bcd775fc"
+}
