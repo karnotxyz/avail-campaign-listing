@@ -1,0 +1,8 @@
+{
+  "name": "TarnisNetwork",
+  "logo": "https://r.resimlink.com/XYlHOa7-oL.png",
+  "rpc_url": "http://34.145.8.39:9944",
+  "explorer_url": "http://34.145.8.39:4000",
+  "metrics_endpoint": "http://34.145.8.39:9615/metrics",
+  "id": "1d9285d5-e35b-46a9-8d37-ff4a620e1233"
+}

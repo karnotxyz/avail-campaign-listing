@@ -1,0 +1,8 @@
+{
+  "name": "moraa",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/95428967/302335666-0f019524-3073-402d-afcb-18adf5779c1b.png",
+  "rpc_url": "http://49.12.56.162:9944",
+  "explorer_url": "http://49.12.56.162:4000",
+  "metrics_endpoint": "http://49.12.56.162:9615/metrics",
+  "id": "675006b6-72e1-4539-b112-3e1ef165e89a"
+}

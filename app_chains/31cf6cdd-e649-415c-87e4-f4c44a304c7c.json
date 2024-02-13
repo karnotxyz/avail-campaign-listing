@@ -1,0 +1,8 @@
+{
+  "name": "Akacuki",
+  "logo": "https://r2.easyimg.io/tpz4ichia/olegoals.png",
+  "rpc_url": "http://84.46.241.62:9944",
+  "explorer_url": "http://84.46.241.62:4000",
+  "metrics_endpoint": "http://84.46.241.62:9615/metrics",
+  "id": "31cf6cdd-e649-415c-87e4-f4c44a304c7c"
+}

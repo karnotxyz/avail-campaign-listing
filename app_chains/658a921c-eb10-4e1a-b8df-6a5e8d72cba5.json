@@ -1,0 +1,8 @@
+{
+  "name": "akync",
+  "logo": "https://raw.githubusercontent.com/ahmetkync/ahmet/main/bugsb.jpg",
+  "rpc_url": "http://37.60.243.184:9944",
+  "explorer_url": "http://37.60.243.184:4000",
+  "metrics_endpoint": "http://37.60.243.184:9615/metrics",
+  "id": "658a921c-eb10-4e1a-b8df-6a5e8d72cba5"
+}

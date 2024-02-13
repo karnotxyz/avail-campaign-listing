@@ -1,0 +1,8 @@
+{
+  "name": "fanois",
+  "logo": "https://i.imgur.com/fJi1eC4.png",
+  "rpc_url": "http://37.27.32.253:9944",
+  "explorer_url": "http://37.27.32.253:4000",
+  "metrics_endpoint": "http://37.27.32.253:9615/metrics",
+  "id": "d268eeb2-4753-4b16-b05d-61f37247ca11"
+}

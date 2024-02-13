@@ -1,0 +1,8 @@
+{
+  "name": "tamzamanlibaba",
+  "logo": "https://i.ibb.co/tmX6RW3/Profile-Picture-Maker.png",
+  "rpc_url": "http://185.196.20.165:9944",
+  "explorer_url": "http://185.196.20.165:4000",
+  "metrics_endpoint": "http://185.196.20.165:9615/metrics",
+  "id": "8c922a33-dd97-4be8-9fca-ced5289f1924"
+}

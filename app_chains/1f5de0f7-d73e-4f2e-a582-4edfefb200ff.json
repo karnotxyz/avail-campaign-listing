@@ -1,0 +1,8 @@
+{
+  "name": "zacnider",
+  "logo": "https://r.resimlink.com/0xn295.png",
+  "rpc_url": "http://93.164.4.181:9944",
+  "explorer_url": "http://93.164.4.181:4000",
+  "metrics_endpoint": "http://93.164.4.181:9615",
+  "id": "1f5de0f7-d73e-4f2e-a582-4edfefb200ff"
+}

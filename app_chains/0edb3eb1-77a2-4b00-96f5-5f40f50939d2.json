@@ -1,0 +1,8 @@
+{
+  "name": "scuttleswo",
+  "logo": "http://43.153.133.193/logo.jpg",
+  "rpc_url": "http://43.153.133.193:9944",
+  "explorer_url": "http://43.153.133.193:4000",
+  "metrics_endpoint": "http://43.153.133.193:9615/metrics",
+  "id": "0edb3eb1-77a2-4b00-96f5-5f40f50939d2"
+}
