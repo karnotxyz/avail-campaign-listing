@@ -1,0 +1,10 @@
+{
+  "name": "blockchainlover",
+  "logo": "https://i.ibb.co/1XzvkC3/photo-2023-10-07-22-48-07.png",
+  "rpc_url": "http://167.86.116.93:9944",
+  "explorer_url": "http://167.86.116.93:4000",
+  "metrics_endpoint": "http://167.86.116.93:9615/metrics",
+  "id": "7da4c43d-edc0-40ca-a1fd-3f6038bf8b3e"
+}
+
+
