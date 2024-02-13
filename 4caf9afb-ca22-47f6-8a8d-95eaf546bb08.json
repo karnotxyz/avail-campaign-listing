@@ -1,8 +1,0 @@
-{
-  "name": "yuzuric",
-  "logo": "https://r.resimlink.com/nHhC3aAXZ45M.png",
-  "rpc_url": "http://194.163.149.119:9944",
-  "explorer_url": "http://194.163.149.119:4000",
-  "metrics_endpoint": "http://194.163.149.119:9615/metrics",
-  "id": "4caf9afb-ca22-47f6-8a8d-95eaf546bb08"
-}
