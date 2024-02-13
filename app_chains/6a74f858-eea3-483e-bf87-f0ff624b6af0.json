@@ -1,0 +1,8 @@
+{
+  "name": "yuhntiop",
+  "logo": "https://r.resimlink.com/BymvQz3T.jpg",
+  "rpc_url": "http://95.216.188.254:9944",
+  "explorer_url": "http://95.216.188.254:4000",
+  "metrics_endpoint": "http://95.216.188.254:9615/metrics",
+  "id": "6a74f858-eea3-483e-bf87-f0ff624b6af0"
+}

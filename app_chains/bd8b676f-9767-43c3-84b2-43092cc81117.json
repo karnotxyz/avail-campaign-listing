@@ -1,0 +1,8 @@
+{
+  "name": "backt",
+  "logo": "https://ibb.co/vHLbk63",
+  "rpc_url": "http://167.235.54.4:9944",
+  "explorer_url": "http://167.235.54.4:4000",
+  "metrics_endpoint": "http://167.235.54.4:9615/metrics",
+  "id": "bd8b676f-9767-43c3-84b2-43092cc81117"
+}
