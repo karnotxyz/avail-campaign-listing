@@ -1,0 +1,8 @@
+{
+  "name": "ilyas",
+  "logo": "https://r.resimlink.com/e-nD6M.jpg",
+  "rpc_url": "http://135.181.44.161:9944",
+  "explorer_url": "http://135.181.44.161:4000",
+  "metrics_endpoint": "http://135.181.44.161:9615/metrics",
+  "id": "5ceec650-dfa6-44bc-a043-c93038c68e3a"
+}

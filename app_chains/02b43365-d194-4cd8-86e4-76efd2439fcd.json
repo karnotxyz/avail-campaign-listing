@@ -1,0 +1,8 @@
+{
+  "name": "HopeRises",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/107799034/303853632-174af381-b2d0-4613-82fd-377bb31d046c.png",
+  "rpc_url": "http://65.109.206.144:9944",
+  "explorer_url": "http://65.109.206.144:4000",
+  "metrics_endpoint": "http://65.109.206.144:9615/metrics",
+  "id": "02b43365-d194-4cd8-86e4-76efd2439fcd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DexAPP",
+  "logo": "https://r.resimlink.com/JesW_ctv.jpg",
+  "rpc_url": "http://119.28.142.199:9944",
+  "explorer_url": "http://119.28.142.199:4000",
+  "metrics_endpoint": "http://119.28.142.199:9615/metrics",
+  "id": "4f73188e-ec8d-4577-b5d3-2d03f4f254c1"
+}
