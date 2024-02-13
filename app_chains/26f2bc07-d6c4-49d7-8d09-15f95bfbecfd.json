@@ -1,0 +1,8 @@
+{
+  "name": "zlexdl",
+  "logo": "https://r.resimlink.com/2Ij0y.jpg",
+  "rpc_url": "http://43.129.185.38:9944",
+  "explorer_url": "http://43.129.185.38:4000",
+  "metrics_endpoint": "http://43.129.185.38:9615/metrics",
+  "id": "26f2bc07-d6c4-49d7-8d09-15f95bfbecfd"
+}
