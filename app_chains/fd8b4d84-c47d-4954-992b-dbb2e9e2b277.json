@@ -1,0 +1,8 @@
+{
+  "name": "matt",
+  "logo": "https://i.ibb.co/r50QjN0/mrcat.png",
+  "rpc_url": "http://84.247.187.136:9944",
+  "explorer_url": "http://84.247.187.136:4000",
+  "metrics_endpoint": "http://84.247.187.136:9615/metrics",
+  "id": "55c9a2ce-7e8d-4abb-b988-3e8bb8d460fe"
+}
