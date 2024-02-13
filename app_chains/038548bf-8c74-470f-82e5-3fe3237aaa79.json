@@ -1,0 +1,8 @@
+{
+  "name": "VillNode",
+  "logo": "https://r.resimlink.com/PoE1qcyN7d.png",
+  "rpc_url": "http://206.189.81.143:9944",
+  "explorer_url": "http://206.189.81.143:4000",
+  "metrics_endpoint": "http://206.189.81.143:9615/metrics",
+  "id": "038548bf-8c74-470f-82e5-3fe3237aaa79"
+}
