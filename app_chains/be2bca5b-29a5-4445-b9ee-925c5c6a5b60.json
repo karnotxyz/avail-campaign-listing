@@ -3,6 +3,6 @@
   "logo": "https://placehold.co/400x400",
   "rpc_url": "http://185.221.237.213:9944",
   "explorer_url": "http://185.221.237.213:4000",
-  "metrics_endpoint": "http://185.221.237.213:9615/metrics/",
+  "metrics_endpoint": "http://185.221.237.213:9615/metrics",
   "id": "be2bca5b-29a5-4445-b9ee-925c5c6a5b60"
 }
