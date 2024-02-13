@@ -1,0 +1,8 @@
+{
+  "name": "larboardp",
+  "logo": "http://124.156.202.232/logo.jpg",
+  "rpc_url": "http://124.156.202.232:9944",
+  "explorer_url": "http://124.156.202.232:4000",
+  "metrics_endpoint": "http://124.156.202.232:9615/metrics",
+  "id": "5c2d829c-dbd1-4c7a-81fc-cfe6fb9f696d"
+}

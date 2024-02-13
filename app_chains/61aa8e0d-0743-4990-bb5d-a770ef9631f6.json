@@ -1,0 +1,8 @@
+{
+  "name": "luke",
+  "logo": "https://i.ibb.co/7XMS4Dj/logo-detective-400x400.jpg",
+  "rpc_url": "http://78.46.171.125:9944",
+  "explorer_url": "http://78.46.171.125:4000",
+  "metrics_endpoint": "http://78.46.171.125:9615/metrics",
+  "id": "61aa8e0d-0743-4990-bb5d-a770ef9631f6"
+}

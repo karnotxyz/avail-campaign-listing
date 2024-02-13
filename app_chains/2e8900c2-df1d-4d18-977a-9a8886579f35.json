@@ -1,0 +1,8 @@
+{
+  "name": "billjian24",
+  "logo": "http://www.acgrenwu.cn/uploads/allimg/221018/1-22101Q2291cX.jpg",
+  "rpc_url": "http://103.163.187.149:9944",
+  "explorer_url": "http://103.163.187.149:4000",
+  "metrics_endpoint": "http://103.163.187.149:9615/metrics",
+  "id": "2e8900c2-df1d-4d18-977a-9a8886579f35"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "barguty",
+  "logo": "https://ibb.co/q0Nrk89.jpeg",
+  "rpc_url": "http://103.13.210.246:9944",
+  "explorer_url": "http://103.13.210.246:4000",
+  "metrics_endpoint": "http://103.13.210.246:9615/metrics",
+  "id": "593be0e9-3f8e-4561-9eb9-e4244917413c"
+}

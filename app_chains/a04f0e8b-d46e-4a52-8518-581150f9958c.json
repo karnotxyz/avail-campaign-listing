@@ -1,0 +1,8 @@
+{
+  "name": "baytar",
+  "logo": "https://placehold.co/400x400.png?text=BAYTAR",
+  "rpc_url": "http://38.242.133.174:9944",
+  "explorer_url": "http://38.242.133.174:4000",
+  "metrics_endpoint": "http://38.242.133.174:9615/metrics",
+  "id": "a04f0e8b-d46e-4a52-8518-581150f9958c"
+}

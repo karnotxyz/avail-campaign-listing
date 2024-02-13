@@ -1,0 +1,8 @@
+{
+  "name": "ramzey",
+  "logo": "https://i.imgur.com/OnMyyQn.jpeg",
+  "rpc_url": "http://128.199.33.45:9944",
+  "explorer_url": "http://128.199.33.45:4000",
+  "metrics_endpoint": "http://128.199.33.45:9615/metrics",
+  "id": "afdb8173-7840-4fd1-b5d0-a2d0850aabdc"
+}

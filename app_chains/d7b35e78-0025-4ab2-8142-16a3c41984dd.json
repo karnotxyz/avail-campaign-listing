@@ -1,0 +1,8 @@
+{
+  "name": "wancu",
+  "logo": "https://i.imgur.com/566pJwu.jpg",
+  "rpc_url": "http://38.242.249.75:9944",
+  "explorer_url": "38.242.249.75:4000",
+  "metrics_endpoint": "http://38.242.249.75:9615/metrics",
+  "id": "d7b35e78-0025-4ab2-8142-16a3c41984dd"
+}

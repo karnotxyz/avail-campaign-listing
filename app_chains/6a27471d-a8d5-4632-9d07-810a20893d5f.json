@@ -1,0 +1,8 @@
+{
+  "name": "hidee-madara",
+  "logo": "https://i.ibb.co/bHGXkYw/Whats-App-Image-2024-02-09-at-5-06-24-PM-1.jpg",
+  "rpc_url": "http://185.182.185.17:9944",
+  "explorer_url": "http://185.182.185.17:4000",
+  "metrics_endpoint": "http://185.182.185.17:9615/metrics",
+  "id": "6a27471d-a8d5-4632-9d07-810a20893d5f"
+}

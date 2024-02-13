@@ -1,0 +1,8 @@
+{
+  "name": "assy",
+  "logo": "https://imgur.com/a/dzrv1Ur.jpeg",
+  "rpc_url": "http://46.250.234.35:9944",
+  "explorer_url": "http://46.250.234.35:4000",
+  "metrics_endpoint": "http://46.250.234.35:9615/metrics",
+  "id": "e3ee0616-b12d-4064-983c-5e49f3065ccf"
+}
