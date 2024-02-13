@@ -1,0 +1,8 @@
+{
+  "name": "Kaan app",
+  "logo": "https://r.resimlink.com/m3ahKLwrPx.png",
+  "rpc_url": "http://65.109.227.116:9944",
+  "explorer_url": "http://65.109.227.116:4000",
+  "metrics_endpoint": "http://65.109.227.116:9615/metrics",
+  "id": "32f87c7f-aff3-4586-9f10-1f2827ea2e27"
+}
