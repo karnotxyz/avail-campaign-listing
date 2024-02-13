@@ -1,0 +1,9 @@
+
+{
+  "name": "kingbarong",
+  "logo": "https://r.resimlink.com/frUNy7gKEQ.png",
+  "rpc_url": "http://http://206.189.153.86:9944",
+  "explorer_url": "http://http://206.189.153.86:4000",
+  "metrics_endpoint": "http://http://206.189.153.86:9615/metrics",
+  "id": "5ab8be7c-44d3-4b06-975f-634fbabb9420"
+}
