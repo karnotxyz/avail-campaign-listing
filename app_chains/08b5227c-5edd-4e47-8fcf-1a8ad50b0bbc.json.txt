@@ -1,0 +1,8 @@
+{
+  "name": "Suskun bakire",
+  "logo": "https://r.resimlink.com/5KhDL1fRd.jpeg",
+  "rpc_url": "http://173.249.27.194:9944",
+  "explorer_url": "http://173.249.27.194:4000",
+  "metrics_endpoint": "http://173.249.27.194:9615",
+  "id": "08b5227c-5edd-4e47-8fcf-1a8ad50b0bbc"
+}
