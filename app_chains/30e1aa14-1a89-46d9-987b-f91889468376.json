@@ -1,0 +1,8 @@
+{ 
+  "nama":  "azxa", 
+  "logo":  "https://ibb.co/R9zCLKC", 
+  "rpc_url":  "http://65.109.14.44:9944", 
+  "explorer_url":  "http://65.109.14.44:4000", 
+  "metrics_endpoint":  "http://65.109.14.44:9615/metrics", 
+  "id" :  "30e1aa14-1a89-46d9-987b-f91889468376" 
+}
