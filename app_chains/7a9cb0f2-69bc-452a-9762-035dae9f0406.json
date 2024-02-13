@@ -1,0 +1,8 @@
+{
+  "name": "praelit",
+  "logo": "https://i.ibb.co/JzxxjN0/shiba.jpg",
+  "rpc_url": "http://167.86.119.98:9944",
+  "explorer_url": "http://167.86.119.98:4000",
+  "metrics_endpoint": "http://167.86.119.98:9615/metrics",
+  "id": "7a9cb0f2-69bc-452a-9762-035dae9f0406"
+}
