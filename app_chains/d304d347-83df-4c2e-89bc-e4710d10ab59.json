@@ -1,0 +1,8 @@
+{
+  "name": "onejpc",
+  "logo": "https://ibb.co/3s9t9Yx",
+  "rpc_url": "http://VPS/84.46.242.8:9944",
+  "explorer_url": "http://VPS/84.46.242.8:4000",
+  "metrics_endpoint": "http://VPS/84.46.242.8:9615/metrics",
+  "id": "d304d347-83df-4c2e-89bc-e4710d10ab59"
+}
