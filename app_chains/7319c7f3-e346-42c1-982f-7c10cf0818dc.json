@@ -1,0 +1,8 @@
+{
+  "name": "elysa33",
+  "logo": "https://i.ibb.co/njS8J3s/photo-2024-02-03-17-18-39.jpg",
+  "rpc_url": "http://64.227.111.210:9944",
+  "explorer_url": "http://64.227.111.210:4000",
+  "metrics_endpoint": "http://64.227.111.210:9615/metrics",
+  "id": "7319c7f3-e346-42c1-982f-7c10cf0818dc"
+}

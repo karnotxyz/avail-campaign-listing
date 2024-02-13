@@ -1,0 +1,8 @@
+{
+  "name": "HyukaNode",
+  "logo": "https://i.imgur.com/xxdz45V.png",
+  "rpc_url": "http://65.109.130.141:9944",
+  "explorer_url": "http://65.109.130.141:4000",
+  "metrics_endpoint": "http://65.109.130.141:9615/metrics",
+  "id": "026439af-9587-495e-871f-d57223b241dd"
+}

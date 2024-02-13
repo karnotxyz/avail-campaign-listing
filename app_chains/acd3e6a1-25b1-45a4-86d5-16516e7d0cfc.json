@@ -1,0 +1,8 @@
+{
+  "name": "aranx",
+  "logo": "https://r.resimlink.com/745xQE30ohOZ.jpg",
+  "rpc_url": "http://173.249.24.189:9944",
+  "explorer_url": "http://173.249.24.189:4000",
+  "metrics_endpoint": "http://173.249.24.189:9615/metrics",
+  "id": "acd3e6a1-25b1-45a4-86d5-16516e7d0cfc"
+}

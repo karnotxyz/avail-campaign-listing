@@ -1,0 +1,8 @@
+{
+  "name": "richseokL",
+  "logo": "https://ibb.co/0yTn1yY/logo-colored400x400.png",
+  "rpc_url": "http://207.180.245.239:9944",
+  "explorer_url": "http://207.180.245.239:4000",
+  "metrics_endpoint": "http://207.180.245.239:9615/metrics",
+  "id": "157f4323-4859-481e-8e40-77e986c6d105"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Availvision",
+  "logo": "https://r.resimlink.com/7Xf1UWcrqe5.png",
+  "rpc_url": "http://128.140.1.159:9944",
+  "explorer_url": "http://128.140.1.159:4000",
+  "metrics_endpoint": "http://128.140.1.159:9615/metrics",
+  "id": "c6f5ff98-5b59-4902-ae68-8c9f1f4f0377"
+}
