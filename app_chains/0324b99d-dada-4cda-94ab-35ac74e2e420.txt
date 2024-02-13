@@ -1,0 +1,8 @@
+{
+    "name": "adanademirspor",
+    "logo": "https://r.resimlink.com/t_K3hO-dS.png", // 
+    "rpc_url": "http://5.161.90.170:9944",
+    "explorer_url": "http://5.161.90.170:4000",
+    "metrics_endpoint": "http://5.161.90.170:9615/metrics", 
+    "id": "0324b99d-dada-4cda-94ab-35ac74e2e420" // 
+  }
