@@ -1,0 +1,8 @@
+{
+  "name": "yousonnet",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://5.104.81.137:9944",
+  "explorer_url": "http://5.104.81.137:4000",
+  "metrics_endpoint": "http://5.104.81.137:9615/metrics",
+  "id": "b9722b30-52c1-4bff-a216-33313a302791"
+}
