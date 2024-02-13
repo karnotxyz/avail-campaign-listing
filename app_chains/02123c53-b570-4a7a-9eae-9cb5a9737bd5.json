@@ -1,0 +1,8 @@
+{
+  "name": "diablox",
+  "logo": "https://i.postimg.cc/WpBZk5pv/diablox.png",
+  "rpc_url": "http://38.242.130.134:9944",
+  "explorer_url": "http://38.242.130.134:4000",
+  "metrics_endpoint": "http://38.242.130.134:9615/metrics",
+  "id": "02123c53-b570-4a7a-9eae-9cb5a9737bd5"
+}
