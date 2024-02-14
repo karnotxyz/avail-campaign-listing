@@ -1,0 +1,8 @@
+{
+  "name": "Kabaret",
+  "logo": "https://i.imgur.com/Y1VJncy.png",
+  "rpc_url": "http://35.239.193.117:9944",
+  "explorer_url": "http://35.239.193.117:4000",
+  "metrics_endpoint": "http://35.239.193.117:9615/metrics",
+  "id": "458764d4-9cec-4500-b532-e3d25292c137"
+}
