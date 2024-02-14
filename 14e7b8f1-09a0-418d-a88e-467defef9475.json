@@ -1,0 +1,8 @@
+{
+  "name": "nnoitra354",
+  "logo": "https://images.blur.io/_blur-prod/0x8821bee2ba0df28761afff119d66390d594cd280/1918-5279740b535c629f?w=512",
+  "rpc_url": "http://43.157.19.45:9944",
+  "explorer_url": "http://43.157.19.45:4000",
+  "metrics_endpoint": "http://43.157.19.45:9615/metrics",
+  "id": "14e7b8f1-09a0-418d-a88e-467defef9475"
+}
