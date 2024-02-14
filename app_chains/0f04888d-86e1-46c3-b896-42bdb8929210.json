@@ -1,0 +1,8 @@
+{
+  "name": "ferhat",
+  "logo": "https://ibb.co/phtrpLf.jpg",
+  "rpc_url": "http://185.229.227.47:9944",
+  "explorer_url": "http://185.229.227.47:4000",
+  "metrics_endpoint": "http://185.229.227.47:9615/metrics",
+  "id": "0f04888d-86e1-46c3-b896-42bdb8929210"
+}
