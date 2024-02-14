@@ -1,0 +1,8 @@
+{
+  "name": "Rokunin",
+  "logo": "https://raw.seadn.io/files/1b334ce92b13b00262386cb6cc4fd7fc.jpg",
+  "rpc_url": "http://31.220.94.107:9944",
+  "explorer_url": "http://31.220.94.107:4000",
+  "metrics_endpoint": "http://31.220.94.107:9615/metrics",
+  "id": "523ceedc8afe7a4f58abfdbb915aff3c36e817fe"
+}
