@@ -1,0 +1,8 @@
+{
+  "name": "vlsss",
+  "logo": "https://ibb.co/tpQQWqc",
+  "rpc_url": "http://217.76.59.113:9944",
+  "explorer_url": "http://217.76.59.113:4000",
+  "metrics_endpoint": "http://217.76.59.113:9615/metrics",
+  "id": "35b2cbd4-a10b-458b-9a5a-91bd24fd5666"
+}
