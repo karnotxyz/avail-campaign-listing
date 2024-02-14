@@ -1,0 +1,8 @@
+{
+  "name": "thephoenixx0062",
+  "logo": "https://media.contextcdn.com/4d5fe1315dfd1c14f3098451593c960685584042321f8af3b2eb741fcde8cf2b?format=auto",
+  "rpc_url": "http://150.109.244.153:9944",
+  "explorer_url": "http://150.109.244.153:4000",
+  "metrics_endpoint": "http://150.109.244.153:9615/metrics",
+  "id": "25895d1f-826d-4573-bd6f-1adb3b253f21"
+}
