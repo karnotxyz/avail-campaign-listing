@@ -1,0 +1,8 @@
+{
+  "name": "hoodies",
+  "logo": "https://imgur.com/AIkFTPa",
+  "rpc_url": "http://95.217.213.177:9944",
+  "explorer_url": "http://95.217.213.177:4000",
+  "metrics_endpoint": "http://95.217.213.177:9615/metrics",
+  "id": "405cd6bb-637a-4af6-a4d7-0e5a954c37e8"
+}
