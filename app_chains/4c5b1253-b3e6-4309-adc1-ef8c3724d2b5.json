@@ -1,0 +1,8 @@
+{
+  "name": "EchoCyx",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/EchoCyx.png",
+  "rpc_url": "http://170.106.181.14:9944",
+  "explorer_url": "http://170.106.181.14:4000",
+  "metrics_endpoint": "http://170.106.181.14:9615/metrics",
+  "id": "4c5b1253-b3e6-4309-adc1-ef8c3724d2b5"
+}

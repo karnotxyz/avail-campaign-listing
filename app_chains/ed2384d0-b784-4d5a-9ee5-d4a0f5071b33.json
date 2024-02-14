@@ -1,0 +1,8 @@
+{
+  "name": "parinaz",
+  "logo": "https://i.ibb.co/PhH7q9s/MMM.jpg",
+  "rpc_url": "http://161.97.151.11:9944",
+  "explorer_url": "http://161.97.151.11:4000",
+  "metrics_endpoint": "http://161.97.151.11:9615/metrics",
+  "id": "ed2384d0-b784-4d5a-9ee5-d4a0f5071b33"
+}

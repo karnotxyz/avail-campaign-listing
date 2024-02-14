@@ -1,0 +1,8 @@
+{
+  "name": "donsnikq",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/6392.png",
+  "rpc_url": "http://43.131.229.125:9944",
+  "explorer_url": "http://43.131.229.125:4000",
+  "metrics_endpoint": "http://43.131.229.125:9615/metrics",
+  "id": "af51f854-07cb-40f6-a0b0-5c5fe9a08f54"
+}

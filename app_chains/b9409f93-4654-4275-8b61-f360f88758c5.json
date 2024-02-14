@@ -1,0 +1,8 @@
+{
+  "name": "jundeuchain",
+  "logo": "https://ibb.co/8BXCjrz",
+  "rpc_url": "http://37.60.247.187:9944",
+  "explorer_url": "http://37.60.247.187:4000",
+  "metrics_endpoint": "http://37.60.247.187:9615/metrics",
+  "id": "b9409f93-4654-4275-8b61-f360f88758c5"
+}

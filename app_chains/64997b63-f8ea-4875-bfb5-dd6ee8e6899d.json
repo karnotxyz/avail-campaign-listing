@@ -1,0 +1,8 @@
+{
+  "name": "peruuu",
+  "logo": "https://i.postimg.cc/3x4KmtP7/peruuu.png",
+  "rpc_url": "http://43.135.138.37:9944",
+  "explorer_url": "http://43.135.138.37:4000",
+  "metrics_endpoint": "http://43.135.138.37:9615/metrics",
+  "id": "64997b63-f8ea-4875-bfb5-dd6ee8e6899d"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "farzan",
+  "logo": "https://r.resimlink.com/duBIEvXwW3.jpg",
+  "rpc_url": "http://162.55.142.211:9944",
+  "explorer_url": "http://162.55.142.211:4000",
+  "metrics_endpoint": "http://162.55.142.211:9615/metrics",
+  "id": "609efc53-3443-4554-a0ec-a9bb52b3d0ee"
+}

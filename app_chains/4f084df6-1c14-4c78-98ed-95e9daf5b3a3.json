@@ -1,0 +1,8 @@
+{
+  "name": "jupiter",
+  "logo": "",
+  "rpc_url": "http://149.102.144.37:9944",
+  "explorer_url": "http://149.102.144.37:4000",
+  "metrics_endpoint": "http://149.102.144.37:9615/metrics",
+  "id": "4f084df6-1c14-4c78-98ed-95e9daf5b3a3"
+}

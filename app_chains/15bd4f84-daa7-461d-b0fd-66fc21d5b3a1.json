@@ -1,0 +1,8 @@
+{
+  "name": "isabick",
+  "logo": "https://i.postimg.cc/x8PmBztz/isabick.png",
+  "rpc_url": "http://170.106.173.102:9944",
+  "explorer_url": "http://170.106.173.102:4000",
+  "metrics_endpoint": "http://170.106.173.102:9615/metrics",
+  "id": "15bd4f84-daa7-461d-b0fd-66fc21d5b3a1"
+}

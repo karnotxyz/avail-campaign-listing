@@ -1,0 +1,8 @@
+{
+  "name": "calvinqta",
+  "logo": "https://avatars.githubusercontent.com/u/130379390?v=4",
+  "rpc_url": "http://84.247.189.94:9944",
+  "explorer_url": "http://84.247.189.94:4000",
+  "metrics_endpoint": "http://84.247.189.94:9615/metrics",
+  "id": "fd0c66e6-2251-4085-8767-e76c1c09b651"
+}

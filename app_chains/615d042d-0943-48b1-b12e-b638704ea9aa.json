@@ -1,0 +1,8 @@
+{
+  "name": "mrenwl2001madara",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://173.212.209.65:9944",
+  "explorer_url": "http://173.212.209.65:4000",
+  "metrics_endpoint": "http://173.212.209.65:9615/metrics",
+  "id": "615d042d-0943-48b1-b12e-b638704ea9aa"
+}

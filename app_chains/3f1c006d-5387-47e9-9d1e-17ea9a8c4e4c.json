@@ -1,0 +1,8 @@
+{
+  "name": "Decipher3d",
+  "logo": "https://i.imgur.com/8RnFjFX.png",
+  "rpc_url": "http://37.60.246.43:9944",
+  "explorer_url": "http://37.60.246.43:4000",
+  "metrics_endpoint": "http://37.60.246.43:9615/metrics",
+  "id": "3f1c006d-5387-47e9-9d1e-17ea9a8c4e4c"
+}

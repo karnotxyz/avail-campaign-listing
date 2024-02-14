@@ -1,0 +1,8 @@
+{
+  "name": "hyogoro",
+  "logo": "https://placehold.co/600x400/EEE/31343C?font=source-sans-pro&text=HO",
+  "rpc_url": "http://213.136.81.222:9944",
+  "explorer_url": "http://213.136.81.222:4000",
+  "metrics_endpoint": "http://213.136.81.222:9615/metrics",
+  "id": "2cc4ca2b-5a3c-481c-812c-fec644e7aea0"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "abi",
+  "logo": "https://imgur.com/a/BRdv0uG",
+  "rpc_url": "http://84.247.170.74:9944",
+  "explorer_url": "http://84.247.170.74:4000",
+  "metrics_endpoint": "http://84.247.170.74:9615/metrics",
+  "id": "ddf8580a-dd02-4da0-9d94-07aeff1044b6"
+}
