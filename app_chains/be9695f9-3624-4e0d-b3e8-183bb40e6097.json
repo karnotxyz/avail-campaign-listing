@@ -1,0 +1,8 @@
+{
+  "name": "sixsixbanana",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://154.26.135.102:9944",
+  "explorer_url": "http://154.26.135.102:4000",
+  "metrics_endpoint": "http://154.26.135.102:9615/metrics",
+  "id": "be9695f9-3624-4e0d-b3e8-183bb40e6097"
+}
