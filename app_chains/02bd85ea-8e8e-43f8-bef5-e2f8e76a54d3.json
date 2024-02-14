@@ -1,0 +1,8 @@
+{
+    "name": "mjemrzed",
+    "logo": "https://i.postimg.cc/KY1CkVKw/emrzedlogo.png",
+    "rpc_url": "http://153.92.222.10:9944",
+    "explorer_url": "http://153.92.222.10:4000",
+    "metrics_endpoint": "http://153.92.222.10:9615/metrics",
+    "id": "02bd85ea-8e8e-43f8-bef5-e2f8e76a54d3"
+  }
