@@ -1,0 +1,8 @@
+{
+    "name": "arclight",
+    "logo": "https://i.ibb.co/qpxHHt0/imgonline-com-ua-resize-ED1k-W2-Yenz.jpg",
+    "rpc_url": "http://158.220.82.37:9944",
+    "explorer_url": "http://158.220.82.37:4000",
+    "metrics_endpoint": "http://158.220.82.37:9615/metrics",
+    "id": "adb86cfe-90f7-41f9-bf28-6f147c23b547"
+}
