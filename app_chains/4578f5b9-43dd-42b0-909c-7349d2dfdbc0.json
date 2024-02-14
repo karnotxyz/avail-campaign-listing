@@ -1,0 +1,8 @@
+{
+  "name": "iliyaazad",
+  "logo": "https://r.resimlink.com/G4YW3.jpg",
+  "rpc_url": "http://49.12.60.120:9944",
+  "explorer_url": "http://49.12.60.120:4000",
+  "metrics_endpoint": "http://49.12.60.120:9615/metrics",
+  "id": "4578f5b9-43dd-42b0-909c-7349d2dfdbc0"
+}
