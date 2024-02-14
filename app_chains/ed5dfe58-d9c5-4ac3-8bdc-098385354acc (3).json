@@ -1,0 +1,8 @@
+{
+  "name": "vlsss",
+  "logo": "http://r.resimlink.com/WSpmFQ86RD_f.jpg",
+  "rpc_url": "http://217.76.59.113:9944",
+  "explorer_url": "http://217.76.59.113:4000",
+  "metrics_endpoint": "http://217.76.59.113:9615/metrics",
+  "id": "ed5dfe58-d9c5-4ac3-8bdc-098385354acc"
+}
