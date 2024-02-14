@@ -1,0 +1,8 @@
+{
+  "name": "xoa==",
+  "logo": "https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://43.133.108.132:9944",
+  "explorer_url": "http://43.133.108.132:4000",
+  "metrics_endpoint": "http://43.133.108.132:9615/metrics",
+  "id": "85a9bd1f-1622-4cfa-991e-641af96bb3b7"
+}
