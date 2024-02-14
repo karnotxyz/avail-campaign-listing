@@ -1,0 +1,9 @@
+{
+  "name": "belalangs",
+  "logo": "https://imgur.com/5wPQTl3",
+  "rpc_url": "http://65.21.52.164:9944",
+  "explorer_url": "http://65.21.52.164:4000",
+  "metrics_endpoint": "65.21.52.164:9615/metrics",
+  "id": "9581ada0-f19f-4629-82cc-fa62f809c294"
+}
+
