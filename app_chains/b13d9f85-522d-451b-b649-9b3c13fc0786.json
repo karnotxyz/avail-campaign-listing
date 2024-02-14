@@ -1,0 +1,8 @@
+﻿{
+  "name": "lucky",
+  "logo": "https://ibb.co/Y7R1dNW",
+  "rpc_url": "http://64.44.194.4:9944",
+  "explorer_url": "http://VPS/64.44.194.4:4000",
+  "metrics_endpoint": "http://64.44.194.4:9615/metrics",
+  "id": "b13d9f85-522d-451b-b649-9b3c13fc0786"
+}
