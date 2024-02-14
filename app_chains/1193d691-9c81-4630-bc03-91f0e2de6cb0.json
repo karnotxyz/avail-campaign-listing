@@ -1,8 +1,8 @@
 {
   "name": "gringotts",
   "logo": "https://r.resimlink.com/4P1cepduV.jpg",
-  "rpc_url": "173.212.242.127",
-  "explorer_url": "173.212.242.127",
-  "metrics_endpoint": "173.212.242.127",
+  "rpc_url": "https://173.212.242.127:9944",
+  "explorer_url": "https://173.212.242.127:4000",
+  "metrics_endpoint": "https://173.212.242.127:9615/metrics",
   "id": "1193d691-9c81-4630-bc03-91f0e2de6cb0"
 }
