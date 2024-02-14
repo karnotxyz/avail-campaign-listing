@@ -1,0 +1,8 @@
+{
+  "name": "yudi",
+  "logo": "https://ibb.co/PjPf12R",
+  "rpc_url": "http://62.72.46.155:9944",
+  "explorer_url": "http://62.72.46.155:4000",
+  "metrics_endpoint": "http://62.72.46.155:9615/metrics",
+  "id": "76b97edc-193f-4e8d-bd04-8f0b1390738a"
+}
