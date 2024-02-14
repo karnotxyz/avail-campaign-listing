@@ -1,0 +1,8 @@
+  {
+    "name": "X",
+    "logo": "https://i.imgur.com/61IDFOD.png",
+    "rpc_url": "http://37.27.15.185:9944",
+    "explorer_url": "http://37.27.15.185:4000",
+    "metrics_endpoint": "http://37.27.15.185:9615/metrics",
+    "id": "b0b16955-ee84-434e-bcb6-b5220fa77b06"
+  }
