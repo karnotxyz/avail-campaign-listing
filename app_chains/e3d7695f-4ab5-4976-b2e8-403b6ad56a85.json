@@ -1,0 +1,8 @@
+{
+  "name": "rosegold",
+  "logo": "https://i.ibb.co.com/170d91b/rose.jpg",
+  "rpc_url": "http://65.21.203.242:9944",
+  "explorer_url": "http://65.21.203.242:4000/",
+  "metrics_endpoint": "http://65.21.203.242:9615/metrics",
+  "id": "e3d7695f-4ab5-4976-b2e8-403b6ad56a85"
+}
