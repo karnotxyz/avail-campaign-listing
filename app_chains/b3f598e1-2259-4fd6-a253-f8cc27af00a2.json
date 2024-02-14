@@ -1,0 +1,8 @@
+{
+  "name": "tibet",
+  "logo": "https://r.resimlink.com/AZ2dUtY_.png",
+  "rpc_url": "http://167.86.110.151:9944",
+  "explorer_url": "http://167.86.110.151:4000",
+  "metrics_endpoint": "http://167.86.110.151:9615/metrics",
+  "id": "b3f598e1-2259-4fd6-a253-f8cc27af00a2"
+}

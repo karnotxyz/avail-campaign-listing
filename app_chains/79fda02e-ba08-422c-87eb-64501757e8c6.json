@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://raw.githubusercontent.com/itublockchain/lfgho-1/main/packages/frontend/my-app/public/boo.png",
+  "rpc_url": "http://134.209.239.46:9944",
+  "explorer_url": "http://134.209.239.46:4000",
+  "metrics_endpoint": "http://134.209.239.46:9615/metrics",
+  "id": "79fda02e-ba08-422c-87eb-64501757e8c6"
+}
