@@ -1,0 +1,8 @@
+{
+  "name": "lucasnodes",
+  "logo": "https://raw.githubusercontent.com/lucasms06thompson/lucasms06thompson/main/lucas.png",
+  "rpc_url": "http://95.217.179.237:9944",
+  "explorer_url": "http://95.217.179.237:4000",
+  "metrics_endpoint": "http://95.217.179.237:9615/metrics",
+  "id": "262260b5-2409-4499-83b4-ab94ced197cd"
+}

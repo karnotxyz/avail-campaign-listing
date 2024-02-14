@@ -1,0 +1,8 @@
+{
+  "name": "Hangoz",
+  "logo": "https://i.imgur.com/hyHC3f5.png",
+  "rpc_url": "http://185.216.75.106:9944",
+  "explorer_url": "http://185.216.75.106:4000",
+  "metrics_endpoint": "http://185.216.75.106:9615",
+  "id": "ff1e0429-a8d7-4f80-9a6a-001fe1ba14bd"
+}

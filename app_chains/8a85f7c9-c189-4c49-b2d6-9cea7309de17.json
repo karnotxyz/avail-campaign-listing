@@ -1,0 +1,8 @@
+{
+  "name": "tanim",
+  "logo": "https://imgur.com/hn2nkjr.png",
+  "rpc_url": "http://43.157.42.102:9944",
+  "explorer_url": "http://43.157.42.102:4000",
+  "metrics_endpoint": "http://43.157.42.102:9615/metrics",
+  "id": "8a85f7c9-c189-4c49-b2d6-9cea7309de17"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Olaph",
+  "logo": "https://imgur.com/a/KTyiS8l",
+  "rpc_url": "http://46.250.232.127:9944",
+  "explorer_url": "http://46.250.232.127:4000",
+  "metrics_endpoint": "http://46.250.232.127:9615/metrics",
+  "id": "19034b1e-450c-4741-814e-0117c4a90599"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "meji",
+  "logo": "https://s2.loli.net/2024/02/09/FA9xb1JdcsiSLza.png",
+  "rpc_url": "http://43.156.113.76:9944",
+  "explorer_url": "http://43.156.113.76:4000",
+  "metrics_endpoint": "http://43.156.113.76:9615/metrics",
+  "id": "cdaaf35c-d999-4d50-8b0d-64dd79227d25"
+}
