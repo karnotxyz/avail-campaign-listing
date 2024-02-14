@@ -1,0 +1,8 @@
+ {
+    "name": "Earem",
+    "logo": "https://r.resimlink.com/mvbQO.png", 
+    "rpc_url": "http://65.21.60.12:9944",
+    "explorer_url": "http://65.21.60.12:4000",
+    "metrics_endpoint": "http://65.21.60.12:9615/metrics", 
+    "id": "1b6e8f0a-811d-4f78-bc5c-b4889c18627f" 
+  }
