@@ -1,0 +1,8 @@
+{
+   "name": "milahm",
+   "logo": "https://r.resimlink.com/QJuYcj.jpg",
+   "rpc_url": "http://84.247.136.109:9944",
+   "explorer_url": "http://84.247.136.109:4000",
+   "metrics_endpoint": "http://84.247.136.109:9615/metrics", 
+   "id": "6f1d121e-089e-4cc4-aedf-ed36b2da3398"
+}
