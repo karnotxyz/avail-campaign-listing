@@ -1,0 +1,8 @@
+{
+  "name": "dipsauce",
+  "logo": "https://r.resimlink.com/buhSQnoR.png",
+  "rpc_url": "http://173.212.213.65:9944",
+  "explorer_url": "http://173.212.213.65:4000",
+  "metrics_endpoint": "http://173.212.213.65:9615/metrics",
+  "id": "49e3b1d8-d0db-4ad3-8f5a-28c4721b8d17"
+}
