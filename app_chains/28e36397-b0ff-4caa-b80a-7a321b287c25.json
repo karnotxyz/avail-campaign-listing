@@ -1,0 +1,8 @@
+  {
+    "name": "ichicoin-chain",
+    "logo": "https://i.im.ge/2024/01/27/b2hibh.logo.png",
+    "rpc_url": "http://89.116.29.117:9944/",
+    "explorer_url": "http://89.116.29.117:4000/",
+    "metrics_endpoint": "http://89.116.29.117:9615/",
+    "id": "28e36397-b0ff-4caa-b80a-7a321b287c25"
+  }
