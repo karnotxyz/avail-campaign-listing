@@ -1,0 +1,8 @@
+{
+  "name": "EsiN",
+  "logo": "https://r.resimlink.com/lM0xr.jpg",
+  "rpc_url": "http://194.163.177.250:9944",
+  "explorer_url": "http://194.163.177.250:4000",
+  "metrics_endpoint": "http://194.163.177.250:9615/metrics",
+  "id": "edb94d7b-4d1c-4602-9e4b-ef5e3ab043be"
+}

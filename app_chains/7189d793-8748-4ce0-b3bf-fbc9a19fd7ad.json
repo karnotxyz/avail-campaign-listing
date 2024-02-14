@@ -1,0 +1,8 @@
+{
+  "name": "hurrem",
+  "logo": "https://r.resimlink.com/LpO3tayZb5xJ.png",
+  "rpc_url": "http://188.132.130.251:9944",
+  "explorer_url": "http://188.132.130.251:4000",
+  "metrics_endpoint": "http://188.132.130.251:9615/metrics",
+  "id": "7189d793-8748-4ce0-b3bf-fbc9a19fd7ad"
+}

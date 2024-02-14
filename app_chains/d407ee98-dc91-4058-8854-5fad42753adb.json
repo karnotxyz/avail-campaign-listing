@@ -1,0 +1,8 @@
+{
+  "name": "shorta",
+  "logo": "https://i.ibb.co/T8m9Q5v/2021-10-01-090405.png",
+  "rpc_url": "http://185.197.194.35:9944",
+  "explorer_url": "http://185.197.194.35:4000",
+  "metrics_endpoint": "http://185.197.194.35:9615/metrics",
+  "id": "d407ee98-dc91-4058-8854-5fad42753adb"
+}

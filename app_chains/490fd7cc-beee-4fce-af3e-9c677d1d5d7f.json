@@ -1,0 +1,8 @@
+{
+  "name": "muhinitumainiahi",
+  "logo": "https://i.imgur.com/GDxWf6O.png",
+  "rpc_url": "http://173.212.217.52:9944",
+  "explorer_url": "http://173.212.217.52:4000",
+  "metrics_endpoint": "http://173.212.217.52:9615/metrics",
+  "id": "490fd7cc-beee-4fce-af3e-9c677d1d5d7f"
+}

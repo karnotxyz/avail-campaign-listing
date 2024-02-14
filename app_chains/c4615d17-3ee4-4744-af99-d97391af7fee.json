@@ -1,0 +1,8 @@
+{
+  "name": "yyoaoe",
+  "logo": "https://i.postimg.cc/TYJXwNZp/2024-02-11-195236.png",
+  "rpc_url": "http://5.189.189.204:9944",
+  "explorer_url": "http://5.189.189.204:4000",
+  "metrics_endpoint": "http://5.189.189.204:9615/metrics",
+  "id": "c4615d17-3ee4-4744-af99-d97391af7fee"
+}

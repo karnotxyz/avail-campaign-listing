@@ -1,0 +1,8 @@
+{
+  "name": "mershad",
+  "logo": "https://r.resimlink.com/y4AaIqzHYl.jpg",
+  "rpc_url": "http://185.73.39.232:9944",
+  "explorer_url": "http://185.73.39.232:4000",
+  "metrics_endpoint": "http://185.73.39.232:9615/metrics",
+  "id": "778c6661-4faf-4a96-a5ee-c542ffd2cca8"
+}
