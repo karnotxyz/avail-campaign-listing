@@ -1,0 +1,8 @@
+{
+  "name": "teapot1907",
+  "logo": "https://raw.githubusercontent.com/Teapot1907/myinfo/main/TeaPot1907.png",
+  "rpc_url": "http://49.13.121.89:9944",
+  "explorer_url": "http://49.13.121.89:4000",
+  "metrics_endpoint": "http://49.13.121.89:9615/metrics",
+  "id": "42af86b9-2b04-43f0-a4ba-c38502627345"
+}
