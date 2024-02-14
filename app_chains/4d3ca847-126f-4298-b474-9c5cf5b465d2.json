@@ -1,0 +1,8 @@
+{
+  "name": "Reeeen",
+  "logo": "https://img.lu/upload/0236bb6ada1ecc73da94f.jpg",
+  "rpc_url": "http://185.248.86.45:9944",
+  "explorer_url": "http://185.248.86.45:4000",
+  "metrics_endpoint": "http://185.248.86.45:9615/metrics",
+  "id": "4d3ca847-126f-4298-b474-9c5cf5b465d2"
+}
