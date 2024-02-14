@@ -1,0 +1,8 @@
+{
+  "name": "shohre.eth",
+  "logo": "https://i.postimg.cc/wj2Yz4jH/photo-2024-02-12-23-14-55-1.png",
+  "rpc_url": "http://45.8.145.221:9944",
+  "explorer_url": "http://45.8.145.221:4000",
+  "metrics_endpoint": "http://45.8.145.221:9615/metrics",
+  "id": "5b5f3443-3200-4ec9-8d53-89268566d42b"
+}
