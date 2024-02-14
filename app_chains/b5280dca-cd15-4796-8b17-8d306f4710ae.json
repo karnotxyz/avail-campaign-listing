@@ -1,0 +1,8 @@
+{
+  "name": "kusanta",
+  "logo": "https://i.imgur.com/2Vq3U2P.jpg",
+  "rpc_url": "http://65.109.134.98:9944",
+  "explorer_url": "http://65.109.134.98:4000",
+  "metrics_endpoint": "http://65.109.134.98:9615/metrics",
+  "id": "b5280dca-cd15-4796-8b17-8d306f4710ae"
+}
