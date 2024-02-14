@@ -1,0 +1,8 @@
+{
+  "name": "ayelik",
+  "logo": "https://i.ibb.co/k55qZ3Q/204-2040154-anime-face-pixel-art-png-download-pixel-art-prev-ui.png",
+  "rpc_url": "http://46.250.236.205:9944",
+  "explorer_url": "http://46.250.236.205:4000",
+  "metrics_endpoint": "http://46.250.236.205:9615/metrics",
+  "id": "0ea2f44c-5575-4282-87b7-ebf2f99588fa"
+}
