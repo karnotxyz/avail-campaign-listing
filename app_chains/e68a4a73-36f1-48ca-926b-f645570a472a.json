@@ -1,0 +1,8 @@
+{
+  "name": "phantagyro",
+  "logo": "https://i.ibb.co/2sgznWF/logo.png",
+  "rpc_url": "https://147.45.41.10:9944",
+  "explorer_url": "https://147.45.41.10:4000",
+  "metrics_endpoint": "https://147.45.41.10:9615/metrics",
+  "id": "e68a4a73-36f1-48ca-926b-f645570a472a"
+}
