@@ -1,0 +1,8 @@
+{
+  "name": "dogecoin",
+  "logo": "https://i.ibb.co.com/RhBWLxS/doge.jpg",
+  "rpc_url": "http://95.217.104.49:9944",
+  "explorer_url": "http://95.217.104.49:4000/",
+  "metrics_endpoint": "http://95.217.104.49:9615/metrics",
+  "id": "e1970ec2-a894-4b0f-9643-494324450277"
+}
