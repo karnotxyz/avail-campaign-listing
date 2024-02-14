@@ -1,8 +1,8 @@
 {
     "name": "legion",
-    "logo": "https://placehold.co/400x400",
-    "rpc_url": "https://167.71.69.22:9944",
-    "explorer_url": "https://167.71.69.22:4000",
-    "metrics_endpoint": "https://167.71.69.22:9615",
+    "logo": "https://r.resimlink.com/P7bois1gl_.png",
+    "rpc_url": "http://167.71.69.22:9944",
+    "explorer_url": "http://167.71.69.22:4000",
+    "metrics_endpoint": "http://167.71.69.22:9615/metrics",
     "id": "a85b7b6a-5414-448e-913c-faead32312c3"
   }
