@@ -1,0 +1,7 @@
+
+"name": "App İsminiz",
+  "logo": "https://r.resimlink.com/Wn8ODV3.png",
+  "rpc_url": "http://65.109.141.7:9944",
+  "explorer_url": "http://65.109.141.7:4000",
+  "metrics_endpoint": "http://65.109.141.7:9615",
+  "id": "370f7ce0-05ec-4d3c-89b1-881e0fed9305"
