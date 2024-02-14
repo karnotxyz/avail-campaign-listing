@@ -1,0 +1,8 @@
+{
+  "name": "nohandsj",
+  "logo": "https://placehold.co/400x400.png?text=nohandsj",
+  "rpc_url": "http://43.155.184.216:9944",
+  "explorer_url": "http://43.155.184.216:4000",
+  "metrics_endpoint": "http://43.155.184.216:9615/metrics",
+  "id": "7df133d6-4df3-475f-bb8f-92c1cebfd960"
+}
