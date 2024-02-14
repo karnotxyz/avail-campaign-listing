@@ -1,0 +1,8 @@
+{
+  "name": "VanZ",
+  "logo": "https://file.io/aHfm7cKkVDzW",
+  "rpc_url": "http://43.228.214.246:9944",
+  "explorer_url": "http://43.228.214.246:4000",
+  "metrics_endpoint": "http://43.228.214.246:9615/metrics",
+  "id": "17d3315c-a5fe-49a4-9259-a68149640cd8"
+}
