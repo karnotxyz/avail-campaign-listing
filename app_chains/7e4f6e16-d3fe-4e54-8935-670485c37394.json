@@ -1,0 +1,8 @@
+{
+  "name": "cryptonur",
+  "logo": "https://imgur.com/BbqMPDJ",
+  "rpc_url": "http://34.140.142.156:9944",
+  "explorer_url": "http://34.140.142.156:4000",
+  "metrics_endpoint": "http://34.140.142.156/metrics",
+  "id": "7e4f6e16-d3fe-4e54-8935-670485c37394"
+}
