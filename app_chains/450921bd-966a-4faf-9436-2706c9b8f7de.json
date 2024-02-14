@@ -1,0 +1,8 @@
+{
+  "name": "ebogaz",
+  "logo": "https://ibb.co/D8YDyY7",
+  "rpc_url": "http://209.105.242.169:9944",
+  "explorer_url": "http://209.105.242.169:4000",
+  "metrics_endpoint": "http://209.105.242.169/metrics",
+  "id": "450921bd-966a-4faf-9436-2706c9b8f7de"
+}
