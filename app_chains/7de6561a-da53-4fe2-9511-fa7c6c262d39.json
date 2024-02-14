@@ -1,0 +1,7 @@
+{
+  "name": "kusanta",
+  "rpc_url": "http://65.109.134.98:9944",
+  "explorer_url": "http://65.109.134.98:4000",
+  "metrics_endpoint": "http://65.109.134.98:9615/metrics",
+  "id": "7de6561a-da53-4fe2-9511-fa7c6c262d39"
+}
