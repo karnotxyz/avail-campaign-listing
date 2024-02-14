@@ -1,0 +1,8 @@
+{
+  "name": "brunorajin",
+  "logo": "https://media.contextcdn.com/5ed1283f403bf4316508c4e54b23f999e4ec3ee00717a103ea37405d0588ba06?format=auto",
+  "rpc_url": "http://43.155.182.58:9944",
+  "explorer_url": "http://43.155.182.58:4000",
+  "metrics_endpoint": "http://43.155.182.58:9615/metrics",
+  "id": "014ac042-e3b2-4f40-b144-b9b6ece94702"
+}
