@@ -1,8 +1,8 @@
 {
-    "name": "BSTchain",
-    "logo": "https://i.ibb.co/RByGfQv/BSTchain.png",
-    "rpc_url": "http://167.86.73.118:9944",
-    "explorer_url": "http://167.86.73.118:4000",
-    "metrics_endpoint": "http://167.86.73.118:9615/metrics",
-    "id": "190897d2-a35f-4bec-a185-680f4e1e6b8d"
+  "name": "BSTchain",
+  "logo": "https://i.ibb.co/RByGfQv/BSTchain.png",
+  "rpc_url": "http://167.86.73.118:9944",
+  "explorer_url": "http://167.86.73.118:4000",
+  "metrics_endpoint": "http://167.86.73.118:9615/metrics",
+  "id": "190897d2-a35f-4bec-a185-680f4e1e6b8d"
 }
