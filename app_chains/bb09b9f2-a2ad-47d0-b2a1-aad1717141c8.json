@@ -1,0 +1,8 @@
+{
+  "name": "hodlstory",
+  "logo": "https://imgur.com/a/raUdfcG",
+  "rpc_url": "http://38.242.142.6:9944",
+  "explorer_url": "http://38.242.142.6:4000",
+  "metrics_endpoint": "http://38.242.142.6:9615/metrics",
+  "id": "bb09b9f2-a2ad-47d0-b2a1-aad1717141c8"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xwbnode",
+  "logo": "https://i.imgur.com/kixDFpR.png",
+  "rpc_url": "http://167.86.114.207:9944",
+  "explorer_url": "http://167.86.114.207:4000/",
+  "metrics_endpoint": "http://167.86.114.207:9615/metrics",
+  "id": "66f0cb16-7c03-49df-a52c-5b36a3d08ec8"
+}

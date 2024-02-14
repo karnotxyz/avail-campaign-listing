@@ -1,0 +1,8 @@
+{
+  "name": "smrtnode",
+  "logo": "https://imgur.com/a/ZUpZUPp",
+  "rpc_url": "http://185.218.124.39:9944",
+  "explorer_url": "http://185.218.124.39:4000",
+  "metrics_endpoint": "http://185.218.124.39:9615/metrics",
+  "id": "f770eb41-ccdf-42c2-9ae8-c26b064eda03"
+}

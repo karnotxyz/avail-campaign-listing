@@ -1,0 +1,8 @@
+{
+  "name": "Chapling",
+  "logo": "https://i.ibb.co/NLHqq16/158209736.jpg",
+  "rpc_url": "http://5.75.154.166:9944",
+  "explorer_url": "http://5.75.154.166:4000",
+  "metrics_endpoint": "http://5.75.154.166:9615/metrics",
+  "id": "f4d2bab7-517f-4174-bf2e-144af0664659"
+}
