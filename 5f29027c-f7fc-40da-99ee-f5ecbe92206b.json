@@ -1,0 +1,8 @@
+{
+  "name": "lordmurat",
+  "logo": "https://https://r.resimlink.com/eKrDw.jpg?v=dbb42087f06d85bd4eb2bc48e932f451",
+  "rpc_url": "http://217.76.55.82:9944",
+  "explorer_url": "http://217.76.55.82:4000",
+  "metrics_endpoint": "http://217.76.55.82:9615/metrics",
+  "id": "5f29027c-f7fc-40da-99ee-f5ecbe92206b"
+}
