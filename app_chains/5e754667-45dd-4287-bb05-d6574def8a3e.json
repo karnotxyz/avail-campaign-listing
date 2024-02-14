@@ -1,0 +1,8 @@
+{
+  "name": "singgihkun",
+  "logo": "https://imgur.com/a/0kPM1SL.png",
+  "rpc_url": "http://62.72.47.237:9944",
+  "explorer_url": "http://62.72.47.237:4000",
+  "metrics_endpoint": "http://62.72.47.237:9615/metrics",
+  "id": "5e754667-45dd-4287-bb05-d6574def8a3e"
+}
