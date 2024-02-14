@@ -1,0 +1,8 @@
+{
+  "name": "Aristobulus",
+  "logo": "https://i.ibb.co/gJHnYRS/Aristobulus.jpg",
+  "rpc_url": "http://62.171.158.243:9944",
+  "explorer_url": "http://62.171.158.243:4000",
+  "metrics_endpoint": "http://62.171.158.243:9615/metrics",
+  "id": "e8c57a0b-5800-4fcc-ab8e-b22c9e53d476"
+}
