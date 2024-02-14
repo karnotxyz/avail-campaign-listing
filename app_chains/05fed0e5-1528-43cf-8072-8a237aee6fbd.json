@@ -1,8 +1,8 @@
 {
-	  "name": "nbe65f",
-	    "logo": " https://i.imgur.com/0KUHPnZ.png",
-	      "rpc_url": "http://199.247.31.238:9944",
-	        "explorer_url": "http://199.247.31.238:4000",
-		  "metrics_endpoint": "http://199.247.31.238:9615/metrics",
-		    "id": "05fed0e5-1528-43cf-8072-8a237aee6fbd"
+  "name": "nbe65f",
+  "logo": " https://i.imgur.com/0KUHPnZ.png",
+  "rpc_url": "http://199.247.31.238:9944",
+  "explorer_url": "http://199.247.31.238:4000",
+  "metrics_endpoint": "http://199.247.31.238:9615/metrics",
+  "id": "05fed0e5-1528-43cf-8072-8a237aee6fbd"
 }
