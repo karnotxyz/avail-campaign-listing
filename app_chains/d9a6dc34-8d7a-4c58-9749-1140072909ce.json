@@ -1,8 +1,0 @@
-{
-  "name": "udonrice",
-  "logo": "https://i.ibb.co/2nqtZjr/f-Y0w-J-Qa-IKgh-Q87-Qs9ufssh-TAws.png",
-  "rpc_url": "http://125.205.224.39:9944",
-  "explorer_url": "http://125.205.224.39:4000",
-  "metrics_endpoint": "http://125.205.224.39:9615/metrics",
-  "id": "d9a6dc34-8d7a-4c58-9749-1140072909ce"
-}
