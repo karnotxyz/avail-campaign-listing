@@ -1,0 +1,8 @@
+{
+  "name": "obenkz",
+  "logo": "https://r.resimlink.com/K-qoU4.jpg",
+  "rpc_url": "http://46.250.233.216:9944",
+  "explorer_url": "http://46.250.233.216:4000",
+  "metrics_endpoint": "http://46.250.233.216:9615/metrics",
+  "id": "e3ca3174-7e48-4308-8f6f-96f40a53188b"
+}
