@@ -1,0 +1,8 @@
+{
+  "name": "MeteKhan",
+  "logo": "https://i.hizliresim.com/iou932e.png",
+  "rpc_url": "http://38.242.249.171:9944",
+  "explorer_url": "http://38.242.249.171:4000",
+  "metrics_endpoint": "http://38.242.249.171:9615/metrics",
+  "id": "a3681547-c4dc-4636-bccd-bb00d2e3824d"
+}
