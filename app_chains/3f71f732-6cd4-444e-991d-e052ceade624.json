@@ -1,0 +1,8 @@
+{
+  "name": "daydream",
+  "logo": "https://r.resimlink.com/2Y1bo6yK.png",
+  "rpc_url": "http://173.249.12.117:9944",
+  "explorer_url": "http://173.249.12.117:4000",
+  "metrics_endpoint": "http://173.249.12.117:9615/metrics",
+  "id": "3f71f732-6cd4-444e-991d-e052ceade624"
+}
