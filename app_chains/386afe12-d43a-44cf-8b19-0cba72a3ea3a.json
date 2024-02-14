@@ -1,0 +1,8 @@
+{
+  "name": "DeadsGod",
+  "logo": "https://r.resimlink.com/hRSLXam.png",
+  "rpc_url": "http://24.144.93.155:9944",
+  "explorer_url": "http://24.144.93.155:4000",
+  "metrics_endpoint": "http://24.144.93.155:9615/metrics",
+  "id": "386afe12-d43a-44cf-8b19-0cba72a3ea3a"
+}

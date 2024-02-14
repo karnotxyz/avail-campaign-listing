@@ -1,0 +1,8 @@
+{
+  "name": "avicii4ever",
+  "logo": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-12186-20130814-avicii-624x420-1376519376.jpg?w=624&h=420&crop=1",
+  "rpc_url": "http://158.247.212.170:9944",
+  "explorer_url": "http://158.247.212.170:4000",
+  "metrics_endpoint": "http://158.247.212.170:9615/metrics",
+  "id": "fffdec68-6577-4e69-958a-369bee29f8da"
+}

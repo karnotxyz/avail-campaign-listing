@@ -1,0 +1,8 @@
+{
+  "name": "layhewmatjokji",
+  "logo": "https://i.seadn.io/s/raw/files/adb9c09152f1b419060a222dddaf2325.png",
+  "rpc_url": "http://46.250.231.61:9944",
+  "explorer_url": "http://46.250.231.61:4000",
+  "metrics_endpoint": "http://46.250.231.61:9615/metrics",
+  "id": "e7cb1bb2-d5c1-4878-b4b8-15361ec0e241"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "portionbas",
+  "logo": "http://43.134.237.168/logo.jpg",
+  "rpc_url": "http://43.134.237.168:9944",
+  "explorer_url": "http://43.134.237.168:4000",
+  "metrics_endpoint": "http://43.134.237.168:9615/metrics",
+  "id": "23072f49-ae1d-4ef8-8736-ada4e606d093"
+}

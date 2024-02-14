@@ -1,0 +1,8 @@
+{
+  "name": "Yousuph",
+  "logo": "https://i.ibb.co/C2TDx0H/AA.png",
+  "rpc_url": "http://164.68.99.138:9944",
+  "explorer_url": "http://164.68.99.138:4000",
+  "metrics_endpoint": "http://164.68.99.138:9615/metrics",
+  "id": "ffd3503e-19ab-4a17-a3f2-1ef87ba8d882"
+}

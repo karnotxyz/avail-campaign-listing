@@ -1,0 +1,8 @@
+{
+  "name": "SyncChain",
+  "logo": "https://i.ibb.co/vc8v4sW/download-2.png",
+  "rpc_url": "http://124.156.213.207:9944",
+  "explorer_url": "http://124.156.213.207:4000",
+  "metrics_endpoint": "http://124.156.213.207:9615/metrics",
+  "id": "87e57588-7288-43df-8c93-83c40a93cea2"
+}
