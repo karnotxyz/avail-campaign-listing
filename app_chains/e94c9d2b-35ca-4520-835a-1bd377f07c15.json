@@ -1,0 +1,8 @@
+{
+  "name": "almobtc",
+  "logo": "https://i.ibb.co.com/mTYNqsM/btc.jpg",
+  "rpc_url": "http://135.181.5.169:9944",
+  "explorer_url": "http://135.181.5.169:4000/",
+  "metrics_endpoint": "http://135.181.5.169:9615/metrics",
+  "id": "e94c9d2b-35ca-4520-835a-1bd377f07c15"
+}
