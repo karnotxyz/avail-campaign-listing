@@ -1,0 +1,8 @@
+{
+  "name": "Kyso",
+  "logo": "https://imgur.com/FweVMSE",
+  "rpc_url": "http://185.211.6.147:9944",
+  "explorer_url": "http://185.211.6.147:4000",
+  "metrics_endpoint": "http://185.211.6.147:9615/metrics",
+  "id": "464bcdec-2e51-43bf-96ce-ae84fc4c3c4b"
+}
