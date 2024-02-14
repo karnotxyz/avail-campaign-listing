@@ -1,0 +1,8 @@
+{
+  "name": "1thahn1",
+  "logo": "https://i.ibb.co.com/PjtnBns/images.jpg",
+  "rpc_url": "http://65.21.123.172:9944",
+  "explorer_url": "http://65.21.123.172:4000/",
+  "metrics_endpoint": "http://65.21.123.172:9615/metrics",
+  "id": "8af1c074-e74d-4b26-b4cc-0cdca396ee96"
+}
