@@ -1,0 +1,8 @@
+{
+  "name": "doga4009",
+  "logo": "https://r.resimlink.com/4n3mFXZ106u9.jpg",
+  "rpc_url": "http://159.65.53.215:9944",
+  "explorer_url": "http://159.65.53.215:4000",
+  "metrics_endpoint": "http://159.65.53.215:9615/metrics",
+  "id": "09ad32d5-99f5-4ecc-a69e-177cf6c34750"
+}
