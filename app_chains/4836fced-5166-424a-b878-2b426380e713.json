@@ -1,0 +1,8 @@
+{
+  "name": "Shiba7688",
+  "logo": "https://imgur.com/a/z40K6gP.png",
+  "rpc_url": "http://46.250.236.152:9944",
+  "explorer_url": "http://46.250.236.152:4000",
+  "metrics_endpoint": "http://46.250.236.152:9615/metrics",
+  "id": "4836fced-5166-424a-b878-2b426380e713"
+}
