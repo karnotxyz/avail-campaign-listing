@@ -1,0 +1,8 @@
+{
+  "name": "ally",
+  "logo": "https://i.ibb.co/txdx2gW/sdssdgdsd.png",
+  "rpc_url": "http://207.180.235.244:9944",
+  "explorer_url": "http://207.180.235.244:4000",
+  "metrics_endpoint": "http://207.180.235.244:9615/metrics",
+  "id": "9806fef6-0f61-4bb9-8e15-a01e728fb2a2"
+}
