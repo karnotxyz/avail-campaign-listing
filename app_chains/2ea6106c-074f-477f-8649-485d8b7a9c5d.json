@@ -1,8 +1,0 @@
-{
-  "name": "arzgod",
-  "logo": "https://r.resimlink.com/4v_jznNwkRb5.jpg",
-  "rpc_url": "http://178.63.237.131:9944",
-  "explorer_url": "http://178.63.237.131:4000",
-  "metrics_endpoint": "http://178.63.237.131:9615/metrics",
-  "id": "2ea6106c-074f-477f-8649-485d8b7a9c5d"
-}
