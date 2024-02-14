@@ -1,0 +1,8 @@
+{
+  "name": "littlewolf",
+  "logo": "<https://pbs.twimg.com/profile_images/1471720119412072452/_RUJirqe_400x400.jpg>",
+  "rpc_url": "http://185.209.229.140:9944",
+  "explorer_url": "http://185.209.229.140:4000",
+  "metrics_endpoint": "http://185.209.229.140:9615/metrics",
+  "id": "fe6d670f-28b5-4300-b05b-94cc5e32e521"
+}
