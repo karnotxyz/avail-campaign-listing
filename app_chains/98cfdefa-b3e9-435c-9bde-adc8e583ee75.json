@@ -1,0 +1,8 @@
+{
+  "name": "yoll",
+  "logo": "https://r.resimlink.com/xCqvm.png",
+  "rpc_url": "http://138.201.185.53:9944",
+  "explorer_url": "http://138.201.185.53:4000",
+  "metrics_endpoint": "http://138.201.185.53:9615/metrics",
+  "id": "98cfdefa-b3e9-435c-9bde-adc8e583ee75"
+}
