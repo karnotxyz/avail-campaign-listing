@@ -1,0 +1,8 @@
+{
+  "name": "monknode",
+  "logo": "https://ibb.co/sjRXZwL/beruang.jpg",
+  "rpc_url": "http://46.250.236.119:9944",
+  "explorer_url": "http://46.250.236.119:4000",
+  "metrics_endpoint": "http://46.250.236.119:9615/metrics",
+  "id": "d6b7f611-4a4f-4d09-b10b-a7c739ac9bcc"
+}
