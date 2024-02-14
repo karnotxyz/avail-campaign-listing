@@ -1,8 +1,0 @@
-{
-  "name": "amijon",
-  "logo": "https://r.resimlink.com/1zG0ZTS7_X.jpg",
-  "rpc_url": "http://193.46.243.198:9944",
-  "explorer_url": "http://193.46.243.198:4000",
-  "metrics_endpoint": "http://193.46.243.198:9615/metrics",
-  "id": "966983e1-0e39-426d-bcc2-28ff827261e9"
-}
