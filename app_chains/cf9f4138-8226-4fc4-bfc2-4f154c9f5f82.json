@@ -1,8 +1,8 @@
 {
   "name": "metaboo",
   "logo": "https://i.ibb.co/zHXqFVq/metaboo2.png",
-  "rpc_url": "http://95.216.195.227:9964",
+  "rpc_url": "http://95.216.195.227:9944",
   "explorer_url": "http://95.216.195.227:4000",
-  "metrics_endpoint": "http://95.216.195.227:9453/metrics",
+  "metrics_endpoint": "http://95.216.195.227:9615/metrics",
   "id": "cf9f4138-8226-4fc4-bfc2-4f154c9f5f82"
 }
