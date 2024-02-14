@@ -2,7 +2,7 @@
   "name": "jiucai",
   "logo": "https://ibb.co/5vRg0Mk",
   "rpc_url": "http://64.44.24.194:9944",
-  "explorer_url": "http://VPS/64.44.24.194:4000",
+  "explorer_url": "http://64.44.24.194:4000",
   "metrics_endpoint": "http://64.44.24.194:9615/metrics",
   "id": "0df5df0c-eafe-40d9-9aac-ac6ef107c076"
 }
