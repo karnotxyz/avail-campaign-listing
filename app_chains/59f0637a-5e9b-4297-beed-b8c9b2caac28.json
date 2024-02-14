@@ -1,0 +1,8 @@
+{
+  "name": "HuterSL",
+  "logo": "https://i.ibb.co/nRJ3Rx8/HunterSL.png",
+  "rpc_url": "http://20.51.235.37:9944",
+  "explorer_url": "http://20.51.235.37:4000",
+  "metrics_endpoint": "http://20.51.235.37:9615/metrics",
+  "id": "59f0637a-5e9b-4297-beed-b8c9b2caac28"
+}
