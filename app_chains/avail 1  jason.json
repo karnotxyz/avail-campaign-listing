@@ -1,0 +1,8 @@
+{
+    "name": "mosii",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/90949522/304241373-b3beedf5-96cd-4974-93b8-bef5912084e7.png",
+    "rpc_url": "http://46.249.100.39:9944",
+    "explorer_url": "http://46.249.100.39:4000",
+    "metrics_endpoint": "http://46.249.100.39:9615/metrics",
+    "id": "e8897930-72ff-4fc2-8e61-0f9ca7cb1f73"
+  }
