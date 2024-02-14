@@ -1,0 +1,8 @@
+{
+  "name": "meaw202",
+  "logo": "http://i.ibb.co/hKwKj7b/Img01.jpg",
+  "rpc_url": "http://62.171.142.244:9944",
+  "explorer_url": "http://62.171.142.244:4000",
+  "metrics_endpoint": "http://62.171.142.244:9615/metrics",
+  "id": "178dd1f0-2519-49da-bf78-8ccc73892290"
+}

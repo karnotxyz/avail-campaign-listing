@@ -1,0 +1,8 @@
+{
+  "name": "dyana",
+  "logo": "https://placehold.co/400x400/EEE/31343C?font=oswald&text=dyana",
+  "rpc_url": "http://158.220.98.191:9944",
+  "explorer_url": "http://158.220.98.191:4000",
+  "metrics_endpoint": "http://158.220.98.191:9615/metrics",
+  "id": "e7858136-ecdf-49e9-82f3-9386786e060c"
+}

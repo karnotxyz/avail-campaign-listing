@@ -1,0 +1,8 @@
+{
+  "name": "slattingoo",
+  "logo": "https://i.ibb.co/0QnMWXY/slattingoo.jpg",
+  "rpc_url": "http://5.189.136.64:9944",
+  "explorer_url": "http://5.189.136.64:4000",
+  "metrics_endpoint": "http://5.189.136.64:9615/metrics",
+  "id": "2989a54f-cf0a-4db6-8471-60dbb181d101"
+}

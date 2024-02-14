@@ -1,0 +1,8 @@
+{
+  "name": "zerion",
+  "logo": "https://r.resimlink.com/7L3Pk-.jpg",
+  "rpc_url": "http://89.107.58.81:9944",
+  "explorer_url": "http://89.107.58.81:4000",
+  "metrics_endpoint": "http://89.107.58.81:9615/metrics",
+  "id": "5190bbe7-fb6e-49b2-8274-352f596c5641"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "melobaskan",
+  "logo": "https://im.ge/i/cNeKyS",
+  "rpc_url": "http://95.216.210.51:9944",
+  "explorer_url": "http://95.216.210.51:4000",
+  "metrics_endpoint": "http://95.216.210.51:9615/metrics",
+  "id": "0861eed1-24a2-47c9-b614-a75dac8233e7"
+}

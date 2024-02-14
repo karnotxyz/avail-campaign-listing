@@ -1,0 +1,8 @@
+{
+  "name": "ekota",
+  "logo": "https://i.ibb.co/p31VQrw/ikatajs.png",
+  "rpc_url": "http://95.216.216.205:9944",
+  "explorer_url": "http://95.216.216.205:4000",
+  "metrics_endpoint": "http://95.216.216.205:9615/metrics",
+  "id": "e2877efb-bd13-44af-be9f-5ebe9eee13c5"
+}

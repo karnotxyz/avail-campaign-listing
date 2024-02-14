@@ -1,0 +1,8 @@
+{
+  "name": "babiboo",
+  "logo": "https://i.imgur.com/E4OzfIH.jpg",
+  "rpc_url": "http://194.233.92.147:9944",
+  "explorer_url": "http://194.233.92.147:4000",
+  "metrics_endpoint": "http://194.233.92.147:9615/metrics",
+  "id": "025ba415-278f-4be7-a457-ff86e5a54d42"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xkarthik",
+  "logo": "https://ibb.co/nM3w1SZ",
+  "rpc_url": "http://77.91.122.212:9944",
+  "explorer_url": "http://77.91.122.212:4000",
+  "metrics_endpoint": "http://77.91.122.212:9615/metrics",
+  "id": "93f4e8b4-0df8-40d4-b545-83bdc0b6bc50"
+}

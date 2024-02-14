@@ -1,0 +1,8 @@
+{
+  "name": "jinxpromadara",
+  "logo": "https://i.imgur.com/a/zKVO3kK",
+  "rpc_url": "http://146.190.99.58:9944",
+  "explorer_url": "http://146.190.99.58:4000",
+  "metrics_endpoint": "http://146.190.99.58:9615/metrics",
+  "id": "117ba252-a703-4b71-a2fe-6da88a1af2de"
+}

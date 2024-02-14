@@ -1,0 +1,8 @@
+{
+  "name": "Wallis",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://170.106.177.37:9944",
+  "explorer_url": "http://170.106.177.37:4000",
+  "metrics_endpoint": "http://170.106.177.37:9615/metrics",
+  "id": "8c93b0ba-181a-44ae-b66b-070ea3d3e1df"
+}

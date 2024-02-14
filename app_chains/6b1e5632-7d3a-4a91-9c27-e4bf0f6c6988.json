@@ -1,0 +1,8 @@
+{
+  "name": "2awqtr",
+  "logo": "http://37.27.27.67/logo.png",
+  "rpc_url": "http://159.69.197.108:9944",
+  "explorer_url": "http://159.69.197.108:4000",
+  "metrics_endpoint": "http://159.69.197.108:9615/metrics",
+  "id": "6b1e5632-7d3a-4a91-9c27-e4bf0f6c6988"
+}

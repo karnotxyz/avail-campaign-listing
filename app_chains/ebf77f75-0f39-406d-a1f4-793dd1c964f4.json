@@ -1,0 +1,8 @@
+{
+  "name": "ccclaire",
+  "logo": "https://i.imgur.com/PceSFAZ.jpg",
+  "rpc_url": "http://185.185.83.9:9944",
+  "explorer_url": "http://185.185.83.9:4000",
+  "metrics_endpoint": "http://185.185.83.9:9615/metrics",
+  "id": "ebf77f75-0f39-406d-a1f4-793dd1c964f4"
+}

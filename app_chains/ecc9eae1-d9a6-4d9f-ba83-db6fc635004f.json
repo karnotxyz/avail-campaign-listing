@@ -1,0 +1,8 @@
+{
+  "name": "ridaksin",
+  "logo": "https://i.hizliresim.com/96ddfw2.png",
+  "rpc_url": "http://185.245.182.32:9944",
+  "explorer_url": "http://185.245.182.32:4000",
+  "metrics_endpoint": "http://185.245.182.32:9615/metrics",
+  "id": "ecc9eae1-d9a6-4d9f-ba83-db6fc635004f"
+}
