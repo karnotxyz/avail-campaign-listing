@@ -1,0 +1,8 @@
+{
+  "name": "availibty",
+  "logo": "https://r.resimlink.com/2YX3oS-8v.jpg",
+  "rpc_url": "http://37.60.251.215:9944",
+  "explorer_url": "http://37.60.251.215:4000",
+  "metrics_endpoint": "http://37.60.251.215:9615/metrics",
+  "id": "87b50fb5-cc37-43af-9bd2-4bcd8706b322"
+}

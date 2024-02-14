@@ -1,0 +1,8 @@
+{
+  "name": "0xcflokiETH",
+  "logo": "https://i.imgur.com/Gs1DfCO.png",
+  "rpc_url": "http://173.212.246.148:9944",
+  "explorer_url": "http://173.212.246.148:4000",
+  "metrics_endpoint": "http://173.212.246.148:9615/metrics",
+  "id": "a340656a-89b6-4415-9722-0956fe243a9c"
+}

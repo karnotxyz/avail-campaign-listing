@@ -1,0 +1,8 @@
+{
+  "name": "ArramassChain",
+  "logo": "https://r.resimlink.com/9RLkY3z8.jpg",
+  "rpc_url": "http://34.105.215.83:9944",
+  "explorer_url": "http://34.105.215.83:4000",
+  "metrics_endpoint": "http://34.105.215.83:9615/metrics",
+  "id": "a9c5462a-753f-4e59-bf15-0b739cdbdd98"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "waymaker",
+  "logo": "https://i.ibb.co/Tw8QF4z/waymaker.jpg",
+  "rpc_url": "http://62.171.129.252:9944",
+  "explorer_url": "http://62.171.129.252:4000",
+  "metrics_endpoint": "http://62.171.129.252:9615/metrics",
+  "id": "feb4b533-4fae-465d-8100-bafcd91cd61c"
+}

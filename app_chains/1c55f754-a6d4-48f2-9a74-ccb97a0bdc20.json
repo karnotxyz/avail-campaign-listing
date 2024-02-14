@@ -1,8 +1,0 @@
-{
-  "name": "omerbektas",
-  "logo": "https://raw.githubusercontent.com/omerbek/rollapp-registry/main/devnet/omerbektas_1551395-1/logos/oomerbektas_1551395-1.jpg",
-  "rpc_url": "http://95.216.192.172:9944",
-  "explorer_url": "http://95.216.192.172:4000",
-  "metrics_endpoint": "http://95.216.192.172:9615/metrics",
-  "id": "217c49f6-3cfb-4755-a8fc-001c9a7753af"
-}

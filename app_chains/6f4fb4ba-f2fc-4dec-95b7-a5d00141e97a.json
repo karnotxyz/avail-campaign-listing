@@ -1,0 +1,8 @@
+{
+  "name": "firetoken",
+  "logo": "https://coindataflow.com/uploads/coins/fire-token.png",
+  "rpc_url": "http://194.146.13.18:9944",
+  "explorer_url": "http://194.146.13.18:4000",
+  "metrics_endpoint": "http://194.146.13.18:9615/metrics",
+  "id": "6f4fb4ba-f2fc-4dec-95b7-a5d00141e97a"
+}

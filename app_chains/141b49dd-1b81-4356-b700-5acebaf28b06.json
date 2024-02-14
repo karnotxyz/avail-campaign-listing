@@ -1,0 +1,8 @@
+{
+  "name": "bahsnode",
+  "logo": "https://raw.githubusercontent.com/Bahs-eth/BEVM/main/Ekran%20Resmi%202024-01-12%2014.56.57.png?raw=true",
+  "rpc_url": "http://173.249.11.139:9944",
+  "explorer_url": "http://173.249.11.139:4000",
+  "metrics_endpoint": "http://173.249.11.139:9615/metrics",
+  "id": "141b49dd-1b81-4356-b700-5acebaf28b06"
+}

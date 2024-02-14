@@ -1,0 +1,8 @@
+{
+  "name": "0xselo",
+  "logo": "https://i.imgur.com/rUB2HDM.png",
+  "rpc_url": "http://49.13.129.178:9944",
+  "explorer_url": "http://49.13.129.178:4000",
+  "metrics_endpoint": "http://49.13.129.178:9615/metrics",
+  "id": "5ce50edf-5edf-4358-96e8-d30b10cd995e"
+}

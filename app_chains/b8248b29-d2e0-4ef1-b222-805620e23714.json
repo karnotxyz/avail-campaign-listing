@@ -1,0 +1,8 @@
+{
+  "name": "fdacyxgds",
+  "logo": "https://avail-1257774372.cos.na-siliconvalley.myqcloud.com/fdacyxgds.png",
+  "rpc_url": "http://43.153.19.131:9944",
+  "explorer_url": "http://43.153.19.131:4000",
+  "metrics_endpoint": "http://43.153.19.131:9615/metrics",
+  "id": "b8248b29-d2e0-4ef1-b222-805620e23714"
+}

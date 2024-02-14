@@ -1,0 +1,8 @@
+{
+  "name": "exan",
+  "logo": "https://r.resimlink.com/d6wYInFfL1S.png",
+  "rpc_url": "http://157.90.18.194:9944",
+  "explorer_url": "http://157.90.18.194:4000",
+  "metrics_endpoint": "http://157.90.18.194:9615/metrics",
+  "id": "08af2074-941d-4520-ba7c-a4847cdfd738"
+}

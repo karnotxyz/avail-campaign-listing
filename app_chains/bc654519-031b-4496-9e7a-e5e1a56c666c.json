@@ -1,0 +1,8 @@
+{
+  "name": "yanweisx",
+  "logo": "https://pub-9805afdd16eb452690bd5270818cb00b.r2.dev/yanweisx.png",
+  "rpc_url": "http://43.134.58.89:9944",
+  "explorer_url": "http://43.134.58.89:4000",
+  "metrics_endpoint": "http://43.134.58.89:9615/metrics",
+  "id": "bc654519-031b-4496-9e7a-e5e1a56c666c"
+}

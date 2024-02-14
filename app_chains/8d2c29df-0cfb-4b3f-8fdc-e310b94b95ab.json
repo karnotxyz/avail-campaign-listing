@@ -1,0 +1,8 @@
+{
+  "name": "constellation",
+  "logo": "https://imgur.com/N0ExHZo.jpg",
+  "rpc_url": "http://31.220.98.40:9944",
+  "explorer_url": "http://31.220.98.40:4000",
+  "metrics_endpoint": "http://31.220.98.40:9615/metrics",
+  "id": "8d2c29df-0cfb-4b3f-8fdc-e310b94b95ab"
+}

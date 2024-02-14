@@ -1,0 +1,8 @@
+{
+  "name": "kanomjeeb",
+  "logo": "https://img2.pic.in.th/pic/image_165228071835383006919cf8732t0fb7f47e.jpeg",
+  "rpc_url": "http://62.171.152.157:9944",
+  "explorer_url": "http://62.171.152.157:4000",
+  "metrics_endpoint": "http://62.171.152.157:9615/metrics",
+  "id": "860efc3f-416d-4c69-9700-15978e0039db"
+}

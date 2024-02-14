@@ -1,0 +1,8 @@
+{
+  "name": "syskey",
+  "logo": "https://i.im.ge/2024/02/04/bJIALG.11.jpg",
+  "rpc_url": "http://74.48.66.118:9944",
+  "explorer_url": "http://74.48.66.118:4000",
+  "metrics_endpoint": "http://74.48.66.118:9615/metrics",
+  "id": "eed5ca05-df1e-4730-8831-6bc9530a7a99"
+}

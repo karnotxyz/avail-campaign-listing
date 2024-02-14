@@ -1,0 +1,8 @@
+{
+  "name": "temhem",
+  "logo": "https://raw.githubusercontent.com/mehmetbakmaz/Ucu-Y-netim-Sistemi---Patika/main/NkIqXbgDzdQx.png",
+  "rpc_url": "http://84.247.160.243:9944",
+  "explorer_url": "http://84.247.160.243:4000",
+  "metrics_endpoint": "http://84.247.160.243:9615/metrics",
+  "id": "1579be93-440d-4004-909b-effb725b0bbe"
+}
