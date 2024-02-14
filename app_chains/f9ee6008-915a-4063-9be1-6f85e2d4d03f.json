@@ -1,0 +1,8 @@
+{
+  "name": "obenkz",
+  "logo": "https://im.ge/i/cUELKF",
+  "rpc_url": "http://46.250.233.216:9944",
+  "explorer_url": "http://46.250.233.216:4000",
+  "metrics_endpoint": "http://46.250.233.216:9615/metrics",
+  "id": "f9ee6008-915a-4063-9be1-6f85e2d4d03f"
+}
