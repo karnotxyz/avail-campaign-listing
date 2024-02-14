@@ -1,0 +1,8 @@
+{
+  "name": "krypto86",
+  "logo": "https://i.ibb.co/FhkCFzm/pixel77-free-vector-sports-logo-0506-400.jpg",
+  "rpc_url": "https:173.249.17.139:9944",
+  "explorer_url": "https://173.249.17.139:4000",
+  "metrics_endpoint": "https://173.249.17.139:9615/metrics",
+  "id": "4b8852ea-e1ff-44c7-995f-c906937eb9ad"
+}
