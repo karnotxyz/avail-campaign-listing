@@ -1,0 +1,8 @@
+{
+  "name": "emremadara",
+  "logo": https://iili.io/JEBxsG2.png",
+  "rpc_url": "http://49.13.204.114:9944",
+  "explorer_url": "http://49.13.204.114:4000",
+  "metrics_endpoint": "http://49.13.204.114:9615",
+  "id": "e684a92c-5d83-4174-b948-4edc5dbdeb23"
+}
