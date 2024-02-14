@@ -1,0 +1,8 @@
+{
+  "name": "raka",
+  "logo": "https://im.ge/i/cUELKF",
+  "rpc_url": "http://46.250.233.216:9944",
+  "explorer_url": "http://46.250.233.216:4000",
+  "metrics_endpoint": "http://46.250.233.216:9615/metrics",
+  "id": "b855fee6-3c66-4618-98fe-76a050b54198"
+}
