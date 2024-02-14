@@ -1,0 +1,8 @@
+{
+  "name": "sunrise",
+  "logo": "https://r.resimlink.com/6cdJaF9t-i.jpg",
+  "rpc_url": "http://109.123.254.27:9944",
+  "explorer_url": "http://109.123.254.27:4000",
+  "metrics_endpoint": "http://109.123.254.27:9615/metrics",
+  "id": "a407cfc6-6660-4bd4-a727-c9fd1f260eec"
+}
