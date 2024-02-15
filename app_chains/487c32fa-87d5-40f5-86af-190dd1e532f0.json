@@ -1,0 +1,8 @@
+{
+  "name": "martinez",
+  "logo": "https://imgur.com/AMT86P2",
+  "rpc_url": "http://173.249.54.235:9944",
+  "explorer_url": "http://173.249.54.235:4000",
+  "metrics_endpoint": "http://173.249.54.235:9615/metrics",
+  "id": "487c32fa-87d5-40f5-86af-190dd1e532f0"
+}
