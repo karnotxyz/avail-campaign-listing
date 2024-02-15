@@ -2,7 +2,7 @@
   "name": "kaiacute",
   "logo": "https://i.ibb.co/2txGRMd/61-Uhhuendi-S-AC-UF894-1000-QL80.jpg",
   "rpc_url": "http://194.163.136.85:9944",
-  "explorer_url": "194.163.136.85:4000",
+  "explorer_url": "http://194.163.136.85:4000",
   "metrics_endpoint": "http://194.163.136.85:9615/metrics",
   "id": "2bdc2356-5efa-4cc6-b7e1-b85f2665c3ca"
 }
