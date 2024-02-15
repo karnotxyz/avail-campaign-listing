@@ -1,0 +1,8 @@
+{
+  "name": "nusirevan",
+  "logo": "https://r.resimlink.com/pLs_3Xjz.png",
+  "rpc_url": "http://SUNUCU IP ADRESIN:9944",
+  "explorer_url": "http://65.109.141.29:4000",
+  "metrics_endpoint": "http://65.109.141.29:9615/metrics",
+  "id": "abaf235b-cdd8-4e8b-ab64-55556449845a"
+}
