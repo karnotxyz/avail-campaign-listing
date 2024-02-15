@@ -1,0 +1,8 @@
+{
+  "name": "kojo",
+  "logo": "https://ibb.co/DwTML65",
+  "rpc_url": "http://34.145.58.20:9944",
+  "explorer_url": "http://34.145.58.20:4000",
+  "metrics_endpoint": "http://34.145.58.20:9615/metrics",
+  "id": "f13c2a99-40dc-40e1-b9a7-df40f2ccd586"
+}
