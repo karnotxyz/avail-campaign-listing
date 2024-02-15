@@ -1,0 +1,8 @@
+{
+  "name": "kirara",
+  "logo": "https://s2.loli.net/2024/02/10/NWt1nQ9VPExJkM7.png",
+  "rpc_url": "http://37.60.232.132:9944",
+  "explorer_url": "http://37.60.232.132:4000",
+  "metrics_endpoint": "http://37.60.232.132:9615/metrics",
+  "id": "3ff3d9e5-4ed4-4de7-aff7-ede44a93e587"
+}

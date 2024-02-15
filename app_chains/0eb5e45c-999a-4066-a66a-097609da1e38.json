@@ -1,0 +1,8 @@
+{
+  "name": "hamedzebel",
+  "logo": "https://i.imgur.com/0d9NTgL.jpeg",
+  "rpc_url": "http://31.220.75.157:9944",
+  "explorer_url": "http://31.220.75.157:4000",
+  "metrics_endpoint": "http://31.220.75.157:9615/metrics",
+  "id": "0eb5e45c-999a-4066-a66a-097609da1e38"
+}

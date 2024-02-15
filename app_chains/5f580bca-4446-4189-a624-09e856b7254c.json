@@ -1,0 +1,8 @@
+{
+  "name": "bengt",
+  "logo": "https://i.ibb.co/Fmw2cR0/2024-02-09-21-06-44.png",
+  "rpc_url": "http://167.86.88.24:9944",
+  "explorer_url": "http://167.86.88.24:4000",
+  "metrics_endpoint": "http://167.86.88.24:9615/metrics",
+  "id": "5f580bca-4446-4189-a624-09e856b7254c"
+}

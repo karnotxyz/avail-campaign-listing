@@ -1,0 +1,8 @@
+{
+  "name": "nua",
+  "logo": "https://i.imgur.com/iSM2c2X.png",
+  "rpc_url": "http://31.220.94.74:9944",
+  "explorer_url": "http://31.220.94.74:4000",
+  "metrics_endpoint": "http://31.220.94.74:9615/metrics",
+  "id": "fbb44219-3e02-4f2b-aab4-ed5c01bd33f5"
+}

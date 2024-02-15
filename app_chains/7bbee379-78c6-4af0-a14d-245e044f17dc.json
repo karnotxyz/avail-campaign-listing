@@ -1,0 +1,8 @@
+{
+  "name": "fenerbahce",
+  "logo": "https://r.resimlink.com/AwomUKI0.jpg",
+  "rpc_url": "http://95.217.5.35:9944",
+  "explorer_url": "http://95.217.5.35:4000",
+  "metrics_endpoint": "http://95.217.5.35:9615/metrics",
+  "id": "7bbee379-78c6-4af0-a14d-245e044f17dc"
+}

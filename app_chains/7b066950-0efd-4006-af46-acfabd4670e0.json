@@ -1,0 +1,8 @@
+{
+  "name": "Ethernal",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/91192287/303860723-9425562f-6ad9-446d-b47f-e5d0b1613424.png",
+  "rpc_url": "http://167.233.5.230:9944",
+  "explorer_url": "http://167.233.5.230:4000",
+  "metrics_endpoint": "http://167.233.5.230:9615/metrics",
+  "id": "7b066950-0efd-4006-af46-acfabd4670e0"
+}

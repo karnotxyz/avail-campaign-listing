@@ -1,0 +1,8 @@
+{
+  "name": "sijifacai",
+  "logo": "http://43.155.177.141/static/img/sijifacai.png",
+  "rpc_url": "http://43.155.177.141:9944",
+  "explorer_url": "http://43.155.177.141:4000",
+  "metrics_endpoint": "http://43.155.177.141:9615/metrics",
+  "id": "f3b32062-c681-427e-abba-50063dd9c5a7"
+}

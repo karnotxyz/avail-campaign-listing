@@ -1,0 +1,8 @@
+{
+  "name": "adara",
+  "logo": "https://r.resimlink.com/sQF_YTv1R.png",
+  "rpc_url": "http://109.123.245.98:9944",
+  "explorer_url": "http://109.123.245.98:4000",
+  "metrics_endpoint": "http://109.123.245.98:9615/metrics",
+  "id": "b618d934-de61-4acf-bdde-dc1d7da8ca52"
+}

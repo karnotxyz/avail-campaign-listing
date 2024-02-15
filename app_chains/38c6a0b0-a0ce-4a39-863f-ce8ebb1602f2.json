@@ -1,0 +1,8 @@
+{
+  "name": "leo",
+  "logo": "https://i.ibb.co/NNPJCry/Pandaria.png",
+  "rpc_url": "http://178.239.204.4:9944",
+  "explorer_url": "http://178.239.204.4:4000",
+  "metrics_endpoint": "http://178.239.204.4:9615/metrics",
+  "id": "38c6a0b0-a0ce-4a39-863f-ce8ebb1602f2"
+}
