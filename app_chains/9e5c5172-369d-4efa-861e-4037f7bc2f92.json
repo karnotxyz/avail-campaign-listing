@@ -1,0 +1,15 @@
+{
+
+  "name": "OHNODE",
+
+  "logo": "https://ibb.co/4mZSLff",
+
+  "rpc_url": "http://207.180.199.132/:9944",
+
+  "explorer_url": "http://207.180.199.132:4000",
+
+  "metrics_endpoint": "http://207.180.199.132:9615/metrics",
+
+  "id": "9e5c5172-369d-4efa-861e-4037f7bc2f92"
+
+}
