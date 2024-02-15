@@ -1,8 +1,8 @@
 {
   "name": "paullo",
   "logo": "https://i.postimg.cc/fWYNHQQY/Picture1.png",
-  "rpc_url": "https:// 37.60.251.107:9944",
-  "explorer_url": "https:// 37.60.251.107:4000",
-  "metrics_endpoint": "https:// 37.60.251.107:9615/metrics",
+  "rpc_url": "https://37.60.251.107:9944",
+  "explorer_url": "https://37.60.251.107:4000",
+  "metrics_endpoint": "https://37.60.251.107:9615/metrics",
   "id": "ed835d6a-0d32-4154-bda2-98550cde7254"
 }
