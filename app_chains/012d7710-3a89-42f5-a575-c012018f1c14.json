@@ -1,0 +1,8 @@
+{
+  "name": "bestbitcoin",
+  "logo": "https://imgur.com/a/Q7aj6Lq",
+  "rpc_url": "http://161.97.123.232:9944",
+  "explorer_url": "http://161.97.123.232:4000",
+  "metrics_endpoint": "http://161.97.123.232:9615/metrics",
+  "id": "012d7710-3a89-42f5-a575-c012018f1c14"
+}
