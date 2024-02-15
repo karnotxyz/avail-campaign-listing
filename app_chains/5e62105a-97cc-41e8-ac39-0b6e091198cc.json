@@ -1,0 +1,8 @@
+{
+  "name": "sprk",
+  "logo": "https://r.resimlink.com/xdT6j8MK.png",
+  "rpc_url": "http://37.60.226.68:9944",
+  "explorer_url": "http://37.60.226.68:4000",
+  "metrics_endpoint": "http://37.60.226.68:9615/metrics",
+  "id": "5e62105a-97cc-41e8-ac39-0b6e091198cc"
+}
