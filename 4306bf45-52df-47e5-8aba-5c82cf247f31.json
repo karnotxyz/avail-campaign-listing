@@ -1,0 +1,8 @@
+{
+  "name": "avail-app",
+  "logo": "https://i.ibb.co/4TdDbbb/martix-logo.png",
+  "rpc_url": "http://84.46.247.24:9944",
+  "explorer_url": "http://84.46.247.24:4000",
+  "metrics_endpoint": "http://84.46.247.24:9615/metrics",
+  "id": "4306bf45-52df-47e5-8aba-5c82cf247f31"
+}
