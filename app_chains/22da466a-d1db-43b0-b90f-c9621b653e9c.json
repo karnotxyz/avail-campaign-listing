@@ -1,0 +1,8 @@
+{
+  "name": "silverbee",
+  "logo": "https://ibb.co/BCv1Ksx",
+  "rpc_url": "http://185.215.167.7:9944",
+  "explorer_url": "http://185.215.167.7:4000",
+  "metrics_endpoint": "http://185.215.167.7:9615/metrics",
+  "id": "22da466a-d1db-43b0-b90f-c9621b653e9c"
+}
