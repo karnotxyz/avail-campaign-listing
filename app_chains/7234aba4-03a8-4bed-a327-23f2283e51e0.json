@@ -1,0 +1,8 @@
+{
+  "name": "lining-madara",
+  "logo": "https://imgur.com/a/U7dxoGH",
+  "rpc_url": "http://43.228.215.118:9944",
+  "explorer_url": "http://43.228.215.118:4000",
+  "metrics_endpoint": "http://43.228.215.118:9615/metrics",
+  "id": "7234aba4-03a8-4bed-a327-23f2283e51e0"
+}
