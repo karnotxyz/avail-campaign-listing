@@ -1,0 +1,8 @@
+{
+  "name": "hangang",
+  "logo": "https://i.ibb.co/Q8ryBMy/8e13e1b3c2144f988ef370acf0832d97.png",
+  "rpc_url": "http://144.91.85.56:9944",
+  "explorer_url": "http://144.91.85.56:4000",
+  "metrics_endpoint": "http://144.91.85.56:9615/metrics",
+  "id": "0ff96806-e735-43f3-bfa9-d147fe0cac90"
+}
