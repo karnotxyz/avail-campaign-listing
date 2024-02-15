@@ -1,0 +1,8 @@
+{
+  "name": "xinxon",
+  "logo": "http://173.212.192.134/",
+  "rpc_url": "http://173.212.192.134:9944",
+  "explorer_url": "http://173.212.192.134:4000",
+  "metrics_endpoint": "http://173.212.192.134:9615/metrics",
+  "id": "0a69c7c4-8b8d-4ed3-9284-787cad2c71e9"
+}
