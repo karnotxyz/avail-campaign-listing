@@ -1,9 +1,8 @@
 {
-    "name": "shikari",
-    "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/ngocdoan_5367226-1/logos/ngocdoan_5367226-1.svg",
-    "rpc_url": "https://m1.shikari99.xyz",
-    "explorer_url": "https://m3.shikari99.xyz",
-    "metrics_endpoint": "https://m2.shikari99.xyz/metrics",
-    "id": "f1583c17-e58e-48ce-bb51-27560d33035c"
-  }
-  
+  "name": "shikari",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/ngocdoan_5367226-1/logos/ngocdoan_5367226-1.svg",
+  "rpc_url": "https://m1.shikari99.xyz",
+  "explorer_url": "https://m3.shikari99.xyz",
+  "metrics_endpoint": "https://m2.shikari99.xyz/metrics",
+  "id": "f1583c17-e58e-48ce-bb51-27560d33035c"
+}
