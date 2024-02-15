@@ -1,0 +1,8 @@
+{
+  "name": "MerkChain",
+  "logo": "https://r.resimlink.com/X8pKVLJ3sk.png",
+  "rpc_url": "http://95.216.144.236:9944",
+  "explorer_url": "http://95.216.144.236:4000",
+  "metrics_endpoint": "http://95.216.144.236:9615/metrics",
+  "id": "5b7283e2-96c4-4680-922e-08bd20d1bc79"
+}
