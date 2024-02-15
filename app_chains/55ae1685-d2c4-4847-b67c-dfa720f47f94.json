@@ -1,0 +1,10 @@
+{
+  "name": "xinxon",
+  "logo": "https://r.resimlink.com/q764m2R38Oe.jpg",
+  "rpc_url": "http://173.212.192.134:9944",
+  "explorer_url": "http://173.212.192.134:4000",
+  "metrics_endpoint": "http://173.212.192.134:9615/metrics",
+  "id": "55ae1685-d2c4-4847-b67c-dfa720f47f94
+
+"
+}
