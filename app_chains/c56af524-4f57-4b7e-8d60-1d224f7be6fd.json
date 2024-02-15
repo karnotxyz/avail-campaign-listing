@@ -1,0 +1,8 @@
+{
+  "name": "mandypajesf",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258/57099.jpg",
+  "rpc_url": "http://43.157.20.165:9944",
+  "explorer_url": "http://43.157.20.165:4000",
+  "metrics_endpoint": "http://43.157.20.165:9615/metrics",
+  "id": "c56af524-4f57-4b7e-8d60-1d224f7be6fd"
+}
