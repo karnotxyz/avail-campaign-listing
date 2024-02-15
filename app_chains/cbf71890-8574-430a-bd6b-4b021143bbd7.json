@@ -1,0 +1,8 @@
+{
+  "name": "efechain",
+  "logo": "https://r.resimlink.com/pHdYy.gif",
+  "rpc_url": "http:38.242.252.116//:9944",
+  "explorer_url": "http://38.242.252.116:4000",
+  "metrics_endpoint": "http://38.242.252.116:9615/metrics",
+  "id": "cbf71890-8574-430a-bd6b-4b021143bbd7"
+}
