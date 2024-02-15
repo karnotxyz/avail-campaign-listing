@@ -2,7 +2,7 @@
   "name": "VanZ",
   "logo": "https://i.imgur.com/E4x6h7d.png",
   "rpc_url": "http://43.228.214.246:9944",
-  "explorer_url": "http://43.228.214.246:4000",
+  "explorer_url": "https://43.228.214.246:4000",
   "metrics_endpoint": "http://43.228.214.246:9615/metrics",
   "id": "17d3315c-a5fe-49a4-9259-a68149640cd8"
 }
