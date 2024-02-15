@@ -1,0 +1,8 @@
+{
+  "name": "rj-node",
+  "logo": "https://i.ibb.co/nBh03SJ/Straw-Hat-Pirates-Jolly-Roger.webp",
+  "rpc_url": "http://167.86.116.49:9944",
+  "explorer_url": "http://167.86.116.49:4000",
+  "metrics_endpoint": "http://167.86.116.49:9615/metrics",
+  "id": "06602214-abd1-45d8-a5ac-0118581fdd25"
+}

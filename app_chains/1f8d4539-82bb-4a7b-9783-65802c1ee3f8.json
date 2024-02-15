@@ -1,0 +1,8 @@
+{
+  "name": "xes",
+  "logo": "https://r.resimlink.com/OTUGYDIxAECM.jpg",
+  "rpc_url": "http://5.104.81.95:9944",
+  "explorer_url": "http://5.104.81.95:4000",
+  "metrics_endpoint": "http://5.104.81.95:9615/metrics",
+  "id": "1f8d4539-82bb-4a7b-9783-65802c1ee3f8"
+}

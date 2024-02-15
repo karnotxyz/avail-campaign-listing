@@ -1,0 +1,8 @@
+{
+  "name": "fadliid",
+  "logo": "http://43.131.252.36/dist/public/image/logo.png",
+  "rpc_url": "http://43.131.252.36:9944",
+  "explorer_url": "http://43.131.252.36:4000",
+  "metrics_endpoint": "http://43.131.252.36:9615/metrics",
+  "id": "c31d35ef-13d0-4754-9094-74beab66e186"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Satoshifa",
+  "logo": "https://i.ibb.co/5B0pzVY/FMEp1-Jf-WUAc5-Yuw.jpg",
+  "rpc_url": "http://149.102.146.147:9944",
+  "explorer_url": "http://149.102.146.147:4000",
+  "metrics_endpoint": "http://149.102.146.147:9615/metrics",
+  "id": "1e6919c1-36d3-493f-ab02-9323bfbb8956"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sukmachain",
+  "logo": "https://avatars.githubusercontent.com/u/80118910?v=4",
+  "rpc_url": "http://65.108.247.228:9944",
+  "explorer_url": "http://65.108.247.228:4000",
+  "metrics_endpoint": "http://65.108.247.228:9615/metrics",
+  "id": "801aaf75-b3ae-46ca-bedb-5ccd3b4b91cd"
+}

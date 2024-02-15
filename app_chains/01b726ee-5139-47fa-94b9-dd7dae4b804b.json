@@ -1,0 +1,8 @@
+{
+  "name": "riskchain",
+  "logo": "https://imgur.com/gallery/4I4EmSH",
+  "rpc_url": "http://45.130.23.190:9944",
+  "explorer_url": "http://45.130.23.190:4000",
+  "metrics_endpoint": "http://45.130.23.190:9615/metrics",
+  "id": "01b726ee-5139-47fa-94b9-dd7dae4b804b"
+}

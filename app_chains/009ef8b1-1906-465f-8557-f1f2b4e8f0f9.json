@@ -1,0 +1,8 @@
+{
+  "name": "rifhu",
+  "logo": "https://ibb.co/9v0vfdT",
+  "rpc_url": "http://23.94.40.115:9944",
+  "explorer_url": "http://23.94.40.115:4000",
+  "metrics_endpoint": "http://23.94.40.115:9615/metrics",
+  "id": "009ef8b1-1906-465f-8557-f1f2b4e8f0f9"
+}

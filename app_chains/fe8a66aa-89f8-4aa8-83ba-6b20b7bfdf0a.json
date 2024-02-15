@@ -1,0 +1,8 @@
+{
+  "name": "qpc66666",
+  "logo": "https://avatars.githubusercontent.com/u/34977840?v=4",
+  "rpc_url": "http://43.156.212.74:9944",
+  "explorer_url": "http://43.156.212.74:4000",
+  "metrics_endpoint": "http://43.156.212.74:9615/metrics",
+  "id": "fe8a66aa-89f8-4aa8-83ba-6b20b7bfdf0a"
+}

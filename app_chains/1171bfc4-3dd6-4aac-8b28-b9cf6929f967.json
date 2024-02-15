@@ -1,0 +1,8 @@
+{
+  "name": "cryptoin34",
+  "logo": "https://i.imgur.com/GN0PCoD.png",
+  "rpc_url": "http://95.216.155.88:9944",
+  "explorer_url": "http://95.216.155.88:4000",
+  "metrics_endpoint": "http://95.216.155.88:9615/metrics",
+  "id": "1171bfc4-3dd6-4aac-8b28-b9cf6929f967"
+}

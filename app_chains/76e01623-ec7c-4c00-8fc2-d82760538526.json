@@ -1,0 +1,8 @@
+{
+  "name": "story",
+  "logo": "https://i.ibb.co/JvCySRD/Capture11.png",
+  "rpc_url": "http://161.97.70.38:9944",
+  "explorer_url": "http://161.97.70.38:4000",
+  "metrics_endpoint": "http://161.97.70.38:9615/metrics",
+  "id": "76e01623-ec7c-4c00-8fc2-d82760538526"
+}

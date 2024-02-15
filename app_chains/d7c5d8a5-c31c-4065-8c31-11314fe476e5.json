@@ -1,0 +1,8 @@
+{
+  "name": "gubedao",
+  "logo": "https://imgur.com/a/Gqdwjn2",
+  "rpc_url": "http://195.201.18.138:9944",
+  "explorer_url": "http://195.201.18.138:4000",
+  "metrics_endpoint": "http://195.201.18.138:9615/metrics",
+  "id": "d7c5d8a5-c31c-4065-8c31-11314fe476e5"
+}

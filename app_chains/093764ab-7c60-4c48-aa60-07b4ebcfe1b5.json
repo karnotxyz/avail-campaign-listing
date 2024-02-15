@@ -1,0 +1,8 @@
+{
+  "name": "akashcry",
+  "logo": "https://i.ibb.co/1Z4nSg6/logo-Batman.jpg",
+  "rpc_url": "http://34.16.151.15:9944",
+  "explorer_url": "http://34.16.151.15:4000",
+  "metrics_endpoint": "http://34.16.151.15:9615/metrics",
+  "id": "093764ab-7c60-4c48-aa60-07b4ebcfe1b5"
+}
