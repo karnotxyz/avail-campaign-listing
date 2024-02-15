@@ -1,6 +1,6 @@
 {
   "name": "mantac",
-  "logo": "https://im.ge/i/czNVMG",
+  "logo": "https://im.ge/i/poezdec.czNVMG",
   "rpc_url": "http://ipv4:9944",
   "explorer_url": "http://ipv4:4000",
   "metrics_endpoint": "http://ipv4:9615/metrics",
