@@ -1,0 +1,8 @@
+{
+  "name": "Aberama",
+  "logo": "https://i.ibb.co/3dG73Y8/b4dd64e938c77b7b9527806efe35c1f3-1-1.png",
+  "rpc_url": "http://148.251.155.92:9944",
+  "explorer_url": "http://148.251.155.92:4000",
+  "metrics_endpoint": "http://148.251.155.92/metrics",
+  "id": "43489668-49bc-4a92-9d2f-fc75ed0881d8"
+}
