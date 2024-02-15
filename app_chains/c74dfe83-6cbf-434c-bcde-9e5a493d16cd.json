@@ -1,0 +1,8 @@
+{
+  "name": "LucasiNode",
+  "logo": "https://ibb.co/9NmhQby",
+  "rpc_url": "http://http://38.242.224.220/:9944",
+  "explorer_url": "http://http://38.242.224.220/:4000",
+  "metrics_endpoint": "http://http://38.242.224.220/:9615/metrics",
+  "id": "c74dfe83-6cbf-434c-bcde-9e5a493d16cd"
+}
