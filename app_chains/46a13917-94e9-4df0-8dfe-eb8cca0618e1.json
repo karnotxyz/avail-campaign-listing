@@ -1,0 +1,8 @@
+{
+  "name": "cebrail",
+  "logo": "https://r.resimlink.com/9jiqrhP4.jpg",
+  "rpc_url": "http://104.248.32.127:9944",
+  "explorer_url": "http://104.248.32.127:4000",
+  "metrics_endpoint": "http://104.248.32.127:9615/metrics",
+  "id": "46a13917-94e9-4df0-8dfe-eb8cca0618e1"
+}
