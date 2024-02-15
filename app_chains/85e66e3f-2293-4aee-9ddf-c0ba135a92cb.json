@@ -1,0 +1,8 @@
+{
+  "name": "jamra",
+  "logo": "https://i.imgur.com/R7rn11g.png",
+  "rpc_url": "http://49.13.51.120:9944",
+  "explorer_url": "http://49.13.51.120:4000",
+  "metrics_endpoint": "http://49.13.51.120:9615/metrics",
+  "id": "85e66e3f-2293-4aee-9ddf-c0ba135a92cb"
+}
