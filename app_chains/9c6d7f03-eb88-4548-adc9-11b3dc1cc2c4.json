@@ -1,6 +1,6 @@
 {
   "name": "kooo",
-  "logo": "https://im.ge/i/czbvB4",
+  "logo": "https://im.ge/i/czbvB",
   "rpc_url": "http://62.72.47.43:9944",
   "explorer_url": "http://62.72.47.43:4000",
   "metrics_endpoint": "http://62.72.47.43:9615/metrics",
