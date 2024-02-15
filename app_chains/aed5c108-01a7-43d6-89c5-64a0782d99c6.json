@@ -1,0 +1,8 @@
+{
+  "name": "efechain",
+  "logo": "https://ibb.co/f0pnGK9",
+  "rpc_url": "http:38.242.252.116//:9944",
+  "explorer_url": "http://38.242.252.116:4000",
+  "metrics_endpoint": "http://38.242.252.116:9615/metrics",
+  "id": "aed5c108-01a7-43d6-89c5-64a0782d99c6"
+}
