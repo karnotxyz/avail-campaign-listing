@@ -1,0 +1,8 @@
+{
+  "name": "drtestnet",
+  "logo": "https://imgur.com/a/KVzQQ24",
+  "rpc_url": "http://116.203.38.183:9944",
+  "explorer_url": "http://116.203.38.183:4000",
+  "metrics_endpoint": "http://116.203.38.183:9615/metrics",
+  "id": "b99bfb3f-573f-414e-b49a-c5a9f73d9d54"
+}

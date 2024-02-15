@@ -1,0 +1,8 @@
+{
+  "name": "LHBlockAvail",
+  "logo": "https://mrbwg.art/logo/lhlogo.png",
+  "rpc_url": "http://198.46.203.231:9944",
+  "explorer_url": "http://198.46.203.231:4000",
+  "metrics_endpoint": "http://198.46.203.231:9615/metrics",
+  "id": "31495135-aa13-44df-83b2-25d2d1095f92"
+}
