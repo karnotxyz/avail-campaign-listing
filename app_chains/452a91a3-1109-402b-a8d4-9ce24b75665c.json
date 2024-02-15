@@ -1,0 +1,8 @@
+{
+  "name": "unal",
+  "logo": "https://r.resimlink.com/ZrWSa1JbN.png",
+  "rpc_url": "http://167.86.86.33:9944",
+  "explorer_url": "http://167.86.86.33:4000",
+  "metrics_endpoint": "http://167.86.86.33:9615/metrics",
+  "id": "452a91a3-1109-402b-a8d4-9ce24b75665c"
+}
