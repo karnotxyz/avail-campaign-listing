@@ -1,0 +1,8 @@
+{
+  "name": "jyon",
+  "logo": "https://ibb.co/NN7JJ5n",
+  "rpc_url": "http://43.228.214.219:9944",
+  "explorer_url": "http://43.228.214.219:4000/",
+  "metrics_endpoint": "http://43.228.214.219:9615/metrics",
+  "id": "0713d4df-0d65-4a48-90d3-6d38bfe1299f"
+}
