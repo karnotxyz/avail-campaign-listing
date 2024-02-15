@@ -1,0 +1,8 @@
+{
+  "name": "INERASABLENODE3",
+  "logo": "https://ibb.co/NK4Lv2D",
+  "rpc_url": "http://149.102.147.96:9944",
+  "explorer_url": "http://149.102.147.96:4000",
+  "metrics_endpoint": "http://149.102.147.96:9615/metrics",
+  "id": "3acf61a1-5c2a-4f7a-9a14-a55748ffb4a1 "
+}
