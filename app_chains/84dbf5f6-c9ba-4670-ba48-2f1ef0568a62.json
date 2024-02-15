@@ -1,0 +1,8 @@
+{
+  "name": "kadal",
+  "logo": "https://r.resimlink.com/NpersYwmSXy.png",
+  "rpc_url": "http://65.21.52.164:9944",
+  "explorer_url": "http://65.21.52.164:4000",
+  "metrics_endpoint": "http://65.21.52.164:9615/metrics",
+  "id": "84dbf5f6-c9ba-4670-ba48-2f1ef0568a62"
+}
