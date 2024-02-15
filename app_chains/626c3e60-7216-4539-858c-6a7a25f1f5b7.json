@@ -1,8 +1,0 @@
-{
-  "name": "lih",
-  "logo": "https://r.resimlink.com/WHxQDnpKk.png",
-  "rpc_url": "http://158.220.86.240:9944",
-  "explorer_url": "http://158.220.86.240:4000",
-  "metrics_endpoint": "http://158.220.86.240:9615/metrics",
-  "id": "626c3e60-7216-4539-858c-6a7a25f1f5b7"
-}
