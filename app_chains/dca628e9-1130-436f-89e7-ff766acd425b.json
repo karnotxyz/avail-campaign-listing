@@ -1,0 +1,8 @@
+{
+  "name": "suntak",
+  "logo": "https://pbs.twimg.com/profile_images/1342475169353220101/QyFQGrwb_400x400.jpg",
+  "rpc_url": "http://154.53.41.197:9944",
+  "explorer_url": "http://154.53.41.197:4000",
+  "metrics_endpoint": "http://154.53.41.197:9615/metrics",
+  "id": "dca628e9-1130-436f-89e7-ff766acd425b"
+}
