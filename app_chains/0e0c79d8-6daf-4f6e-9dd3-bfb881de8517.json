@@ -1,0 +1,8 @@
+{
+  "name": "yujin",
+  "logo": "https://ibb.co/jwzcPRf",
+  "rpc_url": "http://38.242.207.81:9944",
+  "explorer_url": "http://38.242.207.81:4000",
+  "metrics_endpoint": "http://38.242.207.81:9615/metrics",
+  "id": "0e0c79d8-6daf-4f6e-9dd3-bfb881de8517"
+}
