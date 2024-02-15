@@ -1,0 +1,8 @@
+{
+  "name": "coilart",
+  "logo": "https://ibb.co/z738rhX",
+  "rpc_url": "http://167.235.199.133:9944",
+  "explorer_url": "http://167.235.199.133:4000",
+  "metrics_endpoint": "http://167.235.199.133:9615/metrics",
+  "id": "393266df-932e-4796-b36c-40c38ef2e8b7"
+}
