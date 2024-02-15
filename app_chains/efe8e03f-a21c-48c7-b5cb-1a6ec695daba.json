@@ -1,0 +1,8 @@
+{
+  "name": "incesu",
+  "logo": "https://ibb.co/Kz8W59X",
+  "rpc_url": "http://192.168.244.172:9944",
+  "explorer_url": "http://192.168.244.172:4000",
+  "metrics_endpoint": "http://192.168.244.172:9615/metrics",
+  "id": "efe8e03f-a21c-48c7-b5cb-1a6ec695daba"
+}
