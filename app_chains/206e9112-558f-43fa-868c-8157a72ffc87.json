@@ -1,0 +1,8 @@
+{
+  "name": "validatornvv",
+  "logo": "https://r.resimlink.com/06hLtBDNO.png",
+  "rpc_url": "http://37.60.246.253:9944",
+  "explorer_url": "http://37.60.246.253:4000",
+  "metrics_endpoint": "http://37.60.246.253:9615/metrics",
+  "id": "206e9112-558f-43fa-868c-8157a72ffc87"
+}

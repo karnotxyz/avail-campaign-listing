@@ -1,0 +1,8 @@
+{
+  "name": "thyrssa",
+  "logo": "https://media.sketchfab.com/models/658ef8b949c4447681fff2c8df965fc4/thumbnails/5311057e472848d2a814bce710a86e65/ff26bbf283bf49d3accf284d5443d0ed.jpeg",
+  "rpc_url": "http://64.225.53.166:9944",
+  "explorer_url": "http://64.225.53.166:4000",
+  "metrics_endpoint": "http://64.225.53.166:9615/metrics",
+  "id": "964cd7bf-8a73-4d93-86b0-c0d44c67cdb2"
+}
