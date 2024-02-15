@@ -1,0 +1,8 @@
+{
+  "name": "etra",
+  "logo": "https://i.hizliresim.com/q4cjaxq.png",
+  "rpc_url": "http://64.23.128.90:9944",
+  "explorer_url": "http://64.23.128.90:4000",
+  "metrics_endpoint": "http://64.23.128.90:9615/metrics",
+  "id": "72b9cf35-8772-4012-ad57-1a553275ae18"
+}
