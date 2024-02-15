@@ -2,7 +2,7 @@
   "name": "jackid",
   "logo": "https://postimg.cc/TKHsnjL9",
   "rpc_url": "http://146.190.138.181:9944",
-  "explorer_url": "146.190.138.181:4000",
-  "metrics_endpoint": "146.190.138.181:9615/metrics",
+  "explorer_url": "http://146.190.138.181:4000",
+  "metrics_endpoint": "http://146.190.138.181:9615/metrics",
   "id": "97a10023-b717-4f04-9e6b-58859d8bbef1"
 }
