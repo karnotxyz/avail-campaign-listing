@@ -1,8 +1,8 @@
 {
-  "name": "quizmaster",
-  "logo": "https://i.ibb.co/DGd4ht0/logo.png",
-  "rpc_url": "http://84.247.131.20:9944",
-  "explorer_url": "http://84.247.131.20:4000",
-  "metrics_endpoint": "http://84.247.131.20:9615/metrics",
-  "id": "df9513d3-0f3e-4f9f-87db-d98168d35ec2"
+	"name": "quizmaster",
+	"logo": "https://i.ibb.co/DGd4ht0/logo.png",
+	"rpc_url": "http://84.247.131.20:9944",
+	"explorer_url": "http://84.247.131.20:4000",
+	"metrics_endpoint": "http://84.247.131.20:9615/metrics",
+	"id": "df9513d3-0f3e-4f9f-87db-d98168d35ec2"
 }
