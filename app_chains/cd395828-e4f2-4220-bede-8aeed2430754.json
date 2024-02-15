@@ -1,0 +1,9 @@
+{
+    "name": "doraemon",
+    "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/nakoturk_2567-1/logos/nakoturk_2567-1.png",
+    "rpc_url": "https://m1.doraemonkasunio.xyz",
+    "explorer_url": "https://m3.doraemonkasunio.xyz/",
+    "metrics_endpoint": "https://m2.doraemonkasunio.xyz/metrics",
+    "id": "cd395828-e4f2-4220-bede-8aeed2430754"
+  }
+  
