@@ -1,0 +1,8 @@
+{
+  "name": "Akisanor",
+  "logo": "https://i.pinimg.com/564x/9e/c5/ab/9ec5ab6dbe349a8855f7d112bb620deb.jpg",
+  "rpc_url": "http://167.86.68.210:9944",
+  "explorer_url": "http://167.86.68.210:4000",
+  "metrics_endpoint": "http://167.86.68.210:9615/metrics",
+  "id": "021bfc7d-a8fa-4f8f-b6e0-73b57ffa9dca"
+}
