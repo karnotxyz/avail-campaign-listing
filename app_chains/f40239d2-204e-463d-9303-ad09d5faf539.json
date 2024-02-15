@@ -1,0 +1,8 @@
+{
+  "name": "ebogaz",
+  "logo": "https://r.resimlink.com/cHVj4W.png",
+  "rpc_url": "http://209.105.242.169:9944",
+  "explorer_url": "http://209.105.242.169:4000",
+  "metrics_endpoint": "http://209.105.242.169/metrics",
+  "id": "f40239d2-204e-463d-9303-ad09d5faf539"
+}
