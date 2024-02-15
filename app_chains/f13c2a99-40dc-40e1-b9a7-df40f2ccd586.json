@@ -1,0 +1,8 @@
+{
+  "name": "aghamasmass",
+  "logo": "https://i.ibb.co/VM5C3h2/Token-Hedge-1.png",
+  "rpc_url": "http://34.145.58.20:9944",
+  "explorer_url": "http://34.145.58.20:4000",
+  "metrics_endpoint": "http://34.145.58.20:9615/metrics",
+  "id": "000170c5-5bce-41a2-8e97-e128f1d7781a"
+}
