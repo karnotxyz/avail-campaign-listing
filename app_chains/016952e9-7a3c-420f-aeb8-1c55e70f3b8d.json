@@ -1,0 +1,8 @@
+{
+  "name": "xxxyiyi",
+  "logo": "https://imgur.com/0dNWPTs.png",
+  "rpc_url": "http://34.141.56.58:9944",
+  "explorer_url": "http://34.141.56.58:4000",
+  "metrics_endpoint": "http://34.141.56.58:9615/metrics",
+  "id": "016952e9-7a3c-420f-aeb8-1c55e70f3b8d"
+}

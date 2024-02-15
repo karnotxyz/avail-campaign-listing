@@ -1,0 +1,8 @@
+{
+  "name": "worichers",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://35.227.102.111:9944",
+  "explorer_url": "http://35.227.102.111:4000",
+  "metrics_endpoint": "http://35.227.102.111:9615/metrics",
+  "id": "88e30875-1775-4e4b-a92d-7e32d73cc4b1"
+}

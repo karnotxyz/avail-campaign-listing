@@ -1,0 +1,8 @@
+{
+  "name": "itconfig110",
+  "logo": "https://add.pics/images/2024/02/08/66b28635a4ebb340b1d2085adaf6071f.png",
+  "rpc_url": "http://43.156.32.76:9944",
+  "explorer_url": "http://43.156.32.76:4000",
+  "metrics_endpoint": "http://43.156.32.76:9615/metrics",
+  "id": "3a7384f9-a4bf-4b0f-acbe-1d60e3132655"
+}

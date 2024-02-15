@@ -1,0 +1,8 @@
+{
+  "name": "gerenimo",
+  "logo": "https://r.resimlink.com/36pLGB-N.png",
+  "rpc_url": "http://65.21.1.105:9944",
+  "explorer_url": "http://65.21.1.105:4000",
+  "metrics_endpoint": "http://65.21.1.105:9615/metrics",
+  "id": "45d99711-3b69-4e52-b511-4dc86c711e77"
+}

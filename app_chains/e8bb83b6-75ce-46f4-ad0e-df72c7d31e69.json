@@ -1,0 +1,8 @@
+{
+  "name": "diplikuyu",
+  "logo": "https://i.imgur.com/2ETwEcT.jpeg",
+  "rpc_url": "http://161.97.175.83:9944",
+  "explorer_url": "http://161.97.175.83:4000",
+  "metrics_endpoint": "http://161.97.175.83:9615/metrics",
+  "id": "e8bb83b6-75ce-46f4-ad0e-df72c7d31e69"
+}

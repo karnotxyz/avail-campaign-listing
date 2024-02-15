@@ -1,0 +1,8 @@
+{
+  "name": "revenge",
+  "logo": "https://s2.loli.net/2024/02/06/uWNJDgF7LXAQHVa.jpg",
+  "rpc_url": "http://87.248.130.175:9944",
+  "explorer_url": "http://87.248.130.175:4000",
+  "metrics_endpoint": "http://87.248.130.175:9615/metrics",
+  "id": "78931675-83d0-4779-909a-11e1f7aa91a3"
+}

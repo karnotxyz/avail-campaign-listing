@@ -1,0 +1,8 @@
+{
+  "name": "genesis",
+  "logo": "https://imgur.com/Zbw6KKK.jpg",
+  "rpc_url": "http://31.220.98.26:9944",
+  "explorer_url": "http://31.220.98.26:4000",
+  "metrics_endpoint": "http://31.220.98.26:9615/metrics",
+  "id": "16c06ec3-2d8b-466c-92c2-b5cead7c7860"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "lifegood",
+  "logo": "https://i.postimg.cc/RVjBz5TF/bfdb442290295c770538.jpg",
+  "rpc_url": "http://173.249.54.239:9944",
+  "explorer_url": "http://173.249.54.239:4000",
+  "metrics_endpoint": "http://173.249.54.239:9615/metrics",
+  "id": "83fdf44d-b1a1-4146-9b8b-f8c9822499c9"
+}

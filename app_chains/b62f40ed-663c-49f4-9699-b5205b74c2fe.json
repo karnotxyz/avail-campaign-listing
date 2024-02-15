@@ -1,0 +1,8 @@
+{
+  "name": "thonguyen",
+  "logo": "https://i.imgur.com/16z6Lp1.jpeg",
+  "rpc_url": "http://161.97.149.123:9944",
+  "explorer_url": "http://161.97.149.123:4000",
+  "metrics_endpoint": "http://161.97.149.123:9615/metrics",
+  "id": "b62f40ed-663c-49f4-9699-b5205b74c2fe"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SiBujank",
+  "logo": "https://seomuda.id/wp-content/uploads/2017/04/handshake-icon-19-1.png",
+  "rpc_url": "http://161.97.137.69:9944",
+  "explorer_url": "http://161.97.137.69:4000",
+  "metrics_endpoint": "http://161.97.137.69:9615/metrics",
+  "id": "330680e9-d299-4872-a8e9-70c958785abe"
+}

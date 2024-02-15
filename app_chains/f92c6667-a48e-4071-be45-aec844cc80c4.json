@@ -1,0 +1,8 @@
+{
+  "name": "kiriigami",
+  "logo": "https://i.ibb.co/gRD6Br3/kiriii-Photo.png",
+  "rpc_url": "http://173.249.1.70:9944",
+  "explorer_url": "http://173.249.1.70:4000",
+  "metrics_endpoint": "http://173.249.1.70:9615/metrics",
+  "id": "f92c6667-a48e-4071-be45-aec844cc80c4"
+}

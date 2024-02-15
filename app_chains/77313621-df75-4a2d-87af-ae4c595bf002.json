@@ -1,0 +1,8 @@
+{
+  "name": "stronghold",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/87922204/303287193-ceba0c62-9c17-45e4-92aa-938e02f09c26.png",
+  "rpc_url": "http://49.12.60.35:9944",
+  "explorer_url": "http://49.12.60.35:4000",
+  "metrics_endpoint": "http://49.12.60.35:9615/metrics",
+  "id": "77313621-df75-4a2d-87af-ae4c595bf002"
+}

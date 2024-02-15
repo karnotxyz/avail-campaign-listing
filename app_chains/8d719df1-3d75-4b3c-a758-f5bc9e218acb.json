@@ -1,0 +1,8 @@
+{
+  "name": "mahsa",
+  "logo": "https://i.ibb.co/1934KNc/IMG-20240211-032824-504.jpg",
+  "rpc_url": "http://65.109.206.27:9944",
+  "explorer_url": "http://65.109.206.27:4000",
+  "metrics_endpoint": "http://65.109.206.27:9615/metrics",
+  "id": "8d719df1-3d75-4b3c-a758-f5bc9e218acb"
+}

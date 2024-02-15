@@ -1,0 +1,8 @@
+{
+  "name": "frognode",
+  "logo": "https://i.imgur.com/clgAnBt.png",
+  "rpc_url": "http://45.41.206.153:9944",
+  "explorer_url": "http://45.41.206.153:4000",
+  "metrics_endpoint": "http://45.41.206.153:9615/metrics",
+  "id": "9cf84bdc-8bb3-466e-ac85-484034c66def"
+}

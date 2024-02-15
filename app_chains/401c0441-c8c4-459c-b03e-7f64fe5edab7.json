@@ -1,0 +1,8 @@
+{
+  "name": "toojee",
+  "logo": "https://ibb.co/PF3YKbJ",
+  "rpc_url": "http://38.242.141.191:9944",
+  "explorer_url": "http://38.242.141.191:4000",
+  "metrics_endpoint": "http://38.242.141.191:9615/metrics",
+  "id": "401c0441-c8c4-459c-b03e-7f64fe5edab7"
+}

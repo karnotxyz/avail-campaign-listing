@@ -1,0 +1,8 @@
+{
+  "name": "ghent",
+  "logo": "https://i.imgur.com/7yxlHje.jpg",
+  "rpc_url": "http://167.172.47.63:9944",
+  "explorer_url": "http://167.172.47.63:4000",
+  "metrics_endpoint": "http://167.172.47.63:9615/metrics",
+  "id": "31560014-d25c-4d25-b242-c7d499a1fc56"
+}
