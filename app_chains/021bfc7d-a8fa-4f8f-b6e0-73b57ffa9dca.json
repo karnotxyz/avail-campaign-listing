@@ -1,0 +1,8 @@
+{
+  "name": "Akisanor",
+  "logo": "https://ibb.co/4YRtbYq",
+  "rpc_url": "http://167.86.68.210:9944",
+  "explorer_url": "http://167.86.68.210:4000",
+  "metrics_endpoint": "http://167.86.68.210:9615/metrics",
+  "id": "021bfc7d-a8fa-4f8f-b6e0-73b57ffa9dca"
+}
