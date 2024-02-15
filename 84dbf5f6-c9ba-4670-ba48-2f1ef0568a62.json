@@ -1,0 +1,8 @@
+{
+  "name": "bekasi",
+  "logo": "https://r.resimlink.com/NpersYwmSXy.png",
+  "rpc_url": "http://65.21.52.164:9944",
+  "explorer_url": "http://65.21.52.164:4000",
+  "metrics_endpoint": "http://65.21.52.164:9615/metrics",
+  "id": "e547a68e-454f-4d38-bd1a-1278f2382b83"
+}
