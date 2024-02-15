@@ -1,0 +1,8 @@
+{
+  "name": "canpazarcikli",
+  "logo": "https://placehold.co/400x400.png?text=CAN",
+  "rpc_url": "http://158.220.102.222:9944",
+  "explorer_url": "http://158.220.102.222:4000",
+  "metrics_endpoint": "http://158.220.102.222:9615/metrics",
+  "id": "15531008-ec53-4034-a6e2-f8a3d0c64314"
+}
