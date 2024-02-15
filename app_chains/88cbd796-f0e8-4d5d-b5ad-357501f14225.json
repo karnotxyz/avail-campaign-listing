@@ -1,0 +1,8 @@
+{
+  "name": "yujinNode",
+  "logo": "https://ibb.co/syjXbwr",
+  "rpc_url": "http://38.242.207.81:9944",
+  "explorer_url": "http://38.242.207.81:4000",
+  "metrics_endpoint": "http://38.242.207.81:9615/metrics",
+  "id": "88cbd796-f0e8-4d5d-b5ad-357501f14225"
+}
