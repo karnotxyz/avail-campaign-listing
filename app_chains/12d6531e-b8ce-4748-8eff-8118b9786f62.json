@@ -1,0 +1,8 @@
+{
+  "name": "astinus-madara",
+  "logo": "https://hizliresim.com/njld3jv",
+  "rpc_url": "http://65.108.150.66:9944",
+  "explorer_url": "http://65.108.150.66:4000",
+  "metrics_endpoint": "http://65.108.150.66:9615/metrics",
+  "id": "12d6531e-b8ce-4748-8eff-8118b9786f62"
+}
