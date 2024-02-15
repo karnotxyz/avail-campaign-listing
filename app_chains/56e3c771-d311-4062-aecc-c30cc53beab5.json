@@ -1,0 +1,8 @@
+{
+  "name": "jaedeuk",
+  "logo": "https://ibb.co/wNN9V9F",
+  "rpc_url": "http://37.60.246.222:9944",
+  "explorer_url": "http://37.60.246.222:4000",
+  "metrics_endpoint": "http://37.60.246.222:9615/metrics",
+  "id": "56e3c771-d311-4062-aecc-c30cc53beab5"
+}
