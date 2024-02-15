@@ -1,0 +1,8 @@
+{
+  "name": "Mavail",
+  "logo": "httpss://ibb.co/xLf9C4r",
+  "rpc_url": "https://37.60.241.202:9944",
+  "explorer_url": "https://37.60.241.202:4000",
+  "metrics_endpoint": "https://37.60.241.202:9615/metrics",
+  "id": "054e2357-1027-4a54-af1c-2e1e89a05f18"
+}
