@@ -1,0 +1,8 @@
+{
+  "isim" : " kaanappchain " ,
+  "logo" : " https://r.resimlink.com/m3ahKLwrPx.pn " ,
+  "rpc_url" : " http://65.109.227.116:9944 " ,
+  "explorer_url" : " http://65.109.227.116:4000 " ,
+  "metrics_endpoint" : " http://65.109.227.116:9615/metrics " ,
+  "kimlik" : " 0d104a27-084b-4639-abdd-cbb83a1a63b2 "
+}
