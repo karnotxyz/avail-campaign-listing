@@ -1,0 +1,8 @@
+{
+  "name": "jembutkucing",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/9a04d7cda4c4a052a99fccd9332207b56613a002/devnet/jembutkucing_9748260-1/logos/jembutkucing_9748260-1.png",
+  "rpc_url": "http://136.243.105.186:9944",
+  "explorer_url": "http://136.243.105.186:4000",
+  "metrics_endpoint": "http://136.243.105.186:9615/metrics",
+  "id": "0bff35bc-7ddf-40d9-995c-c8031186e9ad"
+}
