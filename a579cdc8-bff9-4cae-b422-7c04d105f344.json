@@ -1,0 +1,8 @@
+{
+  "name": "LeslieSmal85524",
+  "logo": "https://i.imgur.com/L9eHMdJ.jpeg",
+  "rpc_url": "http://137.184.184.9:9944",
+  "explorer_url": "http://137.184.184.9:4000",
+  "metrics_endpoint": "http://137.184.184.9:9615/metrics",
+  "id": "a579cdc8-bff9-4cae-b422-7c04d105f344"
+}
