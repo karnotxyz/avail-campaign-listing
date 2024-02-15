@@ -1,0 +1,8 @@
+{
+"name": "mantac",
+"logo": "https://r.resimlink.com/P0aob9GceKS2.png",
+"rpc_url": "http://86.48.1.233:9944",
+"explorer_url": "http://86.48.1.233:4000",
+"metrics_endpoint": "http://86.48.1.233:9615/metrics",
+"id": "410614e5-c649-43e1-82c5-5cd81b09eb7d"
+}
