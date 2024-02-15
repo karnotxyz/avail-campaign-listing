@@ -1,0 +1,8 @@
+{
+  "name": "obenkz",
+  "logo": "https://raw.githubusercontent.com/frankienguyen13/NFTMinting/main/vault.png",
+  "rpc_url": "http://46.250.233.216:9944",
+  "explorer_url": "http://46.250.233.216:4000",
+  "metrics_endpoint": "http://46.250.233.216:9615/metrics",
+  "id": "50c4b96f-1486-4db9-a0b9-621211105b4f"
+}
