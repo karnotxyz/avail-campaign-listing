@@ -1,0 +1,8 @@
+{
+  "name": "lexuantruong",
+  "logo": "https://i.ibb.co/BTCpvhh/18.png",
+  "rpc_url": "http://173.249.20.237:9944",
+  "explorer_url": "http://173.249.20.237:4000",
+  "metrics_endpoint": "http://173.249.20.237:9615/metrics",
+  "id": "279d4300-aa55-4bdf-b803-26fd00108f6c"
+}
