@@ -1,0 +1,8 @@
+{
+  "name": "lukatada",
+  "logo": "https://lukatada.s3.af-south-1.amazonaws.com/frog",
+  "rpc_url": "http://213.136.90.205:9944",
+  "explorer_url": "http://213.136.90.205:4000",
+  "metrics_endpoint": "http://213.136.90.205:9615/metrics",
+  "id": "4cad16ed-ad66-43b0-aabc-c7073ea987a1"
+}
