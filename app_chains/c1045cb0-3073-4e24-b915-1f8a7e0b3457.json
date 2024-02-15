@@ -1,0 +1,8 @@
+{
+  "name": "Earem",
+  "logo": "https://i.ibb.co/RSWc046/9c54f8b0-4497-4ad2-ba77-de547edd9dd9.jpg",
+  "rpc_url": "http://64.23.158.216:9944",
+  "explorer_url": "http://64.23.158.216:4000",
+  "metrics_endpoint": "http://64.23.158.216:9615/metrics",
+  "id": "c1045cb0-3073-4e24-b915-1f8a7e0b3457"
+}
