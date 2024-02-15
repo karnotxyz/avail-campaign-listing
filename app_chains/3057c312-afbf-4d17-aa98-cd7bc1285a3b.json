@@ -1,0 +1,8 @@
+{
+  "name": "shimla",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/burcukale_4112966-1/logos/burcukale_4112966-1.png.png",
+  "rpc_url": "https://m1.shimlaji.xyz",
+  "explorer_url": "https://m3.shimlaji.xyz",
+  "metrics_endpoint": "https://m2.shimlaji.xyz/metrics",
+  "id": "3057c312-afbf-4d17-aa98-cd7bc1285a3b"
+}
