@@ -1,0 +1,8 @@
+{
+  "name": "pasargad",
+  "logo": "https://r.resimlink.com/0wuW7ViPgB_G.png",
+  "rpc_url": "http://89.106.206.202:9944",
+  "explorer_url": "http://89.106.206.202:4000",
+  "metrics_endpoint": "http://89.106.206.202:9615/metrics",
+  "id": "56ea145a-a551-4f88-982c-14a3297cd8d2"
+}

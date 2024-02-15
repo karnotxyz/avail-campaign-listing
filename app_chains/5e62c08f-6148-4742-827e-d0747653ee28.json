@@ -1,0 +1,8 @@
+{
+  "name": "0xmashiro",
+  "logo": "https://i.ibb.co/4PVHYX9/0x-Mashiro.png",
+  "rpc_url": "http://74.235.92.92:9944",
+  "explorer_url": "http://74.235.92.92:4000",
+  "metrics_endpoint": "http://74.235.92.92:9615/metrics",
+  "id": "5e62c08f-6148-4742-827e-d0747653ee28"
+}
