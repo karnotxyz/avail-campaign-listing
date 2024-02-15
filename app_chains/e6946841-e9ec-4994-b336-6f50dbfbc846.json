@@ -1,8 +1,8 @@
 {
-  "name": "casbolat",
-  "logo": "https://r.resimlink.com/WRSqGDsjCgY.png",
-  "rpc_url": "http://65.109.3.252:9944",
-  "explorer_url": "http://65.109.3.252:4000",
-  "metrics_endpoint": "http://65.109.3.252:9615/metrics",
-  "id": "e6946841-e9ec-4994-b336-6f50dbfbc846"
-}
+    "name": "casbolat",
+    "logo": "https://r.resimlink.com/WRSqGDsjCgY.png",
+    "rpc_url": "http://65.109.3.252:9944",
+    "explorer_url": "http://65.109.3.252:4000",
+    "metrics_endpoint": "http://65.109.3.252:9615",
+    "id": "e6946841-e9ec-4994-b336-6f50dbfbc846"
+  }
