@@ -1,0 +1,8 @@
+{
+  "name": "shahin",
+  "logo": "https://r.resimlink.com/FrSfH.jpg",
+  "rpc_url": "http://89.106.206.45:9944",
+  "explorer_url": "http://89.106.206.45:4000",
+  "metrics_endpoint": "http://89.106.206.45:9615/metrics",
+  "id": "a1a4cb69-4cf0-4238-840e-e6de9f33e61a"
+}
