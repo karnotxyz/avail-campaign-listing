@@ -1,9 +1,8 @@
 {
-    "name": "deku",
-    "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/makima_1317-1/logos/makima_1317-1.png",
-    "rpc_url": "https://m1.deku99.xyz",
-    "explorer_url": "https://m3.deku99.xyz/",
-    "metrics_endpoint": "https://m2.deku99.xyz/metrics",
-    "id": "5d851801-58d8-4549-a694-81b309f280c2"
-  }
-  
+  "name": "deku",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/makima_1317-1/logos/makima_1317-1.png",
+  "rpc_url": "https://m1.deku99.xyz",
+  "explorer_url": "https://m3.deku99.xyz/",
+  "metrics_endpoint": "https://m2.deku99.xyz/metrics",
+  "id": "5d851801-58d8-4549-a694-81b309f280c2"
+}
