@@ -1,0 +1,8 @@
+{
+  "name": "flora",
+  "logo": "https://r.resimlink.com/ZLnsFk.png",
+  "rpc_url": "http://46.250.236.32:9944",
+  "explorer_url": "http://46.250.236.32:4000",
+  "metrics_endpoint": "http://46.250.236.32:9615/metrics",
+  "id": "7e6534d5-0ebb-4b0e-a6ee-be90d8101ab1"
+}
