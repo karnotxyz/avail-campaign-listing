@@ -1,0 +1,8 @@
+{
+  "name": "glmsr",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://62.171.176.118:9944",
+  "explorer_url": "62.171.176.118:4000",
+  "metrics_endpoint": "62.171.176.118:9615/metrics",
+  "id": "712bb82f-1827-430b-bc61-03750adc07f4"
+}
