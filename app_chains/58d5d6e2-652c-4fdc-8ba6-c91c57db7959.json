@@ -1,0 +1,8 @@
+{
+  "name": "kangps",
+  "logo": "https://ibb.co/xF2B7cT",
+  "rpc_url": "159.69.107.225:9944",
+  "explorer_url": "159.69.107.225:4000",
+  "metrics_endpoint": "159.69.107.225:9615/metrics",
+  "id": "58d5d6e2-652c-4fdc-8ba6-c91c57db7959"
+}
