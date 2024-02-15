@@ -1,0 +1,8 @@
+{
+  "name": "tyson",
+  "logo": "https://r.resimlink.com/cfIseiajXOVA.png",
+  "rpc_url": "http://108.181.165.63:9944",
+  "explorer_url": "http://108.181.165.63:4000",
+  "metrics_endpoint": "http://108.181.165.63:9615/metrics",
+  "id": "2a044541-82ee-47fb-9e86-11c9dac43207"
+}
