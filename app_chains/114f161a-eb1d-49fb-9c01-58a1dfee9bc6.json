@@ -1,0 +1,8 @@
+{
+  "name": "bombay",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/mahofnew_5998349-1/logos/mahofnew_5998349-1.jpg",
+  "rpc_url": "https://m1.bombaydrove.xyz",
+  "explorer_url": "https://m3.bombaydrove.xyz/",
+  "metrics_endpoint": "https://m2.bombaydrove.xyz/metrics",
+  "id": "114f161a-eb1d-49fb-9c01-58a1dfee9bc6"
+}
