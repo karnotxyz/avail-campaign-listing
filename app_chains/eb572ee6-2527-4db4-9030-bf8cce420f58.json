@@ -1,0 +1,8 @@
+{
+  "name": "emirx",
+  "logo": "https://r.resimlink.com/xdT6j8MK.png",
+  "rpc_url": "http://49.13.128.123:9944",
+  "explorer_url": "http://49.13.128.123:4000",
+  "metrics_endpoint": "http://49.13.128.123:9615/metrics",
+  "id": "eb572ee6-2527-4db4-9030-bf8cce420f58 "
+}
