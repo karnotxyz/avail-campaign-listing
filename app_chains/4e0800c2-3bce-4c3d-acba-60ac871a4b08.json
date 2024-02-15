@@ -1,0 +1,8 @@
+{
+  "name": "mehrshaad369",
+  "logo": "https://r.resimlink.com/fshGjqm2Pb.png",
+  "rpc_url": "http://46.249.102.28:9944",
+  "explorer_url": "http://46.249.102.28:4000",
+  "metrics_endpoint": "http://46.249.102.28:9615/metrics",
+  "id": "4e0800c2-3bce-4c3d-acba-60ac871a4b08"
+}
