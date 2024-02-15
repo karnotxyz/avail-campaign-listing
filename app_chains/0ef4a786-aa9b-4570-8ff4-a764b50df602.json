@@ -1,0 +1,8 @@
+{
+  "name": "Askerchain",
+  "logo": "https://i.ibb.co/hKB48L3/5f0d1a22b69b82e496dcc8ef40c5834b.jpg",
+  "rpc_url": "http://173.249.1.230:9944",
+  "explorer_url": "http://173.249.1.230:4000",
+  "metrics_endpoint": "http://173.249.1.230:9615/metrics",
+  "id": "0ef4a786-aa9b-4570-8ff4-a764b50df602"
+}
