@@ -1,0 +1,8 @@
+{
+  "name": "cryptoworld",
+  "logo": "https://r.resimlink.com/GPbdil.png",
+  "rpc_url": "http://34.16.155.111:9944",
+  "explorer_url": "http://34.16.155.111:4000",
+  "metrics_endpoint": "http://34.16.155.111:9615/metrics",
+  "id": "c834b13b-10cb-4702-8d7c-d3792743d832"
+}
