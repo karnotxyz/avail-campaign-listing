@@ -1,0 +1,8 @@
+{
+  "name": "vini",
+  "logo": "https://i.im.ge/2024/02/14/cWHwmX.imresizer-1707920131914.png",
+  "rpc_url": "http://161.97.83.189:9944",
+  "explorer_url": "http://161.97.83.189:4000",
+  "metrics_endpoint": "http://161.97.83.189:9615/metrics",
+  "id": "6b755327-71ce-4335-a545-8f21a96da0b8"
+}
