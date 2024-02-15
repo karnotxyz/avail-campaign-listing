@@ -1,0 +1,8 @@
+{
+  "name": "xinxon",
+  "logo": "https://hlkvrl.github.io/testnet.github.io/f2tgaf2.png",
+  "rpc_url": "http://http://173.212.192.134/:9944",
+  "explorer_url": "http://173.212.192.134:4000",
+  "metrics_endpoint": "http://173.212.192.134:9615/metrics",
+  "id": "67e99b4e-b798-48bf-a8fb-9176f9ca5450"
+}
