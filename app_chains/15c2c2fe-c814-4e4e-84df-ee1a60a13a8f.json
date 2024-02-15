@@ -1,0 +1,8 @@
+{
+  "name": "ertzm",
+  "logo": "https://r.resimlink.com/-rVgRp1_.jpg",
+  "rpc_url": "https://194.163.188.207:9944",
+  "explorer_url": "https://194.163.188.207:4000",
+  "metrics_endpoint": "https://194.163.188.207:9615",
+  "id": "15c2c2fe-c814-4e4e-84df-ee1a60a13a8f"
+}
