@@ -1,0 +1,8 @@
+{
+  "name":"lilpompa",
+  "logo":"https://r.resimlink.com/Rqytk.png",
+  "rpc_url":"http://37.60.244.39:9944",
+  "explorer_url":"http://37.60.244.39:4000",
+  "metrics_endpoint":"http://37.60.244.39:9615/metrics/metrics",
+  "id":"63e07cd5-f7ff-4163-bb51-6402d9dd7582"
+}
