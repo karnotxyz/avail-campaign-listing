@@ -1,0 +1,8 @@
+{
+  "name": "zynp",
+  "logo": "https://r.resimlink.com/dVcOyj.png",
+  "rpc_url": "http://170.64.192.105:9944",
+  "explorer_url": "http://170.64.192.105:4000",
+  "metrics_endpoint": "http://170.64.192.105:9615/metrics",
+  "id": "a1ee9d21-1f55-48bf-b4a1-c29809ad7829"
+}
