@@ -1,0 +1,8 @@
+{
+    "name": "cryptosamz",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/86057027/304912240-c30ef82a-b6ba-4fc5-ab1c-80667e4abce2.png",
+    "rpc_url": "https://45.87.43.198:9944",
+    "explorer_url": "https://45.87.43.198:4000",
+    "metrics_endpoint": "https://45.87.43.198:9615/metrics",
+    "id": "6ac3162c-1190-4645-bfee-5a625faf485e"
+  }
