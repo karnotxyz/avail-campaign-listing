@@ -1,6 +1,6 @@
 {
   "name": "dzeko",
-  "logo": "https://r.resimlink.com/w0DEub8H.png ,
+  "logo": "https://r.resimlink.com/w0DEub8H.png",
   "rpc_url": "http://109.123.241.57:9944",
   "explorer_url": "http://109.123.241.57:4000",
   "metrics_endpoint": "http://109.123.241.57:9615/metrics",
