@@ -1,0 +1,8 @@
+{
+  "name": "ChainFluxHub",
+  "logo": "https://i.ibb.co/kmK5NgN/hd-restoration-result-image.png",
+  "rpc_url": "http://8.138.118.79:9944",
+  "explorer_url": "http://8.138.118.79:4000",
+  "metrics_endpoint": "http://8.138.118.79:9615/metrics",
+  "id": "2c859770-166e-438a-847e-f2ef48b2e95e"
+}
