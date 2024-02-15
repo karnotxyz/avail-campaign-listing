@@ -1,0 +1,8 @@
+{
+  "name": "mabool",
+  "logo": "https://i.imgur.com/L9eHMdJ.jpeg",
+  "rpc_url": "http://95.217.239.10//:9944",
+  "explorer_url": "http://95.217.239.10/:4000",
+  "metrics_endpoint": "http://95.217.239.10:9615/metrics",
+  "id": "b2a14c97-a075-4d7c-a12d-e47f340d3286"
+}
