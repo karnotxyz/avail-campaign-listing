@@ -1,0 +1,8 @@
+{
+  "name": "mantac",
+  "logo": "https://im.ge/i/czNVMG",
+  "rpc_url": "http://ipv4:9944",
+  "explorer_url": "http://ipv4:4000",
+  "metrics_endpoint": "http://ipv4:9615/metrics",
+  "id": "e8ebae58-661b-4170-9774-c2d9a70cc29f"
+}
