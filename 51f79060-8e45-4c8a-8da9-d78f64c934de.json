@@ -1,0 +1,8 @@
+{
+  "name": "singgih",
+  "logo": "https://ibb.co/6gQZ2X6",
+  "rpc_url": "http://164.90.155.39:9944",
+  "explorer_url": "http://164.90.155.39:4000",
+  "metrics_endpoint": "http://164.90.155.39:9615/metrics",
+  "id": "51f79060-8e45-4c8a-8da9-d78f64c934de"
+}
