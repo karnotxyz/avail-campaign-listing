@@ -1,0 +1,8 @@
+{
+  "name": "HECMAN",
+  "logo": "https://i.im.ge/2024/02/11/cAPEOq.HECMAN.jpg",
+  "rpc_url": "http://164.92.78.171:9944",
+  "explorer_url": "http://164.92.78.171:4000",
+  "metrics_endpoint": "http://164.92.78.171:9615/metrics",
+  "id": "4d285435-7e29-42b7-a090-d68495cf23db"
+}

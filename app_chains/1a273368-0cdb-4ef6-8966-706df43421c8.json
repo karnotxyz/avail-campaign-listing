@@ -1,0 +1,8 @@
+{
+  "name": "Rohat",
+  "logo": "https://i.imgur.com/TRd4eBK.png",
+  "rpc_url": "http://159.69.87.241:9944",
+  "explorer_url": "http://159.69.87.241:4000",
+  "metrics_endpoint": "http://159.69.87.241:9615/metrics",
+  "id": "1a273368-0cdb-4ef6-8966-706df43421c8"
+}

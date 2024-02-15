@@ -1,0 +1,8 @@
+{
+  "name": "mehmetxh",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/mehmetxh_5708076-1/logos/mehmetxh_5708076-1.jpg?raw=true",
+  "rpc_url": "http://147.182.146.85:9944",
+  "explorer_url": "http://147.182.146.85:4000",
+  "metrics_endpoint": "http://147.182.146.85:9615/metrics",
+  "id": "47765c86-59b4-40ba-8a6d-d58653ec8cf0"
+}

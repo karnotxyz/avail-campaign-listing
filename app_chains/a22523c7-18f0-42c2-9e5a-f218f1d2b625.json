@@ -1,0 +1,8 @@
+{
+  "name": "Campnode",
+  "logo": "https://i.imgur.com/uywUanS.png",
+  "rpc_url": "http://37.27.42.101:9944",
+  "explorer_url": "http://37.27.42.101:4000",
+  "metrics_endpoint": "http://37.27.42.101:9615/metrics",
+  "id": "a22523c7-18f0-42c2-9e5a-f218f1d2b625"
+}

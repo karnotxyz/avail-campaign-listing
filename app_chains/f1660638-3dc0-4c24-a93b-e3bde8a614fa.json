@@ -1,0 +1,8 @@
+{
+  "name": "FrostByte",
+  "logo": "https://i.ibb.co/9V3Njph/Frost-Byte.png",
+  "rpc_url": "http://173.249.7.58:9944",
+  "explorer_url": "http://173.249.7.58:4000",
+  "metrics_endpoint": "http://173.249.7.58:9615/metrics",
+  "id": "f1660638-3dc0-4c24-a93b-e3bde8a614fa"
+}

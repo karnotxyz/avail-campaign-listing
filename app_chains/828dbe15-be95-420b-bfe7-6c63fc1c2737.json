@@ -1,0 +1,8 @@
+{
+  "name": "xnodeer",
+  "logo": "https://i.ibb.co/871xBHQ/xnode-9840667-1.png",
+  "rpc_url": "http://95.111.248.207:9944",
+  "explorer_url": "http://95.111.248.207:4000",
+  "metrics_endpoint": "http://95.111.248.207:9615/metrics",
+  "id": "828dbe15-be95-420b-bfe7-6c63fc1c2737"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "nonoao",
+  "logo": "https://i.imgur.com/3cs571J.jpeg",
+  "rpc_url": "http://175.178.244.96:9944",
+  "explorer_url": "http://175.178.244.96:4000",
+  "metrics_endpoint": "http://175.178.244.96:9615/metrics",
+  "id": "b1c0bf1d-b295-4df1-8dcc-59003cf7921a"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Tokyo",
+  "logo": "https://r.resimlink.com/mqEP4VXiNDs_.jpg",
+  "rpc_url": "http://49.12.60.40:9944",
+  "explorer_url": "http://49.12.60.40:4000",
+  "metrics_endpoint": "http://49.12.60.40:9615/metrics",
+  "id": "65832ee5-ecc5-4c41-aae5-90d06fdc0393"
+}

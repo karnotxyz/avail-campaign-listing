@@ -1,0 +1,8 @@
+{
+  "name": "farfar",
+  "logo": "https://i.im.ge/2024/02/02/bxvpY0.400x400.png",
+  "rpc_url": "http://49.12.58.119:9944",
+  "explorer_url": "http://49.12.58.119:4000",
+  "metrics_endpoint": "http://49.12.58.119:9615/metrics",
+  "id": "b9eb29d8-fc9b-41ff-82b4-27e2f1573997"
+}

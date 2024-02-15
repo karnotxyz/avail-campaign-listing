@@ -1,0 +1,8 @@
+{
+  "name": "konoha",
+  "logo": "https://i.ibb.co/p4hfLcz/unnamed-1.png",
+  "rpc_url": "http://5.189.184.180:9944",
+  "explorer_url": "http://5.189.184.180:4000",
+  "metrics_endpoint": "http://5.189.184.180:9615/metrics",
+  "id": "61d6b87c-c8a9-48b4-acd9-c12b7b6aea8d"
+}
