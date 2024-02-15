@@ -1,0 +1,8 @@
+{
+  "name": "mascook",
+  "logo": "https://raw.githubusercontent.com/0xMirza/Eigen-stuff/main/mascook.png",
+  "rpc_url": "http://84.247.177.136:9944",
+  "explorer_url": "http://84.247.177.136:4000",
+  "metrics_endpoint": "http://84.247.177.136:9615/metrics",
+  "id": "a32bfa8f-d945-436e-b412-1abdd1516919"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "asm",
+  "logo": "https://r.resimlink.com/eJukS.png",
+  "rpc_url": "http://194.120.116.149:9944",
+  "explorer_url": "http://194.120.116.149:4000",
+  "metrics_endpoint": "http://194.120.116.149:9615/metrics",
+  "id": "36d9905b-153b-4367-85cc-2791729c2ef4"
+}

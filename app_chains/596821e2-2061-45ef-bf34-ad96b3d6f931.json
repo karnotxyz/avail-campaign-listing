@@ -1,0 +1,8 @@
+{
+  "name": "Bluebird",
+  "logo": "https://i.imgur.com/HW3FD9x.jpeg",
+  "rpc_url": "http://128.199.150.152:9944",
+  "explorer_url": "http://128.199.150.152:4000",
+  "metrics_endpoint": "http://128.199.150.152:9615/metrics",
+  "id": "596821e2-2061-45ef-bf34-ad96b3d6f931"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "leonmadara",
+  "logo": "https://ibb.co/dbygqV4",
+  "rpc_url": "http://14.169.122.44:9944",
+  "explorer_url": "http://14.169.122.44:4000",
+  "metrics_endpoint": "http://14.169.122.44:9615/metrics",
+  "id": "a2e38a9e-6dfe-47cc-a222-4ac6b5b4160f"
+}

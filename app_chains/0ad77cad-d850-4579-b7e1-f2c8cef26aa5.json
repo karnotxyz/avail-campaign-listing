@@ -1,0 +1,8 @@
+{
+  "name": "heycrypto",
+  "logo": "",
+  "rpc_url": "http://62.171.190.155:9944",
+  "explorer_url": "http://62.171.190.155:4000",
+  "metrics_endpoint": "http://62.171.190.155:9615/metrics",
+  "id": "0ad77cad-d850-4579-b7e1-f2c8cef26aa5"
+}

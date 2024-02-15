@@ -1,0 +1,8 @@
+{
+  "name": "kevil",
+  "logo": "https://i.ibb.co/LzVcV4L/96668b1e-e0ff-47f3-9d06-ad2b9c5ebe1f.jpg",
+  "rpc_url": "http://95.216.217.177:9944",
+  "explorer_url": "http://95.216.217.177:4000",
+  "metrics_endpoint": "http://95.216.217.177:9615/metrics",
+  "id": "0fea6f5f-7b8d-4f00-b95b-5b90f3415f66"
+}

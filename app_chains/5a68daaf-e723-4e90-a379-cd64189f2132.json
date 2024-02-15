@@ -1,0 +1,8 @@
+{
+  "name": "<auin>",
+  "logo": "<https://imgur.com/a/hR0ZYvi>",
+  "rpc_url": "http://129.226.91.19:9944",
+  "explorer_url": "http://129.226.91.19:4000",
+  "metrics_endpoint": "http://129.226.91.19:9615/metrics",
+  "id": "5a68daaf-e723-4e90-a379-cd64189f2132"
+}
