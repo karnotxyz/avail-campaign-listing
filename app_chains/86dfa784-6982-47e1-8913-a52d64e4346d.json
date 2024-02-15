@@ -1,0 +1,8 @@
+{
+  "name": "rajvaih",
+  "logo": "https://i.ibb.co/j5FfSZd/user.png",
+  "rpc_url": "http://5.189.160.169:9944",
+  "explorer_url": "http://5.189.160.169:4000",
+  "metrics_endpoint": "http://5.189.160.169:9615/metrics",
+  "id": "86dfa784-6982-47e1-8913-a52d64e4346d"
+}
