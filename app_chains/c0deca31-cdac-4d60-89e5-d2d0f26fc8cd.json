@@ -1,0 +1,8 @@
+{
+  "name": "Marduk-Avail",
+  "logo": "https://r.resimlink.com/PXZbAmprtg.jpeg",
+  "rpc_url": "http://164.92.253.17:9944",
+  "explorer_url": "http://164.92.253.17:4000",
+  "metrics_endpoint": "http://164.92.253.17:9615/metrics",
+  "id": "c0deca31-cdac-4d60-89e5-d2d0f26fc8cd"
+}

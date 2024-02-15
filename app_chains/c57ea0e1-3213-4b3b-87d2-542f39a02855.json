@@ -1,0 +1,8 @@
+{
+  "name": "pkura6403",
+  "logo": "https://i.imgur.com/oOp4pjN.jpg",
+  "rpc_url": "http://95.216.213.104:9944",
+  "explorer_url": "http://95.216.213.104:4000",
+  "metrics_endpoint": "http://95.216.213.104:9615/metrics",
+  "id": "c57ea0e1-3213-4b3b-87d2-542f39a02855"
+}

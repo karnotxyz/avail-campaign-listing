@@ -1,0 +1,8 @@
+{
+  "name": "fukuyama",
+  "logo": "https://i.imgur.com/YxwHLuq.png",
+  "rpc_url": "http://37.27.33.115:9944",
+  "explorer_url": "http://37.27.33.115:4000",
+  "metrics_endpoint": "http://37.27.33.115:9615/metrics",
+  "id": "8ef06eb2-75e3-454b-bd5d-f2291d8cf57a"
+}

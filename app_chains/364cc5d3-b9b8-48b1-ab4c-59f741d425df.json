@@ -1,0 +1,8 @@
+{
+  "name": "CoinStudioApp",
+  "logo": "https://im.ge/i/bu7BDK",
+  "rpc_url": "http://65.108.155.76:9944",
+  "explorer_url": "http://65.108.155.76:4000",
+  "metrics_endpoint": "http://65.108.155.76:9615/metrics",
+  "id": "364cc5d3-b9b8-48b1-ab4c-59f741d425df"
+}

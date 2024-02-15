@@ -1,0 +1,8 @@
+{
+  "name": "hrzaree",
+  "logo": "https://r.resimlink.com/6zFLRtMu.jpg",
+  "rpc_url": "http://159.69.239.9:9944",
+  "explorer_url": "http://159.69.239.9:4000",
+  "metrics_endpoint": "http://159.69.239.9:9615/metrics",
+  "id": "8cab20c1-c58a-458f-bc96-7cc464d2f000"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "richboys",
+  "logo": "https://ibb.co/LvqRdC8",
+  "rpc_url": "http://45.195.200.244:9944",
+  "explorer_url": "http://45.195.200.244:4000",
+  "metrics_endpoint": "http://45.195.200.244:9615/metrics",
+  "id": "168af4a7-e1d1-4a89-9112-b53c24008ec7"
+}

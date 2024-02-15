@@ -1,0 +1,8 @@
+{
+  "name": "dakochan",
+  "logo": "https://avatars.githubusercontent.com/u/57892740",
+  "rpc_url": "http://173.212.236.7:9944",
+  "explorer_url": "http://173.212.236.7:4000",
+  "metrics_endpoint": "http://173.212.236.7:9615/metrics",
+  "id": "600b1906-b0ce-4392-a6fb-8eb61edaac7a"
+}

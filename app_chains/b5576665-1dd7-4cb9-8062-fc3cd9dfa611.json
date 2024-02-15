@@ -1,0 +1,8 @@
+{
+  "name": "bedrock",
+  "logo": "https://imgur.com/PpyOeKk.jpg",
+  "rpc_url": "http://84.247.179.126:9944",
+  "explorer_url": "http://84.247.179.126:4000",
+  "metrics_endpoint": "http://84.247.179.126:9615/metrics",
+  "id": "b5576665-1dd7-4cb9-8062-fc3cd9dfa611"
+}

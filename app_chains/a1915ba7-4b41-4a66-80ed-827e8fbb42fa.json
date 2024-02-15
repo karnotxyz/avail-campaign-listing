@@ -1,0 +1,8 @@
+{
+  "name": "Mischiio-chain",
+  "logo": "https://www.mischiio.xyz/static/manz.png",
+  "rpc_url": "http://209.126.82.143:9944",
+  "explorer_url": "http://209.126.82.143:4000",
+  "metrics_endpoint": "http://209.126.82.143:9615/metrics",
+  "id": "a1915ba7-4b41-4a66-80ed-827e8fbb42fa"
+}

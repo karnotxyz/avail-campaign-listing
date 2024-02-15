@@ -1,0 +1,8 @@
+{
+  "name": "zacnider",
+  "logo": "https://im.ge/i/c64fSF",
+  "rpc_url": "http://193.164.4.181:9944",
+  "explorer_url": "http://193.164.4.181:4000",
+  "metrics_endpoint": "http://193.164.4.181:9615/metrics",
+  "id": "cc63cb14-fb5c-489d-a8c8-9057b3bbcad2"
+}

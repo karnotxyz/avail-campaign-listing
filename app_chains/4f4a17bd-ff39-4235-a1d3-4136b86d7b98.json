@@ -1,0 +1,8 @@
+{
+  "name": "Perceptron",
+  "logo": "https://i.imgur.com/z8Hprvn.jpeg",
+  "rpc_url": "http://43.228.214.124:9944",
+  "explorer_url": "http://43.228.214.124:4000",
+  "metrics_endpoint": "http://43.228.214.124:9615/metrics",
+  "id": "4f4a17bd-ff39-4235-a1d3-4136b86d7b98"
+}

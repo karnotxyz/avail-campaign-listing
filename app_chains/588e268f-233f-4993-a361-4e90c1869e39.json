@@ -1,0 +1,8 @@
+{
+  "name": "eldermajestic",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/4c172ef0c90e4edb56cb71fa4500a5cc3f79f7d1/devnet/elder_8833954-1/logos/elder_8833954-1.png",
+  "rpc_url": "http://217.76.52.191:9944",
+  "explorer_url": "http://217.76.52.191:4000",
+  "metrics_endpoint": "http://217.76.52.191:9615/metrics",
+  "id": "588e268f-233f-4993-a361-4e90c1869e39"
+}

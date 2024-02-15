@@ -1,0 +1,8 @@
+{
+  "name": "rindchav1",
+  "logo": "http://43.134.127.22/logo.jpg",
+  "rpc_url": "http://43.134.127.22:9944",
+  "explorer_url": "http://43.134.127.22:4000",
+  "metrics_endpoint": "http://43.134.127.22:9615/metrics",
+  "id": "e67f29dd-daba-4bcb-bd04-1673a6a8b1e2"
+}

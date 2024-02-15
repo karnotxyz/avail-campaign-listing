@@ -1,0 +1,8 @@
+{
+  "name": "erickun",
+  "logo": "https://i.postimg.cc/RCkmQ2Wr/pepe.jpg",
+  "rpc_url": "http://185.163.116.139:9944",
+  "explorer_url": "http://185.163.116.139:4000",
+  "metrics_endpoint": "http://185.163.116.139:9615/metrics",
+  "id": "7c7b0d92-c650-488d-93e5-a22c2295e997"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "frinchity",
+  "logo": "https://i.imgur.com/bXQtFOF.png",
+  "rpc_url": "http://84.247.133.41:9944",
+  "explorer_url": "http://84.247.133.41:4000",
+  "metrics_endpoint": "http://84.247.133.41:9615/metrics",
+  "id": "705cc859-a1ef-496a-8bfa-850880e8ecb3"
+}

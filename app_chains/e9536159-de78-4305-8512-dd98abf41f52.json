@@ -1,0 +1,8 @@
+{
+  "name": "catapultxyz",
+  "logo": "https://raw.githubusercontent.com/gehpisikedi/carspeed/main/logo1.png",
+  "rpc_url": "http://116.203.111.16:9944",
+  "explorer_url": "http://116.203.111.16:4000",
+  "metrics_endpoint": "http://116.203.111.16:9615/metrics",
+  "id": "e9536159-de78-4305-8512-dd98abf41f52"
+}

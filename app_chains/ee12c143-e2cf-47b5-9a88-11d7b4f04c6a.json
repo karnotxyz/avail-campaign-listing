@@ -1,0 +1,8 @@
+{
+  "name": "byakuya",
+  "logo": "https://r.resimlink.com/g15AW.png",
+  "rpc_url": "http://65.21.2.128:9944",
+  "explorer_url": "http://65.21.2.128:4000",
+  "metrics_endpoint": "http://65.21.2.128:9615/metrics",
+  "id": "ee12c143-e2cf-47b5-9a88-11d7b4f04c6a"
+}

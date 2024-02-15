@@ -1,0 +1,8 @@
+{
+  "name": "ertuval",
+  "logo": "https://r.resimlink.com/841yxJR.png",
+  "rpc_url": "http://81.0.249.135:9944",
+  "explorer_url": "http://81.0.249.135:4000",
+  "metrics_endpoint": "http://81.0.249.135:9615/metrics",
+  "id": "ef546fd9-7895-451d-917f-93c4c7606aae"
+}

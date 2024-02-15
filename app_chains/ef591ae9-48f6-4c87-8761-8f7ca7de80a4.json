@@ -1,0 +1,8 @@
+{
+  "name": "oku1747",
+  "logo": "https://r.resimlink.com/p9FOy.jpg",
+  "rpc_url": "http://109.123.230.52:9944",
+  "explorer_url": "http://109.123.230.52:4000",
+  "metrics_endpoint": "http://109.123.230.52:9615/metrics",
+  "id": "ef591ae9-48f6-4c87-8761-8f7ca7de80a4"
+}

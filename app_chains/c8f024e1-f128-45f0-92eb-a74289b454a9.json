@@ -1,0 +1,8 @@
+{
+  "name": "lodestar",
+  "logo": "https://raw.githubusercontent.com/Cooops/notes/master/28xp-pepefrog-superJumbo.jpg",
+  "rpc_url": "http://146.190.137.35:9944",
+  "explorer_url": "http://146.190.137.35:4000",
+  "metrics_endpoint": "http://146.190.137.35:9615/metrics",
+  "id": "c8f024e1-f128-45f0-92eb-a74289b454a9"
+}

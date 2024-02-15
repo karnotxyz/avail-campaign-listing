@@ -1,0 +1,8 @@
+{
+  "name": "madara-cryptopakz",
+  "logo": "https://github.com/iPakz/madara-cryptopakz/blob/main/rocket.png",
+  "rpc_url": "http://158.220.108.30:9944",
+  "explorer_url": "http://158.220.108.30:4000",
+  "metrics_endpoint": "http://158.220.108.30:9615/metrics",
+  "id": "3e548d99-117f-4e94-a90f-ebe9e9bba0a9"
+}

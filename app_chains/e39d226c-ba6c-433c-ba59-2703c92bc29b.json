@@ -1,0 +1,8 @@
+{
+  "name": "FEKUmadara",
+  "logo": "https://raw.githubusercontent.com/FEKUUUU/feku-madara/4d41d0b691ecf96fda5341d38d8250026e038577/FEKU.png",
+  "rpc_url": "http://84.247.184.45:9944",
+  "explorer_url": "http://84.247.184.45:4000",
+  "metrics_endpoint": "http://84.247.184.45:9615/metrics",
+  "id": "e39d226c-ba6c-433c-ba59-2703c92bc29b"
+}

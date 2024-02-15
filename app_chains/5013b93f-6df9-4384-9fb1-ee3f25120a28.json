@@ -1,0 +1,8 @@
+{
+  "name": "Deeneme",
+  "logo": "https://i.imgur.com/NPsO0AO.png",
+  "rpc_url": "http://146.190.167.193:9944",
+  "explorer_url": "http://146.190.167.193:4000",
+  "metrics_endpoint": "http://146.190.167.193:9615/metrics",
+  "id": "5013b93f-6df9-4384-9fb1-ee3f25120a28"
+}

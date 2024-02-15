@@ -1,0 +1,8 @@
+{
+  "name": "Tosco",
+  "logo": "https://placehold.co/400x400/grey/blue?text=Tosco&font=roboto",
+  "rpc_url": "http://162.213.199.2:9944",
+  "explorer_url": "http://162.213.199.2:4000",
+  "metrics_endpoint": "http://162.213.199.2:9615/metrics",
+  "id": "da5166a5-347d-4fe5-9129-8f75d341c35a"
+}

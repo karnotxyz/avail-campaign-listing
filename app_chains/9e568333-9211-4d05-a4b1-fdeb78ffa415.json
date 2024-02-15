@@ -1,0 +1,8 @@
+{
+  "name": "kerembaba",
+  "logo": "https://r.resimlink.com/7HQiCr.png",
+  "rpc_url": "http://143.198.238.219:9944",
+  "explorer_url": "http://143.198.238.219:4000",
+  "metrics_endpoint": "http://143.198.238.219:9615/metrics",
+  "id": "9e568333-9211-4d05-a4b1-fdeb78ffa415"
+}

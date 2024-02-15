@@ -1,0 +1,8 @@
+{
+  "name": "tr3mm",
+  "logo": "https://r.resimlink.com/OCfmZMhEQ.png",
+  "rpc_url": "http://35.234.113.157:9944",
+  "explorer_url": "http://35.234.113.157:4000",
+  "metrics_endpoint": "http://35.234.113.157:9615/metrics",
+  "id": "5413a932-e620-45af-80e8-db56dfbb8bf9"
+}
