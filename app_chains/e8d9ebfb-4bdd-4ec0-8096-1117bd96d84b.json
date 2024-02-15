@@ -1,0 +1,8 @@
+{
+  "name": "aquarin",
+  "logo": "https://i.ibb.co/z6w50SM/label-Logo.webp",
+  "rpc_url": "http://37.60.241.1:9944",
+  "explorer_url": "http://37.60.241.1:4000",
+  "metrics_endpoint": "http://37.60.241.1:9615/metrics",
+  "id": "e8d9ebfb-4bdd-4ec0-8096-1117bd96d84b"
+}
