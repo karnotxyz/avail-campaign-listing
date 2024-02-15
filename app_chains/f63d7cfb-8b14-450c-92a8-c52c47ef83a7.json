@@ -1,0 +1,8 @@
+{
+  "name": "semone",
+  "logo": "https://r.resimlink.com/Bu5hsXdG7l.png",
+  "rpc_url": "http://37.60.251.112:9944",
+  "explorer_url": "http://37.60.251.112:4000",
+  "metrics_endpoint": "http://37.60.251.112:9615/metrics",
+  "id": "f63d7cfb-8b14-450c-92a8-c52c47ef83a7"
+}

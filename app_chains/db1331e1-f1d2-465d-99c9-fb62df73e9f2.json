@@ -1,0 +1,8 @@
+{
+  "name": "babakdefi",
+  "logo": "https://r.resimlink.com/jTgHyzn72Ys.png",
+  "rpc_url": "http://49.12.60.243:9944",
+  "explorer_url": "http://49.12.60.243:4000",
+  "metrics_endpoint": "http://49.12.60.243:9615/metrics",
+  "id": "db1331e1-f1d2-465d-99c9-fb62df73e9f2"
+}

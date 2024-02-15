@@ -1,0 +1,8 @@
+{
+  "name": "osimato",
+  "logo": "https://raw.githubusercontent.com/tbal1907/logos/main/1.png",
+  "rpc_url": "http://37.60.226.115:9944",
+  "explorer_url": "http://37.60.226.115:4000",
+  "metrics_endpoint": "http://37.60.226.115:9615/metrics",
+  "id": "4459ec30-6c64-4a09-bb47-0a17134d4f0d"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gisseer",
+  "logo": "http://43.155.174.99/static/img/gisseer.png",
+  "rpc_url": "http://43.155.174.99:9944",
+  "explorer_url": "http://43.155.174.99:4000",
+  "metrics_endpoint": "http://43.155.174.99:9615/metrics",
+  "id": "f6f0d95e-e1dd-4f4b-af21-66c9530f7a3b"
+}

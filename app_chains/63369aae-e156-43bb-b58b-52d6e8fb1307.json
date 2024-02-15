@@ -1,0 +1,8 @@
+{
+  "name": "crazyvalidator",
+  "logo": "https://imagehst.oss-cn-hangzhou.aliyuncs.com/test/burp.jpg",
+  "rpc_url": "http://yaodongyuan.tpddns.cn:9944",
+  "explorer_url": "http://yaodongyuan.tpddns.cn:4000",
+  "metrics_endpoint": "http://yaodongyuan.tpddns.cn:9615/metrics",
+  "id": "63369aae-e156-43bb-b58b-52d6e8fb1307"
+}

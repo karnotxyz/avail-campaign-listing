@@ -1,0 +1,8 @@
+{
+  "name": "CyxelDust",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/CyxelDust.png",
+  "rpc_url": "http://43.130.34.68:9944",
+  "explorer_url": "http://43.130.34.68:4000",
+  "metrics_endpoint": "http://43.130.34.68:9615/metrics",
+  "id": "01ff512b-0260-46b0-9aaf-80fe56267d61"
+}

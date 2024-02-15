@@ -1,0 +1,8 @@
+{
+  "name": "xrami",
+  "logo": "https://ibb.co/4F5WXHt",
+  "rpc_url": "http://38.242.143.171:9944",
+  "explorer_url": "http://38.242.143.171:4000",
+  "metrics_endpoint": "http://38.242.143.171:9615/metrics",
+  "id": "f6b60d7b-3e35-4921-a57d-d7e5ec00a28f"
+}

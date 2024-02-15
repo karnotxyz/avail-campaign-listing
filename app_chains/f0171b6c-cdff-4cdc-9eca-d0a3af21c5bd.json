@@ -1,0 +1,8 @@
+{
+  "name": "tuanphamit",
+  "logo": "https://i.imgur.com/T8lnRgn.png",
+  "rpc_url": "http://185.217.125.110:9944",
+  "explorer_url": "http://185.217.125.110:4000",
+  "metrics_endpoint": "http://185.217.125.110:9615/metrics",
+  "id": "f0171b6c-cdff-4cdc-9eca-d0a3af21c5bd"
+}

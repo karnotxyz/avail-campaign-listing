@@ -1,0 +1,8 @@
+{
+  "name": "ccgop",
+  "logo": "https://i.postimg.cc/jqznXnzs/2024-02-12-133612.png",
+  "rpc_url": "http://173.212.230.147:9944",
+  "explorer_url": "http://173.212.230.147:4000",
+  "metrics_endpoint": "http://173.212.230.147:9615/metrics",
+  "id": "54e95f63-9c59-45ec-b8de-b4459723cdcf"
+}

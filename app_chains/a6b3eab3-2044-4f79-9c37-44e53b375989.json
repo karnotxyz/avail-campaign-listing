@@ -1,0 +1,8 @@
+{
+  "name": "ronse",
+  "logo": "https://i.imgur.com/rUB2HDM.png",
+  "rpc_url": "http://206.189.54.48:9944",
+  "explorer_url": "http://206.189.54.48:4000",
+  "metrics_endpoint": "http://206.189.54.48:9615/metrics",
+  "id": "a6b3eab3-2044-4f79-9c37-44e53b375989"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "isko351",
+  "logo": "https://r.resimlink.com/teJ80.png",
+  "rpc_url": "http://173.249.50.146:9944",
+  "explorer_url": "http://173.249.50.146:4000",
+  "metrics_endpoint": "http://173.249.50.146:9615/metrics",
+  "id": "a7c462ab-de77-4d23-8d20-e0ef3e7780cd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "manwemadara",
+  "logo": "https://r.resimlink.com/BwUs6E.jpg",
+  "rpc_url": "http://65.21.52.99:9944",
+  "explorer_url": "http://65.21.52.99:4000",
+  "metrics_endpoint": "http://65.21.52.99:9615/metrics",
+  "id": "3b5378d7-64f5-4f63-a01e-b10c284559ca"
+}
