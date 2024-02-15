@@ -1,0 +1,8 @@
+{
+  "name": "incesu",
+  "logo": "https://r.resimlink.com/diMo1mxbpnSz.jpg",
+  "rpc_url": "http://161.97.161.255:9944",
+  "explorer_url": "http://161.97.161.255:4000",
+  "metrics_endpoint": "http://161.97.161.255:9615/metrics",
+  "id": "65d31e6c-bdb5-491d-b66c-0332928eeb85"
+}
