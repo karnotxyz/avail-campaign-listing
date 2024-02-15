@@ -1,0 +1,8 @@
+{
+  "name": "consult",
+  "logo": "https://placehold.co/600x400?text=Hello+World",
+  "rpc_url": "http://144.91.69.201:9944",
+  "explorer_url": "http://144.91.69.201:4000",
+  "metrics_endpoint": "http://144.91.69.201:9615/metrics",
+  "id": "3449e57a-4afd-49fa-85a0-a070758f4be2"
+}
