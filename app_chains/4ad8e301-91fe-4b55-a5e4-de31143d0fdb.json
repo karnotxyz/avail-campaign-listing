@@ -1,0 +1,8 @@
+{
+  "name": "longlonglong",
+  "logo": "https://i.ibb.co/q7v1HpW/cover.jpg",
+  "rpc_url": "http://VPS/37.60.244.89:9944",
+  "explorer_url": "http://VPS/37.60.244.89:4000",
+  "metrics_endpoint": "http://VPS/37.60.244.89:9615/metrics",
+  "id": "4ad8e301-91fe-4b55-a5e4-de31143d0fdb"
+}
