@@ -1,0 +1,8 @@
+{
+		"name": "kaancanavail",
+		"logo": "https://r.resimlink.com/m3ahKLwrPx.png",
+		"rpc_url": "http://135.181.249.132:9944",
+		"explorer_url": "http://135.181.249.132:4000",
+		"metrics_endpoint": "http://135.181.249.132:9615/metrics",
+		"id": "726a512a-7fc9-4be8-93b2-81177e495c73"
+}
