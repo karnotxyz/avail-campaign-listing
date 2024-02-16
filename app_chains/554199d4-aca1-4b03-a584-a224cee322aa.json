@@ -1,0 +1,8 @@
+{
+  "name": "吊毛",
+  "logo": "https://i.ibb.co/HFf21GY/2023-12-05-123429.png",
+  "rpc_url": "http://84.247.187.29:9944",
+  "explorer_url": "http://84.247.187.29:4000",
+  "metrics_endpoint": "http://84.247.187.29:9615/metrics",
+  "id": "554199d4-aca1-4b03-a584-a224cee322aa"
+}

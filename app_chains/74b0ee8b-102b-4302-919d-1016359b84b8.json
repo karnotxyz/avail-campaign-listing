@@ -1,0 +1,8 @@
+{
+  "name": "dosbaa",
+  "logo": "https://i.ibb.co/kHTc6bN/4113.png",
+  "rpc_url": "http://143.198.5.107:9944",
+  "explorer_url": "http://143.198.5.107:4000",
+  "metrics_endpoint": "http://143.198.5.107:9615/metrics",
+  "id": "74b0ee8b-102b-4302-919d-1016359b84b8"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Blueice",
+  "logo": "https://i.imgur.com/HW3FD9x.jpeg",
+  "rpc_url": "http://154.26.130.23:9944",
+  "explorer_url": "http://154.26.130.23:4000",
+  "metrics_endpoint": "http://154.26.130.23:9615/metrics",
+  "id": "c4b4a3f6-778c-4273-8d97-551b197de3a3"
+}

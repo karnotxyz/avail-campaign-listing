@@ -1,0 +1,8 @@
+{
+  "name": "zyzy7",
+  "logo": "https://imgur.com/ORPJSVb.png",
+  "rpc_url": "http://49.51.163.185:9944",
+  "explorer_url": "http://49.51.163.185:4000",
+  "metrics_endpoint": "http://49.51.163.185:9615/metrics",
+  "id": "387a6d7e-cad3-4419-96c0-5d4d43fcd6e5"
+}

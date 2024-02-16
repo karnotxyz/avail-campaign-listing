@@ -1,0 +1,8 @@
+{
+  "name": "edwardn26",
+  "logo": "https://img.freepik.com/free-vector/hot-dog-street-snack-isolated-transparent_107791-18353.jpg",
+  "rpc_url": "http://178.128.56.235:9944",
+  "explorer_url": "http://178.128.56.235:4000",
+  "metrics_endpoint": "http://178.128.56.235:9615/metrics",
+  "id": "882d53e4-4885-441e-97a8-ccc578a8184c"
+}
