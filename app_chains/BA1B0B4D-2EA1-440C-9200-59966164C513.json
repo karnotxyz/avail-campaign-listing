@@ -1,0 +1,8 @@
+{
+  "name": "umeMadara",
+  "logo": "https://r.resimlink.com/ryaUH4KBR.jpg",
+  "rpc_url": "http://213.136.88.100:9944",
+  "explorer_url": "http://213.136.88.100:4000",
+  "metrics_endpoint": "http://213.136.88.100:9615/metrics",
+  "id": "BA1B0B4D-2EA1-440C-9200-59966164C513"
+}
