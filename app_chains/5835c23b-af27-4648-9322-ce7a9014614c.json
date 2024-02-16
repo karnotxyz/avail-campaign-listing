@@ -1,0 +1,8 @@
+{
+  "name": "noob",
+  "logo": "https://ibb.co/xmGVfRb",
+  "rpc_url": "http://173.249.35.196:9944",
+  "explorer_url": "http://173.249.35.196:4000",
+  "metrics_endpoint": "http://173.249.35.196:9615/metrics",
+  "id": "5835c23b-af27-4648-9322-ce7a9014614c"
+}
