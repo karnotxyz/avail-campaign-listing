@@ -1,0 +1,8 @@
+{
+  "name": "veldora",
+  "logo": "https://i.imgur.com/Ld4Guu8.jpg",
+  "rpc_url": "http://128.199.112.101:9944",
+  "explorer_url": "http://128.199.112.101:4000",
+  "metrics_endpoint": "http://128.199.112.101:9615/metrics",
+  "id": "3be7d444-ab43-4447-8dad-d136eb7797f0"
+}
