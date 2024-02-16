@@ -1,0 +1,8 @@
+{
+  "name": "gilangs",
+  "logo": "https://i.ibb.co/YLngkrL/400x.jpg",
+  "rpc_url": "http://5.161.63.99:9944",
+  "explorer_url": "http://5.161.63.99:4000",
+  "metrics_endpoint": "http://5.161.63.99:9615/metrics",
+  "id": "58b7148d-7f45-4ae8-aa7a-4c08538fac03"
+}
