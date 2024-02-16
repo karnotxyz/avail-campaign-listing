@@ -1,0 +1,8 @@
+{
+  "name": "febriansyah",
+  "logo": "https://placehold.co/400x400/black/darkred?text=UNSTOP",
+  "rpc_url": "http://143.198.239.240:9944",
+  "explorer_url": "http://143.198.239.240:4000",
+  "metrics_endpoint": "http://143.198.239.240:9615/metrics",
+  "id": "6dab06b4-a3bf-4002-bc08-74ecea46a53d"
+}
