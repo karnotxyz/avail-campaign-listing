@@ -1,0 +1,8 @@
+{
+  "name": "goyang",
+  "logo": "https://i.ibb.co/18bwqtt/channels4-profile-1.jpg",
+  "rpc_url": "http://158.220.105.85:9944",
+  "explorer_url": "http://158.220.105.85:4000",
+  "metrics_endpoint": "http://158.220.105.85:9615/metrics",
+  "id": "bfce02d0-24d5-4c14-a521-7bfb9fd6cbdc"
+}
