@@ -1,0 +1,8 @@
+{
+  "name": "fidanbr",
+  "logo": "https://i.imgur.com/rynalXu.png",
+  "rpc_url": "http://159.69.35.120:9944",
+  "explorer_url": "http://159.69.35.120:4000",
+  "metrics_endpoint": "http://159.69.35.120:9615/metrics",
+  "id": "41738d5d-3705-4278-b9b0-f3042ea613ef"
+}
