@@ -1,0 +1,8 @@
+{
+    "name": "patoni",
+    "logo": "https://r.resimlink.com/4IreCc2N.jpg",
+    "rpc_url": "http://149.102.158.188:9944",
+    "explorer_url": "http://149.102.158.188:4000",
+    "metrics_endpoint": "http://149.102.158.188:9615/metrics",
+    "id": "7ff952ce-cc43-410d-a494-d11985f2d424"
+}
