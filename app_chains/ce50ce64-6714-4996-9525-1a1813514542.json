@@ -1,0 +1,8 @@
+{
+  "name": "KarenGallo45752",
+  "logo": "none",
+  "rpc_url": "http://143.198.159.10:9944",
+  "explorer_url": "http://143.198.159.10:4000",
+  "metrics_endpoint": "http://143.198.159.10:9615/metrics",
+  "id": "ce50ce64-6714-4996-9525-1a1813514542"
+}
