@@ -1,0 +1,8 @@
+{
+  "name": "coinsafety",
+  "logo": "https://im.ge/i/cJ2eT0",
+  "rpc_url": "http://137.27.17.197:9944",
+  "explorer_url": "http://37.27.17.197:4000",
+  "metrics_endpoint": "http://37.27.17.197:9615/metrics",
+  "id": "58b3d797-e6b9-4f6a-9f02-99517b37e033"
+}
