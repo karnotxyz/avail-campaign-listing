@@ -1,0 +1,8 @@
+{
+  "name": "kenyik",
+  "logo": "https://i.ibb.co/5h4K7wB/logo-avail.png",
+  "rpc_url": "http://78.47.122.190:9944",
+  "explorer_url": "http://78.47.122.190:4000",
+  "metrics_endpoint": "http://78.47.122.190:9615/metrics",
+  "id": "d1e476d9-9b39-4557-bb80-080d6722d3ef"
+}
