@@ -1,8 +1,8 @@
 {
   "name": "satovail",
   "logo": "https://firebasestorage.googleapis.com/v0/b/madara-satovail.appspot.com/o/hungry-bera-pfp1.png?alt=media&token=6612bd4a-27f8-43fe-9857-a39394d595da",
-  "rpc_url": "https://37.60.246.93:9944",
-  "explorer_url": "https://37.60.246.93:4000",
-  "metrics_endpoint": "https://37.60.246.93:9615/metrics",
+  "rpc_url": "http://37.60.246.93:9944",
+  "explorer_url": "http://37.60.246.93:4000",
+  "metrics_endpoint": "http://37.60.246.93:9615/metrics",
   "id": "b3fc2aa6-fba5-417e-8d7b-b424cd68db34"
 }
