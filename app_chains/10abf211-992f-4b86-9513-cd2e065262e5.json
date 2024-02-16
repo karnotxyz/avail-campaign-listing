@@ -1,0 +1,8 @@
+{
+  "name": "MeganHumph41964",
+  "logo": "none",
+  "rpc_url": "http://137.184.94.60:9944",
+  "explorer_url": "http://137.184.94.60:4000",
+  "metrics_endpoint": "http://137.184.94.60:9615/metrics",
+  "id": "10abf211-992f-4b86-9513-cd2e065262e5"
+}
