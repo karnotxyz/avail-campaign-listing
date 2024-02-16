@@ -1,0 +1,8 @@
+{
+  "name": "perfectethereum",
+  "logo": "https://i.imgur.com/f5DwVDT.jpeg",
+  "rpc_url": "http://20.220.141.209:9944",
+  "explorer_url": "http://20.220.141.209:4000",
+  "metrics_endpoint": "http://20.220.141.209:9615/metrics",
+  "id": "86045b75-40ea-46d5-889b-454a797f4944"
+}
