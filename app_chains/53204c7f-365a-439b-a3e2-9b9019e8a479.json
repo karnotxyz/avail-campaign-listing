@@ -1,0 +1,8 @@
+{
+  "name": "qwait",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://111.175.81.182:9944",
+  "explorer_url": "http://111.175.81.182:4000",
+  "metrics_endpoint": "http://111.175.81.182:9615/metrics",
+  "id": "53204c7f-365a-439b-a3e2-9b9019e8a479"
+}
