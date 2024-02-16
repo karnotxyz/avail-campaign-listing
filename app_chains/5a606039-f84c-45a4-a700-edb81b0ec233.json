@@ -1,0 +1,8 @@
+{
+  "name": "CrypTolga",
+  "logo": "https://i.hizliresim.com/79hlm5j.png",
+  "rpc_url": "http://89.116.30.158:9944",
+  "explorer_url": "http://89.116.30.158:4000",
+  "metrics_endpoint": "http://89.116.30.158:9615",
+  "id": "5a606039-f84c-45a4-a700-edb81b0ec233"
+}
