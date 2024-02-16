@@ -1,0 +1,8 @@
+{
+  "name": "bobby",
+  "logo": "https://i.ibb.co/QfMYDXz/IMG-20210514-014830-516.jpg",
+  "rpc_url": "http://65.108.83.54:9944",
+  "explorer_url": "http://65.108.83.54:4000",
+  "metrics_endpoint": "http://65.108.83.54:9615/metrics",
+  "id": "57708ae6-3048-4787-a446-99562b39f0d8"
+}
