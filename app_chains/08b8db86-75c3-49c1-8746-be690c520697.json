@@ -1,0 +1,8 @@
+{
+  "name": "elhamsadr",
+  "logo": "https://r.resimlink.com/FQzOcBvlR.png",
+  "rpc_url": "http://159.69.239.10:9944",
+  "explorer_url": "http://159.69.239.10:4000",
+  "metrics_endpoint": "http://159.69.239.10:9615/metrics",
+  "id": "08b8db86-75c3-49c1-8746-be690c520697"
+}
