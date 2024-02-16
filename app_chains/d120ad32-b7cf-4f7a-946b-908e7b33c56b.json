@@ -1,0 +1,8 @@
+{
+  "name": "mandarin",
+  "logo": "https://i.ibb.co.com/m8Y8HCT/mandarin.jpg",
+  "rpc_url": "http://144.76.138.156:9944",
+  "explorer_url": "http://144.76.138.156:4000/",
+  "metrics_endpoint": "http://144.76.138.156:9615/metrics",
+  "id": "d120ad32-b7cf-4f7a-946b-908e7b33c56b"
+}
