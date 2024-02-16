@@ -1,0 +1,8 @@
+{
+  "name": "buffalo",
+  "logo": "https://i.ibb.co.com/qpjVxtJ/buffalo.png",
+  "rpc_url": "http://65.21.141.117:9944",
+  "explorer_url": "http://65.21.141.117:4000/",
+  "metrics_endpoint": "http://65.21.141.117:9615/metrics",
+  "id": "e2e2f889-b0e1-4b7c-81b8-cc99d25c1a09"
+}
