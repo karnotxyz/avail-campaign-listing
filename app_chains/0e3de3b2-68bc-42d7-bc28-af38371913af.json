@@ -1,0 +1,8 @@
+{
+  "name": "kocak",
+  "logo": "https://i.imgur.com/mmQiikc.jpeg",
+  "rpc_url": "http://128.199.175.151:9944",
+  "explorer_url": "http://128.199.175.151:4000",
+  "metrics_endpoint": "128.199.175.151:9615/metrics",
+  "id": "0e3de3b2-68bc-42d7-bc28-af38371913af"
+}
