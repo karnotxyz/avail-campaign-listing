@@ -1,0 +1,8 @@
+{
+  "name": "masatoglu1",
+  "logo": "https://r.resimlink.com/FAlgj-ZQ.png",
+  "rpc_url": "http://37.60.255.33:4000",
+  "explorer_url": "http://37.60.255.33:4000/",
+  "metrics_endpoint": "http://37.60.255.33:9615/metrics",
+  "id": "42a43f03-9e88-4743-9052-01832904478b"
+}
