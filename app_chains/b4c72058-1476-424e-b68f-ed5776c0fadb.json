@@ -1,8 +1,8 @@
 {
   "name": "nnh",
   "logo": "https://r.resimlink.com/c1CSMpoO2jt3.png",
-  "rpc_url": "http://172.172.243.94:9944",
-  "explorer_url": "http://172.172.243.94:4000",
-  "metrics_endpoint": "http://172.172.243.94:9615/metrics",
+  "rpc_url": "http://158.220.86.217:9944",
+  "explorer_url": "http://158.220.86.217:4000",
+  "metrics_endpoint": "http://158.220.86.217:9615/metrics",
   "id": "b4c72058-1476-424e-b68f-ed5776c0fadb"
 }
