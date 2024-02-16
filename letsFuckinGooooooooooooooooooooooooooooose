@@ -1,7 +1,7 @@
 {
   "name": "letsFuckinGooooooooooooooooooooooooooooose",
   "logo": "https://r.resimlink.com/4N5HjXitqY.jpg",
-  "rpc_url": "185.187.170.138":9944",
+  "rpc_url": "http://185.187.170.138":9944",
   "explorer_url": "https://185.187.170.138:4000",
   "metrics_endpoint": "https://185.187.170.138:9615/metrics",
   "id": "3bd50dbb-6709-47ff-a2fd-9e3594882bfa"
