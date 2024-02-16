@@ -1,8 +1,8 @@
 {
-    "name": "gemoy",
-    "logo": "https://ibb.co/tcGJGjt",
-    "rpc_url": "http://209.145.49.133:9944",
-    "explorer_url": "http://209.145.49.133:4000",
-    "metrics_endpoint": "http://209.145.49.133:9615/metrics",
-    "id": "029cf56b-4599-4928-8cc0-051e25e18eae"
-  }
+  "name": "gemoy",
+  "logo": "https://ibb.co/tcGJGjt",
+  "rpc_url": "http://209.145.49.133:9944",
+  "explorer_url": "http://209.145.49.133:4000",
+  "metrics_endpoint": "http://209.145.49.133:9615/metrics",
+  "id": "029cf56b-4599-4928-8cc0-051e25e18eae"
+}
