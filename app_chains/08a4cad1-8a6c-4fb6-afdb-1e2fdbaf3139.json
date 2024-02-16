@@ -1,0 +1,8 @@
+{
+  "name": "vitamine",
+  "logo": "https://raw.githubusercontent.com/Salvatorenodes/logo/main/logo.png",
+  "rpc_url": "http://158.220.116.222:9944",
+  "explorer_url": "http://158.220.116.222:4000",
+  "metrics_endpoint": "http://158.220.116.222:9615/metrics",
+  "id": "08a4cad1-8a6c-4fb6-afdb-1e2fdbaf3139"
+}
