@@ -1,0 +1,8 @@
+{
+  "name": "LordSimy",
+  "logo": "https://im.ge/i/cJ2eT0",
+  "rpc_url": "http://185.182.184.75:9944",
+  "explorer_url": "http://185.182.184.75:4000",
+  "metrics_endpoint": "http://185.182.184.75:9615/metrics",
+  "id": "9807d23f-7128-4611-8cff-36c6f939c151"
+}
