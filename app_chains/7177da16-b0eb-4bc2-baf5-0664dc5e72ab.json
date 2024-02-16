@@ -1,0 +1,8 @@
+{
+  "name": "abctwo",
+  "logo": "https://i.imgur.com/GW3tnLr.jpeg",
+  "rpc_url": "http://161.97.174.35:9944",
+  "explorer_url": "http://161.97.174.35:4000",
+  "metrics_endpoint": "http://161.97.174.35:9615/metrics",
+  "id": "3be7d444-ab43-4447-8dad-d136eb7797f0"
+}
