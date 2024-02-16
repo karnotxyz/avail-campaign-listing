@@ -1,0 +1,8 @@
+{
+  "name": "mohshad",
+  "logo": "https://r.resimlink.com/J6Nnp.png",
+  "rpc_url": "http://89.117.53.12:4000",
+  "explorer_url": "http://89.117.53.12:4000/",
+  "metrics_endpoint": "http://89.117.53.12:9615/metrics",
+  "id": "b5252cb0-3b8b-4edf-89a6-fe3efdaf9f9e"
+}
