@@ -1,0 +1,8 @@
+{
+  "name": "xinxon",
+  "logo": "https://ibb.co/zh3w7sX",
+  "rpc_url": "http://173.212.192.134:9944",
+  "explorer_url": "http://173.212.192.134:4000",
+  "metrics_endpoint": "http://173.212.192.134:9615/metrics",
+  "id": "872d1b29-4472-4a8b-bd6f-e193fe369c5b"
+}
