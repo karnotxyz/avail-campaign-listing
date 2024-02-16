@@ -1,0 +1,8 @@
+{
+  "name": "kerson",
+  "logo": "https://ibb.co/sywStr9",
+  "rpc_url": "http://173.249.25.176:9944",
+  "explorer_url": "http://173.249.25.176:4000",
+  "metrics_endpoint": "http://173.249.25.176:9615/metrics",
+  "id": "72d4a385-de77-4fba-86f1-c7e756b26274"
+}
