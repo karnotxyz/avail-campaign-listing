@@ -1,0 +1,8 @@
+{
+  "name": "dgold",
+  "logo": "https://imgur.com/a/I68ydPa.png",
+  "rpc_url": "http://103.253.146.150:9944",
+  "explorer_url": "http://103.253.146.150:4000",
+  "metrics_endpoint": "http://103.253.146.150:9615/metrics",
+  "id": "0ac95425-0739-4c44-9e9d-fa1618eeeb78"
+}
