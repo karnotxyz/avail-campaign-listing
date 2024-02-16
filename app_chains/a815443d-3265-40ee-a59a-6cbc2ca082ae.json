@@ -1,0 +1,8 @@
+{
+  "name": "oguzhan2484",
+  "logo": "none",
+  "rpc_url": "http://64.23.186.192:9944",
+  "explorer_url": "http://64.23.186.192:4000",
+  "metrics_endpoint": "http://64.23.186.192:9615/metrics",
+  "id": "a815443d-3265-40ee-a59a-6cbc2ca082ae"
+}
