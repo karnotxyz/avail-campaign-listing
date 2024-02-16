@@ -1,0 +1,9 @@
+{
+  "name": "AvailADDAHub",
+  "logo": "https://r.resimlink.com/lyJP8WN7ip.jpeg",
+  "rpc_url": "http://65.109.212.240:9944",
+  "explorer_url": "http://65.109.212.240:4000",
+  "metrics_endpoint": "http://65.109.212.240:9615/metrics",
+  "id": "942775e5-f2af-4276-9188-074f891e3a24"
+}
+
