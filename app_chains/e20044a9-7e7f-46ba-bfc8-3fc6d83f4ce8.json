@@ -1,0 +1,8 @@
+{
+  "name": "hackstaff",
+  "logo": "https://r.resimlink.com/p95Oh.webp",
+  "rpc_url": "http://135.181.98.67:9944",
+  "explorer_url": "135.181.98.67:4000",
+  "metrics_endpoint": "http://135.181.98.67:9615",
+  "id": "e20044a9-7e7f-46ba-bfc8-3fc6d83f4ce8"
+}
