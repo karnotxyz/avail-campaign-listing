@@ -1,0 +1,8 @@
+{
+  "name": "floraez",
+  "logo": "https://r.resimlink.com/QCN_Tt.jpg",
+  "rpc_url": "http://46.250.236.32:9944",
+  "explorer_url": "http://46.250.236.32:4000",
+  "metrics_endpoint": "http://46.250.236.32:9615/metrics",
+  "id": "f141b021-20ec-4fd0-ab58-eba7f02dec90"
+}
