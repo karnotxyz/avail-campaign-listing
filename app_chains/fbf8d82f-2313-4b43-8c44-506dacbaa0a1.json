@@ -1,0 +1,8 @@
+{
+  "name": "LayerJawa",
+  "logo": "https://r.resimlink.com/S-fAuGH.jpg",
+  "rpc_url": "http://142.93.235.237:9944",
+  "explorer_url": "http://142.93.235.237:4000",
+  "metrics_endpoint": "http://142.93.235.237:9615/metrics",
+  "id": "fbf8d82f-2313-4b43-8c44-506dacbaa0a1"
+}
