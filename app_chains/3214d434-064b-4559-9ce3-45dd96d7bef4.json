@@ -1,0 +1,8 @@
+{
+  "name": "soberroam",
+  "logo": "https://ibb.co/LktJYgV",
+  "rpc_url": "http://64.23.165.138:9944",
+  "explorer_url": "http://64.23.165.138:4000",
+  "metrics_endpoint": "http://64.23.165.138:9615/metrics",
+  "id": "3214d434-064b-4559-9ce3-45dd96d7bef4"
+}
