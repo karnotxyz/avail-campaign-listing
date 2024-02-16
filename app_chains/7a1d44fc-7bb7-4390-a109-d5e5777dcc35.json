@@ -1,0 +1,8 @@
+{
+  "name": "adavail",
+  "logo": "https://r.resimlink.com/KNoSni24p1XV.jpg",
+  "rpc_url": "http://173.212.208.149:9944",
+  "explorer_url": "http://173.212.208.149:4000",
+  "metrics_endpoint": "http://173.212.208.149:9615/metrics",
+  "id": "7a1d44fc-7bb7-4390-a109-d5e5777dcc35"
+}
