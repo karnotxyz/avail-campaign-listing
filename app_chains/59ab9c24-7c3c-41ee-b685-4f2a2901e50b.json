@@ -1,8 +1,0 @@
-{
-  "name": "floraez",
-  "logo": "",
-  "rpc_url": "http://46.250.236.32:9944",
-  "explorer_url": "http://46.250.236.32:4000",
-  "metrics_endpoint": "http://46.250.236.32:9615/metrics",
-  "id": ""
-}
