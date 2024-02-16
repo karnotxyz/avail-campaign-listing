@@ -1,0 +1,8 @@
+{
+  "name": "satovail",
+  "logo": "https://d.kuku.lu/678zkv4gr",
+  "rpc_url": "https://37.60.246.93:9944",
+  "explorer_url": "https://37.60.246.93:4000",
+  "metrics_endpoint": "https://37.60.246.93:9615/metrics",
+  "id": "b3fc2aa6-fba5-417e-8d7b-b424cd68db34"
+}
