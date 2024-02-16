@@ -1,0 +1,8 @@
+{
+  "name": "mehtap",
+  "logo": "",
+  "rpc_url": "http://217.76.48.48:9944",
+  "explorer_url": "http://217.76.48.48:4000",
+  "metrics_endpoint": "http://217.76.48.48:9615/metrics",
+  "id": "5991e818-2fdd-4e28-953f-00fd2adf2285"
+}
