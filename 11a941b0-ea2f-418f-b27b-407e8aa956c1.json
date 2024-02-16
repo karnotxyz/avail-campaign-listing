@@ -1,0 +1,8 @@
+{
+  "name": "chnglnX",
+  "logo": "https://raw.githubusercontent.com/chngln/test-mangata/main/mXt1AMW-Q.png",
+  "rpc_url": "http://38.242.233.99:9944",
+  "explorer_url": "http://38.242.233.99:4000",
+  "metrics_endpoint": "http://38.242.233.99:9615/metrics",
+  "id": "11a941b0-ea2f-418f-b27b-407e8aa956c1"
+}
