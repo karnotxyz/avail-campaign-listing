@@ -1,0 +1,8 @@
+{
+  "name": "cahyoa",
+  "logo": "https://ibb.co/MnVjrZV",
+  "rpc_url": "http://128.199.81.105:9944",
+  "explorer_url": "http://128.199.81.105:4000",
+  "metrics_endpoint": "http://128.199.81.105:9615/metrics",
+  "id": "688138c6-d7d2-4363-9800-2ce89ba82381"
+} 
