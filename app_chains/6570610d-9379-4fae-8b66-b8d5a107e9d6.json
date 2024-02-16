@@ -1,8 +1,0 @@
-{
-  "name": "jarrrax1",
-  "logo": "https://raw.githubusercontent.com/jarrrax19/testnet/main/sei-devnet-1/loggg.jpeg",
-  "rpc_url": "http://24.199.118.126:9944",
-  "explorer_url": "http://24.199.118.126:4000",
-  "metrics_endpoint": "http://24.199.118.126:9615/metrics",
-  "id": "6570610d-9379-4fae-8b66-b8d5a107e9d6"
-}
