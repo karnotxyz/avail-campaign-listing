@@ -1,0 +1,8 @@
+{
+    "name": "thanktuzg",
+    "logo": "https://i.imgur.com/oEwfemG.png",
+    "rpc_url": "http://144.91.86.38:9944",
+    "explorer_url": "http://144.91.86.38:4000",
+    "metrics_endpoint": "http://144.91.86.38:9615/metrics",
+    "id": "9823e6ae-6d9f-4dc1-a271-5d450e4206d5"
+}
