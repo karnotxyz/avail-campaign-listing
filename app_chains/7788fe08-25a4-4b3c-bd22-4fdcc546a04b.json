@@ -1,0 +1,8 @@
+{
+  "name": "SmrtiLab",
+  "logo": "https://pbs.twimg.com/profile_images/1531249285601312772/vgcyzAk5_400x400.jpg",
+  "rpc_url": "http://3.27.125.234:9944",
+  "explorer_url": "http://3.27.125.234:4000",
+  "metrics_endpoint": "http://3.27.125.234:9615/metrics",
+  "id": "7788fe08-25a4-4b3c-bd22-4fdcc546a04b"
+}

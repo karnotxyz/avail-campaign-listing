@@ -1,0 +1,8 @@
+{
+  "name": "conich",
+  "logo": "https://r.resimlink.com/euLmg_V.png",
+  "rpc_url": "http://5.199.135.147:9944",
+  "explorer_url": "http://5.199.135.147:4000",
+  "metrics_endpoint": "http://5.199.135.147:9615/metrics",
+  "id": "4c83ca1e-f4da-4dfe-bd05-dfaf1ac98d75"
+}

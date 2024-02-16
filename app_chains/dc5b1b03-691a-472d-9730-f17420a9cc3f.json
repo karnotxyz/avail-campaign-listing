@@ -1,0 +1,8 @@
+{
+  "name": "kazmat",
+  "logo": "https://i.imgur.com/sWKx3WY.jpg",
+  "rpc_url": "http://34.42.169.185:9944",
+  "explorer_url": "http://34.42.169.185:4000",
+  "metrics_endpoint": "http://34.42.169.185:9615/metrics",
+  "id": "dc5b1b03-691a-472d-9730-f17420a9cc3f"
+}

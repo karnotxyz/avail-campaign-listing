@@ -1,0 +1,8 @@
+{
+  "name": "gebizli",
+  "logo": "",
+  "rpc_url": "http://206.189.1.192:9944",
+  "explorer_url": "http://206.189.1.192:4000",
+  "metrics_endpoint": "http://206.189.1.192:9615/metrics",
+  "id": "049af7f6-983b-41af-b607-4162b2cc7626"
+}

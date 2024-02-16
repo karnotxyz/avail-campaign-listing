@@ -1,0 +1,8 @@
+{
+  "name": "Nesocial",
+  "logo": "https://add.pics/YJSrzL",
+  "rpc_url": "http://78.46.71.227:9944",
+  "explorer_url": "http://78.46.71.227:4000",
+  "metrics_endpoint": "http://78.46.71.227:9615/metrics",
+  "id": "e1b2ee25-82ce-4b04-b3f4-a290d710f6cf"
+}

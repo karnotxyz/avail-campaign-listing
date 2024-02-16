@@ -1,0 +1,8 @@
+{
+  "name": "syafiq",
+  "logo": "https://i.imgur.com/8S3HVlD.jpeg",
+  "rpc_url": "http://139.59.241.100:9944",
+  "explorer_url": "http://139.59.241.100:4000",
+  "metrics_endpoint": "http://139.59.241.100:9615/metrics",
+  "id": "a04799bc-601e-4c13-8b55-c3f75e608e74"
+}

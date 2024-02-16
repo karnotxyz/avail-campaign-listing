@@ -1,0 +1,8 @@
+{
+  "name": "EXD",
+  "logo": "https://r.resimlink.com/nUELcxbtNFw.jpeg",
+  "rpc_url": "http://154.26.136.231:9944",
+  "explorer_url": "http://154.26.136.231:4000",
+  "metrics_endpoint": "http://154.26.136.231:9615/metrics",
+  "id": "759f01b1-80ba-429e-889a-124134077a36"
+}

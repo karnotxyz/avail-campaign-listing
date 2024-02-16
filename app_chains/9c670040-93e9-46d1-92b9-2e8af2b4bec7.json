@@ -1,0 +1,8 @@
+{
+  "name": "manes",
+  "logo": "https://ibb.co/DkMBdPp",
+  "rpc_url": "http://142.93.229.219:9944",
+  "explorer_url": "http://142.93.229.219:4000",
+  "metrics_endpoint": "http://142.93.229.219:9615/metrics",
+  "id": "9c670040-93e9-46d1-92b9-2e8af2b4bec7"
+}

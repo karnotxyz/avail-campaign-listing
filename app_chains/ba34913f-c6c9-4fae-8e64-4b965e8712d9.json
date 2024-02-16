@@ -1,0 +1,8 @@
+{
+  "name": "tryscatter",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/umbros_1188624-1/logos/umbros_1188624-1.svg",
+  "rpc_url": "https://b1.tryscatter.xyz",
+  "explorer_url": "https://b3.tryscatter.xyz",
+  "metrics_endpoint": "https://b2.tryscatter.xyz/metrics",
+  "id": "ba34913f-c6c9-4fae-8e64-4b965e8712d9"
+}

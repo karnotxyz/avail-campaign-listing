@@ -1,0 +1,8 @@
+{
+  "name": "kieucandy",
+  "logo": "https://i.imgur.com/qf4AhS4.png",
+  "rpc_url": "http://207.244.250.124:9944",
+  "explorer_url": "http://207.244.250.124:4000",
+  "metrics_endpoint": "http://207.244.250.124:9615/metrics",
+  "id": "82cd8d8b-2d63-403e-85be-a6780e4c665f"
+}

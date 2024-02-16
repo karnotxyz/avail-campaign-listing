@@ -1,0 +1,8 @@
+{
+  "name": "Solo",
+  "logo": "https://ibb.co/m9bWYdP",
+  "rpc_url": "http://37.60.252.43:9944",
+  "explorer_url": "http://37.60.252.43:4000",
+  "metrics_endpoint": "http://37.60.252.43:9615/metrics",
+  "id": "e6273b2c-d506-4cac-a5ca-f2d740d980c5"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bainpon",
+  "logo": "https://r.resimlink.com/JQPtXVbUZ9Bw.jpg",
+  "rpc_url": "http://49.12.219.116:9944",
+  "explorer_url": "http://49.12.219.116:4000",
+  "metrics_endpoint": "http://49.12.219.116:9615/metrics",
+  "id": "ae8494da-cb48-49fb-bf0c-ca737200d232"
+}

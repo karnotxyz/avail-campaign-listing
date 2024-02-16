@@ -1,0 +1,8 @@
+{
+  "name": "SA-avail",
+  "logo": "https://r.resimlink.com/Gga26yzYIZ.jpg",
+  "rpc_url": "http://146.190.231.34:9944",
+  "explorer_url": "http://146.190.231.34:4000",
+  "metrics_endpoint": "http://146.190.231.34:9615/metrics",
+  "id": "84f7a114-da0b-465c-86fb-200b6147d36f"
+}

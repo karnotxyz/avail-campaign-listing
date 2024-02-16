@@ -1,0 +1,8 @@
+{
+  "name": "garachimaru",
+  "logo": "https://i.imgur.com/u4VRzfK.jpg",
+  "rpc_url": "http://178.18.246.109:9944",
+  "explorer_url": "http://178.18.246.109:4000",
+  "metrics_endpoint": "http://178.18.246.109:9615/metrics",
+  "id": "c27e8c62-e7a7-46c7-9527-7a016182e51d"
+}

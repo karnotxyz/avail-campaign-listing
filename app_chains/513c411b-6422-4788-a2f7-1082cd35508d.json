@@ -1,0 +1,8 @@
+{
+  "name": "mbgayolo",
+  "logo": "https://i.imgur.com/x4jx0XJ.jpg",
+  "rpc_url": "http://88.198.106.35:9944",
+  "explorer_url": "http://88.198.106.35:4000",
+  "metrics_endpoint": "http://88.198.106.35:9615/metrics",
+  "id": "513c411b-6422-4788-a2f7-1082cd35508d"
+}

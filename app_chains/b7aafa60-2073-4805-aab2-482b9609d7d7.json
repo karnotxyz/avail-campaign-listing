@@ -1,0 +1,8 @@
+{
+  "name": "Kourosh_Hamdi",
+  "logo": "https://raw.githubusercontent.com/kourosh-hamdi1/Logo/main/Kourosh_Hamdi.png",
+  "rpc_url": "http://184.174.35.99:9944",
+  "explorer_url": "http://184.174.35.99:4000",
+  "metrics_endpoint": "http://184.174.35.99:9615/metrics",
+  "id": "b7aafa60-2073-4805-aab2-482b9609d7d7"
+}

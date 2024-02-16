@@ -1,0 +1,8 @@
+{
+  "name": "nhocqstyle",
+  "logo": "https://avatars.githubusercontent.com/u/85778665?v=4",
+  "rpc_url": "http://144.91.96.217:9944",
+  "explorer_url": "http://144.91.96.217:4000",
+  "metrics_endpoint": "http://144.91.96.217:9615/metrics",
+  "id": "6c582de1-5554-4601-b371-a7c86f9ae643"
+}

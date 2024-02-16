@@ -1,0 +1,8 @@
+{
+  "name": "Chino",
+  "logo": "https://i.postimg.cc/zD21hnWR/Chino.png",
+  "rpc_url": "http://43.156.183.239:9944",
+  "explorer_url": "http://43.156.183.239:4000",
+  "metrics_endpoint": "http://43.156.183.239:9615/metrics",
+  "id": "f09cb7b1-39df-45ab-823f-312a7692f914"
+}

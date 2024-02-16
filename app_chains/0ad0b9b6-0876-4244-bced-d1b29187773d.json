@@ -1,0 +1,8 @@
+{
+  "name": "sapirviven",
+  "logo": "https://i.postimg.cc/0QbcgtQW/sapirviven.png",
+  "rpc_url": "http://170.106.174.111:9944",
+  "explorer_url": "http://170.106.174.111:4000",
+  "metrics_endpoint": "http://170.106.174.111:9615/metrics",
+  "id": "0ad0b9b6-0876-4244-bced-d1b29187773d"
+}

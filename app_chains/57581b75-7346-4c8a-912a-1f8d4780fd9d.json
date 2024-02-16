@@ -1,0 +1,8 @@
+{
+  "name": "mahgerman",
+  "logo": "https://r.resimlink.com/FmSWfXbUe.jpg",
+  "rpc_url": "http://159.69.239.11:9944",
+  "explorer_url": "http://159.69.239.11:4000",
+  "metrics_endpoint": "http://159.69.239.11:9615/metrics",
+  "id": "57581b75-7346-4c8a-912a-1f8d4780fd9d"
+}

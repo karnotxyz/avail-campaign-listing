@@ -1,0 +1,8 @@
+{
+  "name": "parieali",
+  "logo": "https://r.resimlink.com/MnGX1zwL9.jpg",
+  "rpc_url": "http://49.12.56.168:9944",
+  "explorer_url": "http://49.12.56.168:4000",
+  "metrics_endpoint": "http://49.12.56.168:9615/metrics",
+  "id": "2a31251b-35d8-4dff-a100-327e11d0779a"
+}

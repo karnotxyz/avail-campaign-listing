@@ -1,0 +1,8 @@
+{
+  "name": "smartcat",
+  "logo": "https://i.ibb.co/WH5btBS/smartcat-logo.png",
+  "rpc_url": "http://65.109.181.53:9944",
+  "explorer_url": "http://65.109.181.53:4000",
+  "metrics_endpoint": "http://65.109.181.53:9615",
+  "id": "25949488-58ec-4594-b969-345958d8afad"
+}

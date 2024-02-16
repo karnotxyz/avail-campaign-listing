@@ -1,0 +1,8 @@
+{
+  "name": "sayarbilgi923",
+  "logo": "https://i.imgur.com/WHwFqi7.png",
+  "rpc_url": "http://167.235.53.68:9944",
+  "explorer_url": "http://167.235.53.68:4000",
+  "metrics_endpoint": "http://167.235.53.68:9615/metrics",
+  "id": "ec03074e-02c4-455a-9142-32451c4f0fcb"
+}
