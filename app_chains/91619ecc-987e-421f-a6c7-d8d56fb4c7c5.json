@@ -1,0 +1,8 @@
+{
+  "name": "satoshiblk",
+  "logo": "https://r.resimlink.com/47ohY_s3.png",
+  "rpc_url": "http://38.242.194.192:9944",
+  "explorer_url": "http://38.242.194.192:4000",
+  "metrics_endpoint": "http://38.242.194.192:9615/metrics",
+  "id": "91619ecc-987e-421f-a6c7-d8d56fb4c7c5"
+}
