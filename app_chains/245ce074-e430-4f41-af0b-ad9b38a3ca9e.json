@@ -1,0 +1,8 @@
+{
+  "name": "mickeymrdt",
+  "logo": "https://im.ge/i/cJqNuf",
+  "rpc_url": "http://46.250.237.29:9944",
+  "explorer_url": "http://46.250.237.29:4000",
+  "metrics_endpoint": "http://46.250.237.29:9615/metrics",
+  "id": "245ce074-e430-4f41-af0b-ad9b38a3ca9e"
+}
