@@ -1,0 +1,8 @@
+{
+    "name": "enisio48",
+    "logo": "https://r.resimlink.com/4EB3T9kh5.jpg", //
+    "rpc_url": "http://212.115.109.94:9944",
+    "explorer_url": "http://212.115.109.94:4000",
+    "metrics_endpoint": "http://212.115.109.94:9615/metrics", 
+    "id": "5656e8dc-9e5b-4f70-83be-722e841f9c9d" //
+  }
