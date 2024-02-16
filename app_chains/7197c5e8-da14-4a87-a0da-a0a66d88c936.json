@@ -1,0 +1,8 @@
+{
+  "name": "bestbnb",
+  "logo": "https://i.imgur.com/409jXKl.png",
+  "rpc_url": "http://20.220.141.23:9944",
+  "explorer_url": "http://20.220.141.23:4000",
+  "metrics_endpoint": "http://20.220.141.23:9615/metrics",
+  "id": "7197c5e8-da14-4a87-a0da-a0a66d88c936"
+}
