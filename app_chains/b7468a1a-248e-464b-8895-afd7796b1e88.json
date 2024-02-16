@@ -1,0 +1,8 @@
+{
+  "name": "collab",
+  "logo": "https://app-v2-mu.vercel.app/logo.svg",
+  "rpc_url": "http://37.60.245.149:4000",
+  "explorer_url": "http://37.60.245.149:4000/",
+  "metrics_endpoint": "http://37.60.245.149:9615/metrics",
+  "id": "b7468a1a-248e-464b-8895-afd7796b1e88"
+}
