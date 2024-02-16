@@ -1,0 +1,8 @@
+{
+  "name": "jaran",
+  "logo": "https://i.ibb.co/dgqphkp/desktop-wallpaper-horse-logo-png-clip-art-clip-art-on-clipart-library-horse-logo.jpg",
+  "rpc_url": "http://167.86.118.59:9944",
+  "explorer_url": "http://167.86.118.59:4000",
+  "metrics_endpoint": "http://167.86.118.59:9615/metrics",
+  "id": "bc8a8947-8808-412c-8282-bd474add3889"
+}
