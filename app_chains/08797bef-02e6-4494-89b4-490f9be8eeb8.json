@@ -1,8 +1,8 @@
 {
-    "name": "xinxon",
-    "logo": "https://r.resimlink.com/GPbdil.png",
-    "rpc_url": "http://173.212.192.134:9944",
-    "explorer_url": "http://173.212.192.134:4000",
-    "metrics_endpoint": "http://173.212.192.134:9615/metrics",
-    "id": "08797bef-02e6-4494-89b4-490f9be8eeb8"
+  "name": "xinxon",
+  "logo": "https://r.resimlink.com/GPbdil.png",
+  "rpc_url": "http://173.212.192.134:9944",
+  "explorer_url": "http://173.212.192.134:4000",
+  "metrics_endpoint": "http://173.212.192.134:9615/metrics",
+  "id": "08797bef-02e6-4494-89b4-490f9be8eeb8"
 }
