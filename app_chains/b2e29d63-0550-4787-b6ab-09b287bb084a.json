@@ -1,0 +1,8 @@
+{
+  "name": "snailzhoo",
+  "logo": "https://i.imgur.com/mBXmNY4.jpeg",
+  "rpc_url": "http://75.119.156.244:9944",
+  "explorer_url": "http://75.119.156.244:4000",
+  "metrics_endpoint": "http://75.119.156.244:9615/metrics",
+  "id": "b2e29d63-0550-4787-b6ab-09b287bb084a"
+}
