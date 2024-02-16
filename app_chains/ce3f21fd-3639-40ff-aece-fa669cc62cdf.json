@@ -1,0 +1,8 @@
+{
+  "name": "teapot1907",
+  "logo": "https://r.resimlink.com/HB1wJ_A9zoZI.png",
+  "rpc_url": "http://109.123.255.74:9944",
+  "explorer_url": "http://109.123.255.74:4000",
+  "metrics_endpoint": "http://109.123.255.74:9615/metrics",
+  "id": "ce3f21fd-3639-40ff-aece-fa669cc62cdf"
+}
