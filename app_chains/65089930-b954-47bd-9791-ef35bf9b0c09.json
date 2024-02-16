@@ -1,7 +1,7 @@
 {
   "name": "EGOIST",
   "logo": "https://r.resimlink.com/yzfH-v.jpg",
-  "rpc_url": "hhttp://75.119.154.56:9944",
+  "rpc_url": "http://75.119.154.56:9944",
   "explorer_url": "http://75.119.154.56:4000",
   "metrics_endpoint": "http://75.119.154.56/:9615/metrics",
   "id": "65089930-b954-47bd-9791-ef35bf9b0c09"
