@@ -1,6 +1,6 @@
  {
     "name": "NgenMadara",
-    "logo": " https://r.resimlink.com/fU24j9ck.png",
+    "logo": "https://r.resimlink.com/fU24j9ck.png",
     "rpc_url": "http://217.76.51.63:9944",
     "explorer_url": "http://217.76.51.63:4000",
     "metrics_endpoint": "http://217.76.51.63:9615/metrics",
