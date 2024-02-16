@@ -1,8 +1,8 @@
 {
-  "name": "dontstop",
-  "logo": "https://ibb.co/D5Dx9NS",
-  "rpc_url": "http://31.220.75.221:9944",
-  "explorer_url": "http://31.220.75.221:4000",
-  "metrics_endpoint": "http://31.220.75.221:9615/metrics",
-  "id": "197d8cb1-496f-48a9-9261-66fce044be28"
+    "name": "dontstop",
+    "logo": "https://ibb.co/D5Dx9NS",
+    "rpc_url": "http://31.220.75.221:9944",
+    "explorer_url": "http://31.220.75.221:4000",
+    "metrics_endpoint": "http://31.220.75.221:9615/metrics",
+    "id": "197d8cb1-496f-48a9-9261-66fce044be28"
 }
