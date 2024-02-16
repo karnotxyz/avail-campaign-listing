@@ -1,8 +1,0 @@
-{
-  "name": "runnodesorg",
-  "logo": "http://154.38.169.8/logo/runnodesorg.jpg",
-  "rpc_url": "http://154.38.169.8:9944",
-  "explorer_url": "http://154.38.169.8:4000",
-  "metrics_endpoint": "http://154.38.169.8:9615/metrics",
-  "id": "99f83771-133b-4788-a80d-7c2efbdc0217"
-}
