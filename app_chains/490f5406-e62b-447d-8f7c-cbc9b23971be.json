@@ -1,0 +1,8 @@
+{
+  "name": "Azet",
+  "logo": "https://i.imgur.com/CoJv10c.png",
+  "rpc_url": "http://146.190.59.70:9944",
+  "explorer_url": "http://146.190.59.70:4000",
+  "metrics_endpoint": "http://146.190.59.70:9615/metrics",
+  "id": "490f5406-e62b-447d-8f7c-cbc9b23971be"
+}
