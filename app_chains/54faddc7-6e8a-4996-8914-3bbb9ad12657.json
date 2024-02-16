@@ -1,0 +1,8 @@
+{
+  "name": "ceyavail",
+  "logo": "https://r.resimlink.com/-5HX1imq0Ar.jpg",
+  "rpc_url": "http://185.215.166.161:9944",
+  "explorer_url": "http://185.215.166.161:4000",
+  "metrics_endpoint": "http://185.215.166.161:9615/metrics",
+  "id": "54faddc7-6e8a-4996-8914-3bbb9ad12657"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "criminalwre",
+  "logo": "http://129.226.209.238/logo.jpg",
+  "rpc_url": "http://129.226.209.238:9944",
+  "explorer_url": "http://129.226.209.238:4000",
+  "metrics_endpoint": "http://129.226.209.238:9615/metrics",
+  "id": "61e355ea-963a-4a5d-b220-0c32bbb155fd"
+}
