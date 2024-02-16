@@ -1,0 +1,8 @@
+{
+    "name": "maku-avail",
+    "logo": "https://r.resimlink.com/dxsDOMckoUJ-.jpg",
+    "rpc_url": "http://65.109.200.4:9944",
+    "explorer_url": "http://65.109.200.4:4000",
+    "metrics_endpoint": "http://65.109.200.4:9615/metrics",
+    "id": "0a699d62-d13f-4278-b087-e8f8260d777ftr"
+  }
