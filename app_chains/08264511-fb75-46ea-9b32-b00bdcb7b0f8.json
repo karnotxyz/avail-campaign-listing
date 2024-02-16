@@ -1,0 +1,8 @@
+{
+  "name": "jarrrax19  ",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://24.199.118.126:9944",
+  "explorer_url": "http://24.199.118.126:4000",
+  "metrics_endpoint": "http://24.199.118.126:9615/metrics",
+  "id": "08264511-fb75-46ea-9b32-b00bdcb7b0f8"
+}
