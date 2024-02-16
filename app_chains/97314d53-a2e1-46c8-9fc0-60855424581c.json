@@ -1,0 +1,8 @@
+{
+  "name": "mazi",
+  "logo": "https://r.resimlink.com/CoGDWhXs6.jpg",
+  "rpc_url": "http://49.12.60.62:9944",
+  "explorer_url": "http://49.12.60.62:4000",
+  "metrics_endpoint": "http://49.12.60.62:9615/metrics",
+  "id": "97314d53-a2e1-46c8-9fc0-60855424581c"
+}

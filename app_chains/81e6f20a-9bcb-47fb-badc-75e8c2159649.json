@@ -1,0 +1,8 @@
+{
+  "name": "Sky",
+  "logo": "https://i.ibb.co/3YBxhZ6/aac485555f1149a6bf337f80593ff2f0.webp",
+  "rpc_url": "http://43.133.214.132:9944",
+  "explorer_url": "http://43.133.214.132:4000",
+  "metrics_endpoint": "http://43.133.214.132:9615/metrics",
+  "id": "81e6f20a-9bcb-47fb-badc-75e8c2159649"
+}

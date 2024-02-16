@@ -1,0 +1,8 @@
+{
+  "name": "availos",
+  "logo": "https://i.imgur.com/Y1VJncy.png",
+  "rpc_url": "http://159.223.25.43:9944",
+  "explorer_url": "http://159.223.25.43:4000",
+  "metrics_endpoint": "http://159.223.25.43:9615/metrics",
+  "id": "49338086-bdfe-4e9c-b707-dc60165b7aa6"
+}

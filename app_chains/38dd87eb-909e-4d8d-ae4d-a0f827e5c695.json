@@ -1,0 +1,8 @@
+{
+  "name": "coliva",
+  "logo": "https://r.resimlink.com/0Rvy9.png",
+  "rpc_url": "http://62.171.150.12:9944",
+  "explorer_url": "http://62.171.150.12:4000",
+  "metrics_endpoint": "http://62.171.150.12:9615/metrics",
+  "id": "38dd87eb-909e-4d8d-ae4d-a0f827e5c695"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "berrylab",
+  "logo": "https://remote-image.decentralized-content.com/image?url=https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafkreihbxcuwgvgnmxirae64g4qdzhwazm7vqrh64e2mypo5jkyc6ioejy&w=1920&q=75",
+  "rpc_url": "http://65.108.11.34:9944/",
+  "explorer_url": "http://65.108.11.34:4000/",
+  "metrics_endpoint": "http://65.108.11.34:9615/metrics",
+  "id": "6718fb7d-190f-437b-ba36-66c5eec3a471"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ahmetcan",
+  "logo": "https://raw.githubusercontent.com/nilkabak/madara/main/ahmetcannnnn.png",
+  "rpc_url": "http://5.78.74.4:9944",
+  "explorer_url": "http://5.78.74.4:4000",
+  "metrics_endpoint": "http://5.78.74.4:9615/metrics",
+  "id": "cc280955-5d42-4e63-ade9-40900fee1eed"
+}

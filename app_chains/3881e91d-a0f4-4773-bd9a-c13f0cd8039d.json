@@ -1,0 +1,8 @@
+{
+  "name": "minetotine",
+  "logo": "https://r.resimlink.com/1iLhX.jpg",
+  "rpc_url": "http://37.27.37.39:9944",
+  "explorer_url": "http://37.27.37.39:4000",
+  "metrics_endpoint": "http://37.27.37.39:9615/metrics",
+  "id": "3881e91d-a0f4-4773-bd9a-c13f0cd8039d"
+}

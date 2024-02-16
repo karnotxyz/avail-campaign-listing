@@ -1,0 +1,8 @@
+{
+  "name": "koba",
+  "logo": "https://i.ibb.co/cy3pDHH/2021-09-25-104803.png",
+  "rpc_url": "http://185.211.6.186:9944",
+  "explorer_url": "http://185.211.6.186:4000",
+  "metrics_endpoint": "http://185.211.6.186:9615/metrics",
+  "id": "baf3eaa4-0cf2-48dc-9f5a-0d0fef26cef0"
+}

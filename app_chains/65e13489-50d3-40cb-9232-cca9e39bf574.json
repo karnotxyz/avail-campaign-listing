@@ -1,0 +1,8 @@
+{
+  "name": "shahaab",
+  "logo": "https://r.resimlink.com/ya6oeiwK.png",
+  "rpc_url": "http://167.233.5.228:9944",
+  "explorer_url": "http://167.233.5.228:4000",
+  "metrics_endpoint": "http://167.233.5.228:9615/metrics",
+  "id": "65e13489-50d3-40cb-9232-cca9e39bf574"
+}
