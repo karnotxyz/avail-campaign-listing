@@ -1,0 +1,8 @@
+{
+  "name": "masatoglu1",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://37.60.255.33:9944",
+  "explorer_url": "https://37.60.255.33:4000",
+  "metrics_endpoint": "https://37.60.255.33:9615/metrics",
+  "id": "0f26b9e6-f8ff-4594-84ed-382595f25597"
+}
