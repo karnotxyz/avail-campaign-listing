@@ -1,0 +1,8 @@
+{
+ "name": "mahdi07",
+ "logo": "https://r.resimlink.com/QJjcowGzA.png",
+ "rpc_url": "http://173.212.241.185:9944",
+ "explorer_url": "http://173.212.241.185:4000",
+ "metrics_endpoint": "http://173.212.241.185:9615/metrics",
+ "id": "8845d975-25b3-4ef0-876a-62e17dcf5160"
+}
