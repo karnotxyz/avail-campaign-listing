@@ -1,0 +1,8 @@
+{
+  "name": "EnnisShala61210",
+  "logo": "none",
+  "rpc_url": "http://143.110.146.123:9944",
+  "explorer_url": "http://143.110.146.123:4000",
+  "metrics_endpoint": "http://143.110.146.123:9615/metrics",
+  "id": "40916e41-ac63-4543-b11a-3b8163040e61"
+}
