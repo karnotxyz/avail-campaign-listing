@@ -1,0 +1,8 @@
+{
+  "name": "bkrbb",
+  "logo": "https://r.resimlink.com/bH1hF-.png",
+  "rpc_url": "http://193.187.129.126:9944",
+  "explorer_url": "http://193.187.129.126:4000",
+  "metrics_endpoint": "http://193.187.129.126:9615/metrics",
+  "id": "eb81b974-2ef7-4c71-9446-29ca50b8a28a"
+}
