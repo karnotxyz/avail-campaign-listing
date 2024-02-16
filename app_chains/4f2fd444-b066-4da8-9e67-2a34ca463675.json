@@ -1,0 +1,8 @@
+{
+  "name": "senegal",
+  "logo": "https://ibb.co/RyNm04C",
+  "rpc_url": "http://158.220.81.177:9944",
+  "explorer_url": "http://158.220.81.177:4000",
+  "metrics_endpoint": "http://158.220.81.177:9615/metrics",
+  "id": "4f2fd444-b066-4da8-9e67-2a34ca463675"
+}
