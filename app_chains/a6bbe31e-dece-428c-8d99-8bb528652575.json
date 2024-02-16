@@ -1,0 +1,8 @@
+{
+  "name": "coinsafety",
+  "logo": "https://r.resimlink.com/4BaAj.jpg",
+  "rpc_url": "http://37.27.17.197:9944",
+  "explorer_url": "http://37.27.17.197:4000",
+  "metrics_endpoint": "http://37.27.17.197:9615/metrics",
+  "id": "a6bbe31e-dece-428c-8d99-8bb528652575"
+}
