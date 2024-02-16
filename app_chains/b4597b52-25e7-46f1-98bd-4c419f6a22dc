@@ -1,0 +1,8 @@
+{
+  "name": "manday",
+  "logo": "https://ibb.co/VqB4B0w",
+  "rpc_url": "http://209.38.242.92:9944",
+  "explorer_url": "http://209.38.242.92:4000",
+  "metrics_endpoint": "http://209.38.242.92:9615/metrics",
+  "id": "b4597b52-25e7-46f1-98bd-4c419f6a22dc"
+}
