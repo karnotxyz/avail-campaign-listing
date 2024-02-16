@@ -1,0 +1,8 @@
+{
+  "name": "Zenith",
+  "logo": "https://ibb.co/f0Nx6nR",
+  "rpc_url": "http://45.142.214.98:9944",
+  "explorer_url": "http://45.142.214.98:4000",
+  "metrics_endpoint": "http://45.142.214.98:9615/metrics",
+  "id": "cabbedf7-8813-49ba-ae98-3099362c3469"
+}
