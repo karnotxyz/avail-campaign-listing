@@ -1,0 +1,8 @@
+{
+  "name": "GALAXYBTC",
+  "logo": "https://raw.githubusercontent.com/pinholove/chain-registry/main/devnet/galaxybtc_7562582-1/logos/galaxybtc_7562582-1.png",
+  "rpc_url": "http://161.97.139.96:9944",
+  "explorer_url": "http://161.97.139.96:4000",
+  "metrics_endpoint": "http://161.97.139.96:9615/metrics",
+  "id": "24a48988-5938-421e-b245-ae1dbc481a33"
+}

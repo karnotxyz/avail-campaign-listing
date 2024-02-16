@@ -1,0 +1,8 @@
+{
+  "name": "1297",
+  "logo": "https://i.ibb.co/3dSW8br/143.png",
+  "rpc_url": "http://194.233.65.95:9944",
+  "explorer_url": "http://194.233.65.95:4000",
+  "metrics_endpoint": "http://194.233.65.95:9615/metrics",
+  "id": "81c392e4-fc27-4739-8f12-bdb0ee5106e2"
+}

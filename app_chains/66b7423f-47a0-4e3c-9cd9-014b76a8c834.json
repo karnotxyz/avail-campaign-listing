@@ -1,0 +1,8 @@
+{
+  "name": "duralengin",
+  "logo": "/logos/dural_7470952-1.png",
+  "rpc_url": "http://149.102.158.91:9944",
+  "explorer_url": "http://149.102.158.91:4000",
+  "metrics_endpoint": "http://149.102.158.91:9615/metrics",
+  "id": "66b7423f-47a0-4e3c-9cd9-014b76a8c834"
+}

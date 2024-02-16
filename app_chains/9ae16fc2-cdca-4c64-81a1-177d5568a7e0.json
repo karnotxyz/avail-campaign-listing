@@ -1,0 +1,8 @@
+{
+  "name": "juran",
+  "logo": "http://43.155.186.122/s/l.png",
+  "rpc_url": "http://43.155.186.122:9944",
+  "explorer_url": "http://43.155.186.122:4000",
+  "metrics_endpoint": "http://43.155.186.122:9615/metrics",
+  "id": "9ae16fc2-cdca-4c64-81a1-177d5568a7e0"
+}

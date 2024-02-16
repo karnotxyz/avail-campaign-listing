@@ -1,0 +1,8 @@
+{
+  "name": "blueshit",
+  "logo": "https://i.imgur.com/X9e0Kke.jpeg",
+  "rpc_url": "http://37.60.236.107:9944",
+  "explorer_url": "http://37.60.236.107:4000",
+  "metrics_endpoint": "http://37.60.236.107:9615/metrics",
+  "id": "c80a7689-7484-420c-b370-74973054e3e1"
+}

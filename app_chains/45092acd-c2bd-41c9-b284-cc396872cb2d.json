@@ -1,0 +1,8 @@
+{
+  "name": "axell",
+  "logo": "https://r.resimlink.com/aOQUiyRLmC9V.png",
+  "rpc_url": "http://161.97.165.113:9944",
+  "explorer_url": "http://161.97.165.113:4000",
+  "metrics_endpoint": "http://161.97.165.113:9615/metrics",
+  "id": "45092acd-c2bd-41c9-b284-cc396872cb2d"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MrKarahanli",
+  "logo": "https://r.resimlink.com/u6dkR.png",
+  "rpc_url": "http://167.172.181.211:9944",
+  "explorer_url": "http://167.172.181.211:4000",
+  "metrics_endpoint": "http://167.172.181.211:9615/metrics",
+  "id": "c5c47b15-c3ca-4e0c-a43c-82876347dfb7"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "nda",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/106548980/303326295-9884c07f-3579-4a7a-9708-0f80965556fa.png",
+  "rpc_url": "http://159.69.239.18:9944",
+  "explorer_url": "http://159.69.239.18:4000/",
+  "metrics_endpoint": "http://159.69.239.18:9615/metrics",
+  "id": "736b41f5-5e3e-4294-90ad-4d71ba6b8c18"
+}

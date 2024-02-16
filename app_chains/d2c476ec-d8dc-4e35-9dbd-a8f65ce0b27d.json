@@ -1,0 +1,8 @@
+{
+  "name": "Ahmet",
+  "logo": "https://i.imgur.com/j0uhH9Y.png",
+  "rpc_url": "http://37.27.7.169:9944",
+  "explorer_url": "http://37.27.7.169:4000",
+  "metrics_endpoint": "http://37.27.7.169:9615/metrics",
+  "id": "d2c476ec-d8dc-4e35-9dbd-a8f65ce0b27d"
+}

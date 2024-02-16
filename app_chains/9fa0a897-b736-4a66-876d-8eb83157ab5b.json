@@ -1,0 +1,8 @@
+{
+  "name": "Blaxpy",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/117190231/303846374-69f6e5b1-266b-4638-a6e9-d846d1267b38.png",
+  "rpc_url": "http://65.109.195.44:9944",
+  "explorer_url": "http://65.109.195.44:4000",
+  "metrics_endpoint": "http://65.109.195.44:9615/metrics",
+  "id": "9fa0a897-b736-4a66-876d-8eb83157ab5b"
+}

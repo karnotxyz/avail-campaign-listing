@@ -1,0 +1,8 @@
+{
+  "name": "Omegayon",
+  "logo": "https://cyberzknft.vercel.app/bg2.png",
+  "rpc_url": "http://86.48.0.75:9944",
+  "explorer_url": "http://86.48.0.75:4000",
+  "metrics_endpoint": "http://86.48.0.75:9615/metrics",
+  "id": "a88990de-9434-4f48-a59f-dc9007aa0f90"
+}
