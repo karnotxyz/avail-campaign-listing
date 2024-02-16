@@ -1,0 +1,8 @@
+{
+  "name": "pyro",
+  "logo": "https://r.resimlink.com/4bZsQKJI3_D.png", // 400x400 boyutunda logo herhangi bir yere yükleyip linkini alabilirsiniz.
+  "rpc_url": "http://65.109.164.120:9944",
+  "explorer_url": "http://65.109.164.120:4000",
+  "metrics_endpoint": "http://65.109.164.120:9615",
+  "id": "6ef8cbd3-1b83-488e-808f-5405988575da"
+}
