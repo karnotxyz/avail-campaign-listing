@@ -1,0 +1,8 @@
+  {
+    "name": "Reza389",
+    "logo": "https://r.resimlink.com/AoZbVcj8q0d.gif",
+    "rpc_url": "http://146.70.158.136:9944",
+    "explorer_url": "http://146.70.158.136:4000",
+    "metrics_endpoint": "http://146.70.158.136:9615/metrics", 
+    "id": "7fb5db7e-9a85-40fe-b527-97d7a6e6a8ff"
+  }
