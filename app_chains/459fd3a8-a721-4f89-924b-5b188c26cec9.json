@@ -1,0 +1,8 @@
+{
+  "name": "drulogen",
+  "logo": "https://firebasestorage.googleapis.com/v0/b/madara-satovail.appspot.com/o/hungry-bera-pfp1.png?alt=media&token=6612bd4a-27f8-43fe-9857-a39394d595da",
+  "rpc_url": "http://35.242.216.183:9944",
+  "explorer_url": "http://35.242.216.183:4000",
+  "metrics_endpoint": "http://35.242.216.183:9615/metrics",
+  "id": "459fd3a8-a721-4f89-924b-5b188c26cec9"
+}
