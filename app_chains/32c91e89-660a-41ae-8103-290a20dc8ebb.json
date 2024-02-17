@@ -1,0 +1,6 @@
+  "name": "gorillaberachain",
+  "logo": "https://imgur.com/yWh0K3Q.jpeg",
+  "rpc_url": "http://92.190.207.67",
+  "explorer_url": "http://92.190.207.67:4000",
+  "metrics_endpoint": "http://92.190.207.67/metrics",
+  "id": "32c91e89-660a-41ae-8103-290a20dc8ebb"
