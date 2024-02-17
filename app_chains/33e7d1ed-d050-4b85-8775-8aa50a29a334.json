@@ -1,0 +1,8 @@
+{
+  "name": "starktrade",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://158.220.115.77:9944",
+  "explorer_url": "http://158.220.115.77:4000",
+  "metrics_endpoint": "http://158.220.115.77:9615/metrics",
+  "id": "33e7d1ed-d050-4b85-8775-8aa50a29a334"
+}
