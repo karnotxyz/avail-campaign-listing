@@ -1,0 +1,8 @@
+{
+  "name": "serhat",
+  "logo": "https://r.resimlink.com/Sm_Y3uzN.jpg", 
+  "rpc_url": "http://37.27.25.43:9944",
+  "explorer_url": "http://37.27.25.43:4000",
+  "metrics_endpoint": "http://37.27.25.43:9615/metrics",
+  "id": "0f6f7738-d291-49df-8512-48d2b6b4295f"
+}
