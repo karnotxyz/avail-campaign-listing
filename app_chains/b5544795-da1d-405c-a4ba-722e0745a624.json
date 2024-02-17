@@ -1,0 +1,8 @@
+{
+  "name": "kadzu",
+  "logo": "https://avatars.githubusercontent.com/u/59943570?v=4",
+  "rpc_url": "http://207.180.246.79:9944",
+  "explorer_url": "http://207.180.246.79:4000",
+  "metrics_endpoint": "http://207.180.246.79:9615/metrics",
+  "id": "b5544795-da1d-405c-a4ba-722e0745a624"
+}
