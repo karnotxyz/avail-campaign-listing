@@ -1,0 +1,8 @@
+{
+  "name": "ozturkemrebch",
+  "logo": "https://r.resimlink.com/INUc-C5V0feh.png",
+  "rpc_url": "http://104.248.197.146:9944",
+  "explorer_url": "http://104.248.197.146:4000",
+  "metrics_endpoint": "http://104.248.197.146:9615/metrics",
+  "id": "e9a58a19-5739-4095-96e7-8c92d4b6791c"
+}
