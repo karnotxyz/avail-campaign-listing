@@ -1,0 +1,8 @@
+{
+  "name": "orkasoft",
+  "logo": "https://i.imgur.com/gTztFB6.jpeg",
+  "rpc_url": "http://86.48.2.104:9944",
+  "explorer_url": "http://86.48.2.104:4000",
+  "metrics_endpoint": "http://86.48.2.104:9615/metrics",
+  "id": "d5dda1a2-6345-4938-9f66-65ca22ef752a"
+}
