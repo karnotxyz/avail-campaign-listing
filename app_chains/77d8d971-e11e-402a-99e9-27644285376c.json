@@ -1,0 +1,8 @@
+{
+  "name": "ckaarraa",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/rollapp-registry/main/devnet/ckaarraapp_5833550-1/logos/ckaarraapp_5833550-1.png",
+  "rpc_url": "http://23.88.50.33:9944",
+  "explorer_url": "http://23.88.50.33:4000",
+  "metrics_endpoint": "http://23.88.50.33:9615/metrics",
+  "id": "77d8d971-e11e-402a-99e9-27644285376c"
+}
