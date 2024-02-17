@@ -1,0 +1,8 @@
+{
+  "name": "Lujo",
+  "logo": "https://pbs.twimg.com/profile_images/1736441053639507968/pB8ZM9Jy_400x400.jpg",
+  "rpc_url": "http://SERVER-IP-YAZ:9944",
+  "explorer_url": "http://SUNUCU-İP-YAZ:4000",
+  "metrics_endpoint": "http://SERVER-IP-YAZ:9615/metrics",
+  "id": "5f12f8e0-c0de-4fcf-aa1a-b0ea56732241"
+}
