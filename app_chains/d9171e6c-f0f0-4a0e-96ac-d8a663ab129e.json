@@ -1,0 +1,8 @@
+{
+  "name": "mrbit",
+  "logo": "https://r.resimlink.com/RtFyc.jpg",
+  "rpc_url": "http://95.111.239.228:9944",
+  "explorer_url": "http://95.111.239.228:4000",
+  "metrics_endpoint": "http://95.111.239.228:9615/metrics",
+  "id": "d9171e6c-f0f0-4a0e-96ac-d8a663ab129e"
+}
