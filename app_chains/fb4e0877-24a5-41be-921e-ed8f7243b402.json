@@ -1,0 +1,8 @@
+{
+  "name": "TouhtaneApp",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://89.117.72.66:9944",
+  "explorer_url": "http://89.117.72.66:4000",
+  "metrics_endpoint": "http://89.117.72.66:9615/metrics",
+  "id": "fb4e0877-24a5-41be-921e-ed8f7243b402"
+}
