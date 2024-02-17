@@ -1,0 +1,8 @@
+{
+  "name": "nil",
+  "logo": "https://r.resimlink.com/zpHVYD1gKIU.jpg",
+  "rpc_url": "http://161.97.161.255:9944",
+  "explorer_url": "http://161.97.161.255:4000",
+  "metrics_endpoint": "http://161.97.161.255:9615/metrics",
+  "id": "a8725501-81bf-4d58-a0bd-00236beba576"
+}
