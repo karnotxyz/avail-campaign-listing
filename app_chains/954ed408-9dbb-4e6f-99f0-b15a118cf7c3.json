@@ -1,0 +1,8 @@
+{
+  "name": "vlach",
+  "logo": "https://r.resimlink.com/QCN_Tt.jpg",
+  "rpc_url": "http://46.250.236.32:9944",
+  "explorer_url": "http://46.250.236.32:4000",
+  "metrics_endpoint": "http://46.250.236.32:9615/metrics",
+  "id": "954ed408-9dbb-4e6f-99f0-b15a118cf7c3"
+}
