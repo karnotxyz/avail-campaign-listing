@@ -1,0 +1,8 @@
+{
+  "name": "Drulogen",
+  "logo": "https://i.imgur.com/F5adUYo.png",
+  "rpc_url": "http://35.242.216.183:9944",
+  "explorer_url": "http://35.242.216.183:4000",
+  "metrics_endpoint": "http://35.242.216.183:9615/metrics",
+  "id": "d89f2b8b-d340-4574-90ee-8e05e733a1b3"
+}
