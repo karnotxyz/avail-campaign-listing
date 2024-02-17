@@ -1,0 +1,8 @@
+{
+  "name": "dinonano",
+  "logo": "https://placehold.co/400x400/black/darkwhite?text=DNO",
+  "rpc_url": "http://104.251.211.181:9944",
+  "explorer_url": "http://104.251.211.181:4000",
+  "metrics_endpoint": "http://104.251.211.181:9615/metrics",
+  "id": "ef286db2-c84d-4312-afb9-957edf25560f"
+}
