@@ -1,0 +1,8 @@
+{
+  "name": "kabuto666",
+  "logo": "https://ibb.co/wsyGvQr",
+  "rpc_url": "http://137.184.236.68:9944",
+  "explorer_url": "http://137.184.236.68:4000",
+  "metrics_endpoint": "http://137.184.236.68:9615/metrics",
+  "id": "d7a74283-d66b-4a7d-b6e2-29f8ada9866e"
+}
