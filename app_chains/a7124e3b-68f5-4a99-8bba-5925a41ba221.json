@@ -1,0 +1,8 @@
+{
+  "name": "Arcant",
+  "logo": "https://i.imgur.com/odQwrDM.jpeg",
+  "rpc_url": "http://173.249.27.57:9944",
+  "explorer_url": "http://173.249.27.57:4000",
+  "metrics_endpoint": "http://173.249.27.57:9615/metrics",
+  "id": "a7124e3b-68f5-4a99-8bba-5925a41ba221"
+}

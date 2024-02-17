@@ -1,0 +1,8 @@
+{
+  "name": "yukkie",
+  "logo": "https://i.ibb.co/R7Gt6CJ/898333673970085938.png",
+  "rpc_url": "http://75.119.128.116:9944",
+  "explorer_url": "http://75.119.128.116:4000",
+  "metrics_endpoint": "http://75.119.128.116:9615/metrics",
+  "id": "88fde48e-e36e-401c-831e-4f0bf6385dc8"
+}

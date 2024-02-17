@@ -1,0 +1,8 @@
+{
+  "name": "rinova",
+  "logo": "https://raw.githubusercontent.com/Rinov4/logo/main/omegayon.png",
+  "rpc_url": "http://86.48.17.209:9944",
+  "explorer_url": "http://86.48.17.209:4000",
+  "metrics_endpoint": "http://86.48.17.209:9615/metrics",
+  "id": "ba2c0daa-5685-4ffc-8752-d8d42b459506"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "mori",
+  "logo": "https://i.ibb.co/PMvLfcr/IMG-1813.png",
+  "rpc_url": "http://173.249.17.197:9944",
+  "explorer_url": "http://173.249.17.197:4000",
+  "metrics_endpoint": "http://173.249.17.197:9615/metrics",
+  "id": "160da5ff-a369-4688-94d2-0320ef0a76a2"
+}

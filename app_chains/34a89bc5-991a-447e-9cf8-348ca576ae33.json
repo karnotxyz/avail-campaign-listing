@@ -1,0 +1,8 @@
+{
+  "name": "shootingcar",
+  "logo": "http://43.156.30.84/logo.jpg",
+  "rpc_url": "http://43.156.30.84:9944",
+  "explorer_url": "http://43.156.30.84:4000",
+  "metrics_endpoint": "http://43.156.30.84:9615/metrics",
+  "id": "34a89bc5-991a-447e-9cf8-348ca576ae33"
+}
