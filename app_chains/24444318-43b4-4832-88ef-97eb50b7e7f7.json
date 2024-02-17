@@ -1,0 +1,8 @@
+{
+  "name": "chnglnX",
+  "logo": "https://i.imgur.com/CIinwu2.jpeg",
+  "rpc_url": "http://65.109.234.217:9944",
+  "explorer_url": "http://65.109.234.217:4000",
+  "metrics_endpoint": "http://65.109.234.217:9615/metrics",
+  "id": "24444318-43b4-4832-88ef-97eb50b7e7f7"
+}
