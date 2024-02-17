@@ -1,0 +1,8 @@
+{
+  "name": "Kortis",
+  "logo": "https://i.imgur.com/CIinwu2.jpeg",
+  "rpc_url": "http://65.109.234.217:9944",
+  "explorer_url": "http://65.109.234.217:4000",
+  "metrics_endpoint": "http://65.109.234.217:9615/metrics",
+  "id": "e2d2944d-3f99-4e29-add8-e2b086edb122"
+}
