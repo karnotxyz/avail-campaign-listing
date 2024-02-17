@@ -1,0 +1,8 @@
+{
+  "name": "kaancanx",
+  "logo": "https://r.resimlink.com/MTq1VpcCX6G.jpg",
+  "rpc_url": "http://135.181.249.132:9944",
+  "explorer_url": "http://135.181.249.132:4000",
+  "metrics_endpoint": "http://135.181.249.132:9615/metrics",
+  "id": "b55450cb-10c0-4cb4-b429-6557b9c47a70"
+}
