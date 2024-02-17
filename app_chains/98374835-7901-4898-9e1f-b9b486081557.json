@@ -1,0 +1,8 @@
+{
+ "name": "drulogen",
+ "logo": "https://i.postimg.cc/4x5pDCN1/Ekran-Resmi-2023-05-01-13-24-14.png",
+ "rpc_url": "http://35.242.216.183:9944",
+ "explorer_url": "http://35.242.216.183:4000",
+ "metrics_endpoint": "http://35.242.216.183:9615/metrics",
+ "id": "98374835-7901-4898-9e1f-b9b486081557"
+}
