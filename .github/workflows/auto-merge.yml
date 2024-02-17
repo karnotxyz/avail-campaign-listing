@@ -12,9 +12,9 @@ jobs:
 
     steps:
       - name: Sleep for 60 seconds
-        run: sleep 60s
+        run: Sleep 60s
         shell: bash
-      - name: Merge pull requests (automerge-action)
+      - name: Merge pull requests (auto-merge-action)
         uses: pascalgn/automerge-action@v0.16.2
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
