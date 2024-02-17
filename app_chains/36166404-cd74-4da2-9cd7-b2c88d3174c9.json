@@ -1,0 +1,8 @@
+{
+  "name": "ionode",
+  "logo": "https://ionode.online/wp-content/uploads/2023/08/logo_IONode_new1.1-removebg-300x234.png",
+  "rpc_url": "http://rpc-mad.ionode.online:9944",
+  "explorer_url": "http://explorer-mad.ionode.online:4000",
+  "metrics_endpoint": "http://metrics-mad.ionode.online:9615/metrics",
+  "id": "36166404-cd74-4da2-9cd7-b2c88d3174c9"
+}
