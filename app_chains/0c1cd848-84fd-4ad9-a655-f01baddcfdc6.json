@@ -1,0 +1,8 @@
+{
+  "name": "akwwkx",
+  "logo": "https://imgur.com/EV8KIL0",
+  "rpc_url": "http://167.86.66.95:9944",
+  "explorer_url": "http://167.86.66.95:4000",
+  "metrics_endpoint": "http://167.86.66.95:9615/metrics",
+  "id": "0c1cd848-84fd-4ad9-a655-f01baddcfdc6"
+}
