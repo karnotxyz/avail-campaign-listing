@@ -1,0 +1,8 @@
+{
+  "name": "ogtaptap",
+  "logo": "https://media.discordapp.net/attachments/567317359627337728/1208382284055445514/ogtaptap.png?ex=65e314b3&is=65d09fb3&hm=1190db8c6fe432bb4f29c2f1e36dedf66b3175ecd784876899a67ed7d6b56cdc&=&format=webp&quality=lossless&width=350&height=350",
+  "rpc_url": "http://128.199.114.35:9944",
+  "explorer_url": "http://128.199.114.35:4000",
+  "metrics_endpoint": "http://128.199.114.35:9615/metrics",
+  "id": "54b54e55-8bd5-4f59-881c-029d21d94dca"
+}
