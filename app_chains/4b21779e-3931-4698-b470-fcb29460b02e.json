@@ -1,0 +1,8 @@
+{
+ "name": "nil",
+ "logo": "https://raw.githubusercontent.com/Aysunbjk/aysun-madara-image/main/1%20(1).jpg",
+ "rpc_url": "http://161.97.161.255:9944",
+ "explorer_url": "http://161.97.161.255:4000",
+ "metrics_endpoint": "http://161.97.161.255:9615/metrics",
+ "id": "4b21779e-3931-4698-b470-fcb29460b02e"
+}
