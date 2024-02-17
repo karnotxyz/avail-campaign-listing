@@ -1,0 +1,8 @@
+{
+  "name": "noelax",
+  "logo": "https://imgur.com/Oyfwphl",
+  "rpc_url": "http://46.250.231.236:9944",
+  "explorer_url": "http://46.250.231.236:4000",
+  "metrics_endpoint": "http://46.250.231.236:9615/metrics",
+  "id": "93cb6988-05cb-407b-a2f4-6a89ff78c1e0"
+}
