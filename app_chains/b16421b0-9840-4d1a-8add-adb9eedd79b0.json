@@ -1,0 +1,8 @@
+{
+  "name": "Noderx-01",
+  "logo": "https://i.ibb.co/16kqbMR/LOGO-NODERX-01.png",
+  "rpc_url": "http://5.78.85.9:9944",
+  "explorer_url": "http://5.78.85.9:4000",
+  "metrics_endpoint": "http://5.78.85.9:9615/metrics",
+  "id": "b16421b0-9840-4d1a-8add-adb9eedd79b0"
+}
