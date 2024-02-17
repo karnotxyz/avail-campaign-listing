@@ -1,0 +1,8 @@
+{
+  "name": "minettaka",
+  "logo": "https://r.resimlink.com/hGs58dI.jpg",
+  "rpc_url": "http://162.55.34.91:9944",
+  "explorer_url": "http://162.55.34.91:4000",
+  "metrics_endpoint": "http://162.55.34.91:9615/metrics",
+  "id": "1ffc3068-3407-4230-b5d2-bcb6e30678f3"
+}

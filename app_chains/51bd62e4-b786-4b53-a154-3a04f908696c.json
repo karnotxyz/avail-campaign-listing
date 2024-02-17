@@ -1,0 +1,8 @@
+{
+  "name": "crypton",
+  "logo": "https://r.resimlink.com/sIbez20k5f9K.jpg",
+  "rpc_url": "http://167.86.101.15:9944",
+  "explorer_url": "http://167.86.101.15:4000",
+  "metrics_endpoint": "http://167.86.101.15:9615/metrics",
+  "id": "51bd62e4-b786-4b53-a154-3a04f908696c"
+}
