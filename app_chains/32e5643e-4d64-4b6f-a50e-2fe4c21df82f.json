@@ -1,0 +1,8 @@
+{
+  "name": "SSSVane",
+  "logo": "https://via.placeholder.com/150",
+  "rpc_url": "http://158.220.85.55:9944",
+  "explorer_url": "http://158.220.85.55:4000",
+  "metrics_endpoint": "http://158.220.85.55:9615/metrics",
+  "id": "32e5643e-4d64-4b6f-a50e-2fe4c21df82f"
+}
