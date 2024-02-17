@@ -1,0 +1,8 @@
+{
+  "name": "Quadblock",
+  "logo": "https://ibb.co/Fhst5Rx",
+  "rpc_url": "http://65.109.48.247:9944",
+  "explorer_url": "http://65.109.48.247:4000",
+  "metrics_endpoint": "http://65.109.48.247:9615/metrics",
+  "id": "9170b08c-5a66-437d-9ea3-53cacae9368e"
+}
