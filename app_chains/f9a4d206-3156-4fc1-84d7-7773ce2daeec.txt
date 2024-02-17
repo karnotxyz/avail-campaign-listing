@@ -1,0 +1,8 @@
+{
+  "name": "cvkby42",
+  "logo": "none",
+  "rpc_url": "http://37.27.4.12:9944",
+  "explorer_url": "http://37.27.4.12:4000",
+  "metrics_endpoint": "http://37.27.4.12:9615/metrics",
+  "id": "f9a4d206-3156-4fc1-84d7-7773ce2daeec"
+}
