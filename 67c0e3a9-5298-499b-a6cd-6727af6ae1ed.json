@@ -1,0 +1,8 @@
+{
+  "name": "Jamal",
+  "logo": "https://i.ibb.co/TYmdqmw/Avail.png",
+  "rpc_url": "http://38.242.151.164:9944",
+  "explorer_url": "http://38.242.151.164:4000",
+  "metrics_endpoint": "http://38.242.151.164:9615/metrics",
+  "id": "67c0e3a9-5298-499b-a6cd-6727af6ae1ed"
+}
