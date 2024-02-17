@@ -1,0 +1,8 @@
+{
+  "name": "Zaynmale",
+  "logo": "https://i.ibb.co/XCxHJwq/DALL-E-2024-02-13-12-16-21-Design-a-sleek-and-modern-logo-for-a-blockchain-technology-called-Node-Bl.png",
+  "rpc_url": "64.176.83.248:9944",
+  "explorer_url": "64.176.83.248:4000",
+  "metrics_endpoint": "64.176.83.248:9615/metrics",
+  "id": "3f109e9b-746a-4615-b17b-c48fd98b4615"
+}
