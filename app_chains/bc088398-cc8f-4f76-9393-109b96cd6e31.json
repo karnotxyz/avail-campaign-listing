@@ -1,0 +1,8 @@
+{
+  "name": "simbahoguri",
+  "logo": "https://imgur.com/N3Nypil",
+  "rpc_url": "http://5.161.209.179:9944",
+  "explorer_url": "http://5.161.209.179:4000",
+  "metrics_endpoint": "http://5.161.209.179:9615/metrics",
+  "id": "bc088398-cc8f-4f76-9393-109b96cd6e31"
+}
