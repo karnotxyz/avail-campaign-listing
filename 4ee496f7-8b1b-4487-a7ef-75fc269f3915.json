@@ -1,0 +1,8 @@
+{
+  "name": "outerspace_staking",
+  "logo": "https://i.ibb.co/nwHyrGm/outerspace-staking-logo.jpg",
+  "rpc_url": "http://188.40.66.226:9944",
+  "explorer_url": "http://188.40.66.226:4000",
+  "metrics_endpoint": "http://188.40.66.226:9615/metrics",
+  "id": "4ee496f7-8b1b-4487-a7ef-75fc269f3915"
+}
