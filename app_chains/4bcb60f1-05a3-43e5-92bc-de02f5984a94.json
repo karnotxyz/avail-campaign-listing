@@ -1,0 +1,8 @@
+{
+  "name": "AIArena",
+  "logo": "https://i.imgur.com/MFFRcAr.jpeg",
+  "rpc_url": "http://129.153.4.84:9944",
+  "explorer_url": "http://129.153.4.84:4000",
+  "metrics_endpoint": "http://129.153.4.84:9615/metrics",
+  "id": "4bcb60f1-05a3-43e5-92bc-de02f5984a94"
+}
