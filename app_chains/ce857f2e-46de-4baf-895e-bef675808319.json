@@ -1,0 +1,8 @@
+{
+  "name": "fatsa",
+  "logo": "https://r.resimlink.com/5yeG4aCq.png",
+  "rpc_url": "http://207.180.238.238:9944",
+  "explorer_url": "http://207.180.238.238:4000",
+  "metrics_endpoint": "http://207.180.238.238:9615/metrics",
+  "id": "ce857f2e-46de-4baf-895e-bef675808319"
+}
