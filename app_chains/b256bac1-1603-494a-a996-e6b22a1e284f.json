@@ -1,8 +1,8 @@
 {
-  "name": "matioc",
-  "logo": "https://ibb.co/D5Dx9NS",
-  "rpc_url": "http://31.220.75.221:9944",
-  "explorer_url": "http://31.220.75.221:4000",
-  "metrics_endpoint": "http://31.220.75.221:9615/metrics",
-  "id": "b256bac1-1603-494a-a996-e6b22a1e284f"
+"name": "matioc",
+"logo": "https://ibb.co/D5Dx9NS",
+"rpc_url": "http://31.220.75.221:9944",
+"explorer_url": "http://31.220.75.221:4000",
+"metrics_endpoint": "http://31.220.75.221:9615/metrics",
+"id": "b256bac1-1603-494a-a996-e6b22a1e284f"
 }
