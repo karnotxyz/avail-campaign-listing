@@ -1,0 +1,8 @@
+{
+  "name": "rollap-isim",
+  "logo": "logo-linkiniz",
+  "rpc_url": "http://SUNUCU-İP-YAZ:9944",
+  "explorer_url": "http://SUNUCU-İP-YAZ:4000",
+  "metrics_endpoint": "http://SUNUCU-İP-YAZ:9615/metrics",
+  "id": "3b752f66-15b7-446f-8296-304b55141e1a"
+}
