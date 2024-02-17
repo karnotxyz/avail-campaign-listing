@@ -1,0 +1,8 @@
+{
+  "name": "venus",
+  "logo": "https://r.resimlink.com/AErLox0GI6.jpg",
+  "rpc_url": "http://http://62.171.142.130:9944",
+  "explorer_url": "http://http://62.171.142.130:4000",
+  "metrics_endpoint": "http://http://62.171.142.130:9615/metrics",
+  "id": "d0c9a28d-3611-4717-bc26-bfb31a9ba774"
+}
