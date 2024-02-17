@@ -1,8 +1,8 @@
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
-}
+  "name": "xinxon",
+  "logo": "https://ibb.co/zh3w7sX",
+  "rpc_url": "http://173.212.192.134:9944",
+  "explorer_url": "http://173.212.192.134:4000",
+  "metrics_endpoint": "http://173.212.192.134:9615/metrics",
+  "id": "2f02f88e-e920-4e5d-a636-806c6b4869d3"
+  }
