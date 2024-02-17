@@ -1,0 +1,8 @@
+{
+  "name": "perkasa ",
+  "logo": "https://ibb.co/hcMqCwV",
+  "rpc_url": "http://46.250.232.245:9944",
+  "explorer_url": "http://46.250.232.245:4000",
+  "metrics_endpoint": "http://46.250.232.245:9615/metrics",
+  "id": "c6b42907-e2d9-46a8-94cb-41b9242529fe"
+}
