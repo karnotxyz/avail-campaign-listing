@@ -1,7 +1,7 @@
 {
   "name": "0xbalance_balance_chain",
   "logo": "https://placehold.co/400x400",
-  "rpc_url": "http://37.60.237.220:9944"		,
+  "rpc_url": "http://37.60.237.220:9944",
   "explorer_url": "http://37.60.237.220:4000",
   "metrics_endpoint": "http://37.60.237.220:9615/metrics",
   "id": "a56fc4d4-5f30-48ce-ae42-8de416ac8cf8"
