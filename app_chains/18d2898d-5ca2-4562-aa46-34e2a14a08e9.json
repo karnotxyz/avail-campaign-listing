@@ -1,0 +1,8 @@
+{
+  "name": "xinisterx",
+  "logo": "https://imgur.com/a/6qzifKV",
+  "rpc_url": "http://137.184.14.0:9944",
+  "explorer_url": "http://137.184.14.0:4000",
+  "metrics_endpoint": "http://137.184.14.0:9615/metrics",
+  "id": "18d2898d-5ca2-4562-aa46-34e2a14a08e9"
+}
