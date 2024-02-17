@@ -1,6 +1,6 @@
 {
   "name": "oraclex",
-  "logo": "https://ibb.co/BG915FV",
+  "logo": "http://ibb.co/BG915FV",
   "rpc_url": "http://144.91.98.178:9944",
   "explorer_url": "http://144.91.98.178:4000",
   "metrics_endpoint": "http://144.91.98.178:9615/metrics",
