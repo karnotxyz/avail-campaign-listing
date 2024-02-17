@@ -1,0 +1,8 @@
+{
+ "name": "sonsuz",
+ "logo": "https://r.resimlink.com/4EKiSpTOCn.png",
+ "rpc_url": "http://161.97.137.142:9944",
+ "explorer_url": "http://161.97.137.142:4000",
+ "metrics_endpoint": "http://161.97.137.142:9615",
+ "id": "07411aa0-0751-4e80-8d3d-adb9cb4e81ec"
+}
