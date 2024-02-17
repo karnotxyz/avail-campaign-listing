@@ -1,0 +1,8 @@
+{
+  "name": "oma",
+  "logo": "",
+  "rpc_url": "http://95.179.130.4:9944",
+  "explorer_url": "http://95.179.130.4:4000",
+  "metrics_endpoint": "http://95.179.130.4:9615/metrics",
+  "id": "f39539cc-5a8d-4484-ae6b-49c063ca7ec4"
+}
