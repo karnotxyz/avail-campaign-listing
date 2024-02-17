@@ -41,7 +41,6 @@ Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pu
 ## FAQs
 
 
-
 ### How to fix prettier?
 
 Install npx and run `npx prettier@latest --write .` on the repo root.
