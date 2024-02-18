@@ -1,8 +1,8 @@
 {
   "name": "frost",
-  "logo": "logo-frost",
-  "rpc_url": "http://46.250.227.50:9944",
-  "explorer_url": "http://46.250.227.50:4000",
-  "metrics_endpoint": "http://46.250.227.50:9615/metrics",
-  "id": "joy"
+  "logo": "https://imgur.com/Z1QDSuT",
+  "rpc_url": "http://193.38.54.234:9944",
+  "explorer_url": "http://193.38.54.234:4000",
+  "metrics_endpoint": "http://193.38.54.234:9615/metrics",
+  "id": "0536a910-9cd3-45e3-9a79-bbf75b7724f4"
 }
