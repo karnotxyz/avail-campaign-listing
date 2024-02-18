@@ -1,0 +1,8 @@
+{
+  "name": "adora",
+  "logo": "https://r.resimlink.com/GiPInT5OMW.jpg",
+  "rpc_url": "http://37.120.161.180:9944",
+  "explorer_url": "http://37.120.161.180:4000",
+  "metrics_endpoint": "http://37.120.161.180:9615/metrics",
+  "id": "b5e01c52-7777-4433-b9ec-08babaa17f15"
+}
