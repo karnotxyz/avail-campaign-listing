@@ -1,0 +1,8 @@
+{
+  "name": "kaplanalci",
+  "logo": "https://r.resimlink.com/Alfjm3yqvUL.jpg",
+  "rpc_url": "http://185.217.125.179:9944",
+  "explorer_url": "http://185.217.125.179:4000",
+  "metrics_endpoint": "http://185.217.125.179:9615/metrics",
+  "id": "e7567ddd-4946-4654-ae56-8f80146008a3"
+}
