@@ -1,8 +1,8 @@
 {
-	"name": "dadan",
-	"logo": "https://ibb.co/n33yHHT",
-	"rpc_url": "http://64.44.41.36:9944",
-	"explorer_url": "http://64.44.41.36:4000",
-	"metrics_endpoint": "http://64.44.41.36:9615/metrics",
-	"id": "af4eb784-de0e-432f-b5ce-adcf487401f9"
+  "name": "dadan",
+  "logo": "https://ibb.co/n33yHHT",
+  "rpc_url": "http://64.44.41.36:9944",
+  "explorer_url": "http://64.44.41.36:4000",
+  "metrics_endpoint": "http://64.44.41.36:9615/metrics",
+  "id": "af4eb784-de0e-432f-b5ce-adcf487401f9"
 }
