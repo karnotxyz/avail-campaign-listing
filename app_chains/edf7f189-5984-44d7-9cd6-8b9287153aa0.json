@@ -1,0 +1,8 @@
+{
+  "name": "albokiru",
+  "logo": "https://i.imgur.com/j9lyxes.png",
+  "rpc_url": "http://62.72.47.238:9944",
+  "explorer_url": "http://62.72.47.238:4000",
+  "metrics_endpoint": "http://62.72.47.238:9615/metrics",
+  "id": "edf7f189-5984-44d7-9cd6-8b9287153aa0"
+}
