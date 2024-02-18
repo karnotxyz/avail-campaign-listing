@@ -1,0 +1,8 @@
+{
+  "name": "mawuli",
+  "logo": "https://i.ibb.co/TYpnmNW/luke-chesser-A5-Xr7-Wykt-Q-unsplash.jpg",
+  "rpc_url": "http://34.125.171.203:9944",
+  "explorer_url": "http://34.125.171.203:4000",
+  "metrics_endpoint": "http://34.125.171.203:9615/metrics",
+  "id": "c20af398-d9c1-4246-9336-6aef4a0b81b1"
+}
