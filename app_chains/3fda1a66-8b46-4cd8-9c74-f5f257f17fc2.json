@@ -1,0 +1,8 @@
+{
+  "name": "bodong2024",
+  "logo": "https://ibb.co/r0DQ08T",
+  "rpc_url": "http://ipv4.bodong.tech:9944",
+  "explorer_url": "http://ipv4.bodong.tech:4000",
+  "metrics_endpoint": "http://ipv4.bodong.tech:9615/metrics",
+  "id": "3fda1a66-8b46-4cd8-9c74-f5f257f17fc2"
+}
