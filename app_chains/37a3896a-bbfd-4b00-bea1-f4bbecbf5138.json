@@ -1,0 +1,8 @@
+{
+  "name": "mawuli",
+  "logo": "https://i.ibb.co/0KhY1Qw/IMG-1656.jpg",
+  "rpc_url": "http://34.125.171.203:9944",
+  "explorer_url": "http://34.125.171.203:4000",
+  "metrics_endpoint": "http://34.125.171.203:9615/metrics",
+  "id": "37a3896a-bbfd-4b00-bea1-f4bbecbf5138"
+}
