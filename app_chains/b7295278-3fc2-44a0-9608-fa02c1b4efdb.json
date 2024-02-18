@@ -1,8 +1,0 @@
-{
-  "name": "mardani",
-  "logo": "https://r.resimlink.com/znMsv6V4uZ.png",
-  "rpc_url": "https://86.48.0.161:9944",
-  "explorer_url": "https://86.48.0.161:4000",
-  "metrics_endpoint": "https://86.48.0.161:9615/metrics",
-  "id": "b7295278-3fc2-44a0-9608-fa02c1b4efdb"
-  }
