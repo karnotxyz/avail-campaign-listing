@@ -1,0 +1,8 @@
+{
+  "name": "yildiz",
+  "logo": "https://r.resimlink.com/zpHVYD1gKIU.jpg",
+  "rpc_url": "http://65.109.138.84",
+  "explorer_url": "http://65.109.138.84:4000",
+  "metrics_endpoint": "http://65.109.138.84:9615/metrics",
+  "id": "b274de97-3e92-4da4-a5ad-27047cf2f405"
+}
