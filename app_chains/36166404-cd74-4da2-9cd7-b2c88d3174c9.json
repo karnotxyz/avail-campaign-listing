@@ -1,0 +1,8 @@
+{
+  "name": "ionode",
+  "logo": "https://r.resimlink.com/vVQAck.jpg",
+  "rpc_url": "http://37.120.173.44:9944",
+  "explorer_url": "http://37.120.173.44:4000",
+  "metrics_endpoint": "http://37.120.173.44:9615/metrics",
+  "id": "36166404-cd74-4da2-9cd7-b2c88d3174c9"
+}
