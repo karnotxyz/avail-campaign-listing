@@ -1,0 +1,8 @@
+{
+  "name": "CousinSheb79199",
+  "logo": "none",
+  "rpc_url": "http://146.190.113.250:9944",
+  "explorer_url": "http://146.190.113.250:4000",
+  "metrics_endpoint": "http://146.190.113.250:9615/metrics",
+  "id": "6738db1d-70eb-4b04-ae76-021fd101b19b"
+}
