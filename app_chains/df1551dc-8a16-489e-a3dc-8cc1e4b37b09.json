@@ -1,0 +1,8 @@
+{
+  "name": "riki",
+  "logo": "https://github.com/talamazya/images/blob/main/riki_avail_madara.png",
+  "rpc_url": "http://84.247.179.97:9944",
+  "explorer_url": "http://84.247.179.97:4000",
+  "metrics_endpoint": "http://84.247.179.97:9615/metrics",
+  "id": "df1551dc-8a16-489e-a3dc-8cc1e4b37b09"
+}
