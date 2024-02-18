@@ -1,0 +1,8 @@
+{
+    "name": "izzetcava",
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://147.45.40.53:9944",
+    "explorer_url": "http://147.45.40.53:4000",
+    "metrics_endpoint": "http://147.45.40.53:9615/metrics",
+    "id": "56a85b98-9fe9-4822-83b0-26cf20e3d9c1"
+  }
