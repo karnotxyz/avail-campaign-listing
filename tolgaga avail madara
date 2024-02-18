@@ -1,0 +1,7 @@
+{
+  "name": "tolgaga",
+  "logo": "https://r.resimlink.com/n92M3.jpg",
+  "rpc_url": "http://165.22.87.70:9944",
+  "explorer_url": "http://165.22.87.70:4000",
+  "metrics_endpoint": "http://165.22.87.70:9615",
+  "id": "8459fea8-41ba-486d-93f6-2c3c520bbae7" }
