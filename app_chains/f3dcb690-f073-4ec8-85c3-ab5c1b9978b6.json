@@ -1,0 +1,8 @@
+{
+  "name": "Zer0Luck",
+  "logo": "https://localhost.zer0luck.kr/ZR-GGGW-main.png",
+  "rpc_url": "http://45.137.192.104:9944",
+  "explorer_url": "http://45.137.192.104:4000",
+  "metrics_endpoint": "http://45.137.192.104:9615/metrics",
+  "id": "f3dcb690-f073-4ec8-85c3-ab5c1b9978b6"
+}
