@@ -1,0 +1,8 @@
+{
+  "name": "hknirem",
+  "logo": "https://r.resimlink.com/4lRev5.png",
+  "rpc_url": "http://62.171.172.11:9944",
+  "explorer_url": "http://62.171.172.11:4000",
+  "metrics_endpoint": "http://62.171.172.11:9615/metrics",
+  "id": "543984ef-3a50-40ed-a2ab-d0a79d120285"
+}
