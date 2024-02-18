@@ -1,0 +1,8 @@
+{
+  "name": "mpervan",
+  "logo": "https://r.resimlink.com/c1t89ueAWrKZ.png",
+  "rpc_url": "http://62.171.174.11:9944",
+  "explorer_url": "http://62.171.174.11:4000",
+  "metrics_endpoint": "http://62.171.174.11:9615/metrics",
+  "id": "10d08727-faed-4556-9f9f-e9a9cc20ef15"
+}
