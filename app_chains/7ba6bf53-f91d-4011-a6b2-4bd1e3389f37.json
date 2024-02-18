@@ -1,0 +1,7 @@
+  "name": "frphe",
+  "logo": "https://add.pics/YBKVVd",
+  "rpc_url": "http://168.119.117.136:9944",
+  "explorer_url": "http://168.119.117.136:4000",
+  "metrics_endpoint": "http://168.119.117.136:9615/metrics",
+  "id": "7ba6bf53-f91d-4011-a6b2-4bd1e3389f37"
+}
