@@ -1,0 +1,8 @@
+{
+  "name": "Cryptopia",
+  "logo": "https://r.resimlink.com/oKINQsh58VAa.png",
+  "rpc_url": "http://158.220.84.115:9944",
+  "explorer_url": "http://158.220.84.115:4000",
+  "metrics_endpoint": "http://158.220.84.115:9615/metrics",
+  "id": "b4f0788b-5380-43ec-ae93-dba74082be68"
+}
