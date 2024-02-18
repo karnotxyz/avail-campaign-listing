@@ -1,0 +1,8 @@
+{
+  "name": "jimat",
+  "logo": "https://r.resimlink.com/F2jAO.png",
+  "rpc_url": "http://46.250.233.102:9944",
+  "explorer_url": "http://46.250.233.102:4000",
+  "metrics_endpoint": "http://46.250.233.102:9615/metrics",
+  "id": "490db9df-3cae-49f3-b425-c624bb7d577e"
+}

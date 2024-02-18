@@ -1,0 +1,8 @@
+{
+  "name": "levo",
+  "logo": "https://r.resimlink.com/qdL4tyY.png",
+  "rpc_url": "http://167.86.79.148:9944",
+  "explorer_url": "http://167.86.79.148:4000",
+  "metrics_endpoint": "http://167.86.79.148:9615/metrics",
+  "id": "5742da60-703b-4a7c-ba06-82758d88d4d3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jotaro",
+  "logo": "https://i.postimg.cc/d1skfvdN/794.png",
+  "rpc_url": "http://37.60.246.137:9944",
+  "explorer_url": "http://37.60.246.137:4000",
+  "metrics_endpoint": "http://37.60.246.137:9615/metrics",
+  "id": "d10c0bcc-c478-449b-abec-acfc34f7020b"
+}

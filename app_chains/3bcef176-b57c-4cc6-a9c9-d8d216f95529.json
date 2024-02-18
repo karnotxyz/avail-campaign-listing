@@ -1,0 +1,8 @@
+{
+  "name": "digitclone",
+  "logo": "https://raw.githubusercontent.com/oguzhanata-hub/Aleotic/main/digitclone_resize.png",
+  "rpc_url": "http://135.181.25.211:9944",
+  "explorer_url": "http://135.181.25.211:4000",
+  "metrics_endpoint": "http://135.181.25.211:9615/metrics",
+  "id": "3bcef176-b57c-4cc6-a9c9-d8d216f95529"
+}

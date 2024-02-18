@@ -1,0 +1,8 @@
+{
+  "name": "irenemikan",
+  "logo": "https://i.postimg.cc/5NcKqrd3/irenemikan.png",
+  "rpc_url": "http://49.51.188.133:9944",
+  "explorer_url": "http://49.51.188.133:4000",
+  "metrics_endpoint": "http://49.51.188.133:9615/metrics",
+  "id": "8ac8a466-1f20-47cc-849e-39aa5c2450bd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "zkpengu",
+  "logo": "https://r.resimlink.com/jbBlo7sW.png",
+  "rpc_url": "http://213.136.71.216:9944",
+  "explorer_url": "http://213.136.71.216:4000",
+  "metrics_endpoint": "http://213.136.71.216:9615/metrics",
+  "id": "f15577a0-2038-4792-8f93-83b5f5486236"
+}

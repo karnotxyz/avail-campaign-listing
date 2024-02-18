@@ -1,0 +1,8 @@
+{
+  "name": "FoxyApp",
+  "logo": "https://drive.google.com/file/d/1YW7PK0UCCnSGtnIygUNf-SCmo1GtkzpG/view",
+  "rpc_url": "http://5.182.87.181:9944",
+  "explorer_url": "http://5.182.87.181:4000",
+  "metrics_endpoint": "http://5.182.87.181:9615/metrics",
+  "id": "0f4076ac-6ec7-407a-9cc8-7047ac64fe08"
+}

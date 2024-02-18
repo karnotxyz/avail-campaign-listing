@@ -1,0 +1,8 @@
+{
+  "name": "farukyasar",
+  "logo": "https://ibb.co/2SJ4KPY",
+  "rpc_url": "http://173.212.239.231:9944",
+  "explorer_url": "http://173.212.239.231:4000",
+  "metrics_endpoint": "http://173.212.239.231:9615/metrics",
+  "id": "26eb536b-1d23-4bc5-966a-4cbc049a3a49"
+}

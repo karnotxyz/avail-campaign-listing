@@ -1,0 +1,8 @@
+{
+  "name": "hosseinamm",
+  "logo": "https://r.resimlink.com/tPqXk7.png",
+  "rpc_url": "http://86.48.0.175:9944",
+  "explorer_url": "http://86.48.0.175:4000",
+  "metrics_endpoint": "http://86.48.0.175:9615/metrics",
+  "id": "951a5608-9db3-4032-8a5b-bc273a3e3284"
+}

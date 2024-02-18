@@ -1,0 +1,8 @@
+{
+  "name": "elvitaliko",
+  "logo": "https://i.imgur.com/dHyXpje.png",
+  "rpc_url": "http://81.0.246.198:9944",
+  "explorer_url": "http://81.0.246.198:4000",
+  "metrics_endpoint": "http://81.0.246.198:9615/metrics",
+  "id": "cef359bc-2a11-443d-a0e4-a607e54d954e"
+}

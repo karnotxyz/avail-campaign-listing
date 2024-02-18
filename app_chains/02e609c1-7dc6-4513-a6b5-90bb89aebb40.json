@@ -1,8 +1,0 @@
-{
-  "name": "roundedround",
-  "logo": "http://im.ge/i/b2yOiD",
-  "rpc_url": "http://185.193.66.10:9944",
-  "explorer_url": "http://185.193.66.10:4000",
-  "metrics_endpoint": "http://185.193.66.10:9615/metrics",
-  "id": "02e609c1-7dc6-4513-a6b5-90bb89aebb40"
-}

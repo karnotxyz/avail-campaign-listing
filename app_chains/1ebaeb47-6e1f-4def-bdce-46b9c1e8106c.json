@@ -1,0 +1,8 @@
+{
+  "name": "grimchiy",
+  "logo": "https://i.im.ge/2024/02/05/befg2D.images.jpg",
+  "rpc_url": "http://43.156.140.136:9944",
+  "explorer_url": "http://43.156.140.136:4000",
+  "metrics_endpoint": "http://43.156.140.136:9615/metrics",
+  "id": "1ebaeb47-6e1f-4def-bdce-46b9c1e8106c"
+}

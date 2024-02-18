@@ -1,0 +1,8 @@
+{
+  "name": "0xeyc",
+  "logo": "https://r.resimlink.com/MNj2YkD.png",
+  "rpc_url": "http://34.27.218.211:9944",
+  "explorer_url": "http://34.27.218.211:4000",
+  "metrics_endpoint": "http://34.27.218.211:9615/metrics",
+  "id": "1de037c4-152b-4cc4-b0ff-d4710469eb35"
+}

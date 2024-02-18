@@ -1,0 +1,8 @@
+{
+  "name": "rewikimember",
+  "logo": "https://raw.githubusercontent.com/ReguideWIKI/ReWiki_Labs/prod/static/ReWiki-LOGO-150x150.png",
+  "rpc_url": "http://5.189.156.120:9944",
+  "explorer_url": "http://5.189.156.120:4000",
+  "metrics_endpoint": "http://5.189.156.120:9615/metrics",
+  "id": "d31c73d5-417b-44b4-8340-26fb667cf02b"
+}

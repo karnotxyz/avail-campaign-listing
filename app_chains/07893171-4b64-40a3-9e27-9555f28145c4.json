@@ -1,0 +1,8 @@
+{
+  "name": "greyminty",
+  "logo": "https://i.imgur.com/UDV8mGN.jpg",
+  "rpc_url": "http://116.203.145.237:9944",
+  "explorer_url": "http://116.203.145.237:4000",
+  "metrics_endpoint": "http://116.203.145.237:9615/metrics",
+  "id": "07893171-4b64-40a3-9e27-9555f28145c4"
+}

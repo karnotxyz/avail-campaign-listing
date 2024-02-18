@@ -1,0 +1,8 @@
+{
+  "name": "inspector44",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/a047e482efda180551fc037ec1078205_360_360.jpg",
+  "rpc_url": "http://161.97.174.21:9944",
+  "explorer_url": "http://161.97.174.21:4000",
+  "metrics_endpoint": "http://161.97.174.21:9615/metrics",
+  "id": "d2e92728-05a2-47e6-9d37-90ca0a15ee50"
+}

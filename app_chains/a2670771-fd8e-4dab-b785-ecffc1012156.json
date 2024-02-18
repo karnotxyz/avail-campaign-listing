@@ -1,0 +1,8 @@
+{
+  "name": "Available",
+  "logo": "https://placehold.co/400x400/lightgray/darkblue?text=Avail",
+  "rpc_url": "http://84.247.187.189:9944",
+  "explorer_url": "http://84.247.187.189:4000",
+  "metrics_endpoint": "http://84.247.187.189:9615/metrics",
+  "id": "a2670771-fd8e-4dab-b785-ecffc1012156"
+}

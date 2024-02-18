@@ -1,0 +1,8 @@
+{
+  "name": "gori",
+  "logo": "https://imgur.com/7l7PpSc",
+  "rpc_url": "http://167.86.78.118:9944",
+  "explorer_url": "http://167.86.78.118:4000",
+  "metrics_endpoint": "http://167.86.78.118:9615/metrics",
+  "id": "db94fb63-08b9-44f6-9990-54eeaac53623"
+}

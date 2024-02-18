@@ -1,0 +1,8 @@
+{
+  "name": "tlptkmn",
+  "logo": "https://i.ibb.co/Kxk4Qcp/47tmu9-SX-400x400.jpg",
+  "rpc_url": "http://173.249.55.115:9944",
+  "explorer_url": "http://173.249.55.115:4000",
+  "metrics_endpoint": "http://173.249.55.115:9615/metrics",
+  "id": "9bedfa1d-e0de-48ca-a868-b86c776c93a9"
+}

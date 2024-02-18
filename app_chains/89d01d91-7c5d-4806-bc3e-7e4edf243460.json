@@ -1,0 +1,8 @@
+{
+  "name": "dsrv_app_chain",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg",
+  "rpc_url": "http://206.189.51.66:9944",
+  "explorer_url": "http://206.189.51.66:4000",
+  "metrics_endpoint": "http://206.189.51.66:9615/metrics",
+  "id": "89d01d91-7c5d-4806-bc3e-7e4edf243460"
+}

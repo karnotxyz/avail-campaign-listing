@@ -1,0 +1,8 @@
+{
+  "name": "VTB_MADARA_CHAIN",
+  "logo": "https://raw.githubusercontent.com/thanhbinhpc2007/logo/main/logo.png",
+  "rpc_url": "http://86.48.3.66:9944",
+  "explorer_url": "http://86.48.3.66:4000",
+  "metrics_endpoint": "http://86.48.3.66:9615/metrics",
+  "id": "bef64678-3644-4bbf-ab0d-409236dfa6aa"
+}

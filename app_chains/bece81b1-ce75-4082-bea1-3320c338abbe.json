@@ -1,0 +1,8 @@
+{
+  "name": "bitveil",
+  "logo": "https://i.imgur.com/0Stry2R.jpeg",
+  "rpc_url": "http://95.216.150.248:9944",
+  "explorer_url": "http://95.216.150.248:4000",
+  "metrics_endpoint": "http://95.216.150.248:9615/metrics",
+  "id": "bece81b1-ce75-4082-bea1-3320c338abbe"
+}

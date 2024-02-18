@@ -1,0 +1,8 @@
+{
+  "name": "Kocality",
+  "logo": "https://i.imgur.com/6YuPjmI.png",
+  "rpc_url": "http://135.181.156.234:9944",
+  "explorer_url": "http://135.181.156.234:4000",
+  "metrics_endpoint": "http://135.181.156.234:9615/metrics",
+  "id": "66204678-d96b-4c2c-a543-765e1b995ad1"
+}

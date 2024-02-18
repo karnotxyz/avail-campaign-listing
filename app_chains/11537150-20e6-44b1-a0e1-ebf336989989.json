@@ -1,0 +1,8 @@
+{
+  "name": "coshift",
+  "logo": "https://i.imgur.com/hjBdq8o.png",
+  "rpc_url": "http://138.201.88.250:9944",
+  "explorer_url": "http://138.201.88.250:4000",
+  "metrics_endpoint": "http://138.201.88.250:9615/metrics",
+  "id": "11537150-20e6-44b1-a0e1-ebf336989989"
+}

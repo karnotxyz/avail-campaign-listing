@@ -1,0 +1,8 @@
+{
+  "name": "hamedche2",
+  "logo": "https://i.ibb.co/T81Wzkc/bird-2.jpg",
+  "rpc_url": "http://135.181.93.73:9944",
+  "explorer_url": "http://135.181.93.73:4000",
+  "metrics_endpoint": "http://135.181.93.73:9615/metrics",
+  "id": "1dfa2dfe-a312-42ef-a5e6-d7cc40bcb8ef"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Xepi",
+  "logo": "https://r.resimlink.com/PXFAL2Ur4tNO.jpg",
+  "rpc_url": "http://91.107.141.92:9944",
+  "explorer_url": "http://91.107.141.92:4000",
+  "metrics_endpoint": "http://91.107.141.92:9615/metrics",
+  "id": "cc33df86-981a-45e5-b4ed-79b378c69634"
+}

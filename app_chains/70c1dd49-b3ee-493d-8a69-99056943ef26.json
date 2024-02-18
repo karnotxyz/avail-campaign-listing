@@ -1,0 +1,8 @@
+{
+  "name": "infinity",
+  "logo": "https://im.ge/i/bdkwlr",
+  "rpc_url": "http://66.42.62.191:9944",
+  "explorer_url": "http://66.42.62.191:4000",
+  "metrics_endpoint": "http://66.42.62.191:9615/metrics",
+  "id": "70c1dd49-b3ee-493d-8a69-99056943ef26"
+}

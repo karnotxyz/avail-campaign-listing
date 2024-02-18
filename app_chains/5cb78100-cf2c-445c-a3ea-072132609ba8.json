@@ -1,0 +1,8 @@
+{
+  "name": "garcia",
+  "logo": "https://i.imgur.com/eqn58cr.jpeg",
+  "rpc_url": "http://49.13.87.241:9944",
+  "explorer_url": "http://49.13.87.241:4000",
+  "metrics_endpoint": "http://49.13.87.241:9615/metrics",
+  "id": "5cb78100-cf2c-445c-a3ea-072132609ba8"
+}

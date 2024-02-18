@@ -1,0 +1,8 @@
+{
+  "name": "alpagupk",
+  "logo": "https://imgur.com/a/UOneWTs",
+  "rpc_url": "http://84.247.135.196:9944",
+  "explorer_url": "http://84.247.135.196:4000",
+  "metrics_endpoint": "http://84.247.135.196:9615/metrics",
+  "id": "f11f3873-f5d2-4d5b-89d0-befcf2f5271f"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ertembora",
+  "logo": "https://r.resimlink.com/M4CiODHRJb07.jpg",
+  "rpc_url": "http://194.163.184.47:9944",
+  "explorer_url": "http://194.163.184.47:4000",
+  "metrics_endpoint": "http://194.163.184.47:9615/metrics",
+  "id": "7b0f3487-473d-4fd0-9156-696caa142f71"
+}

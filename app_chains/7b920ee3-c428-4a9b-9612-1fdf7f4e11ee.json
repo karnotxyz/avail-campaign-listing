@@ -1,0 +1,8 @@
+{
+  "name": "JEONGNAM",
+  "logo": "https://ibb.co/861Jsq9",
+  "rpc_url": "http://167.86.80.153:9944",
+  "explorer_url": "http://167.86.80.153:4000",
+  "metrics_endpoint": "http://167.86.80.153:9615/metrics",
+  "id": "7b920ee3-c428-4a9b-9612-1fdf7f4e11ee"
+}

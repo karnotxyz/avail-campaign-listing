@@ -1,0 +1,8 @@
+{
+  "name": "alexcheung",
+  "logo": "https://zh.wikipedia.org/wiki/File:MobiusStrip-01.png",
+  "rpc_url": "http://103.215.79.236:9944",
+  "explorer_url": "http://103.215.79.236:4000",
+  "metrics_endpoint": "http://103.215.79.236:9615/metrics",
+  "id": "39994659-1cde-4307-a284-0b2a152d05b1"
+}

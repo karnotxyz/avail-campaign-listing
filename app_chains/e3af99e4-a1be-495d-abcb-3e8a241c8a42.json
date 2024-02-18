@@ -1,0 +1,8 @@
+{
+  "name": "tekin86",
+  "logo": "https://r.resimlink.com/0I6gU.png",
+  "rpc_url": "http://135.181.88.245:9944",
+  "explorer_url": "http://135.181.88.245:4000",
+  "metrics_endpoint": "http://135.181.88.245:9615/metrics",
+  "id": "e3af99e4-a1be-495d-abcb-3e8a241c8a42"
+}

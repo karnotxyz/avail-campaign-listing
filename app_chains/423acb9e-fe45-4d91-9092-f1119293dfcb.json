@@ -1,0 +1,8 @@
+{
+  "name": "selimc",
+  "logo": "https://i.imgur.com/SZKTe1n.jpg",
+  "rpc_url": "http://178.18.243.179:9944",
+  "explorer_url": "http://178.18.243.179:4000",
+  "metrics_endpoint": "http://178.18.243.179:9615/metrics",
+  "id": "423acb9e-fe45-4d91-9092-f1119293dfcb"
+}

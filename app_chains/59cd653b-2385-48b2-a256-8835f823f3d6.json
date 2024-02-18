@@ -1,0 +1,8 @@
+{
+  "name": "Karthik",
+  "logo": "https://pbs.twimg.com/profile_images/1470301139711127554/uOT7BqMA_400x400.jpg",
+  "rpc_url": "http://188.119.113.159:9944",
+  "explorer_url": "http://188.119.113.159:4000",
+  "metrics_endpoint": "http://188.119.113.159:9615/metrics",
+  "id": "59cd653b-2385-48b2-a256-8835f823f3d6"
+}
