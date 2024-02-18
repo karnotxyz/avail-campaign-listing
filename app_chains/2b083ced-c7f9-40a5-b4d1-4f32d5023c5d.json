@@ -1,8 +1,0 @@
-{
-  "name": "lamda",
-  "logo": "https://dylanma1994.oss-us-west-1.aliyuncs.com/lamba.jpg",
-  "rpc_url": "http://49.51.40.210:9944",
-  "explorer_url": "http://49.51.40.210:4000",
-  "metrics_endpoint": "http://49.51.40.210:9615/metrics",
-  "id": "2b083ced-c7f9-40a5-b4d1-4f32d5023c5d"
-}
