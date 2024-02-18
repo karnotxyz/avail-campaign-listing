@@ -1,0 +1,8 @@
+{
+    "name": "siyamak",
+    "logo": "https://r.resimlink.com/3A90TQ6kZuJ.jpg",
+    "rpc_url": "http://5.75.169.68:9944",
+    "explorer_url": "http://5.75.169.68:4000",
+    "metrics_endpoint": "http://5.75.169.68:9615/metrics",
+    "id": "8738731d-baf1-4a63-9191-41b158fd9e8f"
+}
