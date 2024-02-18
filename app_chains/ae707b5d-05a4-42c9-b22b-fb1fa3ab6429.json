@@ -1,0 +1,8 @@
+{
+  "name": "VampsNode",
+  "logo": "https://i.ibb.co/JHNKC9P/Cipher-logo1.jpg",
+  "rpc_url": "http://158.220.127.159:9944",
+  "explorer_url": "http://158.220.127.159:4000",
+  "metrics_endpoint": "http://158.220.127.159:9615/metrics",
+  "id": "ae707b5d-05a4-42c9-b22b-fb1fa3ab6429"
+}
