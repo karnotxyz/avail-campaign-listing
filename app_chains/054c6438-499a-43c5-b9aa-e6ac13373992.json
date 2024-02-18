@@ -1,8 +1,8 @@
 {
-    "name": "together",
-    "logo": "https://resimlink.com/WjloaX",
-    "rpc_url": "http://194.163.140.114:9944",
-    "explorer_url": "http://194.163.140.114:4000",
-    "metrics_endpoint": "http://194.163.140.114:9615",
-    "id": "054c6438-499a-43c5-b9aa-e6ac13373992"
-  }
+  "name": “together”,
+  "logo": "https://resimlink.com/WjloaX", 
+  "rpc_url": "http://194.163.140.114:9944",
+  "explorer_url": "http://194.163.140.114:4000",
+  "metrics_endpoint": "http://194.163.140.114:9615/metrics",
+  "id": "054c6438-499a-43c5-b9aa-e6ac13373992"
+}
