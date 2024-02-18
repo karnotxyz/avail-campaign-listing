@@ -1,7 +1,8 @@
-{ "name": "Fluffy", 
-  "logo": "https://i.ibb.co/yF3z0YW/images.jpg", 
-  "rpc_url": "http://75.119.156.209:9944", 
-  "explorer_url": "http://75.119.156.209:4000", 
-  "metrics_endpoint": "http://75.119.156.209:9615/metrics", 
+{
+  "name": "Fluffy",
+  "logo": "https://i.ibb.co/yF3z0YW/images.jpg",
+  "rpc_url": "http://75.119.156.209:9944",
+  "explorer_url": "http://75.119.156.209:4000",
+  "metrics_endpoint": "http://75.119.156.209:9615/metrics",
   "id": "794ecd1b-de4d-4cde-a7c6-84a990799d05"
 }
