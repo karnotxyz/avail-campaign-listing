@@ -1,0 +1,8 @@
+{
+  "name": "grez_appchain",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/archive/c/c1/20170301123009%21Google_%22G%22_logo.svg",
+  "rpc_url": "http://209.208.97.250:9944",
+  "explorer_url": "http://209.208.97.250:4000",
+  "metrics_endpoint": "http://209.208.97.250:9615/metrics",
+  "id": "90a94049-1664-4d25-91db-cebd35fd603c"
+}
