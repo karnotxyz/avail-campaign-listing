@@ -1,0 +1,8 @@
+{
+  "name": "wisedao",
+  "logo": "none",
+  "rpc_url": "http://34.76.68.149:9944",
+  "explorer_url": "http://34.76.68.149:4000",
+  "metrics_endpoint": "http://34.76.68.149:9615/metrics",
+  "id": "79ccad72-d513-4238-891f-2088c5b6e316"
+}
