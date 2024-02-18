@@ -1,0 +1,8 @@
+{
+  "name": "xcodi",
+  "logo": "https://imgur.com/a/lvNHm6A.png",
+  "rpc_url": "http://109.123.234.243/:9944",
+  "explorer_url": "http://109.123.234.243:4000",
+  "metrics_endpoint": "http://109.123.234.243:9615/metrics",
+  "id": "e53cebff-7997-428f-abd5-1918e7437c83"
+}
