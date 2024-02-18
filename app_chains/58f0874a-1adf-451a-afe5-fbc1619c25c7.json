@@ -1,6 +1,6 @@
 {
   "name": "wisedao",
-  "logo": "https://hizliresim.com/e0ajgzt.jpeg",
+  "logo": "none",
   "rpc_url": "http://34.76.68.149:9944",
   "explorer_url": "http://34.76.68.149:4000",
   "metrics_endpoint": "http://34.76.68.149:9615/metrics",
