@@ -1,0 +1,8 @@
+{
+  "name": "atal",
+  "logo": "https://r.resimlink.com/Edmr8W.jpg",  
+  "rpc_url": "http://144.91.84.163:9944",
+  "explorer_url": "http://144.91.84.163:4000",
+  "metrics_endpoint": "http://144.91.84.163:9615",
+  "id": "6739ab67-e385-4664-bb77-8b29a291bd58"
+}
