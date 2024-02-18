@@ -1,0 +1,8 @@
+{
+  "name": "mawuli",
+  "logo": "https://i.ibb.co/gPSngrj/klim-musalimov-1td-M8-Kz8-Uk-unsplash.jpg",
+  "rpc_url": "http://34.125.171.203:9944",
+  "explorer_url": "http://34.125.171.203:4000",
+  "metrics_endpoint": "http://34.125.171.203:9615/metrics",
+  "id": "000170c5-5bce-41a2-8e97-e128f1d7781a"
+}
