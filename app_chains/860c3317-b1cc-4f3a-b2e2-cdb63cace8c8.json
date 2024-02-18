@@ -1,0 +1,8 @@
+{
+  "name": "lili",
+  "logo": "https://r.resimlink.com/gzB9UQi.jpg",
+  "rpc_url": "http://5.75.203.24:9944",
+  "explorer_url": "http://5.75.203.24:4000",
+  "metrics_endpoint": "http://5.75.203.24:9615/metrics",
+  "id": "75ed47b5-9a2a-4229-adfc-8f0b26cbc18f"
+}
