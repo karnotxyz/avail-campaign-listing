@@ -1,0 +1,8 @@
+{
+  "name": "apple",
+  "logo": "https://i.imgur.com/PEmm0he.jpg",
+  "rpc_url": "http://173.212.209.95:9944",
+  "explorer_url": "http://173.212.209.95:4000",
+  "metrics_endpoint": "http://173.212.209.95:9615/metrics",
+  "id": "f7ab0cf9-1f41-462d-b1c1-f3dd8e7fce4d"
+}

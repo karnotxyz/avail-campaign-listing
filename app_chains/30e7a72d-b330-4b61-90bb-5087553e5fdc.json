@@ -1,0 +1,8 @@
+{
+  "name": "faisal",
+  "logo": "https://i.postimg.cc/cHXd9GXt/Capture.png",
+  "rpc_url": "http://158.220.99.101:9944",
+  "explorer_url": "http://158.220.99.101:4000",
+  "metrics_endpoint": "http://158.220.99.101:9615/metrics",
+  "id": "30e7a72d-b330-4b61-90bb-5087553e5fdc"
+}

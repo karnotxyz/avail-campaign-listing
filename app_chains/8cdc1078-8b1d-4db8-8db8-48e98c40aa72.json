@@ -1,0 +1,8 @@
+{
+  "name": "rice",
+  "logo": "https://gw.alipayobjects.com/zos/bmw-prod/598d14af-4f1c-497d-b579-5ac42cd4dd1f/k7bjua9c_w132_h130.png",
+  "rpc_url": "http://194.116.173.90:9944",
+  "explorer_url": "http://194.116.173.90:4000",
+  "metrics_endpoint": "http://194.116.173.90:9615/metrics",
+  "id": "8cdc1078-8b1d-4db8-8db8-48e98c40aa72"
+}
