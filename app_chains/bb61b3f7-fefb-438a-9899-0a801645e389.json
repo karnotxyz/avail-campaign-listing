@@ -1,0 +1,8 @@
+{
+  "name": "mstafaku",
+  "logo": "https://r.resimlink.com/E24Tja.png",
+  "rpc_url": "http://217.76.55.249:9944",
+  "explorer_url": "http://217.76.55.249:4000",
+  "metrics_endpoint": "http://217.76.55.249:9615/metrics",
+  "id": "bb61b3f7-fefb-438a-9899-0a801645e389"
+}
