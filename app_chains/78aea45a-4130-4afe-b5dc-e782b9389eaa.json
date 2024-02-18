@@ -1,0 +1,8 @@
+{
+  "name": "PEAKY",
+  "logo": "https://imgyukle.com/i/yzflEc",
+  "rpc_url": "http://109.199.97.185:9944",
+  "explorer_url": "http://109.199.97.185:4000",
+  "metrics_endpoint": "http://109.199.97.185:9615/metrics",
+  "id": "78aea45a-4130-4afe-b5dc-e782b9389eaa"
+}
