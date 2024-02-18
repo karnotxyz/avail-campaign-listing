@@ -1,8 +1,0 @@
-{
-  "name": "faranak",
-  "logo": "https://r.resimlink.com/Qd23OgoB.png",
-  "rpc_url": "http://173.212.193.54:9944",
-  "explorer_url": "http://173.212.193.54:4000",
-  "metrics_endpoint": "http://173.212.193.54:9615/metrics",
-  "id": "52ae2a5b-ba2f-4204-974b-bca3b7e948c2"
-}
