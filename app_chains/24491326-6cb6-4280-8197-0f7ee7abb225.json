@@ -1,0 +1,8 @@
+{
+  "name": "pishig",
+  "logo": "https://r.resimlink.com/j2p83.jpg",
+  "rpc_url": "http://75.119.159.50:9944",
+  "explorer_url": "http://75.119.159.50:4000",
+  "metrics_endpoint": "http://75.119.159.50:9615/metrics",
+  "id": "24491326-6cb6-4280-8197-0f7ee7abb225"
+}
