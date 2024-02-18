@@ -1,0 +1,8 @@
+{
+  "name": "aminm",
+  "logo": "https://i.postimg.cc/fL1P2Gqy/1.png",
+  "rpc_url": "http://167.233.5.248:9944",
+  "explorer_url": "http://167.233.5.248:4000",
+  "metrics_endpoint": "http://167.233.5.248:9615/metrics",
+  "id": "845085ef-fb9d-47a9-8a1d-f8d4b998c98e"
+}
