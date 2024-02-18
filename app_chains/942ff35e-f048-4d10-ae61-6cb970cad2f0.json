@@ -1,8 +1,8 @@
 {
-  "name": "Zer0Luck",
-  "logo": "https://localhost.zer0luck.kr/ZR-GGGW-main.png",
-  "rpc_url": "https://45.137.192.104:9944",
-  "explorer_url": "https://45.137.192.104:4000",
-  "metrics_endpoint": "https://45.137.192.104:9615/metrics",
+  "name": "lmao",
+  "logo": "https://ibb.co/tp7v6W9",
+  "rpc_url": "http://43.133.215.71:9944",
+  "explorer_url": "http://43.133.215.71:4000",
+  "metrics_endpoint": "http://43.133.215.71:9615/metrics",
   "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
 }
