@@ -1,0 +1,8 @@
+{
+  "name": "avail_ameeeeeen",
+  "logo": "https://ibb.co/mvfqNjp",
+  "rpc_url": "http://202.133.89.112:9944",
+  "explorer_url": "http://202.133.89.112:4000",
+  "metrics_endpoint": "http://202.133.89.112:9615/metrics",
+  "id": "d3498021-4f1d-41d8-9b23-c320814b1069"
+}
