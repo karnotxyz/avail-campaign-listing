@@ -1,8 +1,0 @@
-{
-  "name": "yimadarap2",
-  "logo": "https://i.ibb.co/jHGB4kD/YIMADARA.png",
-  "rpc_url": "http://176.223.129.107:9944",
-  "explorer_url": "http://176.223.129.107:4000",
-  "metrics_endpoint": "http://176.223.129.107:9615/metrics",
-  "id": "4022b4db-05da-92d0-6047-cea57aeb0bbb"
-}
