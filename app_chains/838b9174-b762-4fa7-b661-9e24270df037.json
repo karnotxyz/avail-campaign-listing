@@ -1,0 +1,8 @@
+{
+  "name": "clicksapp",
+  "logo": "https://i.ibb.co/r4Dfz8J/profile-picture.jpg",
+  "rpc_url": "http://163.5.242.39:4000",
+  "explorer_url": "http://163.5.242.39:4000",
+  "metrics_endpoint": "https://163.5.242.39:9615/metrics",
+  "id": "838b9174-b762-4fa7-b661-9e24270df037"
+}
