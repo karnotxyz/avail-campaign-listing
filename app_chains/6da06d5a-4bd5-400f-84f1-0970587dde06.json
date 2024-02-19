@@ -1,0 +1,8 @@
+{
+  "name": "justin",
+  "logo": "https://r.resimlink.com/zvcKI7FXl.png",
+  "rpc_url": "http://37.60.252.237:9944",
+  "explorer_url": "http://37.60.252.237:4000",
+  "metrics_endpoint": "http://37.60.252.237:9615/metrics",
+  "id": "6da06d5a-4bd5-400f-84f1-0970587dde06"
+}

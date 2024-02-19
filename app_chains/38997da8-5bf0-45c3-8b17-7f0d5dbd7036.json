@@ -1,0 +1,8 @@
+{
+  "name": "kuzDex",
+  "logo": "https://i.ibb.co/6wFmMJM/logo-JP-baru.png",
+  "rpc_url": "http://188.34.199.224:9944",
+  "explorer_url": "http://188.34.199.224:4000",
+  "metrics_endpoint": "http://188.34.199.224:9615/metrics",
+  "id": "38997da8-5bf0-45c3-8b17-7f0d5dbd7036"
+}

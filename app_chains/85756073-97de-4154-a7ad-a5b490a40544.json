@@ -1,0 +1,8 @@
+{
+  "name": "kaleidoscope",
+  "logo": "",
+  "rpc_url": "http://149.102.157.239:9944",
+  "explorer_url": "http://149.102.157.239:4000",
+  "metrics_endpoint": "http://149.102.157.239:9615/metrics",
+  "id": "85756073-97de-4154-a7ad-a5b490a40544"
+}

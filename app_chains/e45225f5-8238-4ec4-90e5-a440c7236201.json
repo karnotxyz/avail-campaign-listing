@@ -1,0 +1,8 @@
+{
+  "name": "hootlegacy",
+  "logo": "http://129.226.149.30/logo.jpg",
+  "rpc_url": "http://129.226.149.30:9944",
+  "explorer_url": "http://129.226.149.30:4000",
+  "metrics_endpoint": "http://129.226.149.30:9615/metrics",
+  "id": "e45225f5-8238-4ec4-90e5-a440c7236201"
+}

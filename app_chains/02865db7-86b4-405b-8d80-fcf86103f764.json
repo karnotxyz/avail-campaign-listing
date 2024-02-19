@@ -1,0 +1,8 @@
+{
+  "name": "pinorendang",
+  "logo": "https://i.imgur.com/D67JUmu.jpeg",
+  "rpc_url": "http://128.199.100.28:9944",
+  "explorer_url": "http://128.199.100.28:4000",
+  "metrics_endpoint": "http://128.199.100.28:9615/metrics",
+  "id": "02865db7-86b4-405b-8d80-fcf86103f764"
+}
