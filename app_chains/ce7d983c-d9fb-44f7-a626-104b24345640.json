@@ -1,0 +1,8 @@
+{
+  "name": "switchisgood911",
+  "logo": "https://add.pics/images/2024/02/08/3560bda7430d5ad04ee34d7a8dbe5b5e.png",
+  "rpc_url": "http://43.156.241.253:9944",
+  "explorer_url": "http://43.156.241.253:4000",
+  "metrics_endpoint": "http://43.156.241.253:9615/metrics",
+  "id": "ce7d983c-d9fb-44f7-a626-104b24345640"
+}

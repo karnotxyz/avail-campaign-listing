@@ -1,0 +1,8 @@
+{
+  "name": "dicle",
+  "logo": "https://i.imgur.com/X3K4pCP.jpg",
+  "rpc_url": "http://142.93.135.25:9944",
+  "explorer_url": "http://142.93.135.25:4000",
+  "metrics_endpoint": "http://142.93.135.25:9615/metrics",
+  "id": "ad39e1ec-0b72-4205-a287-3a9ac96cbd78"
+}

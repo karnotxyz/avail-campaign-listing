@@ -1,0 +1,8 @@
+{
+  "name": "Suskesorg",
+  "logo": "https://raw.githubusercontent.com/Suskesorg/kosongan/main/Madara%20Logo.png",
+  "rpc_url": "http://75.119.145.85:9944",
+  "explorer_url": "http://75.119.145.85:4000",
+  "metrics_endpoint": "http://75.119.145.85:9615/metrics",
+  "id": "246c6af2-6aa4-43a6-b7d2-59576a167c68"
+}

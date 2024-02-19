@@ -1,0 +1,8 @@
+{
+  "name": "worshippe",
+  "logo": "http://43.130.242.237/logo.jpg",
+  "rpc_url": "http://43.130.242.237:9944",
+  "explorer_url": "http://43.130.242.237:4000",
+  "metrics_endpoint": "http://43.130.242.237:9615/metrics",
+  "id": "28fb7226-c971-427a-ac22-85b4103d7f31"
+}

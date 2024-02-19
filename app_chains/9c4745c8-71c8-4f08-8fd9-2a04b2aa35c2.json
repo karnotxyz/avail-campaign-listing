@@ -1,0 +1,8 @@
+{
+  "name": "lumos",
+  "logo": "https://i.imgur.com/Fp9ySbt.png",
+  "rpc_url": "http://38.242.129.24:9944",
+  "explorer_url": "http://38.242.129.24:4000",
+  "metrics_endpoint": "http://38.242.129.24:9615/metrics",
+  "id": "9c4745c8-71c8-4f08-8fd9-2a04b2aa35c2"
+}

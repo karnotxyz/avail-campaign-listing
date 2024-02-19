@@ -1,0 +1,8 @@
+{
+  "name": "arvin",
+  "logo": "https://r.resimlink.com/MiDF6U5IA.png",
+  "rpc_url": "http://46.249.100.193:9944",
+  "explorer_url": "http://46.249.100.193:4000",
+  "metrics_endpoint": "http://46.249.100.193:9615/metrics",
+  "id": "5bbaf04b-cef6-4a4c-8ede-75069600fca3"
+}

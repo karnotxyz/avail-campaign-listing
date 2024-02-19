@@ -1,0 +1,8 @@
+{
+  "name": "arlansider",
+  "logo": "https://i.ibb.co/Px7rRCB/Boruto-400x400.png",
+  "rpc_url": "http://184.174.32.59:9944",
+  "explorer_url": "http://184.174.32.59:4000",
+  "metrics_endpoint": "http://184.174.32.59:9615/metrics",
+  "id": "91e404ae-4e19-46a1-b18c-5a8a5769021d"
+}

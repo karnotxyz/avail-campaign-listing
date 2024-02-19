@@ -1,0 +1,8 @@
+{
+  "name": "crazy",
+  "logo": "https://0test123.oss-cn-hangzhou.aliyuncs.com/%E5%9B%BE%E7%89%87/crazy_5644716-1.jpg",
+  "rpc_url": "http://mrpc.testnet.cn:9944",
+  "explorer_url": "http://mexplorer.testnet.cn:4000",
+  "metrics_endpoint": "http://mmetrics.testnet.cn:9615/metrics",
+  "id": "1cbc149e-5dd5-49c7-8587-4a55ccea8546"
+}

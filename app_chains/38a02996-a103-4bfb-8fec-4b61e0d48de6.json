@@ -1,0 +1,8 @@
+{
+  "name": "MAC",
+  "logo": "",
+  "rpc_url": "http://95.217.207.153:9944",
+  "explorer_url": "http://95.217.207.153:4000",
+  "metrics_endpoint": "http://95.217.207.153:9615/metrics",
+  "id": "38a02996-a103-4bfb-8fec-4b61e0d48de6"
+}

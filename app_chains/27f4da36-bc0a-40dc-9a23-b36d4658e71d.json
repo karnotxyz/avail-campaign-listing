@@ -1,0 +1,8 @@
+{
+  "name": "fubinmiao",
+  "logo": "https://raw.githubusercontent.com/boys73406/boys73406/main/boy.jpg",
+  "rpc_url": "http://158.220.90.179:9944",
+  "explorer_url": "http://158.220.90.179:4000",
+  "metrics_endpoint": "http://158.220.90.179:9615/metrics",
+  "id": "27f4da36-bc0a-40dc-9a23-b36d4658e71d"
+}

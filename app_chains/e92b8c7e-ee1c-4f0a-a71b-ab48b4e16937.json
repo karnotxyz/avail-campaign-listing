@@ -1,0 +1,8 @@
+{
+  "name": "atacoin",
+  "logo": "https://r.resimlink.com/SnBY9rDy8.png",
+  "rpc_url": "http://18.193.102.210:9944",
+  "explorer_url": "http://18.193.102.210:4000",
+  "metrics_endpoint": "http://18.193.102.210:9615/metrics",
+  "id": "e92b8c7e-ee1c-4f0a-a71b-ab48b4e16937"
+}

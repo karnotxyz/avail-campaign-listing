@@ -1,0 +1,8 @@
+{
+  "name": "stakky",
+  "logo": "https://ibb.co/LkbN5XM/400x400",
+  "rpc_url": "http://157.90.181.76:4000",
+  "explorer_url": "http://157.90.181.76:4000",
+  "metrics_endpoint": "http://157.90.181.76:4000",
+  "id": "09e8eaa9-cb25-478d-95bb-65bfba0fc7bd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "STR-NaN",
+  "logo": "https://i.imgur.com/0XE9QcV.png",
+  "rpc_url": "http://95.217.133.138:9944",
+  "explorer_url": "http://95.217.133.138:4000",
+  "metrics_endpoint": "http://95.217.133.138:9615/metrics",
+  "id": "f7be6261-be70-4d92-b2de-b4654adcd9d0"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Block-Sync",
+  "logo": "https://raw.githubusercontent.com/vnbnode/binaries/main/Logo/VNBnode.jpg",
+  "rpc_url": "http://109.123.254.29:9944",
+  "explorer_url": "http://109.123.254.29:4000",
+  "metrics_endpoint": "http://109.123.254.29:9615/metrics",
+  "id": "84beaa1a-97fe-452c-9106-22b05b9f21e3"
+}

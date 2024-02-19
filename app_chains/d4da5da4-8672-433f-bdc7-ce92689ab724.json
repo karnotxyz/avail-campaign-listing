@@ -1,0 +1,8 @@
+{
+  "name": "cuckoo",
+  "logo": "http://43.155.162.103/static/img/cuckoo.png",
+  "rpc_url": "http://43.155.162.103:9944",
+  "explorer_url": "http://43.155.162.103:4000",
+  "metrics_endpoint": "http://43.155.162.103:9615/metrics",
+  "id": "d4da5da4-8672-433f-bdc7-ce92689ab724"
+}

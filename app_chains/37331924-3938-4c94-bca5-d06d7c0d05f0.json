@@ -1,0 +1,8 @@
+{
+  "name": "anthea",
+  "logo": "https://raw.githubusercontent.com/verbatim284/k/c8cade853d46b89380948d88b1cd650c0887ee41/k.png",
+  "rpc_url": "http://78.47.163.78:9944",
+  "explorer_url": "http://78.47.163.78:4000",
+  "metrics_endpoint": "http://78.47.163.78:9615/metrics",
+  "id": "37331924-3938-4c94-bca5-d06d7c0d05f0"
+}

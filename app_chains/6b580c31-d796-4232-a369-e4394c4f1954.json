@@ -1,0 +1,8 @@
+{
+  "name": "ya2ın3",
+  "logo": "https://r.resimlink.com/T1GNofcCqMy.jpg",
+  "rpc_url": "http://173.249.51.170:9944",
+  "explorer_url": "http://173.249.51.170:4000",
+  "metrics_endpoint": "http://173.249.51.170:9615/metrics",
+  "id": "6b580c31-d796-4232-a369-e4394c4f1954"
+}

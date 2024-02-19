@@ -1,0 +1,8 @@
+{
+  "name": "AwesomeU",
+  "logo": "https://imgur.com/7ulSKMq",
+  "rpc_url": "http://34.29.77.137:9944",
+  "explorer_url": "http://34.29.77.137:4000",
+  "metrics_endpoint": "http://34.29.77.137:9615/metrics",
+  "id": "67e61e4d-e71d-4ba2-b10f-f58276ad2947"
+}

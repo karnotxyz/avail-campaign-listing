@@ -1,0 +1,8 @@
+{
+  "name": "melis",
+  "logo": "https://r.resimlink.com/ekf8Q.jpg",
+  "rpc_url": "http://65.108.92.212:9944",
+  "explorer_url": "http://65.108.92.212:4000",
+  "metrics_endpoint": "http://65.108.92.212:9615/metrics",
+  "id": "5525a6b5-a8c7-4efa-ae81-32da3b8aedea"
+}

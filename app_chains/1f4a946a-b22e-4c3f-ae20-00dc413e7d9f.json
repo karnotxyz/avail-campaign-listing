@@ -1,0 +1,8 @@
+{
+  "name": "tillersnowy",
+  "logo": "http://43.134.191.8/logo.jpg",
+  "rpc_url": "http://43.134.191.8:9944",
+  "explorer_url": "http://43.134.191.8:4000",
+  "metrics_endpoint": "http://43.134.191.8:9615/metrics",
+  "id": "1f4a946a-b22e-4c3f-ae20-00dc413e7d9f"
+}

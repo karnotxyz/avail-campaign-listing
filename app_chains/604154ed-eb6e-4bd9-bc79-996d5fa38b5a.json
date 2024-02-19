@@ -1,0 +1,8 @@
+{
+  "name": "essentialsx",
+  "logo": "https://raw.githubusercontent.com/EssentialsxW/Beginning/main/Gojo.jpg",
+  "rpc_url": "http://65.21.253.139:9944",
+  "explorer_url": "http://65.21.253.139:4000",
+  "metrics_endpoint": "http://65.21.253.139:9615/metrics",
+  "id": "604154ed-eb6e-4bd9-bc79-996d5fa38b5a"
+}

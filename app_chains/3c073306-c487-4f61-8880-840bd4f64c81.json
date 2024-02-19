@@ -1,0 +1,8 @@
+{
+  "name": "parsar",
+  "logo": "https://ibb.co/cwHYhh4",
+  "rpc_url": "http://172.86.68.133:9944",
+  "explorer_url": "http://172.86.68.133:4000",
+  "metrics_endpoint": "http://172.86.68.133:9615/metrics",
+  "id": "3c073306-c487-4f61-8880-840bd4f64c81"
+}

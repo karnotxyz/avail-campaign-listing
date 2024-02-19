@@ -1,0 +1,8 @@
+{
+  "name": "MissUU",
+  "logo": "https://i.ibb.co/Vpkdff2/12479324-1001964749891198-270879904-a.jpg",
+  "rpc_url": "http://206.189.46.41:9944",
+  "explorer_url": "http://206.189.46.41:4000",
+  "metrics_endpoint": "http://206.189.46.41:9615/metrics",
+  "id": "10bd6875-809d-4efb-8da6-55ed94cdbdf6"
+}

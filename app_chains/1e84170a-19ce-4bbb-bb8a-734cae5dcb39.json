@@ -1,0 +1,8 @@
+{
+  "name": "robert",
+  "logo": "https://avail-1257774372.cos.na-siliconvalley.myqcloud.com/cyxccxc.png",
+  "rpc_url": "http://46.101.145.115:9944",
+  "explorer_url": "http://46.101.145.115:4000",
+  "metrics_endpoint": "http://46.101.145.115:9615/metrics",
+  "id": "1e84170a-19ce-4bbb-bb8a-734cae5dcb39"
+}

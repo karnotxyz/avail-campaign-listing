@@ -1,0 +1,8 @@
+{
+  "name": "duck",
+  "logo": "https://r.resimlink.com/bQt6a-_k.png",
+  "rpc_url": "http://5.189.163.100:9944",
+  "explorer_url": "http://5.189.163.100:4000",
+  "metrics_endpoint": "http://5.189.163.100:9615/metrics",
+  "id": "78b7f506-9536-499c-a161-3e48b9a432a7"
+}

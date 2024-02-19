@@ -1,0 +1,8 @@
+{
+  "name": "BDS888",
+  "logo": "https://i.postimg.cc/NfdCFLsR/253122556-1081392952631031-2190013182400315722-n-1.jpg",
+  "rpc_url": "http://137.184.95.60:9944",
+  "explorer_url": "http://137.184.95.60:4000",
+  "metrics_endpoint": "http://137.184.95.60:9615/metrics",
+  "id": "b664a2e6-ee2d-485a-8093-611fc59deeaf"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "godofsol",
+  "logo": "https://r.resimlink.com/jhK4Q9xF.jpg",
+  "rpc_url": "http://65.21.249.209:9944",
+  "explorer_url": "http://65.21.249.209:4000",
+  "metrics_endpoint": "http://65.21.249.209:9615/metrics",
+  "id": "060472da-e7ef-48d1-9115-6cb283385466"
+}

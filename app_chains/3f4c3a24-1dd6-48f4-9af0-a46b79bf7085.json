@@ -1,0 +1,8 @@
+{
+  "name": "keser",
+  "logo": "https://r.resimlink.com/uVCRMSg2Bw.png",
+  "rpc_url": "http://94.130.225.3:9944",
+  "explorer_url": "http://94.130.225.3:4000",
+  "metrics_endpoint": "http://94.130.225.3:9615/metrics",
+  "id": "3f4c3a24-1dd6-48f4-9af0-a46b79bf7085"
+}

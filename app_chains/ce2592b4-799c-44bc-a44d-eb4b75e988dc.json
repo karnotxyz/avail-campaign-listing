@@ -1,0 +1,8 @@
+{
+  "name": "xvale",
+  "logo": "https://placehold.co/400x400/black/darkred?text=xvl",
+  "rpc_url": "http://167.86.103.178:9944",
+  "explorer_url": "http://167.86.103.178:4000",
+  "metrics_endpoint": "http://167.86.103.178:9615/metrics",
+  "id": "ce2592b4-799c-44bc-a44d-eb4b75e988dc"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "chep",
+  "logo": "https://i.im.ge/2024/02/07/cs64zM.gtr-copy.jpg",
+  "rpc_url": "http://161.97.79.80:9944",
+  "explorer_url": "http://161.97.79.80:4000",
+  "metrics_endpoint": "http://161.97.79.80:9615/metrics",
+  "id": "afa6dc63-facb-4f2d-aa45-957aef41bb49"
+}

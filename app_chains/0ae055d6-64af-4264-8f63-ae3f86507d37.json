@@ -1,0 +1,8 @@
+{
+  "name": "ZLKCyber",
+  "logo": "https://i.ibb.co/tLd1nnJ/1707702403-picsay.png",
+  "rpc_url": "http://164.90.156.91:9944",
+  "explorer_url": "http://164.90.156.91:4000",
+  "metrics_endpoint": "http://164.90.156.91:9615/metrics",
+  "id": "0ae055d6-64af-4264-8f63-ae3f86507d37"
+}

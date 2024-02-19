@@ -1,0 +1,8 @@
+{
+  "name": "Joespaz",
+  "logo": "https://i.ibb.co/rHskwBv/goku-wp.jpg",
+  "rpc_url": "http://173.249.22.229:9944",
+  "explorer_url": "http://173.249.22.229:4000",
+  "metrics_endpoint": "http://173.249.22.229:9615/metrics",
+  "id": "6c98d3cb-70ee-4270-9f15-a1f0ce18bc20"
+}

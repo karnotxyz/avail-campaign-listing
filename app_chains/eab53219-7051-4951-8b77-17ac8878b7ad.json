@@ -1,0 +1,8 @@
+{
+  "name": "Yunuso",
+  "logo": "https://r.resimlink.com/ONxE1sLYI.png",
+  "rpc_url": "http://173.212.218.147:9944",
+  "explorer_url": "http://173.212.218.147:4000",
+  "metrics_endpoint": "http://173.212.218.147:9615/metrics",
+  "id": "eab53219-7051-4951-8b77-17ac8878b7ad"
+}

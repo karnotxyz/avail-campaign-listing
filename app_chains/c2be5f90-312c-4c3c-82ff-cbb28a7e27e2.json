@@ -1,0 +1,8 @@
+{
+  "name": "determine",
+  "logo": "http://43.128.107.23/logo.jpg",
+  "rpc_url": "http://43.128.107.23>:9944",
+  "explorer_url": "http://43.128.107.23:4000",
+  "metrics_endpoint": "http://43.128.107.23:9615/metrics",
+  "id": "c2be5f90-312c-4c3c-82ff-cbb28a7e27e2"
+}

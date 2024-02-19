@@ -1,0 +1,8 @@
+{
+  "name": "htmobbo",
+  "logo": "https://im.ge/i/cmCSgW",
+  "rpc_url": "http://193.164.4.123:9944",
+  "explorer_url": "http://193.164.4.123:4000",
+  "metrics_endpoint": "http://193.164.4.123:9615/metrics",
+  "id": "7b2b9975-b3f4-4cde-b870-bc5d249be928"
+}

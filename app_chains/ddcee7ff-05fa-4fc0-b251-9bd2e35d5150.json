@@ -1,0 +1,8 @@
+{
+  "name": "mnsis",
+  "logo": "https://i.imgur.com/YStDASQ.jpeg",
+  "rpc_url": "http://149.102.146.162:9944",
+  "explorer_url": "http://149.102.146.162:4000",
+  "metrics_endpoint": "http://149.102.146.162:9615/metrics",
+  "id": "ddcee7ff-05fa-4fc0-b251-9bd2e35d5150"
+}

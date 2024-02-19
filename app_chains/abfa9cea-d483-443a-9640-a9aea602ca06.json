@@ -1,0 +1,8 @@
+{
+  "name": "behzad7",
+  "logo": "https://r.resimlink.com/R3Sa_gMCP.jpg",
+  "rpc_url": "http://176.9.220.105:9944",
+  "explorer_url": "http://176.9.220.105:4000",
+  "metrics_endpoint": "http://176.9.220.105:9615/metrics",
+  "id": "abfa9cea-d483-443a-9640-a9aea602ca06"
+}

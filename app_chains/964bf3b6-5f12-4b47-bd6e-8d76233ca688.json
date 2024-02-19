@@ -1,0 +1,8 @@
+{
+  "name": "nini",
+  "logo": "https://i.postimg.cc/8zNb11bP/80941748-1.png",
+  "rpc_url": "http://38.242.151.58:9944",
+  "explorer_url": "http://38.242.151.58:4000",
+  "metrics_endpoint": "http://38.242.151.58:9615/metrics",
+  "id": "964bf3b6-5f12-4b47-bd6e-8d76233ca688"
+}

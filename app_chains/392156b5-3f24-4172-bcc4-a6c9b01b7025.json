@@ -1,0 +1,8 @@
+{
+  "name": "FRUG",
+  "logo": "https://img2.imgtp.com/2024/02/08/5mfrXLfu.png",
+  "rpc_url": "http://206.189.8.43:9615:9944",
+  "explorer_url": "http://206.189.8.43:4000",
+  "metrics_endpoint": "http://206.189.8.43:9615/metrics",
+  "id": "392156b5-3f24-4172-bcc4-a6c9b01b7025"
+}

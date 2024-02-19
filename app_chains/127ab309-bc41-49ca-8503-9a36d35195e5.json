@@ -1,0 +1,8 @@
+{
+  "name": "sai",
+  "logo": "https://i.ibb.co/V3rvtJJ/WX20230425-024732-2x.png",
+  "rpc_url": "http://43.157.3.133:9944",
+  "explorer_url": "http://43.157.3.133:4000",
+  "metrics_endpoint": "http://43.157.3.133:9615/metrics",
+  "id": "127ab309-bc41-49ca-8503-9a36d35195e5"
+}

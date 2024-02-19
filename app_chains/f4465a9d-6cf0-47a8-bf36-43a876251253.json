@@ -1,0 +1,8 @@
+{
+  "name": "burgfrisbee",
+  "logo": "http://43.133.178.179/logo.jpg",
+  "rpc_url": "http://43.133.178.179:9944",
+  "explorer_url": "http://43.133.178.179:4000",
+  "metrics_endpoint": "http://43.133.178.179:9615/metrics",
+  "id": "f4465a9d-6cf0-47a8-bf36-43a876251253"
+}

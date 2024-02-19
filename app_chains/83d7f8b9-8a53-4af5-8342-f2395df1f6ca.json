@@ -1,0 +1,8 @@
+{
+  "name": "Wingliam",
+  "logo": "https://i.imgur.com/XQII7Yz.jpg",
+  "rpc_url": "http://128.199.156.96:9944",
+  "explorer_url": "http://128.199.156.96:4000",
+  "metrics_endpoint": "http://128.199.156.96:9615/metrics",
+  "id": "83d7f8b9-8a53-4af5-8342-f2395df1f6ca"
+}

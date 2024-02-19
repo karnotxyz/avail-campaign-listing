@@ -1,0 +1,8 @@
+{
+  "name": "dedek168",
+  "logo": "https://i.ibb.co/1mmmnpn/piccccc.png",
+  "rpc_url": "http://194.233.67.155:9944",
+  "explorer_url": "http://194.233.67.155:4000",
+  "metrics_endpoint": "http://194.233.67.155:9615/metrics",
+  "id": "f0b8c161-3b45-4e74-8772-c5647413c5e5"
+}

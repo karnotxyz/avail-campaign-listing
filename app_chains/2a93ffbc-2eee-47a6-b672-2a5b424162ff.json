@@ -1,0 +1,8 @@
+{
+  "name": "dayı",
+  "logo": "https://i.im.ge/2024/02/07/cS0IyF.8.png",
+  "rpc_url": "http://38.242.193.45:9944",
+  "explorer_url": "http://38.242.193.45:4000",
+  "metrics_endpoint": "http://38.242.193.45:9615/metrics",
+  "id": "2a93ffbc-2eee-47a6-b672-2a5b424162ff"
+}

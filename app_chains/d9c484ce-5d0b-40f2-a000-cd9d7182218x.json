@@ -1,0 +1,8 @@
+{
+  "name": "bavo",
+  "logo": "https://ibb.co/Xp4tFfJ",
+  "rpc_url": "http://142.93.234.204:9944",
+  "explorer_url": "http://142.93.234.204:4000",
+  "metrics_endpoint": "http://142.93.234.204:9615/metrics",
+  "id": "d9c484ce-5d0b-40f2-a000-cd9d7182218x"
+}

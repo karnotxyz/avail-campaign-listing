@@ -1,0 +1,8 @@
+{
+  "name": "cygnus",
+  "logo": "",
+  "rpc_url": "http://158.220.88.212:9944",
+  "explorer_url": "http://158.220.88.212:4000",
+  "metrics_endpoint": "http://158.220.88.212:9615/metrics",
+  "id": "24533d33-8710-4228-a51e-2c0d8d2fa340"
+}

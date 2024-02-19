@@ -1,0 +1,8 @@
+{
+  "name": "chelsea",
+  "logo": "https://r.resimlink.com/g_4VYFlfB-0.jpg",
+  "rpc_url": "http://37.60.250.115:9944",
+  "explorer_url": "http://37.60.250.115:4000",
+  "metrics_endpoint": "http://37.60.250.115:9615/metrics",
+  "id": "385d63b2-9be0-4784-97a5-d64e531e67f1"
+}

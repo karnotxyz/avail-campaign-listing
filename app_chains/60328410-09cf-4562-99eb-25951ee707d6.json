@@ -1,0 +1,8 @@
+{
+  "name": "pxf918",
+  "logo": "https://i.seadn.io/s/raw/files/42dac94e98275e00b657259cf709cd1e.png",
+  "rpc_url": "http://46.250.231.14:9944",
+  "explorer_url": "http://46.250.231.14:4000",
+  "metrics_endpoint": "http://46.250.231.14:9615/metrics",
+  "id": "60328410-09cf-4562-99eb-25951ee707d6"
+}

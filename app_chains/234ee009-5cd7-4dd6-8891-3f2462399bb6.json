@@ -1,0 +1,8 @@
+{
+  "name": "imposteruck",
+  "logo": "https://i.imgur.com/mBUhRUq.png",
+  "rpc_url": "http://43.228.214.169:9944",
+  "explorer_url": "http://43.228.214.169:4000",
+  "metrics_endpoint": "http://43.228.214.169:9615/metrics",
+  "id": "234ee009-5cd7-4dd6-8891-3f2462399bb6"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "andobrutak",
+  "logo": "https://i.imgur.com/yClmOk6.png",
+  "rpc_url": "http://167.71.199.169:9944",
+  "explorer_url": "http://167.71.199.169:4000",
+  "metrics_endpoint": "http://167.71.199.169:9615/metrics",
+  "id": "5c21b293-9e5f-4cb4-839f-106109400706"
+}

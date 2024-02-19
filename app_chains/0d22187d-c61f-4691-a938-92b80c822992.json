@@ -1,0 +1,8 @@
+{
+  "name": "lyra",
+  "logo": "",
+  "rpc_url": "http://31.220.98.1:9944",
+  "explorer_url": "http://31.220.98.1:4000",
+  "metrics_endpoint": "http://31.220.98.1:9615/metrics",
+  "id": "0d22187d-c61f-4691-a938-92b80c822992"
+}

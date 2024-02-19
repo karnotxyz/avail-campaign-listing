@@ -1,0 +1,8 @@
+{
+  "name": "rozeria",
+  "logo": "https://i.im.ge/2024/02/07/cS0hO9.foto.png",
+  "rpc_url": "http://5.189.164.146:9944",
+  "explorer_url": "http://5.189.164.146:4000",
+  "metrics_endpoint": "http://5.189.164.146:9615/metrics",
+  "id": "5d05ae2b-76ff-4de3-a3a1-e05c8b3bb011"
+}

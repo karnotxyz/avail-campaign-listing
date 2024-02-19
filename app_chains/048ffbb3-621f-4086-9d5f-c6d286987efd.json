@@ -1,0 +1,8 @@
+{
+  "name": "metil",
+  "logo": "https://im.ge/i/cUELKF",
+  "rpc_url": "http://37.27.27.72:9944",
+  "explorer_url": "http://37.27.27.72:4000",
+  "metrics_endpoint": "http://37.27.27.72:9615/metrics",
+  "id": "048ffbb3-621f-4086-9d5f-c6d286987efd"
+}

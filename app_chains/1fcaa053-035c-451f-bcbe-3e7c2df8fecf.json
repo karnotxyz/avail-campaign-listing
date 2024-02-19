@@ -1,0 +1,8 @@
+{
+  "name": "unsungdec",
+  "logo": "http://43.134.103.117/logo.jpg",
+  "rpc_url": "http://43.134.103.117:9944",
+  "explorer_url": "http://43.134.103.117:4000",
+  "metrics_endpoint": "http://43.134.103.117:9615/metrics",
+  "id": "1fcaa053-035c-451f-bcbe-3e7c2df8fecf"
+}

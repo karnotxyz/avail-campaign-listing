@@ -1,0 +1,8 @@
+{
+  "name": "sahrabest",
+  "logo": "https://github.com/karnotxyz/avail-campaign-listing/assets/95778649/df000666-5e4b-49ea-9334-d3e8812fe48e",
+  "rpc_url": "http://65.109.30.109:9944",
+  "explorer_url": "http://65.109.30.109:4000",
+  "metrics_endpoint": "http://65.109.30.109:9615/metrics",
+  "id": "0230b0d5-e598-44e0-874b-085f1eaea48f"
+}

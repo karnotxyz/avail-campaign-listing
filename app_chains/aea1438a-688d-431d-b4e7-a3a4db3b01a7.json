@@ -1,0 +1,8 @@
+{
+  "name": "khun",
+  "logo": "https://i.imgur.com/0PUu5S7.jpeg",
+  "rpc_url": "http://139.59.100.180:9944",
+  "explorer_url": "http://139.59.100.180:4000",
+  "metrics_endpoint": "http://139.59.100.180:9615/metrics",
+  "id": "aea1438a-688d-431d-b4e7-a3a4db3b01a7"
+}

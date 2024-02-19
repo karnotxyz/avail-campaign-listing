@@ -1,0 +1,8 @@
+{
+  "name": "Linapoole",
+  "logo": "https://avatars.githubusercontent.com/u/159273852",
+  "rpc_url": "http://45.141.151.179:9944",
+  "explorer_url": "http://45.141.151.179:4000",
+  "metrics_endpoint": "http://45.141.151.179:9615/metrics",
+  "id": "407bb266-e19a-40fd-90c1-788acf0795d7"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "funoshi",
+  "logo": "https://i.imgur.com/z4U5Y2N.png",
+  "rpc_url": "http://85.31.238.233:9944",
+  "explorer_url": "http://85.31.238.233:4000",
+  "metrics_endpoint": "http://85.31.238.233:9615/metrics",
+  "id": "dd1dd5b2-2895-4425-aa8e-f9592757f648"
+}

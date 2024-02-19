@@ -1,0 +1,8 @@
+{
+  "name": "travesucsrcloe",
+  "logo": "https://i.seadn.io/s/raw/files/b4b2410af02fd4546765f037c373f4fd.png",
+  "rpc_url": "http://46.250.231.82:9944",
+  "explorer_url": "http://46.250.231.82:4000",
+  "metrics_endpoint": "http://46.250.231.82:9615/metrics",
+  "id": "e7581b2f-530c-45ea-927c-f06750de3a25"
+}

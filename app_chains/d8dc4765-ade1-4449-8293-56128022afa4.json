@@ -1,0 +1,8 @@
+{
+  "name": "centaur",
+  "logo": "https://imgur.com/L4PaCVk.png",
+  "rpc_url": "http://158.220.88.232:9944",
+  "explorer_url": "http://158.220.88.232:4000",
+  "metrics_endpoint": "http://158.220.88.232:9615/metrics",
+  "id": "d8dc4765-ade1-4449-8293-56128022afa4"
+}

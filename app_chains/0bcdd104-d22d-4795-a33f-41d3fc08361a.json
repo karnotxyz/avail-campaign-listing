@@ -1,0 +1,8 @@
+{
+  "name": "hbbrgt",
+  "logo": "https://r.resimlink.com/y_dik.webp",
+  "rpc_url": "http://34.83.152.228:9944",
+  "explorer_url": "http://34.83.152.228:4000",
+  "metrics_endpoint": "http://34.83.152.228:9615/metrics",
+  "id": "0bcdd104-d22d-4795-a33f-41d3fc08361a"
+}

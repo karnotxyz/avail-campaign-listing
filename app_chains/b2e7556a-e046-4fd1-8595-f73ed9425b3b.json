@@ -1,0 +1,8 @@
+{
+  "name": "yarofeyka-madara",
+  "logo": "https://r.resimlink.com/2p8PUeXyQg9u.png",
+  "rpc_url": "http://65.108.249.213:9944",
+  "explorer_url": "http://65.108.249.213:4000",
+  "metrics_endpoint": "http://65.108.249.213:9615/metrics",
+  "id": "b2e7556a-e046-4fd1-8595-f73ed9425b3b"
+}

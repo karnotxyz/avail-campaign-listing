@@ -1,0 +1,8 @@
+{
+  "name": "Evernode",
+  "logo": "https://i.ibb.co/JdXJvs0/l-Pcc-HH-U5wgy-Guc-X-h-Om-PAKCZ0-Vkl3-YR6d-Chet-N5-CE6-H1-SGcb1-Ga-Vus-Lp-F-7asln0-Vp-QMv-FCB0gxv-Y.png",
+  "rpc_url": "http://159.223.89.155:9944",
+  "explorer_url": "http://159.223.89.155:4000",
+  "metrics_endpoint": "http://159.223.89.155:9615/metrics",
+  "id": "99975f15-f398-4056-81a1-a784c6f17404"
+}

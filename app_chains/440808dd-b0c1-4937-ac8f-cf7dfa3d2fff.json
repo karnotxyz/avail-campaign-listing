@@ -1,0 +1,8 @@
+{
+  "name": "avail-1",
+  "logo": "https://i.ibb.co/KVDjTmy/Crypto-Galaxy-logo.png",
+  "rpc_url": "http://34.125.100.31:9944",
+  "explorer_url": "http://34.125.100.31:4000",
+  "metrics_endpoint": "http://34.125.100.31:9615/metrics",
+  "id": "440808dd-b0c1-4937-ac8f-cf7dfa3d2fff"
+}

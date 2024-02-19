@@ -1,0 +1,8 @@
+{
+  "name": "yamazaki",
+  "logo": "https://placehold.jp/400x400.png",
+  "rpc_url": "http://106.137.229.151:9944",
+  "explorer_url": "http://106.137.229.151:4000",
+  "metrics_endpoint": "http://106.137.229.151:9615/metrics",
+  "id": "b63e9515-d882-4494-af5a-e3ff789345cd"
+}

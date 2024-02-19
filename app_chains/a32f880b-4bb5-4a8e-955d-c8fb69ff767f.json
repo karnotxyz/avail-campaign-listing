@@ -1,0 +1,8 @@
+{
+  "name": "monero",
+  "logo": "https://r.resimlink.com/ln6Q3PUhH4g.png",
+  "rpc_url": "http://161.35.158.18:9944",
+  "explorer_url": "http://161.35.158.18:4000",
+  "metrics_endpoint": "http://161.35.158.18:9615/metrics",
+  "id": "a32f880b-4bb5-4a8e-955d-c8fb69ff767f"
+}

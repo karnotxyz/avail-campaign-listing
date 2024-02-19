@@ -1,0 +1,8 @@
+{
+  "name": "xzryzy.eth",
+  "logo": "https://imgur.com/kD48NeM.png",
+  "rpc_url": "http://34.107.43.74:9944",
+  "explorer_url": "http://34.107.43.74:4000",
+  "metrics_endpoint": "http://34.107.43.74:9615/metrics",
+  "id": "ab7123de-77f8-419b-8354-c2accfdfd68a"
+}

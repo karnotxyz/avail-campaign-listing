@@ -1,0 +1,8 @@
+{
+  "name": "ZSpace",
+  "logo": "https://i.imgur.com/7JBDH22.jpg",
+  "rpc_url": "http://34.135.71.152:9944",
+  "explorer_url": "http://34.135.71.152:4000",
+  "metrics_endpoint": "http://34.135.71.152:9615/metrics",
+  "id": "25cfa883-cbd0-466c-bdc0-279e8387e3c8"
+}

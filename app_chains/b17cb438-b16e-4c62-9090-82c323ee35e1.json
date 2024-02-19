@@ -1,0 +1,8 @@
+{
+  "name": "razer",
+  "logo": "http://150.109.245.190/assets/image/avator.png",
+  "rpc_url": "http://150.109.245.190:9944",
+  "explorer_url": "http://150.109.245.190:4000",
+  "metrics_endpoint": "http://150.109.245.190:9615/metrics",
+  "id": "b17cb438-b16e-4c62-9090-82c323ee35e1"
+}

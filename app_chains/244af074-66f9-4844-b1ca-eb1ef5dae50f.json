@@ -1,0 +1,8 @@
+{
+  "name": "UnlCagri",
+  "logo": "https://imgur.com/a/Q1kWpvq",
+  "rpc_url": "http://142.93.34.231:9944",
+  "explorer_url": "http://142.93.34.231:4000",
+  "metrics_endpoint": "http://142.93.34.231:9615/metrics",
+  "id": "244af074-66f9-4844-b1ca-eb1ef5dae50f"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "renmwl2002karnot",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://173.212.225.207:9944",
+  "explorer_url": "http://173.212.225.207:4000",
+  "metrics_endpoint": "http://173.212.225.207:9615/metrics",
+  "id": "0a01eae4-1866-40f0-8674-949c3298cbbb"
+}

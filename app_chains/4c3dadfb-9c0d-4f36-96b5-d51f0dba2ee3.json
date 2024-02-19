@@ -1,0 +1,8 @@
+{
+  "name": "cann",
+  "logo": "https://imgur.com/a/KHPdVsB",
+  "rpc_url": "http://5.104.87.58:9944",
+  "explorer_url": "http://5.104.87.58:4000",
+  "metrics_endpoint": "http://5.104.87.58:9615/metrics",
+  "id": "4c3dadfb-9c0d-4f36-96b5-d51f0dba2ee3"
+}
