@@ -1,0 +1,8 @@
+{
+  "name": "yoshioapp2",
+  "logo": "https://i.imgur.com/eRDPFMn.jpg",
+  "rpc_url": "http://173.249.0.194:9944",
+  "explorer_url": "http://173.249.0.194:4000",
+  "metrics_endpoint": "http://173.249.0.194/metrics",
+  "id": "31cd6aa1-a479-4525-8fdd-b0652e6e3764"
+}
