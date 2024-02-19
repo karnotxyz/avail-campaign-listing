@@ -1,0 +1,8 @@
+{
+  "name": "bibdiligen",
+  "logo": "http://43.156.43.153/logo.jpg",
+  "rpc_url": "http://43.156.43.153:9944",
+  "explorer_url": "http://43.156.43.153:4000",
+  "metrics_endpoint": "http://43.156.43.153:9615/metrics",
+  "id": "e215533e-9f9a-47be-a991-5448121e9e72"
+}
