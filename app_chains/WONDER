@@ -1,0 +1,8 @@
+{
+"name": "ONDER",
+"logo": "https://im.ge/i/cxpWGP",
+"rpc_url": "http://164.92.99.146:9444/",
+"explorer_url": "http://164.92.99.146:4000/",
+"metrics_endpoint": "http://164.92.99.146:9615/",
+"id": “5dba11c3-4392-4c88-92b2-430b02707eaf"
+}
