@@ -1,0 +1,8 @@
+{
+  "name": "abo",
+  "logo": "https://r.resimlink.com/muY3Q.jpeg", 
+  "rpc_url": "http://80.253.246.225:9944",
+  "explorer_url": "http://80.253.246.225:4000",
+  "metrics_endpoint": "http://80.253.246.225:9615/metrics",
+  "id": "2dfb0da1-8514-40ab-80eb-e1bb4558c6a6"
+}
