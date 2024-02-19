@@ -1,0 +1,8 @@
+{
+  "name": "rrreol69",
+  "logo": "https://i.imgur.com/XSAzYuh.jpeg",
+  "rpc_url": "http://109.123.237.37:9944",
+  "explorer_url": "http://109.123.237.37:4000",
+  "metrics_endpoint": "http://109.123.237.37:9615/metrics",
+  "id": "dd1a2792-4c43-43db-bff2-fd8da27744fb"
+}

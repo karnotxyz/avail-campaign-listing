@@ -1,0 +1,8 @@
+{
+  "name": "yunhuisun",
+  "logo": "https://raw.githubusercontent.com/kushwadee1234/kushwadee1234/main/dsf.jpg",
+  "rpc_url": "http://38.242.150.93:9944",
+  "explorer_url": "http://38.242.150.93:4000",
+  "metrics_endpoint": "http://38.242.150.93:9615/metrics",
+  "id": "20302248-add7-4701-9025-9d88c78c9cdc"
+}

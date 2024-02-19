@@ -1,0 +1,8 @@
+{
+  "name": "jonjon",
+  "logo": "https://i.postimg.cc/0yxYxQ1T/download-1.png",
+  "rpc_url": "http://37.60.229.130:9944",
+  "explorer_url": "http://37.60.229.130:4000",
+  "metrics_endpoint": "http://37.60.229.130:9615/metrics",
+  "id": "b18e4628-2c98-4947-a6a9-a9bae69acbf0"
+}

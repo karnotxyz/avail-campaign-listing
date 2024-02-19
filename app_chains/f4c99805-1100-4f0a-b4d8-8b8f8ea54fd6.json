@@ -1,0 +1,8 @@
+{
+  "name": "ronny",
+  "logo": "https://avatars.githubusercontent.com/u/116473476",
+  "rpc_url": "http://173.212.252.98:9944",
+  "explorer_url": "http://173.212.252.98:4000",
+  "metrics_endpoint": "http://173.212.252.98:9615/metrics",
+  "id": "f4c99805-1100-4f0a-b4d8-8b8f8ea54fd6"
+}

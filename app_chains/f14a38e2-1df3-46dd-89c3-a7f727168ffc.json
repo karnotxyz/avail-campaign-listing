@@ -1,0 +1,8 @@
+{
+  "name": "snowman",
+  "logo": "https://i.ibb.co/tmDckh3/Cargobase-logo-square-400x400.png",
+  "rpc_url": "http://84.246.85.12:9944",
+  "explorer_url": "http://84.246.85.12:4000",
+  "metrics_endpoint": "http://84.246.85.12:9615/metrics",
+  "id": "f14a38e2-1df3-46dd-89c3-a7f727168ffc"
+}

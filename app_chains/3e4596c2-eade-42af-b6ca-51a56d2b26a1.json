@@ -1,0 +1,8 @@
+{
+  "name": "pryelevato",
+  "logo": "http://43.157.5.123/logo.jpg",
+  "rpc_url": "http://43.157.5.123:9944",
+  "explorer_url": "http://43.157.5.123:4000",
+  "metrics_endpoint": "http://43.157.5.123:9615/metrics",
+  "id": "3e4596c2-eade-42af-b6ca-51a56d2b26a1"
+}

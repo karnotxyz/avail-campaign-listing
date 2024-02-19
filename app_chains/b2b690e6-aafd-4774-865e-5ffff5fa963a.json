@@ -1,0 +1,8 @@
+{
+  "name": "saeedkatana",
+  "logo": "https://r.resimlink.com/DU5t-mV6Xh0.jpg",
+  "rpc_url": "http://185.205.246.47:9944",
+  "explorer_url": "http://185.205.246.47:4000",
+  "metrics_endpoint": "http://185.205.246.47:9615/metrics",
+  "id": "b2b690e6-aafd-4774-865e-5ffff5fa963a"
+}

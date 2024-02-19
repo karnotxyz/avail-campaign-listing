@@ -1,0 +1,8 @@
+{
+  "name": "pikal",
+  "logo": "https://i.ibb.co/DQRY5Tc/898333673970085938.png",
+  "rpc_url": "http://173.212.208.29:9944",
+  "explorer_url": "http://173.212.208.29:4000",
+  "metrics_endpoint": "http://173.212.208.29:9615/metrics",
+  "id": "4e2b9131-8004-4281-980a-747fc47414ee"
+}

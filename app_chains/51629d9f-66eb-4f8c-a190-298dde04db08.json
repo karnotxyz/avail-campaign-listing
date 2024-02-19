@@ -1,0 +1,8 @@
+{
+  "name": "yusufi1",
+  "logo": "https://i.imgur.com/us8MX4N.jpeg",
+  "rpc_url": "http://146.190.234.239:9944",
+  "explorer_url": "http://146.190.234.239:4000",
+  "metrics_endpoint": "http://146.190.234.239:9615/metrics",
+  "id": "51629d9f-66eb-4f8c-a190-298dde04db08"
+}

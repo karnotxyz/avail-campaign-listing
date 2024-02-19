@@ -1,0 +1,8 @@
+{
+  "name": "wiseman",
+  "logo": "https://r.resimlink.com/0RlqcWUp.png",
+  "rpc_url": "http://87.248.157.223:9944",
+  "explorer_url": "http://87.248.157.223:4000",
+  "metrics_endpoint": "http://87.248.157.223:9615/metrics",
+  "id": "d08b4644-36e7-41e7-b3da-4350274d197d"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ykniggemadza",
+  "logo": "https://gravatar.com/avatar/fd15ba49ef9def3af54502fd084fc9b7?s=400&d=robohash&r=x",
+  "rpc_url": "http://43.134.98.177:9944",
+  "explorer_url": "http://43.134.98.177:4000",
+  "metrics_endpoint": "http://43.134.98.177:9615/metrics",
+  "id": "3c8c3264-2bb2-4255-99ce-cce4f26add9e"
+}

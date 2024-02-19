@@ -1,0 +1,8 @@
+{
+  "name": "vichain",
+  "logo": "https://i.imgur.com/mip4iBA.png",
+  "rpc_url": "http://178.128.55.95:9944",
+  "explorer_url": "http://178.128.55.95:4000",
+  "metrics_endpoint": "http://178.128.55.95:9615/metrics",
+  "id": "639a8be6-6d79-4531-a255-58310a960747"
+}

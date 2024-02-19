@@ -1,0 +1,8 @@
+{
+  "name": "creeks",
+  "logo": "https://i2.wp.com/vanillicon.com/ec9e5855baed06ea86129864a10ea3ec_200.png",
+  "rpc_url": "http://38.45.72.49:9944",
+  "explorer_url": "http://38.45.72.49:4000",
+  "metrics_endpoint": "http://38.45.72.49:9615/metrics",
+  "id": "a5a51350-eccd-4859-a3ce-c7e1758e8663"
+}

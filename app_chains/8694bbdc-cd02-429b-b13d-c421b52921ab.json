@@ -1,0 +1,8 @@
+{
+  "name": "wakeupneo",
+  "logo": "https://raw.githubusercontent.com/tafegg/kodluyoruzilkrepo/main/wakeupneo.jpeg",
+  "rpc_url": "http://158.220.100.239:9944",
+  "explorer_url": "http://158.220.100.239:4000",
+  "metrics_endpoint": "http://158.220.100.239:9615/metrics",
+  "id": "8694bbdc-cd02-429b-b13d-c421b52921ab"
+}

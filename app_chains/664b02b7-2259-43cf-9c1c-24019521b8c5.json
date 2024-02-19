@@ -1,0 +1,8 @@
+{
+  "name": "pangoan",
+  "logo": "https://r.resimlink.com/JU3fzWANIeRF.png",
+  "rpc_url": "http://49.12.60.101:9944",
+  "explorer_url": "http://49.12.60.101:4000",
+  "metrics_endpoint": "http://49.12.60.101:9615/metrics",
+  "id": "664b02b7-2259-43cf-9c1c-24019521b8c5"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aysun",
+  "logo": "https://r.resimlink.com/SmM09.jpg",
+  "rpc_url": "http://78.46.248.16:9944",
+  "explorer_url": "http://78.46.248.16:4000",
+  "metrics_endpoint": "http://78.46.248.16:9615/metrics",
+  "id": "cef4b86e-0c63-4b8d-abf2-092946d3857f"
+}

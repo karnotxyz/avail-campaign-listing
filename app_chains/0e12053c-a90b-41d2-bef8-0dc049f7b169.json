@@ -1,0 +1,8 @@
+{
+  "name": "Beemadara",
+  "logo": "https://imgur.com/a/NZ6Cbww",
+  "rpc_url": "http://158.220.87.19:9944",
+  "explorer_url": "http://158.220.87.19:4000",
+  "metrics_endpoint": "http://158.220.87.19:9615/metrics",
+  "id": "0e12053c-a90b-41d2-bef8-0dc049f7b169"
+}

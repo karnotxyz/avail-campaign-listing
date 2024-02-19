@@ -1,0 +1,8 @@
+{
+  "name": "BETRIX",
+  "logo": "https://i.ibb.co/NVVHtvg/betrix-9068437-1.png",
+  "rpc_url": "http://158.220.106.201:9944",
+  "explorer_url": "http://158.220.106.201:4000",
+  "metrics_endpoint": "http://158.220.106.201:9615/metrics",
+  "id": "2e664c12-3aae-4389-834e-53c32c4f1704"
+}

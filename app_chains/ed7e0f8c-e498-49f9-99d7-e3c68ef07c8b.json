@@ -1,0 +1,8 @@
+{
+  "name": "ayataka",
+  "logo": "https://i.ibb.co/HF8hn0T/898333673970085938.png",
+  "rpc_url": "http://38.242.132.234:9944",
+  "explorer_url": "http://38.242.132.234:4000",
+  "metrics_endpoint": "http://38.242.132.234:9615/metrics",
+  "id": "ed7e0f8c-e498-49f9-99d7-e3c68ef07c8b"
+}

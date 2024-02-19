@@ -1,0 +1,8 @@
+{
+  "name": "devilraid666",
+  "logo": "https://i.ibb.co/HxCHMXY/lt.png",
+  "rpc_url": "http://5.42.86.178:9944",
+  "explorer_url": "http://5.42.86.178/:4000",
+  "metrics_endpoint": "http://5.42.86.178:9615/metrics",
+  "id": "16cea3ab-4401-4490-8281-cdad121027ec"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "novak",
+  "logo": "https://i.imgur.com/0pCvblF.jpeg",
+  "rpc_url": "http://65.108.246.139:9944",
+  "explorer_url": "http://65.108.246.139:4000",
+  "metrics_endpoint": "http://65.108.246.139:9615/metrics",
+  "id": "d890b3f8-33d6-46bd-bb69-ab0d1d1bf9d4"
+}
