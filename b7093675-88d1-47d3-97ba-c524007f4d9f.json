@@ -1,0 +1,8 @@
+{
+  "name": "lena",
+  "logo": "https://r.resimlink.com/LOgW0iF89fr.png",
+  "rpc_url": "http://143.110.174.178:9944",
+  "explorer_url": "http://143.110.174.178:4000",
+  "metrics_endpoint": "http://143.110.174.178:9615/metrics",
+  "id": "b7093675-88d1-47d3-97ba-c524007f4d9f"
+}
