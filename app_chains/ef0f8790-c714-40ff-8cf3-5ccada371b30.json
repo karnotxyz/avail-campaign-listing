@@ -1,0 +1,8 @@
+{
+  "name": "polizi",
+  "logo": "https://r.resimlink.com/p9IxVf3.jpg",
+  "rpc_url": "http://144.91.93.250:9944",
+  "explorer_url": "http://144.91.93.250:4000",
+  "metrics_endpoint": "http://144.91.93.250:9615/metrics",
+  "id": "ef0f8790-c714-40ff-8cf3-5ccada371b30"
+}
