@@ -1,0 +1,8 @@
+{
+  "name": "charles",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/f487209f58b5ce29d4b701b8f34d3b05_360_360_square_360.jpeg",
+  "rpc_url": "http://101.32.98.135:9944",
+  "explorer_url": "http://101.32.98.135:4000",
+  "metrics_endpoint": "http://101.32.98.135:9615/metrics",
+  "id": "3a0fe2ca-6745-4ed5-b49d-d2200257bbbb"
+}
