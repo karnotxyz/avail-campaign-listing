@@ -1,0 +1,8 @@
+{
+  "name": "ethicalcam",
+  "logo": "http://43.134.68.151/logo.jpg",
+  "rpc_url": "http://43.134.68.151:9944",
+  "explorer_url": "http://43.134.68.151:4000",
+  "metrics_endpoint": "http://43.134.68.151:9615/metrics",
+  "id": "dc95ecc2-9379-425a-ae29-556ebbc18c51"
+}
