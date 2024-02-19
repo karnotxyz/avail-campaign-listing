@@ -1,0 +1,8 @@
+{
+"name": "obngg2",
+"logo": "https://ibb.co/cX70jYJ",
+"rpc_url": "http://178.18.242.236:9944",
+"explorer_url": "http://178.18.242.236:4000",
+"metrics_endpoint": "http://178.18.242.236:9615/metrics",
+"id": "ad9e1e2a-075e-4edd-a53a-44cff9c72bda”
+}
