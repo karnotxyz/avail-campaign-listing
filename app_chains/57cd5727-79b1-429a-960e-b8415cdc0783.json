@@ -1,0 +1,8 @@
+{
+  "name": "mrwick",
+  "logo": "https://i.ibb.co/GQDvqXS/download.jpg",
+  "rpc_url": "http://161.97.83.189:9944",
+  "explorer_url": "http://161.97.83.189:4000",
+  "metrics_endpoint": "http://161.97.83.189:9615/metrics",
+  "id": "57cd5727-79b1-429a-960e-b8415cdc0783"
+}
