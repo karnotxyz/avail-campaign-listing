@@ -1,0 +1,8 @@
+{
+  "name": "han",
+  "logo": "https://placehold.co/400x400/green/white?font=lato&text=HAN",
+  "rpc_url": "http://rpc.ezswap.online:7788",
+  "explorer_url": "http://explorer.ezswap.online:7788",
+  "metrics_endpoint": "http://metrics.ezswap.online:7788/metrics",
+  "id": "8b4ea501-8acb-412f-877a-81780249e10a"
+}
