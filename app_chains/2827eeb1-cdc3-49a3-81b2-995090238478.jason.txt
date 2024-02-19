@@ -1,0 +1,8 @@
+{
+  "name": "arrive",
+  "logo": "https://r.resimlink.com/FprYR8c.jpg", //
+  "rpc_url": "http://165.232.95.101:9944",
+  "explorer_url": "http://165.232.95.101:4000",
+  "metrics_endpoint": "http://165.232.95.101:9615",
+  "id": "2827eeb1-cdc3-49a3-81b2-995090238478"
+}
