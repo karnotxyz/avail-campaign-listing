@@ -1,0 +1,7 @@
+{"name": "CryptoAs",
+  "logo": "https://i.ibb.co/HgXJfx2/111.png",
+  "rpc_url": "http://141.145.213.3:9944",
+  "explorer_url": "http://141.145.213.3:4000",
+  "metrics_endpoint": "http://141.145.213.3:9615/metrics",
+  "id": "91e4ba10-89b9-4b19-9f6f-95144abab6a7"
+}
