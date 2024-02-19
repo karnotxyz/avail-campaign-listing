@@ -1,0 +1,8 @@
+{
+  "name": "BKKIM",
+  "logo": "https://ibb.co/DKTmV3j",
+  "rpc_url": "http://130.185.119.228:9944",
+  "explorer_url": "http://130.185.119.228:4000",
+  "metrics_endpoint": "http://130.185.119.228:9615/metrics",
+  "id": "ed1febe7-c3ab-4fa5-9d54-e5ea4a181fba"
+}
