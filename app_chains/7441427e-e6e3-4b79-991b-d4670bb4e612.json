@@ -1,0 +1,8 @@
+{
+  "name": "tshirtseagr",
+  "logo": "http://43.134.11.92/logo.jpg",
+  "rpc_url": "http://43.134.11.92:9944",
+  "explorer_url": "http://43.134.11.92:4000",
+  "metrics_endpoint": "http://43.134.11.92:9615/metrics",
+  "id": "7441427e-e6e3-4b79-991b-d4670bb4e612"
+}
