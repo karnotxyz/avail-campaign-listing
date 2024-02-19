@@ -1,0 +1,8 @@
+{
+  "name": "mengnan",
+  "logo": "https://imgur.com/xGr6zAe.png",
+  "rpc_url": "http://43.131.38.120:9944",
+  "explorer_url": "http://43.131.38.120:4000",
+  "metrics_endpoint": "http://43.131.38.120:9615/metrics",
+  "id": "9e4968b3-6da9-4dee-a6fb-e8019e9e1ac1"
+}

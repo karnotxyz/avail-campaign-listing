@@ -1,0 +1,8 @@
+{
+  "name": "ef6b4",
+  "logo": "https://cdn.pixabay.com/photo/2014/01/05/01/19/dragon-238931_1280.jpg",
+  "rpc_url": "http://23.94.122.170:9944",
+  "explorer_url": "http://23.94.122.170:4000",
+  "metrics_endpoint": "http://23.94.122.170:9615/metrics",
+  "id": "5d4c6b5e-62cb-47e3-bf7a-b9b1d4c78f30"
+}

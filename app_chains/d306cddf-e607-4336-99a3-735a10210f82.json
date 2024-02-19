@@ -1,0 +1,8 @@
+{
+  "name": "elanarcy",
+  "logo": "https://i.imgur.com/3tjinLG.png",
+  "rpc_url": "http://64.226.106.107:9944",
+  "explorer_url": "http://64.226.106.107:4000",
+  "metrics_endpoint": "http://64.226.106.107:9615/metrics",
+  "id": "d306cddf-e607-4336-99a3-735a10210f82"
+}

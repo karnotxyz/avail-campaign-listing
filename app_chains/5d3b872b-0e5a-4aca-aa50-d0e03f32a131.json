@@ -1,0 +1,8 @@
+{
+  "name": "XUmeme",
+  "logo": "https://img.lu/upload/856098d7da1d992d46c24.png",
+  "rpc_url": "http://159.69.182.4:9944",
+  "explorer_url": "http://159.69.182.4:4000",
+  "metrics_endpoint": "http://159.69.182.4:9615/metrics",
+  "id": "5d3b872b-0e5a-4aca-aa50-d0e03f32a131"
+}

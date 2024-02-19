@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://github.com/mehaksu/Arbitrum-Node-TR/blob/main/116158738.jpg?raw=true",
+  "rpc_url": "http://184.174.37.25:9944",
+  "explorer_url": "http://184.174.37.25:4000",
+  "metrics_endpoint": "http://184.174.37.25:9615/metrics",
+  "id": "50310359-c9a8-4678-a3bd-076d7d78b8ec"
+}

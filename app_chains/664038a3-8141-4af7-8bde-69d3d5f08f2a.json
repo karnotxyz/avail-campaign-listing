@@ -1,0 +1,8 @@
+{
+  "name": "cyn",
+  "logo": "https://ibb.co/LNz9zCW",
+  "rpc_url": "http://195.201.20.176:9944",
+  "explorer_url": "http://195.201.20.176:4000",
+  "metrics_endpoint": "http://195.201.20.176:9615/metrics",
+  "id": "664038a3-8141-4af7-8bde-69d3d5f08f2a"
+}

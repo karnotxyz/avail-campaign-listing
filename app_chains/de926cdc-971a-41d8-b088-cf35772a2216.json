@@ -1,0 +1,8 @@
+{
+  "name": "NCT",
+  "logo": "https://r.resimlink.com/j6kFQGl2Mwym.jpeg",
+  "rpc_url": "http://38.242.222.114:9944",
+  "explorer_url": "http://38.242.222.114:4000",
+  "metrics_endpoint": "http://38.242.222.114:9615/metrics",
+  "id": "de926cdc-971a-41d8-b088-cf35772a2216"
+}

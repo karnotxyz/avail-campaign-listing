@@ -1,0 +1,8 @@
+{
+  "name": "mikutinef",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0x8a90cab2b38dba80c64b7734e58ee1db38b8992e/6603.png",
+  "rpc_url": "http://43.157.62.110:9944",
+  "explorer_url": "http://43.157.62.110:4000",
+  "metrics_endpoint": "http://43.157.62.110:9615/metrics",
+  "id": "6e04e0f6-a3c4-497b-ab85-146e5a7e2b44"
+}

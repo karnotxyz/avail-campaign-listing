@@ -1,0 +1,8 @@
+{
+  "name": "nmehd",
+  "logo": "https://r.resimlink.com/KNibC82xhp.png",
+  "rpc_url": "http://5.189.166.54:9944",
+  "explorer_url": "http://5.189.166.54:4000",
+  "metrics_endpoint": "http://5.189.166.54:9615/metrics",
+  "id": "13f190a2-7aa1-43c8-bb79-96199af690be"
+}

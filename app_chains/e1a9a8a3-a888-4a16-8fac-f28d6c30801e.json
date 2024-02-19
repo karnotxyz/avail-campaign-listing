@@ -1,0 +1,8 @@
+{
+  "name": "gurkan",
+  "logo": "https://r.resimlink.com/2R96WjZ.png",
+  "rpc_url": "http://188.132.165.88:9944",
+  "explorer_url": "http://188.132.165.88:4000",
+  "metrics_endpoint": "http://188.132.165.88:9615/metrics",
+  "id": "e1a9a8a3-a888-4a16-8fac-f28d6c30801e"
+}

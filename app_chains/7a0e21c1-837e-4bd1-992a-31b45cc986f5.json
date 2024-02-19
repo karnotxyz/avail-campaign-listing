@@ -1,0 +1,8 @@
+{
+  "name": "brkttlv",
+  "logo": "https://avatars.githubusercontent.com/u/113835065?v=4",
+  "rpc_url": "http://62.171.150.241:9944",
+  "explorer_url": "http://62.171.150.241:4000",
+  "metrics_endpoint": "http://62.171.150.241:9615/metrics",
+  "id": "7a0e21c1-837e-4bd1-992a-31b45cc986f5"
+}
