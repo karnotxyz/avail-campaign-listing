@@ -1,0 +1,8 @@
+{
+  "name": "xiaem2",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://43.133.99.200:9944",
+  "explorer_url": "http://43.133.99.200:4000",
+  "metrics_endpoint": "http://43.133.99.200:9615/metrics",
+  "id": "49ee8a8c-495e-48de-b8c2-e18f4eec1987"
+}
