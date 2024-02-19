@@ -1,8 +1,0 @@
-{
-  "name": "jadoben",
-  "logo": "https://ibb.co/q0N54LT",
-  "rpc_url": "https://109.123.242.179:9944",
-  "explorer_url": "https://109.123.242.179:4000",
-  "metrics_endpoint": "https://109.123.242.179:9615/metrics",
-  "id": "b6b3a15c-2277-4ba7-97cb-8e31e8875417"
-}

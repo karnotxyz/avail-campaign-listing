@@ -1,0 +1,8 @@
+{
+  "name": "jadoben",
+  "logo": "https://r.resimlink.com/p9IxVf3.jpg",
+  "rpc_url": "http://109.123.242.179:9944",
+  "explorer_url": "http://109.123.242.179:4000",
+  "metrics_endpoint": "http://109.123.242.179:9615/metrics",
+  "id": "67b89946-6b3b-4e09-a4d4-4b478976e531"
+}
