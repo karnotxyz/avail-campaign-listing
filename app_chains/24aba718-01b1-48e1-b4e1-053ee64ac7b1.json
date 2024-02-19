@@ -1,0 +1,8 @@
+{
+  "name": "luzy",
+  "logo": "https://i.imgur.com/HN9SG0T.png",
+  "rpc_url": "http://84.247.191.161:9944",
+  "explorer_url": "http://84.247.191.161:4000",
+  "metrics_endpoint": "http://84.247.191.161:9615/metrics",
+  "id": "24aba718-01b1-48e1-b4e1-053ee64ac7b1"
+}
