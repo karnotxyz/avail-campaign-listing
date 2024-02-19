@@ -1,0 +1,8 @@
+{
+  "name": "cautionba",
+  "logo": "http://43.133.40.213/logo.jpg",
+  "rpc_url": "http://43.133.40.213:9944",
+  "explorer_url": "http://43.133.40.213:4000",
+  "metrics_endpoint": "http://43.133.40.213:9615/metrics",
+  "id": "620f623b-1253-496d-af9b-3db545c70116"
+}
