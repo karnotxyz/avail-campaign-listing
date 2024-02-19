@@ -1,0 +1,9 @@
+{
+  "name": "ajeek",
+  "logo": "https://ibb.co/LSMXRwh",
+  "rpc_url": "http://158.220.125.189:9944",
+  "explorer_url": "//http://158.220.125.189:4000",
+  "metrics_endpoint": "http://158.220.125.189:9615/metrics",
+  "id": "99674a5c-85dd-4a82-88ef-d15a372acabc"
+}
+
