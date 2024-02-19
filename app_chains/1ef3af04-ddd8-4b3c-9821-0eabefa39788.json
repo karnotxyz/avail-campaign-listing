@@ -1,0 +1,8 @@
+{
+  "name": "nulil",
+  "logo": "https://i.imgur.com/rVpEGfC.png",
+  "rpc_url": "http://159.69.45.68:9944",
+  "explorer_url": "http://159.69.45.68:4000",
+  "metrics_endpoint": "http://159.69.45.68:9615/metrics",
+  "id": "1ef3af04-ddd8-4b3c-9821-0eabefa39788"
+}

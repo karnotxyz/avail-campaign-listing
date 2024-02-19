@@ -1,0 +1,8 @@
+{
+  "name": "howm",
+  "logo": "https://imgur.com/a/R9uiPjN",
+  "rpc_url": "http://37.27.25.107:9944",
+  "explorer_url": "http://37.27.25.107:4000",
+  "metrics_endpoint": "http://37.27.25.107:9615/metrics",
+  "id": "26d86a60-2859-44f3-a268-43e6482b8cc8"
+}

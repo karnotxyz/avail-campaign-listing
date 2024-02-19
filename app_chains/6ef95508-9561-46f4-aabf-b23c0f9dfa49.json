@@ -1,0 +1,8 @@
+{
+  "name": "coconode",
+  "logo": "https://i.ibb.co/3Cr6FRd/Ekran-Resmi-2024-02-09-23-17-47.png",
+  "rpc_url": "http://146.190.59.230:9944",
+  "explorer_url": "http://146.190.59.230:4000",
+  "metrics_endpoint": "http://146.190.59.230:9615/metrics",
+  "id": "6ef95508-9561-46f4-aabf-b23c0f9dfa49"
+}

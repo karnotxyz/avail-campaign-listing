@@ -1,0 +1,8 @@
+{
+  "name": "hassan1989",
+  "logo": "https://r.resimlink.com/_kz-HdlcZ3.jpg",
+  "rpc_url": "http://49.12.57.34:9944",
+  "explorer_url": "http://49.12.57.34:4000",
+  "metrics_endpoint": "http://49.12.57.34:9615/metrics",
+  "id": "fe9a6b6f-d6a6-468e-8972-d04059fc9a9f"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sigmalima",
+  "logo": "https://i.ibb.co/WxzH1Fn/sigmalimalogo.png",
+  "rpc_url": "https://rpc.roropepe.store",
+  "explorer_url": "https://explorer.roropepe.store",
+  "metrics_endpoint": "https://metrics.roropepe.store/metrics",
+  "id": "9b3837d2-cdf7-4d73-baca-3e7969ebc121"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "babayagabul",
+  "logo": "https://r.resimlink.com/f6F1-wCckG.jpg",
+  "rpc_url": "http://159.223.14.172:9944",
+  "explorer_url": "http://159.223.14.172:4000",
+  "metrics_endpoint": "http://159.223.14.172:9615/metrics",
+  "id": "333dff74-7017-41c8-a955-67f581d9679e"
+}

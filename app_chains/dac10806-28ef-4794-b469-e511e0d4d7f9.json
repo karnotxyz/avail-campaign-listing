@@ -1,0 +1,8 @@
+{
+  "name": "sookhtejet",
+  "logo": "https://ibb.co/Gnv4szZ",
+  "rpc_url": "http://159.69.239.2:9944",
+  "explorer_url": "http://159.69.239.2:4000",
+  "metrics_endpoint": "http://159.69.239.2:9615/metrics",
+  "id": "dac10806-28ef-4794-b469-e511e0d4d7f9"
+}

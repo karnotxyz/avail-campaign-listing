@@ -1,0 +1,8 @@
+{
+  "name": "neostar",
+  "logo": "https://i.im.ge/2024/02/04/bHbrny.Logo-neostar.png",
+  "rpc_url": "http://37.60.245.178:9944",
+  "explorer_url": "http://37.60.245.178:4000",
+  "metrics_endpoint": "http://37.60.245.178:9615/metrics",
+  "id": "dafd7fd5-1f9c-4b53-814a-16aed0395fcc"
+}

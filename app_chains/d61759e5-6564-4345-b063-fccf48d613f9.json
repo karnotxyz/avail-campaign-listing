@@ -1,0 +1,8 @@
+{
+  "name": "LincMandara",
+  "logo": "https://raw.githubusercontent.com/lincgecko/TestNFT/main/dragon.jpg",
+  "rpc_url": "http://194.233.67.161:9944",
+  "explorer_url": "http://194.233.67.161:4000",
+  "metrics_endpoint": "http://194.233.67.161:9615/metrics",
+  "id": "d61759e5-6564-4345-b063-fccf48d613f9"
+}

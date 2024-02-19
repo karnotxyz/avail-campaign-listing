@@ -1,0 +1,8 @@
+{
+  "name": "raqseqalam",
+  "logo": "https://www.creativefabrica.com/wp-content/uploads/2020/12/07/Music-Logo-Graphics-7048499-1-1-580x386.jpg",
+  "rpc_url": "http://144.91.64.133:9944",
+  "explorer_url": "http://144.91.64.133:4000",
+  "metrics_endpoint": "http://144.91.64.133:9615/metrics",
+  "id": "e502f5b8-9a38-49a1-8f60-47bdc6d0fbbd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "woody",
+  "logo": "https://placehold.co/600x400/EEE/31343C?font=pt-sans&text=WO",
+  "rpc_url": "http://158.220.98.192:9944",
+  "explorer_url": "http://158.220.98.192:4000",
+  "metrics_endpoint": "http://158.220.98.192:9615/metrics",
+  "id": "075dc110-5e3e-4d92-b6bc-5636ab34f2b7"
+}

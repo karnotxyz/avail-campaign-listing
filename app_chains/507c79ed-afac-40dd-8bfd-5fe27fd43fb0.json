@@ -1,0 +1,8 @@
+{
+  "name": "NodesKuge",
+  "logo": "https://avatars.githubusercontent.com/u/76652662?v=4",
+  "rpc_url": "http://84.21.171.135:9944",
+  "explorer_url": "http://84.21.171.135:4000",
+  "metrics_endpoint": "http://84.21.171.135:9615/metrics",
+  "id": "507c79ed-afac-40dd-8bfd-5fe27fd43fb0"
+}

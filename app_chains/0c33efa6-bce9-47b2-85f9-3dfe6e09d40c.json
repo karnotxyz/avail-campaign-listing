@@ -1,0 +1,8 @@
+{
+  "name": "jepe",
+  "logo": "https://r.resimlink.com/kNr9EJXfy.png",
+  "rpc_url": "http://46.250.233.120:9944",
+  "explorer_url": "http://46.250.233.120:4000",
+  "metrics_endpoint": "http://46.250.233.120:9615/metrics",
+  "id": "0c33efa6-bce9-47b2-85f9-3dfe6e09d40c"
+}

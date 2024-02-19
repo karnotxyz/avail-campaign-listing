@@ -1,0 +1,8 @@
+{
+  "name": "stephanie",
+  "logo": "https://i.ibb.co/KDjQNCs/photo-2023-11-08-07-35-57.jpg",
+  "rpc_url": "http://43.228.214.129:9944",
+  "explorer_url": "http://43.228.214.129:4000",
+  "metrics_endpoint": "http://43.228.214.129:9615/metrics",
+  "id": "ebe51c72-8d1a-474d-af84-14a9aa6d1153"
+}

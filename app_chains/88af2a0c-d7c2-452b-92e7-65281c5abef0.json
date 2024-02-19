@@ -1,0 +1,8 @@
+{
+  "name": "hungvuongss",
+  "logo": "",
+  "rpc_url": "http://207.180.198.10:9944",
+  "explorer_url": "http://207.180.198.10:4000",
+  "metrics_endpoint": "http://207.180.198.10:9615/metrics",
+  "id": "88af2a0c-d7c2-452b-92e7-65281c5abef0"
+}

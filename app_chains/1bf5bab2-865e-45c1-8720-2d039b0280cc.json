@@ -1,0 +1,8 @@
+{
+  "name": "vikviktor",
+  "logo": "https://i.imgur.com/RmjfLx7.jpg",
+  "rpc_url": "http://185.215.167.249:9944",
+  "explorer_url": "http://185.215.167.249:4000",
+  "metrics_endpoint": "http://185.215.167.249:9615/metrics",
+  "id": "1bf5bab2-865e-45c1-8720-2d039b0280cc"
+}

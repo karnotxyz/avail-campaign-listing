@@ -1,0 +1,8 @@
+{
+  "name": "sychonix",
+  "logo": "https://i.imgur.com/EGfKz1d.jpg",
+  "rpc_url": "http://161.35.33.150:9944",
+  "explorer_url": "http://161.35.33.150:4000",
+  "metrics_endpoint": "http://161.35.33.150:9615/metrics",
+  "id": "456d4c5a-c767-11ee-a506-0242ac120002"
+}

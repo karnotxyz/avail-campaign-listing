@@ -1,0 +1,8 @@
+{
+  "name": "iyuntwfr",
+  "logo": "https://i.imgur.com/JrqGZcV.jpg",
+  "rpc_url": "http://65.21.188.188:9944",
+  "explorer_url": "http://65.21.188.188:4000",
+  "metrics_endpoint": "http://65.21.188.188:9615/metrics",
+  "id": "b24479cd-5b2e-475c-a353-d119e37b7de2"
+}

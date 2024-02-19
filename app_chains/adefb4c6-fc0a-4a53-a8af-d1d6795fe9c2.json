@@ -1,0 +1,8 @@
+{
+  "name": "Test",
+  "logo": "https://i.ibb.co/X8PBpY7/58afdad6829958a978a4a693.png",
+  "rpc_url": "http://37.60.254.30:9944",
+  "explorer_url": "http://37.60.254.30:4000",
+  "metrics_endpoint": "http://37.60.254.30:9615/metrics",
+  "id": "adefb4c6-fc0a-4a53-a8af-d1d6795fe9c2"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ayten",
+  "logo": "https://r.resimlink.com/uER7d.png",
+  "rpc_url": "http://31.220.102.125:9944",
+  "explorer_url": "http://31.220.102.125:4000",
+  "metrics_endpoint": "http://31.220.102.125:9615/metrics",
+  "id": "ada8c75b-6fa9-4ab1-a415-462f28ebd90a"
+}

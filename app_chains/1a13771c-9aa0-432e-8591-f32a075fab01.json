@@ -1,0 +1,8 @@
+{
+  "name": "soulman",
+  "logo": "https://imgur.com/yk0pb2g.png",
+  "rpc_url": "http://43.157.114.251:9944",
+  "explorer_url": "http://43.157.114.251:4000",
+  "metrics_endpoint": "http://43.157.114.251:9615/metrics",
+  "id": "1a13771c-9aa0-432e-8591-f32a075fab01"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "coco77",
+  "logo": "https://imgur.com/lUjl0YI.png",
+  "rpc_url": "http://43.157.32.221:9944",
+  "explorer_url": "http://43.157.32.221:4000",
+  "metrics_endpoint": "http://43.157.32.221:9615/metrics",
+  "id": "64b96e8d-3faf-4b1d-9219-83467a51cfce"
+}

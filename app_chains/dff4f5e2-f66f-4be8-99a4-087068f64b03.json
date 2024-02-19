@@ -1,0 +1,8 @@
+{
+  "name": "Gaban",
+  "logo": "https://i.imgur.com/ZnUl712.png",
+  "rpc_url": "http://188.166.178.167:9944",
+  "explorer_url": "http://188.166.178.167:4000",
+  "metrics_endpoint": "http://188.166.178.167:9615/metrics",
+  "id": "dff4f5e2-f66f-4be8-99a4-087068f64b03"
+}

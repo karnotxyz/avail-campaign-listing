@@ -1,0 +1,8 @@
+{
+  "name": "ganykach",
+  "logo": "https://i.imgur.com/k1DvUMH.jpg",
+  "rpc_url": "http://75.119.154.98:9944",
+  "explorer_url": "http://75.119.154.98:4000",
+  "metrics_endpoint": "http://75.119.154.98:9615/metrics",
+  "id": "b548537e-2c89-4741-b0c5-fab29e59e26c"
+}
