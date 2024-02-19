@@ -1,0 +1,8 @@
+{
+  "name": "Ruska",
+  "logo": "https://r.resimlink.com/204NbQf.jpg",
+  "rpc_url": "http://192.248.174.79:9944",
+  "explorer_url": "http://192.248.174.79:4000",
+  "metrics_endpoint": "http://192.248.174.79:9615/metrics",
+  "id": "90648754-2ed5-4af4-8f40-995583c37f85"
+}

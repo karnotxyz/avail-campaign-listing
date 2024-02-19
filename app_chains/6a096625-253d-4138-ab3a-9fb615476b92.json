@@ -1,0 +1,8 @@
+{
+  "name": "naoop",
+  "logo": "https://i.ibb.co/qnjxB7f/tedf.png",
+  "rpc_url": "http://38.242.141.120:9944",
+  "explorer_url": "http://38.242.141.120:4000",
+  "metrics_endpoint": "http://38.242.141.120:9615/metrics",
+  "id": "6a096625-253d-4138-ab3a-9fb615476b92"
+}

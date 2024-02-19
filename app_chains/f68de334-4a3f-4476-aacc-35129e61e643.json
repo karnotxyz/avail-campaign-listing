@@ -1,0 +1,8 @@
+{
+  "name": "ambatunat",
+  "logo": "https://i.imgur.com/slfNYiG.png",
+  "rpc_url": "http://38.242.203.191:9944",
+  "explorer_url": "http://38.242.203.191:4000",
+  "metrics_endpoint": "http://38.242.203.191:9615/metrics",
+  "id": "f68de334-4a3f-4476-aacc-35129e61e643"
+}

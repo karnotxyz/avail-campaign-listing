@@ -1,0 +1,8 @@
+{
+  "name": "pandora",
+  "logo": "https://r.resimlink.com/9DdaC.png",
+  "rpc_url": "http://161.35.149.247:9944",
+  "explorer_url": "http://161.35.149.247:4000",
+  "metrics_endpoint": "http://161.35.149.247:9615/metrics",
+  "id": "339f54a7-824d-40e5-8d76-dae63fa85a21"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "selpak",
+  "logo": "https://i.imgur.com/W40DhQH.jpeg",
+  "rpc_url": "http://38.242.208.165:9944",
+  "explorer_url": "http://38.242.208.165:4000",
+  "metrics_endpoint": "http://38.242.208.165:9615/metrics",
+  "id": "f4699e3f-363b-4c1e-87aa-cec5988b6b48"
+}

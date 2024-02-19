@@ -1,0 +1,8 @@
+{
+  "name": "verve",
+  "logo": "https://i.ibb.co/MVxYJ2g/midou-bakria.png",
+  "rpc_url": "http://149.102.142.202:9944",
+  "explorer_url": "http://149.102.142.202:4000",
+  "metrics_endpoint": "http://149.102.142.202:9615/metrics",
+  "id": "ecde5b57-0940-42ca-a50d-6947d8e02928"
+}

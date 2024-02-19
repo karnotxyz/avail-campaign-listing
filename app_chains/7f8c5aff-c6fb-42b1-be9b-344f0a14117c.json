@@ -1,0 +1,8 @@
+{
+  "name": "illegalbow",
+  "logo": "http://43.159.35.8/logo.jpg",
+  "rpc_url": "http://43.159.35.8:9944",
+  "explorer_url": "http://43.159.35.8:4000",
+  "metrics_endpoint": "http://43.159.35.8:9615/metrics",
+  "id": "7f8c5aff-c6fb-42b1-be9b-344f0a14117c"
+}

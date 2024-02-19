@@ -1,0 +1,8 @@
+{
+  "name": "mrnobody",
+  "logo": "https://r.resimlink.com/juZF1Q5xGNP.png",
+  "rpc_url": "http://213.136.78.80:9944",
+  "explorer_url": "http://213.136.78.80:4000",
+  "metrics_endpoint": "http://213.136.78.80:9615/metrics",
+  "id": "4e53a121-098e-4082-a3e3-913df572e9d7"
+}

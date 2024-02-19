@@ -1,0 +1,8 @@
+{
+  "name": "313uIo",
+  "logo": "https://img-cdn.magiceden.dev/rs:fit:640:0:0/plain/https%3A%2F%2Fbafybeihcnpwtm4pcdsvbdapzbkoivgsy6yyh42pixkukdhqogssxtycsha.ipfs.nftstorage.link%2F427.gif%3Fext%3Dgif",
+  "rpc_url": "http://52.77.167.155:9944",
+  "explorer_url": "http://52.77.167.155:4000",
+  "metrics_endpoint": "http://52.77.167.155:9615/metrics",
+  "id": "c4a79d65-b75e-4f80-9c6b-75e4f683a2e4"
+}

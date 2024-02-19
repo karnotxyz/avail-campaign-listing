@@ -1,0 +1,8 @@
+{
+  "name": "onaphe",
+  "logo": "https://cdn.pixabay.com/photo/2023/11/07/12/49/wolves-8372284_1280.jpg",
+  "rpc_url": "http://149.102.159.15:9944",
+  "explorer_url": "http://149.102.159.15:4000",
+  "metrics_endpoint": "http://149.102.159.15:9615/metrics",
+  "id": "428953c8-ac79-406b-b77c-6682cac22976"
+}

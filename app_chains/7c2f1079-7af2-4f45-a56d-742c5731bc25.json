@@ -1,0 +1,8 @@
+{
+  "name": "mojtaba",
+  "logo": "http://r.resimlink.com/cqE0QkIMVy.jpg",
+  "rpc_url": "http://144.91.87.46:9944",
+  "explorer_url": "http://144.91.87.46:4000",
+  "metrics_endpoint": "http://144.91.87.46:9615/metrics",
+  "id": "7c2f1079-7af2-4f45-a56d-742c5731bc25"
+}

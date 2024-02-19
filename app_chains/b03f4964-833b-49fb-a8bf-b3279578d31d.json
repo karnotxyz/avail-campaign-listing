@@ -1,0 +1,8 @@
+{
+  "name": "NodeTET",
+  "logo": "https://i.ibb.co/52H7vLv/NodeTET.png",
+  "rpc_url": "http://161.97.130.143:9944",
+  "explorer_url": "http://161.97.130.143:4000",
+  "metrics_endpoint": "http://161.97.130.143:9615/metrics",
+  "id": "b03f4964-833b-49fb-a8bf-b3279578d31d"
+}

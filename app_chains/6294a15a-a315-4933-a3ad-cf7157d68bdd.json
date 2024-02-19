@@ -1,0 +1,8 @@
+{
+  "name": "natej",
+  "logo": "https://i.im.ge/2024/02/10/c6HmNx.306555836-643744237443685-2553296373658131267-n-copy.jpg",
+  "rpc_url": "http://185.239.208.139:9944",
+  "explorer_url": "http://185.239.208.139:4000",
+  "metrics_endpoint": "http://185.239.208.139:9615/metrics",
+  "id": "6294a15a-a315-4933-a3ad-cf7157d68bdd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "changngoccodon",
+  "logo": "https://i.imgur.com/Ob70IMB.png",
+  "rpc_url": "https://rpc-madara.node101.online",
+  "explorer_url": "https://explorer-madara.node101.online",
+  "metrics_endpoint": "https://metrics-madara.node101.online",
+  "id": "2ff29b03-da2f-466e-b17e-ac8aa8c90321"
+}

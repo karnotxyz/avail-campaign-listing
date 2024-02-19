@@ -1,0 +1,8 @@
+{
+  "name": "jeffwong",
+  "logo": "https://imgur.com/4fvHtGo.png",
+  "rpc_url": "http://43.131.18.38:9944",
+  "explorer_url": "http://43.131.18.38:4000",
+  "metrics_endpoint": "http://43.131.18.38:9615/metrics",
+  "id": "d9e0b777-a37b-47b5-b5b2-b1757abcb903"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Milad",
+  "logo": "https://r.resimlink.com/xiUmtn17.png",
+  "rpc_url": "http://49.12.60.59:9944",
+  "explorer_url": "http://49.12.60.59:4000",
+  "metrics_endpoint": "http://49.12.60.59:9615/metrics",
+  "id": "958f24c5-fcab-42cc-bfd2-83c55f9efee6"
+}

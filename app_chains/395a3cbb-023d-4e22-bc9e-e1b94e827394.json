@@ -1,0 +1,8 @@
+{
+  "name": "Dtrung",
+  "logo": "https://i.ibb.co/8XSzQkJ/dipskp.png",
+  "rpc_url": "http://65.108.209.144:9944",
+  "explorer_url": "http://65.108.209.144:4000",
+  "metrics_endpoint": "http://65.108.209.144:9615/metrics",
+  "id": "395a3cbb-023d-4e22-bc9e-e1b94e827394"
+}

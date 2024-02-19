@@ -1,0 +1,8 @@
+{
+  "name": "MbelongChain",
+  "logo": "http://ibb.co/G5H65F2",
+  "rpc_url": "http://34.70.17.252:9944",
+  "explorer_url": "http://34.70.17.252:4000",
+  "metrics_endpoint": "http://34.70.17.252:9615/metrics",
+  "id": "57fafa41-b15a-459c-ad28-a460848f3290"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "abolfazl",
+  "logo": "https://r.resimlink.com/beNht9-.png",
+  "rpc_url": "http://159.69.239.26:9944",
+  "explorer_url": "http://159.69.239.26:4000",
+  "metrics_endpoint": "http://159.69.239.26:9615/metrics",
+  "id": "243ff32a-e261-44ee-8732-0ccc0acad8f9"
+}

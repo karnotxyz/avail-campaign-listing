@@ -1,0 +1,8 @@
+{
+  "name": "ShinLiquid",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/121095841/303775640-164c0f08-2b9b-4b90-8bf9-34e0b4f190b6.png",
+  "rpc_url": "http://167.233.5.238:9944",
+  "explorer_url": "http://167.233.5.238:4000",
+  "metrics_endpoint": "http://167.233.5.238:9615/metrics",
+  "id": "f2d9dd74-f205-45a0-8d02-e610283ff213"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "UmutAvail",
+  "logo": "https://raw.githubusercontent.com/umut48400/namada-testnet/main/crypto%20umut%20logo.jpg",
+  "rpc_url": "http://95.111.230.64:9944",
+  "explorer_url": "http://95.111.230.64:4000",
+  "metrics_endpoint": "http://95.111.230.64:9615/metrics",
+  "id": "287de057-8861-4501-b6fa-8f176b014d3d"
+}

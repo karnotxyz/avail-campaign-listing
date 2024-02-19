@@ -1,0 +1,8 @@
+{
+  "name": "nader",
+  "logo": "https://i.ibb.co/DL4kDtJ/test2.png",
+  "rpc_url": "http://82.115.18.106:9944",
+  "explorer_url": "http://82.115.18.106:4000",
+  "metrics_endpoint": "http://82.115.18.106:9615/metrics",
+  "id": "825b6643-1d89-4b6b-a537-3216226ffff2"
+}

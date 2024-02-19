@@ -1,0 +1,8 @@
+{
+  "name": "thuybuyu",
+  "logo": "",
+  "rpc_url": "http://207.180.227.178:9944",
+  "explorer_url": "http://207.180.227.178:4000",
+  "metrics_endpoint": "http://207.180.227.178:9615/metrics",
+  "id": "fc4db688-e4bc-443d-bb0b-1f14b8b3fc40"
+}
