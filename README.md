@@ -7,13 +7,13 @@ to be listed and ranked for the campaign, please create a PR on this repo which 
 format to listing.json.
 
 ```json
+
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "STUI",
+  "logo": "file:///Users/yz/Desktop/E37A5278DD1068B9F052B2CC04524ABD.png",
+  "rpc_url": "http://VPS/109.199.103.83:9944",
+  "explorer_url": "http://VPS/109.199.103.83:4000"
+  "id": "290b989b-fde2-4c19-9ec4-1243c6b633ff"
 }
 ```
 
