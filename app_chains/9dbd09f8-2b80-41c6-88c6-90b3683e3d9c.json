@@ -1,0 +1,8 @@
+{
+  "name": "tophatrural",
+  "logo": "http://43.134.167.31/logo.jpg",
+  "rpc_url": "http://43.134.167.31:9944",
+  "explorer_url": "http://43.134.167.31:4000",
+  "metrics_endpoint": "http://43.134.167.31:9615/metrics",
+  "id": "9dbd09f8-2b80-41c6-88c6-90b3683e3d9c"
+}
