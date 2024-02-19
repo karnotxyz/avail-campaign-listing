@@ -1,0 +1,8 @@
+{
+  "name": "zardozmonopoly",
+  "logo": "https://r.resimlink.com/JWsRTySuKMg.png",
+  "rpc_url": "http://185.197.194.227:9944",
+  "explorer_url": "http://185.197.194.227:4000",
+  "metrics_endpoint": "http://185.197.194.227:9615/metrics",
+  "id": "992ca982-18d3-437b-bd6f-cc36e438c3a3"
+}

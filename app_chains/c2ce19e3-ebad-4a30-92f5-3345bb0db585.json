@@ -1,0 +1,8 @@
+{
+  "name": "nikkilplazy",
+  "logo": "https://i.postimg.cc/T2Z2jT34/nikkilplazy.png",
+  "rpc_url": "http://170.106.147.56:9944",
+  "explorer_url": "http://170.106.147.56:4000",
+  "metrics_endpoint": "http://170.106.147.56:9615/metrics",
+  "id": "c2ce19e3-ebad-4a30-92f5-3345bb0db585"
+}

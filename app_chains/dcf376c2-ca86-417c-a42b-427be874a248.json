@@ -1,0 +1,8 @@
+{
+  "name": "planet",
+  "logo": "https://r.resimlink.com/gd8_wWfsG.png",
+  "rpc_url": "http://103.75.198.37:9944",
+  "explorer_url": "http://103.75.198.37:4000",
+  "metrics_endpoint": "http://103.75.198.37:9615/metrics",
+  "id": "dcf376c2-ca86-417c-a42b-427be874a248"
+}

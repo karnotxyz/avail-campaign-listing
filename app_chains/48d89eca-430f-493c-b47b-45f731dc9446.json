@@ -1,0 +1,8 @@
+{
+  "name": "cyka",
+  "logo": "https://i.postimg.cc/SxnqV39j/cyka.png",
+  "rpc_url": "http://43.130.43.83:9944",
+  "explorer_url": "http://43.130.43.83:4000",
+  "metrics_endpoint": "http://43.130.43.83:9615/metrics",
+  "id": "48d89eca-430f-493c-b47b-45f731dc9446"
+}

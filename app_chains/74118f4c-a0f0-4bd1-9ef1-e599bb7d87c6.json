@@ -1,0 +1,8 @@
+{
+  "name": "meison",
+  "logo": "https://imgur.com/a/BvkphHq",
+  "rpc_url": "http://128.140.100.6:9944",
+  "explorer_url": "http://128.140.100.6:4000",
+  "metrics_endpoint": "http://128.140.100.6:9615/metrics",
+  "id": "74118f4c-a0f0-4bd1-9ef1-e599bb7d87c6"
+}

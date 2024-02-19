@@ -1,0 +1,8 @@
+{
+  "name": "mikethoue",
+  "logo": "https://i.imgur.com/h5fqxNd.png",
+  "rpc_url": "http://144.91.72.156:9944",
+  "explorer_url": "http://144.91.72.156:4000",
+  "metrics_endpoint": "http://144.91.72.156:9615/metrics",
+  "id": "4ee59d06-b012-4e70-a284-9e6e331b8694"
+}

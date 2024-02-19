@@ -1,0 +1,8 @@
+{
+  "name": "Momo1996",
+  "logo": "https://r.resimlink.com/Fc5NMC4.png",
+  "rpc_url": "http://46.249.98.141:9944",
+  "explorer_url": "http://46.249.98.141:4000",
+  "metrics_endpoint": "http://46.249.98.141:9615/metrics",
+  "id": "401a07b2-5f96-4e9f-9579-437e6d1f3abe"
+}

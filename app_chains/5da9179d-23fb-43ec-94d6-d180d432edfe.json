@@ -1,0 +1,8 @@
+{
+  "name": "mikekubi",
+  "logo": "https://i.imgur.com/fnzseZU.jpg",
+  "rpc_url": "http://173.212.208.200:9944",
+  "explorer_url": "http://173.212.208.200:4000",
+  "metrics_endpoint": "http://173.212.208.200:9615/metrics",
+  "id": "5da9179d-23fb-43ec-94d6-d180d432edfe"
+}

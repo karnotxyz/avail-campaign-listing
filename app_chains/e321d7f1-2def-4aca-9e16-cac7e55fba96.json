@@ -1,0 +1,8 @@
+{
+  "name": "QuantumCyx",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/QuantumCyx.png",
+  "rpc_url": "http://43.135.144.166:9944",
+  "explorer_url": "http://43.135.144.166:4000",
+  "metrics_endpoint": "http://43.135.144.166:9615/metrics",
+  "id": "e321d7f1-2def-4aca-9e16-cac7e55fba96"
+}

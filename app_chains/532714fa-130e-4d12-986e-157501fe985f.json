@@ -1,0 +1,8 @@
+{
+  "name": "chriss",
+  "logo": "https://i.imgur.com/FprtvxB.png",
+  "rpc_url": "http://43.133.185.42:9944",
+  "explorer_url": "http://43.133.185.42:4000",
+  "metrics_endpoint": "http://43.133.185.42:9615/metrics",
+  "id": "532714fa-130e-4d12-986e-157501fe985f"
+}

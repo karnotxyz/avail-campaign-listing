@@ -1,0 +1,8 @@
+{
+  "name": "btcmonkey",
+  "logo": "https://i.imgur.com/PceSFAZ.jpg",
+  "rpc_url": "http://37.60.237.88:9944",
+  "explorer_url": "http://37.60.237.88:4000",
+  "metrics_endpoint": "http://37.60.237.88:9615/metrics",
+  "id": "d02bdb2f-5cd8-462d-be50-734c75a871a8"
+}

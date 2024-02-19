@@ -1,0 +1,8 @@
+{
+  "name": "SiByLz",
+  "logo": "https://i.ibb.co/9v3np66/400png.png",
+  "rpc_url": "http://161.97.137.209:9944",
+  "explorer_url": "http://161.97.137.209:4000",
+  "metrics_endpoint": "http://161.97.137.209:9615/metrics",
+  "id": "44b63d37-a3d3-4966-8cd5-e5f87b8fbf16"
+}

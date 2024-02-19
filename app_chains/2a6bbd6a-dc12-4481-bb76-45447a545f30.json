@@ -1,0 +1,8 @@
+{
+  "name": "lakeming",
+  "logo": "http://119.28.161.116/images/1.png",
+  "rpc_url": "http://119.28.161.116:9944",
+  "explorer_url": "http://119.28.161.116:4000",
+  "metrics_endpoint": "http://119.28.161.116:9615/metrics",
+  "id": "2a6bbd6a-dc12-4481-bb76-45447a545f30"
+}

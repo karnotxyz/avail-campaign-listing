@@ -1,0 +1,8 @@
+{
+  "name": "firelove",
+  "logo": "https://i.postimg.cc/LXcQVHGq/firelove.png",
+  "rpc_url": "http://43.135.179.168:9944",
+  "explorer_url": "http://43.135.179.168:4000",
+  "metrics_endpoint": "http://43.135.179.168:9615/metrics",
+  "id": "f1adbe58-58af-469d-a317-7324cd0a8e5b"
+}

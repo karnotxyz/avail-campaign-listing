@@ -1,0 +1,8 @@
+{
+  "name": "MEH2",
+  "logo": "https://r.resimlink.com/En8by_7fkXA.jpg",
+  "rpc_url": "http://49.12.59.174:9944",
+  "explorer_url": "http://49.12.59.174:4000",
+  "metrics_endpoint": "http://49.12.59.174:9615/metrics",
+  "id": "a2e57375-ecf4-4104-a9b6-9c4d66679864"
+}

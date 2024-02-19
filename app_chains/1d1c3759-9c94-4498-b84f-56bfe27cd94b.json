@@ -1,0 +1,8 @@
+{
+  "name": "daraei",
+  "logo": "https://r.resimlink.com/bNBtFne4.jpg",
+  "rpc_url": "http://167.233.5.236:9944",
+  "explorer_url": "http://167.233.5.236:4000",
+  "metrics_endpoint": "http://167.233.5.236:9615/metrics",
+  "id": "1d1c3759-9c94-4498-b84f-56bfe27cd94b"
+}

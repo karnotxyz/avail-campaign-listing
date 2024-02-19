@@ -1,0 +1,8 @@
+{
+  "name": "uniq",
+  "logo": "https://avatars.githubusercontent.com/u/7534459?v=4",
+  "rpc_url": "http://82.208.21.89:9944",
+  "explorer_url": "http://82.208.21.89:4000",
+  "metrics_endpoint": "http://82.208.21.89:9615/metrics",
+  "id": "0f3b917f-76af-4a04-a55f-e4319901f8a2"
+}

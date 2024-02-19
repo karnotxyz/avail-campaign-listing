@@ -1,0 +1,8 @@
+{
+  "name": "Mikasa",
+  "logo": "https://cliply.co/wp-content/uploads/2020/08/442008112_GLANCING_AVATAR_3D_400.png",
+  "rpc_url": "http://134.209.102.5:9944",
+  "explorer_url": "http://134.209.102.5:4000",
+  "metrics_endpoint": "http://134.209.102.5:9615/metrics",
+  "id": "87aff46e-9a0d-4c85-88c8-2be354b3fa20"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sena",
+  "logo": "https://im.ge/i/c53FyX",
+  "rpc_url": "http://78.47.164.98:9944",
+  "explorer_url": "http://78.47.164.98:4000",
+  "metrics_endpoint": "http://78.47.164.98:9615/metrics",
+  "id": "8466e1cf-56dc-437d-9d41-bd3c39a38d8b"
+}
