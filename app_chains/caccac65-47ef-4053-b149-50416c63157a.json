@@ -1,0 +1,8 @@
+{
+  "name": "UDOPHIA",
+  "logo": "https://ibb.co/0mxFtGm.png",
+  "rpc_url": "https://38.242.201.84:9944",
+  "explorer_url": "https://38.242.201.84:4000",
+  "metrics_endpoint": "https://38.242.201.84:9615/metrics",
+  "id": "caccac65-47ef-4053-b149-50416c63157a"
+}
