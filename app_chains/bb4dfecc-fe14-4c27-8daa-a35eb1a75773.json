@@ -1,0 +1,8 @@
+{
+  "name": "ta27staking",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://108.175.0.149:9944",
+  "explorer_url": "http://108.175.0.149:4000",
+  "metrics_endpoint": "http://108.175.0.149:9615/metrics",
+  "id": "bb4dfecc-fe14-4c27-8daa-a35eb1a75773"
+}
