@@ -1,0 +1,8 @@
+{
+    "name": "cizre",
+    "logo": "https://r.resimlink.com/hLnJEcWrsV_0.png",
+    "rpc_url": "http://31.220.94.100:9944",
+    "explorer_url": "http://31.220.94.100:4000",
+    "metrics_endpoint": "http://31.220.94.100:9615/metrics",
+    "id": "e7eb4059-49e1-4138-8f44-1e40eecc54e0"
+  }
