@@ -1,0 +1,8 @@
+{
+  "name": "canoplos",
+  "logo": "https://raw.githubusercontent.com/hasanmutlucan/avail-campaign-listing/cb191c62b9f325914a9362c82605aba2dd0caa28/images.png",
+  "rpc_url": "http://212.174.58.162:9944",
+  "explorer_url": "http://212.174.58.162:4000",
+  "metrics_endpoint": "http://212.174.58.162:9615/metrics",
+  "id": "d2d62915-d6bf-4df5-a623-4626f8769b78"
+}
