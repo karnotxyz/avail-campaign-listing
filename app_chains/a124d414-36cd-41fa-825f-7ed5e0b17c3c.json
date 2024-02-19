@@ -1,6 +1,6 @@
 {
   "name": "VictorSwapChain",
-  "logo": "https://i.imgur.com/Qr5crWD.jpeg",
+  "logo": "https://imgur.com/a/J7wSr3x.png",
   "rpc_url": "http://172.16.5.4:9944",
   "explorer_url": "http://172.16.5.4:4000",
   "metrics_endpoint": "http://172.16.5.4:9615/metrics",
