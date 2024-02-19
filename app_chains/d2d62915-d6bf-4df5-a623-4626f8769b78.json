@@ -1,6 +1,6 @@
 {
   "name": "canoplos",
-  "logo": "http://212.174.58.161:8080/s/qbixbarqCZDE7cp/preview",
+  "logo": "https://raw.githubusercontent.com/hasanmutlucan/avail-campaign-listing/cb191c62b9f325914a9362c82605aba2dd0caa28/images.png",
   "rpc_url": "http://212.174.58.162:9944",
   "explorer_url": "http://212.174.58.162:4000",
   "metrics_endpoint": "http://212.174.58.162:9615/metrics",
