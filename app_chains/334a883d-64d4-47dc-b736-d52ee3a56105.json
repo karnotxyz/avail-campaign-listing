@@ -1,0 +1,8 @@
+{
+  "name": "blackfriday",
+  "logo": "https://r.resimlink.com/8tTld.jpg",
+  "rpc_url": "http://173.212.195.19:9944",
+  "explorer_url": "http://173.212.195.19:4000",
+  "metrics_endpoint": "http://173.212.195.19:9615/metrics",
+  "id": "334a883d-64d4-47dc-b736-d52ee3a56105"
+}
