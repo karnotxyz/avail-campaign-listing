@@ -1,0 +1,8 @@
+{
+  "name": "kamatu",
+  "logo": "https://i.imgur.com/bAJqsaO.jpeg",
+  "rpc_url": "http://142.93.97.41:9944",
+  "explorer_url": "http://142.93.97.41:4000",
+  "metrics_endpoint": "http://142.93.97.41:9615/metrics",
+  "id": "47a8e76f-9050-417e-9552-64943f25d493"
+}
