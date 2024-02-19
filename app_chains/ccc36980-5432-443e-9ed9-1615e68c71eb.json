@@ -1,0 +1,8 @@
+{
+  "name": "masatoglu1",
+  "logo": "https://ibb.co/mvfqNjp",
+  "rpc_url": "https://37.60.255.33:9944",
+  "explorer_url": "https://37.60.255.33:4000",
+  "metrics_endpoint": "https://37.60.255.33:9615/metrics",
+  "id": "ccc36980-5432-443e-9ed9-1615e68c71eb"
+}
