@@ -1,5 +1,5 @@
 {
-  "name": "vswap",
+  "name": "VictorSwapChain",
   "logo": "https://i.imgur.com/Qr5crWD.jpeg",
   "rpc_url": "http://172.16.5.4:9944",
   "explorer_url": "http://172.16.5.4:4000",
