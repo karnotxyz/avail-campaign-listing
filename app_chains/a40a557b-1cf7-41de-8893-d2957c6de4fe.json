@@ -1,0 +1,8 @@
+{
+  "name": "pengonatr",
+  "logo": "https://r.resimlink.com/1SsJOz9G7.png",
+  "rpc_url": "http://37.27.35.168:9944",
+  "explorer_url": "http://37.27.35.168:4000",
+  "metrics_endpoint": "http://37.27.35.168:9615/metrics",
+  "id": "a40a557b-1cf7-41de-8893-d2957c6de4fe"
+}
