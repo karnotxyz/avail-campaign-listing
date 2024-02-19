@@ -1,0 +1,8 @@
+{
+  "name": "hojjat",
+  "logo": "https://i.ibb.co/r4Dfz8J/profile-picture.jpg",
+  "rpc_url": "http://163.5.242.39:9944",
+  "explorer_url": "http://163.5.242.39:4000",
+  "metrics_endpoint": "https://163.5.242.39:9615/metrics",
+  "id": "1b1e99b1-2944-44f8-a6eb-845c344e81a4"
+}
