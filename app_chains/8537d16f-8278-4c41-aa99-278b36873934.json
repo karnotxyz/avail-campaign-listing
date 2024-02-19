@@ -1,0 +1,8 @@
+{
+  "name": "kortis",
+  "logo": "https://i.imgur.com/CIinwu2.jpeg",
+  "rpc_url": "http://109.199.99.160:9944",
+  "explorer_url": "http://109.199.99.160:4000",
+  "metrics_endpoint": "http://109.199.99.160.134:9615/metrics",
+  "id": "58537d16f-8278-4c41-aa99-278b36873934"
+}
