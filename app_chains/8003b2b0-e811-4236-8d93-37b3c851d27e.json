@@ -1,0 +1,8 @@
+{
+"name": “amber”,
+"logo": "https://ibb.co/z55YW4f”,
+"rpc_url": "http://37.60.251.190:9944",
+"explorer_url": "http://37.60.251.190:4000",
+"metrics_endpoint": "http://37.60.251.190:9615/metrics",
+"id": "8003b2b0-e811-4236-8d93-37b3c851d27e"
+}
