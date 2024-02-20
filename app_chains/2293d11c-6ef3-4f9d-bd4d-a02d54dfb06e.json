@@ -1,0 +1,8 @@
+{
+  "name": "h00n95",
+  "logo": "https://ibb.co/BKXc87p",
+  "rpc_url": "http://84.247.181.180:9944",
+  "explorer_url": "http://84.247.181.180:4000",
+  "metrics_endpoint": "http://84.247.181.180:9615/metrics",
+  "id": "2293d11c-6ef3-4f9d-bd4d-a02d54dfb06e"
+}
