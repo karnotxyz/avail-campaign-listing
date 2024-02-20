@@ -1,0 +1,8 @@
+{
+  "name": "good",
+  "logo": "https://ibb.co/RymrxxG",
+  "rpc_url": "http://34.125.12.35:9944",
+  "explorer_url": "http://34.125.12.35:4000",
+  "metrics_endpoint": "http://34.125.12.35:9615/metrics",
+  "id": "ce0c61a4-a33c-4775-999e-455f97b35abb"
+}
