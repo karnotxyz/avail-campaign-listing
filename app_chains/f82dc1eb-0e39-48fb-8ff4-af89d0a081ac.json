@@ -1,0 +1,8 @@
+{
+  "name": "macaronimolt",
+  "logo": "http://49.51.204.11/logo.jpg",
+  "rpc_url": "http://49.51.204.11:9944",
+  "explorer_url": "http://49.51.204.11:4000",
+  "metrics_endpoint": "http://49.51.204.11:9615/metrics",
+  "id": "f82dc1eb-0e39-48fb-8ff4-af89d0a081ac"
+}
