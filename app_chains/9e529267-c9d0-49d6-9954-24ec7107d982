@@ -1,0 +1,15 @@
+{
+
+  "name": "coineasy",
+
+  "logo": "https://ibb.co/cLNcYH1",
+
+  "rpc_url": "http://109.199.104.94:9944",
+
+  "explorer_url": "http://109.199.104.94:4000",
+
+  "metrics_endpoint": "http://109.199.104.94:9615/metrics",
+
+  "id": "9e529267-c9d0-49d6-9954-24ec7107d982"
+
+}
