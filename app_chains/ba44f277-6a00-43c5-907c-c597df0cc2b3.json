@@ -1,0 +1,8 @@
+{
+  "name": "bebemsi",
+  "logo": "https://r.resimlink.com/ZMXEbrlRu.png",
+  "rpc_url": "http://158.220.102.175:9944",
+  "explorer_url": "http://158.220.102.175:4000",
+  "metrics_endpoint": "http://158.220.102.175:9615",
+  "id": "ba44f277-6a00-43c5-907c-c597df0cc2b3"
+}
