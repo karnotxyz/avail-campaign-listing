@@ -1,0 +1,8 @@
+{
+  "name": "dememe",
+  "logo": "https://r.resimlink.com/KM0dL.png",
+  "rpc_url": "http://144.91.104.221:9944",
+  "explorer_url": "http://144.91.104.221:4000",
+  "metrics_endpoint": "http://144.91.104.221:9615",
+  "id": "22cd3ab2-105f-41ff-acbc-670f4f330ca4"
+}
