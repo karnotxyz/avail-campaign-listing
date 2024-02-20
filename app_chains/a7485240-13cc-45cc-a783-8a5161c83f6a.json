@@ -1,0 +1,8 @@
+{
+  "name": "pitypreviou",
+  "logo": "http://43.153.54.188/logo.jpg",
+  "rpc_url": "http://43.153.54.188:9944",
+  "explorer_url": "http://43.153.54.188:4000",
+  "metrics_endpoint": "http://43.153.54.188:9615/metrics",
+  "id": "a7485240-13cc-45cc-a783-8a5161c83f6a"
+}
