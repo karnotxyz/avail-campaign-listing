@@ -1,0 +1,8 @@
+{
+  "name": "skycapital",
+  "logo": "https://ibb.co/Ht6zM3v",
+  "rpc_url": "http://5.9.82.137:9944",
+  "explorer_url": "http://5.9.82.137:4000",
+  "metrics_endpoint": "http://5.9.82.137:9615/metrics",
+  "id": "69562ec9-0015-45b0-b314-8ce78335da29"
+}
