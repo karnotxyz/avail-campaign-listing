@@ -1,0 +1,8 @@
+{
+    "name": "xena",
+    "logo": "https://cdn.discordapp.com/attachments/964439413029470249/1209293308564611172/izikdepth_anime_cat_with_glasses_14f19925-1fd0-49b3-99d8-5c86bd680110.png?ex=65e66528&is=65d3f028&hm=5b49f0ec81a53daa208795de90397e86c1f0850d748c7c692f506a067960b781&",
+    "rpc_url": "http://103.35.191.231",
+    "explorer_url": "http://103.35.191.231:4000/",
+    "metrics_endpoint": "http://103.35.191.231",
+    "id": "12fbda07-b1f2-4edd-8a1a-19f80ac2ce2b"
+}
