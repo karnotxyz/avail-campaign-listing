@@ -1,0 +1,9 @@
+ae7c9979-2915-45c9-bf58-99cf6ec11e8f.json
+{
+  "name": "barsbaba",
+  "logo": "https://github.com/duralbaris/namada-testnets/blob/main/images.jpg?raw=true",
+  "rpc_url": "http://65.109.227.50:9944",
+  "explorer_url": "http://65.109.227.50:4000",
+  "metrics_endpoint": "http://65.109.227.50:9615/metrics",
+  "id": "ae7c9979-2915-45c9-bf58-99cf6ec11e8f"
+}
