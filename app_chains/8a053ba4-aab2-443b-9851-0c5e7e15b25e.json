@@ -1,0 +1,8 @@
+{
+  "name": "Ranbo",
+  "logo": "https://imgur.com/a/hbZFezC",
+  "rpc_url": "http://37.60.232.67:9944",
+  "explorer_url": "http://37.60.232.67:4000",
+  "metrics_endpoint": "http://37.60.232.67:9615/metrics",
+  "id": "8a053ba4-aab2-443b-9851-0c5e7e15b25e"
+}
