@@ -1,0 +1,8 @@
+{
+  "name": “nigrumardeat”,
+  "logo": "https://ibb.co/V2FT8cq",
+  "rpc_url": "http://2.58.82.96:9944",
+  "explorer_url": "http://2.58.82.96:4000/",
+  "metrics_endpoint": "2.58.82.96:9615",
+  "id": ""
+}
