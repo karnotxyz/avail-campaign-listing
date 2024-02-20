@@ -1,0 +1,8 @@
+{
+  "name": "nevam",
+  "logo": "https://r.resimlink.com/kucXZ.png",
+  "rpc_url": "http://95.217.167.102:9944",
+  "explorer_url": "http://95.217.167.102:4000",
+  "metrics_endpoint": "http://95.217.167.102/metrics",
+  "id": "30c6430e-44af-4775-9e2d-15048881c205"
+}
