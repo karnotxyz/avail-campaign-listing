@@ -1,0 +1,8 @@
+{
+  "name": "kooo",
+  "logo": "https://i.im.ge/2024/02/19/gO6sBc.GOPR5200.png",
+  "rpc_url": "http://62.72.47.43:9944",
+  "explorer_url": "http://62.72.47.43:4000",
+  "metrics_endpoint": "http://62.72.47.43:9615/metrics",
+  "id": "9c6d7f03-eb88-4548-adc9-11b3dc1cc2c4"
+}
