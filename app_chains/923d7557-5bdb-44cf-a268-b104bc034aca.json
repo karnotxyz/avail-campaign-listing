@@ -1,0 +1,8 @@
+{
+  "name": "Ramsey",
+  "logo": "https://i.ibb.co/cDp14XD/Ramsey.jpg",
+  "rpc_url": "http://167.86.113.156:9944",
+  "explorer_url": "http://167.86.113.156:4000",
+  "metrics_endpoint": "http://167.86.113.156:9615/metrics",
+  "id": "923d7557-5bdb-44cf-a268-b104bc034aca"
+}

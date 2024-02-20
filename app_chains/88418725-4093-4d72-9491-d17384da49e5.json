@@ -1,0 +1,8 @@
+{
+  "name": "tieache",
+  "logo": "http://43.128.79.221/logo.jpg",
+  "rpc_url": "http://43.128.79.221:9944",
+  "explorer_url": "http://43.128.79.221:4000",
+  "metrics_endpoint": "http://43.128.79.221:9615/metrics",
+  "id": "88418725-4093-4d72-9491-d17384da49e5"
+}

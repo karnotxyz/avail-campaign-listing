@@ -1,0 +1,8 @@
+{
+  "name": "melly",
+  "logo": "https://placehold.co/400x400/EEE/31343C?font=lato&text=Melly",
+  "rpc_url": "http://46.250.234.139:9944",
+  "explorer_url": "http://46.250.234.139:4000",
+  "metrics_endpoint": "http://46.250.234.139:9615/metrics",
+  "id": "858f2edd-e18e-4887-bf50-185d8cac43c6"
+}

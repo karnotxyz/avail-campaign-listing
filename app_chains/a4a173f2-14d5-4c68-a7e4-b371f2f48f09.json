@@ -1,0 +1,8 @@
+{
+  "name": "doppingflag",
+  "logo": "http://43.134.109.91/logo.jpg",
+  "rpc_url": "http://43.134.109.91:9944",
+  "explorer_url": "http://43.134.109.91:4000",
+  "metrics_endpoint": "http://43.134.109.91:9615/metrics",
+  "id": "a4a173f2-14d5-4c68-a7e4-b371f2f48f09"
+}

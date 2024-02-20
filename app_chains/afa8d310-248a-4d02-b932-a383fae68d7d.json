@@ -1,0 +1,8 @@
+{
+  "name": "shakilagh",
+  "logo": "https://r.resimlink.com/tIn83.jpg",
+  "rpc_url": "http://89.107.57.13:9944",
+  "explorer_url": "http://89.107.57.13:4000",
+  "metrics_endpoint": "http://89.107.57.13:9615/metrics",
+  "id": "afa8d310-248a-4d02-b932-a383fae68d7d"
+}

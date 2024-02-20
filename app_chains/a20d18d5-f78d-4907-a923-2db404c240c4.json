@@ -1,0 +1,8 @@
+{
+  "name": "Geonoder",
+  "logo": "https://i.imgur.com/Ec9nRoP.png",
+  "rpc_url": "http://5.78.72.46:9944",
+  "explorer_url": "http://5.78.72.46:4000",
+  "metrics_endpoint": "http://5.78.72.46:9615/metrics",
+  "id": "a20d18d5-f78d-4907-a923-2db404c240c4"
+}

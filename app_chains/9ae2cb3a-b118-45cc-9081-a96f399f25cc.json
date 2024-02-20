@@ -1,0 +1,8 @@
+{
+  "name": "pavlov",
+  "logo": "https://r.resimlink.com/IJZV254MFBS-.jpg",
+  "rpc_url": "http://207.180.234.195:9944",
+  "explorer_url": "http://207.180.234.195:4000",
+  "metrics_endpoint": "http://207.180.234.195:9615/metrics",
+  "id": "9ae2cb3a-b118-45cc-9081-a96f399f25cc"
+}

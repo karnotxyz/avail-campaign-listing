@@ -1,0 +1,8 @@
+{
+  "name": "kriptolisa",
+  "logo": "https://i.imgur.com/5d0tFmg.jpeg",
+  "rpc_url": "http://193.46.243.43:9944",
+  "explorer_url": "http://193.46.243.43:4000",
+  "metrics_endpoint": "http://193.46.243.43:9615/metrics",
+  "id": "b840eef1-8a42-460b-8cb4-3048e4169410"
+}
