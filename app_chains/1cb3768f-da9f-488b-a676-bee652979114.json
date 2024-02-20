@@ -1,0 +1,8 @@
+{
+  "name": "edindzeko",
+  "logo": "https://im.ge/i/bear.ga79lD",
+  "rpc_url": "http://109.123.241.57:9944",
+  "explorer_url": "http://109.123.241.57:4000",
+  "metrics_endpoint": "http://109.123.241.57:9615/metrics",
+  "id": "1cb3768f-da9f-488b-a676-bee652979114"
+}
