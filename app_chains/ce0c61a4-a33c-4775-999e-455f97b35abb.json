@@ -1,6 +1,6 @@
 {
   "name": "good",
-  "logo": "https://https://ibb.co/RymrxxG",
+  "logo": "https://ibb.co/RymrxxG",
   "rpc_url": "http://34.125.12.35:9944",
   "explorer_url": "http://34.125.12.35:4000",
   "metrics_endpoint": "http://34.125.12.35:9615/metrics",
