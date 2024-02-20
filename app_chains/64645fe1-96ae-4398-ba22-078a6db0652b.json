@@ -1,0 +1,8 @@
+{
+  "name": "serein",
+  "logo": "https://i.im.ge/2024/02/15/cKHe7r.1000033799.png",
+  "rpc_url": "http://194.233.81.221:9944",
+  "explorer_url": "http://194.233.81.221:4000",
+  "metrics_endpoint": "http://194.233.81.221:9615/metrics",
+  "id": "64645fe1-96ae-4398-ba22-078a6db0652b"
+}
