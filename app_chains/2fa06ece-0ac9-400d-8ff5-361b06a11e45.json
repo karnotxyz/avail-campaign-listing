@@ -1,0 +1,8 @@
+{
+  "name": "HoodRun",
+  "logo": "http://tinyurl.com/yjcjh5dv",
+  "rpc_url": "http://38.242.210.135:9944",
+  "explorer_url": "http://38.242.210.135:4000",
+  "metrics_endpoint": "http://38.242.210.135:9615/metrics",
+  "id": "2fa06ece-0ac9-400d-8ff5-361b06a11e45"
+}
