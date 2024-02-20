@@ -1,0 +1,11 @@
+{
+  "name": "App İsminiz",
+  "logo": "<a href="https://ibb.co/7Jb9xxR"><img src="https://i.ibb.co/275b00s/kopekbal-g.jpg" alt="kopekbal-g" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>скачать картинки ватсап</a><br /> //
+  "rpc_url": "http://158.220.108.80:9944",
+  "explorer_url": "http://158.220.108.80:4000",
+  "metrics_endpoint": "http://158.220.108.80:9615",
+  "id": "9db4c49a-d734-4057-80f0-d3652af3138d"
+}
+
+
+
