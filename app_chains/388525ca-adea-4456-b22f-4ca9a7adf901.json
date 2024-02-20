@@ -1,0 +1,8 @@
+{
+  "name": "<YOUR_APP_CHAIN_NAME>",
+  "logo": "<YOUR_LOGO>",
+  "rpc_url": "http://<YOUR_IP_ADDRESS>:9944",
+  "explorer_url": "http://<YOUR_IP_ADDRESS>:4000",
+  "metrics_endpoint": "http://<YOUR_IP_ADDRESS>:9615/metrics",
+  "id": "<YOUR_UUID>"
+}
