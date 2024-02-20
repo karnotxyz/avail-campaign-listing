@@ -1,0 +1,8 @@
+{
+  "name": "projectiler",
+  "logo": "http://49.51.197.70/logo.jpg",
+  "rpc_url": "http://49.51.197.70:9944",
+  "explorer_url": "http://49.51.197.70:4000",
+  "metrics_endpoint": "http://49.51.197.70:9615/metrics",
+  "id": "6253eb2d-27ed-4c8a-a526-9ccdc8b446fc"
+}
