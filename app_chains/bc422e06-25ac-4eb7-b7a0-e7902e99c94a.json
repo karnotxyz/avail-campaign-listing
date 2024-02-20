@@ -1,0 +1,8 @@
+{
+  "name": "worthlesscr",
+  "logo": "http://43.153.26.234/logo.jpg",
+  "rpc_url": "http://43.153.26.234:9944",
+  "explorer_url": "http://43.153.26.234:4000",
+  "metrics_endpoint": "http://43.153.26.234:9615/metrics",
+  "id": "bc422e06-25ac-4eb7-b7a0-e7902e99c94a"
+}
