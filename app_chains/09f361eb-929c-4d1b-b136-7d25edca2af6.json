@@ -1,0 +1,8 @@
+{
+  "name": "soradas",
+  "logo": "https://metagreeting.io/imgs/soradas.png",
+  "rpc_url": "http://23.94.66.109:9944",
+  "explorer_url": "http://23.94.66.109:4000",
+  "metrics_endpoint": "http://23.94.66.109:9615/metrics",
+  "id": "09f361eb-929c-4d1b-b136-7d25edca2af6"
+}
