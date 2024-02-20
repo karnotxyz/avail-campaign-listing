@@ -1,0 +1,8 @@
+{
+  "name": "Mung",
+  "logo": "https://i.imgur.com/Eb2kvVK.jpg",
+  "rpc_url": "http://167.172.64.6:9944",
+  "explorer_url": "http://167.172.64.6:4000",
+  "metrics_endpoint": "http://167.172.64.6:9615/metrics",
+  "id": "333df909-b5ec-48ab-969f-67ec158dbe55"
+}
