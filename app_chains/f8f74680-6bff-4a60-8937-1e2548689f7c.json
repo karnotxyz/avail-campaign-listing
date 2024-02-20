@@ -1,0 +1,8 @@
+{
+  "name": "segoendok",
+  "logo": "https://imgur.com/8QU3tqU",
+  "rpc_url": "http://5.161.56.23:9944",
+  "explorer_url": "http://5.161.56.23:4000",
+  "metrics_endpoint": "http://5.161.56.23:9615/metrics",
+  "id": "f8f74680-6bff-4a60-8937-1e2548689f7c"
+}
