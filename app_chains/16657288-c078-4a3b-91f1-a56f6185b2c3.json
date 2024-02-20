@@ -1,0 +1,8 @@
+{
+  "name": "warnertechhttps://imgur.com/a/3GFC90q",
+  "logo": "https://imgur.com/a/3GFC90q",
+  "rpc_url": "http://128.199.135.1:9944",
+  "explorer_url": "http://128.199.135.1:4000",
+  "metrics_endpoint": "http://128.199.135.1:9615/metrics",
+  "id": "16657288-c078-4a3b-91f1-a56f6185b2c3"
+}
