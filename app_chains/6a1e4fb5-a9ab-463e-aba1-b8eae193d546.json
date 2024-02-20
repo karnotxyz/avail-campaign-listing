@@ -1,0 +1,8 @@
+{
+  "name": "homerunellip",
+  "logo": "http://43.135.158.141/logo.jpg",
+  "rpc_url": "http://43.135.158.141:9944",
+  "explorer_url": "http://43.135.158.141:4000",
+  "metrics_endpoint": "http://43.135.158.141:9615/metrics",
+  "id": "6a1e4fb5-a9ab-463e-aba1-b8eae193d546"
+}
