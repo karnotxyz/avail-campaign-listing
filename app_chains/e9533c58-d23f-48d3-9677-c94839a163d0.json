@@ -1,0 +1,8 @@
+{
+  "name": "josefchain",
+  "logo": "https://ibb.co/r38PWHc",
+  "rpc_url": "http://70.34.248.66:9944",
+  "explorer_url": "http://70.34.248.66:4000",
+  "metrics_endpoint": "http://70.34.248.66:9615/metrics",
+  "id": "e9533c58-d23f-48d3-9677-c94839a163d0"
+}
