@@ -1,0 +1,8 @@
+{
+  "name": "journalistb",
+  "logo": "http://43.153.15.177/logo.jpg",
+  "rpc_url": "http://43.153.15.177:9944",
+  "explorer_url": "http://43.153.15.177:4000",
+  "metrics_endpoint": "http://43.153.15.177:9615/metrics",
+  "id": "3d5c1519-3ec3-4176-a37c-61a5db6da3da"
+}
