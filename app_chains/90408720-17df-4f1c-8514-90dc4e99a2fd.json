@@ -1,0 +1,8 @@
+{
+  "name": "VictorSwapChain",
+  "logo": "https://r.resimlink.com/QK_ZI0toFxT-.png",
+  "rpc_url": "http://172.17.0.1:9944",
+  "explorer_url": "http://172.17.0.1:4000",
+  "metrics_endpoint": "http://172.17.0.1:9615/metrics",
+  "id": "90408720-17df-4f1c-8514-90dc4e99a2fd"
+}
