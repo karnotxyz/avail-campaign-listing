@@ -1,0 +1,8 @@
+{
+  "name": "portlydropl",
+  "logo": "http://49.51.244.85/logo.jpg",
+  "rpc_url": "http://49.51.244.85:9944",
+  "explorer_url": "http://49.51.244.85:4000",
+  "metrics_endpoint": "http://49.51.244.85:9615/metrics",
+  "id": "d1367fb8-18c1-4e1d-8ffa-abc2788a5d92"
+}
