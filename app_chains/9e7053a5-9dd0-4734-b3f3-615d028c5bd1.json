@@ -1,0 +1,8 @@
+{
+  "name": "Arzu",
+  "logo": "https://r.resimlink.com/lAy6coJVgq.jpg",
+  "rpc_url": "http://144.91.74.18:9944",
+  "explorer_url": "http://144.91.74.18:4000",
+  "metrics_endpoint": "http://144.91.74.18:9615/metrics",
+  "id": "9e7053a5-9dd0-4734-b3f3-615d028c5bd1"
+}
