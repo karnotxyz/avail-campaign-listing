@@ -1,0 +1,8 @@
+{
+  "name": "JCx87-Madara-App",
+  "logo": "https://i.ibb.co/t2y0LW2/downloadable-ca470529-e565-410b-ae80-a8ebcd3b4d65.png",
+  "rpc_url": "http://37.60.229.195:9944",
+  "explorer_url": "http://37.60.229.195:4000",
+  "metrics_endpoint": "http://37.60.229.195:9615/metrics",
+  "id": "305b708f-14ee-4032-ba61-adb806434a0f"
+}
