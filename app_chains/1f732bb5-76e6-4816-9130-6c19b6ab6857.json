@@ -1,0 +1,8 @@
+{
+  "name": "trangnetwork",
+  "logo": "https://raw.githubusercontent.com/Mrsonic30/Image_Upload/main/trang400x400.png",
+  "rpc_url": "http://75.119.155.2:9944",
+  "explorer_url": "http://75.119.155.2:4000",
+  "metrics_endpoint": "http://75.119.155.2:9615/metrics",
+  "id": "1f732bb5-76e6-4816-9130-6c19b6ab6857"
+}
