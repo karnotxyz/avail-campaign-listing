@@ -1,0 +1,8 @@
+{
+  "name": "yagiz",
+  "logo": "https://r.resimlink.com/zc8eY.jpg",
+  "rpc_url": "http://158.220.110.14:9944",
+  "explorer_url": "http://158.220.110.14:4000",
+  "metrics_endpoint": "http://158.220.110.14:9615/metrics",
+  "id": "0c40636c-2bd8-49b0-8c5b-88f6f002b010"
+}
