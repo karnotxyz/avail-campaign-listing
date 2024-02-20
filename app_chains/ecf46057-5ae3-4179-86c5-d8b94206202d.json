@@ -1,0 +1,8 @@
+{
+    "name": "python",
+    "logo": "http://github-production-user-asset-6210df.s3.amazonaws.com/119741563/306092273-1bbb21e2-df40-4657-8d92-4715db02510a.png",
+    "rpc_url": "http://62.171.178.47:9944",
+    "explorer_url": "http://62.171.178.47:4000",
+    "metrics_endpoint": "http://62.171.178.47:9615/metrics",
+    "id": "ecf46057-5ae3-4179-86c5-d8b94206202d"
+  }
