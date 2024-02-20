@@ -1,0 +1,8 @@
+{
+  "name": "blackswan",
+  "logo": "https://ibb.co/8c9Xgf7",
+  "rpc_url": "http://161.97.64.45:9944",
+  "explorer_url": "http://161.97.64.45:4000",
+  "metrics_endpoint": "http://161.97.64.45:9615/metrics",
+  "id": "e8b4f809-80e7-4ab0-9798-a01184298175"
+}
