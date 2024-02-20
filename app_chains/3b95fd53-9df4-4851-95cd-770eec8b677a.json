@@ -1,0 +1,8 @@
+{
+  "name": "vinciaja",
+  "logo": "https://i.ibb.co/FwcnzCs/vinciaja.png",
+  "rpc_url": "http://164.68.116.45:9944",
+  "explorer_url": "http://164.68.116.45:4000",
+  "metrics_endpoint": "http://164.68.116.45:9615/metrics",
+  "id": "3b95fd53-9df4-4851-95cd-770eec8b677a"
+}
