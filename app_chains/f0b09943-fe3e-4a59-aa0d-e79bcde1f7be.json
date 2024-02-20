@@ -1,0 +1,8 @@
+{
+  "name": "sukses",
+  "logo": "https://r.resimlink.com/RWK6pbHSn.png",
+  "rpc_url": "http://46.250.233.106:9944",
+  "explorer_url": "http://46.250.233.106:4000",
+  "metrics_endpoint": "http://46.250.233.106:9615/metrics",
+  "id": "f0b09943-fe3e-4a59-aa0d-e79bcde1f7be"
+}

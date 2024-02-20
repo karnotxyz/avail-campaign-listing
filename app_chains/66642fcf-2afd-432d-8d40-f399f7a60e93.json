@@ -1,0 +1,8 @@
+{
+  "name": "cyxccxc",
+  "logo": "https://avail-1257774372.cos.na-siliconvalley.myqcloud.com/cyxccxc.png",
+  "rpc_url": "http://43.153.14.158:9944",
+  "explorer_url": "http://43.153.14.158:4000",
+  "metrics_endpoint": "http://43.153.14.158:9615/metrics",
+  "id": "66642fcf-2afd-432d-8d40-f399f7a60e93"
+}

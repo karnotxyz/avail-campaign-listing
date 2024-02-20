@@ -1,0 +1,8 @@
+{
+  "name": "kiln",
+  "logo": "https://r.resimlink.com/iHZatJjh.jpg",
+  "rpc_url": "http://91.107.172.222:9944",
+  "explorer_url": "http://91.107.172.222:4000",
+  "metrics_endpoint": "http://91.107.172.222:9615/metrics",
+  "id": "9317410a-fbf6-43be-9d47-1f64ddaebf48"
+}

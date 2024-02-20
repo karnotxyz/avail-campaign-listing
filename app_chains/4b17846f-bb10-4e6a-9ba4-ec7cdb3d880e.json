@@ -1,0 +1,8 @@
+{
+  "name": "BeoBeo",
+  "logo": "https://i.ibb.co/DgWqn01/2024-02-03-23-56-00.jpg",
+  "rpc_url": "http://beobeo.site:9944",
+  "explorer_url": "http://beobeo.site:4000",
+  "metrics_endpoint": "http://beobeo.site:9615/metrics",
+  "id": "4b17846f-bb10-4e6a-9ba4-ec7cdb3d880e"
+}

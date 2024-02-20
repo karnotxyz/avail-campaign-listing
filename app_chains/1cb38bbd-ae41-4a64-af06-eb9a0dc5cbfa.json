@@ -1,0 +1,8 @@
+{
+  "name": "robodehri",
+  "logo": "https://raw.githubusercontent.com/bdehri/Mangata-Avs-Operator-Guide/main/logo.png",
+  "rpc_url": "http://188.40.109.171:9944",
+  "explorer_url": "http://188.40.109.171:4000",
+  "metrics_endpoint": "http://188.40.109.171:9615/metrics",
+  "id": "1cb38bbd-ae41-4a64-af06-eb9a0dc5cbfa"
+}

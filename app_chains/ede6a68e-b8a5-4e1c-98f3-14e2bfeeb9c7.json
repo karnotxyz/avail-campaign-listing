@@ -1,0 +1,8 @@
+{
+  "name": "flashysoul",
+  "logo": "http://43.134.175.62/logo.jpg",
+  "rpc_url": "http://43.134.175.62:9944",
+  "explorer_url": "http://43.134.175.62:4000",
+  "metrics_endpoint": "http://43.134.175.62:9615/metrics",
+  "id": "ede6a68e-b8a5-4e1c-98f3-14e2bfeeb9c7"
+}

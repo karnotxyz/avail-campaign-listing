@@ -1,0 +1,8 @@
+{
+  "name": "yenidunya",
+  "logo": "https://pbs.twimg.com/profile_images/1500067062638600193/Codfc4JR_400x400.png",
+  "rpc_url": "http://65.21.145.199:9944",
+  "explorer_url": "http://65.21.145.199:4000",
+  "metrics_endpoint": "http://65.21.145.199:9615/metrics",
+  "id": "8771c906-c943-4ef1-b858-abb2d4f28b11"
+}

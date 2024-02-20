@@ -1,0 +1,8 @@
+{
+  "name": "sarutama",
+  "logo": "https://r.resimlink.com/9eQBxzCTXnc.png",
+  "rpc_url": "http://78.47.55.122:9944",
+  "explorer_url": "http://78.47.55.122:4000",
+  "metrics_endpoint": "http://78.47.55.122:9615/metrics",
+  "id": "bd3fc3be-dc59-443d-ba29-3a204f580034"
+}

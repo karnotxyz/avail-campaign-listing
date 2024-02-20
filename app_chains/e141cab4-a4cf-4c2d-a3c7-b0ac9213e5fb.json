@@ -1,0 +1,8 @@
+{
+  "name": "APPbuss",
+  "logo": "https://ibb.co/wYs581K",
+  "rpc_url": "http://37.60.250.98:9944",
+  "explorer_url": "http://37.60.250.98:4000",
+  "metrics_endpoint": "http://37.60.250.98:9615/metrics",
+  "id": "e141cab4-a4cf-4c2d-a3c7-b0ac9213e5fb"
+}

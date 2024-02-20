@@ -1,0 +1,8 @@
+{
+  "name": "asliroza",
+  "logo": "https://r.resimlink.com/p5or1wATyZd.png",
+  "rpc_url": "http://95.217.3.172:9944",
+  "explorer_url": "http://95.217.3.172:4000",
+  "metrics_endpoint": "http://95.217.3.172:9615/metrics",
+  "id": "8c0e61d7-1e95-45b7-a91a-ac45a03b83e0"
+}

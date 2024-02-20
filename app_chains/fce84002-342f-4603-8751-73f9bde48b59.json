@@ -1,0 +1,8 @@
+{
+  "name": "MaxCrypticN",
+  "logo": "https://i.ibb.co/Yp8FktG/45984509.png",
+  "rpc_url": "https://192.151.157.82:9944",
+  "explorer_url": "https://192.151.157.82:4000",
+  "metrics_endpoint": "https://192.151.157.82:9615",
+  "id": "fce84002-342f-4603-8751-73f9bde48b59"
+}

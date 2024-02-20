@@ -1,0 +1,8 @@
+{
+  "name": "Suisei",
+  "logo": "https://r.resimlink.com/zF2atyYASPs.jpg",
+  "rpc_url": "http://194.233.81.35:9944",
+  "explorer_url": "http://194.233.81.35:4000",
+  "metrics_endpoint": "http://194.233.81.35:9615/metrics",
+  "id": "c545b441-a0f4-4828-9dcc-98f82baefb5c"
+}

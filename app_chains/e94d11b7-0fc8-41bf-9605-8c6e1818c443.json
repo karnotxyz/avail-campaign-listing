@@ -1,0 +1,8 @@
+{
+  "name": "FTX",
+  "logo": "https://i.imgur.com/YIiCQcy.jpeg",
+  "rpc_url": "http://37.27.42.41:9944",
+  "explorer_url": "http://37.27.42.41:4000",
+  "metrics_endpoint": "http://37.27.42.41:9615/metrics",
+  "id": "e94d11b7-0fc8-41bf-9605-8c6e1818c443"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sabrina",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://147.182.238.101:9944",
+  "explorer_url": "http://147.182.238.101:4000",
+  "metrics_endpoint": "http://147.182.238.101:9615/metrics",
+  "id": "2a87ff7b-729a-4c01-b81e-5270cbc0fd67"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "zero",
+  "logo": "https://raw.githubusercontent.com/zagiscoming/Dymension-NFT-Mint-sitesi-yapimi-/main/zero_9121816-1.png",
+  "rpc_url": "http://149.102.146.36:9944",
+  "explorer_url": "http://149.102.146.36:4000",
+  "metrics_endpoint": "http://149.102.146.36:9615/metrics",
+  "id": "9895ab0d-0407-410f-a6ea-115af35ffad0"
+}

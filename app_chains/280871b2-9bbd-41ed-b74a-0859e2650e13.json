@@ -1,0 +1,8 @@
+{
+  "name": "Voyager",
+  "logo": "https://r.resimlink.com/iT1CN0b.png",
+  "rpc_url": "http://173.212.207.175:9944",
+  "explorer_url": "http://173.212.207.175:4000",
+  "metrics_endpoint": "http://173.212.207.175:9615/metrics",
+  "id": "280871b2-9bbd-41ed-b74a-0859e2650e13"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kaly",
+  "logo": "https://i.imgur.com/We6fN6l.png",
+  "rpc_url": "http://5.189.172.185:9944",
+  "explorer_url": "http://5.189.172.185:4000",
+  "metrics_endpoint": "http://5.189.172.185:9615/metrics",
+  "id": "e38e73c1-c8e3-43e8-993c-7368a8e8e3ce"
+}

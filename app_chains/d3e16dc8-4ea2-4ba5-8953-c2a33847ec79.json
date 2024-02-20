@@ -1,0 +1,8 @@
+{
+  "name": "Sikunjai",
+  "logo": "https://imgur.com/a/UiRguVX",
+  "rpc_url": "http://139.59.116.194:9944",
+  "explorer_url": "http://139.59.116.194:4000",
+  "metrics_endpoint": "http://139.59.116.194:9615/metrics",
+  "id": "d3e16dc8-4ea2-4ba5-8953-c2a33847ec79"
+}

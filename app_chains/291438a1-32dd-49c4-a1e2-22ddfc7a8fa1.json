@@ -1,0 +1,8 @@
+{
+  "name": "kartlos",
+  "logo": "https://i.imgur.com/ZEFRWqy.png",
+  "rpc_url": "http://37.60.253.238:9944",
+  "explorer_url": "http://37.60.253.238:4000",
+  "metrics_endpoint": "http://37.60.253.238:9615/metrics",
+  "id": "291438a1-32dd-49c4-a1e2-22ddfc7a8fa1"
+}

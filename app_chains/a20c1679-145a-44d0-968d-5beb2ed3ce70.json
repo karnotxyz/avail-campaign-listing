@@ -1,0 +1,8 @@
+{
+  "name": "NomadYam",
+  "logo": "https://ibb.co/mTVfCKp",
+  "rpc_url": "http://207.180.239.176:9944",
+  "explorer_url": "http://207.180.239.176:4000",
+  "metrics_endpoint": "http://207.180.239.176:9615/metrics",
+  "id": "a20c1679-145a-44d0-968d-5beb2ed3ce70"
+}

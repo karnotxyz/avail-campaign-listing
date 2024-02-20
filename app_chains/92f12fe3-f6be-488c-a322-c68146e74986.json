@@ -1,0 +1,8 @@
+{
+  "name": "acarullah",
+  "logo": "https://i.imgur.com/EKzmsiz.png",
+  "rpc_url": "http://134.209.90.57:9944",
+  "explorer_url": "http://134.209.90.57:4000",
+  "metrics_endpoint": "http://134.209.90.57:9615/metrics",
+  "id": "92f12fe3-f6be-488c-a322-c68146e74986"
+}

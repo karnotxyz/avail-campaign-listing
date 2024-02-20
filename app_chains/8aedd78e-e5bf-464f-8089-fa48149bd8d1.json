@@ -1,0 +1,8 @@
+{
+  "name": "minghoverist",
+  "logo": "https://i.imgur.com/VYMGx6y.jpg",
+  "rpc_url": "http://49.13.146.79:9944",
+  "explorer_url": "http://49.13.146.79:4000",
+  "metrics_endpoint": "http://49.13.146.79:9615/metrics",
+  "id": "8aedd78e-e5bf-464f-8089-fa48149bd8d1"
+}

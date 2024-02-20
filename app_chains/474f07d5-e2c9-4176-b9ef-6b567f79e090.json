@@ -1,0 +1,8 @@
+{
+  "name": "bekhorash",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://karnot-node.testingsystem.shop:9944",
+  "explorer_url": "https://karnot-node.testingsystem.shop:4000",
+  "metrics_endpoint": "https://karnot-node.testingsystem.shop:9615",
+  "id": "474f07d5-e2c9-4176-b9ef-6b567f79e090"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pupu",
+  "logo": "https://i.imgur.com/6qnNt38.jpg",
+  "rpc_url": "http://45.130.23.57:9944",
+  "explorer_url": "http://45.130.23.57:4000",
+  "metrics_endpoint": "http://45.130.23.57:9615/metrics",
+  "id": "722ad331-dee7-4eee-90bb-03c8da4ce11f"
+}

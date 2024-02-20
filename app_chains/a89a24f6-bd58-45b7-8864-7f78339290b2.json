@@ -1,0 +1,8 @@
+{
+  "name": "bleach",
+  "logo": "https://r.resimlink.com/zFvyYW.png",
+  "rpc_url": "http://37.27.44.18:9944",
+  "explorer_url": "http://37.27.44.18:4000",
+  "metrics_endpoint": "http://37.27.44.18:9615/metrics",
+  "id": "a89a24f6-bd58-45b7-8864-7f78339290b2"
+}

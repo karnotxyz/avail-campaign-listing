@@ -1,0 +1,8 @@
+{
+  "name": "wocaonima",
+  "logo": "https://ibb.co/GWtYXjV",
+  "rpc_url": "http://43.133.207.231:9944",
+  "explorer_url": "http://43.133.207.231:4000",
+  "metrics_endpoint": "http://43.133.207.231:9615/metrics",
+  "id": "1c24574c-1712-4f94-9bae-629b6d219af5"
+}

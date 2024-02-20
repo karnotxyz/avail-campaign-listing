@@ -1,0 +1,8 @@
+{
+  "name": "onixia",
+  "logo": "https://r.resimlink.com/jsia1kSg3.jpg",
+  "rpc_url": "http://185.110.191.82:9944",
+  "explorer_url": "http://185.110.191.82:4000",
+  "metrics_endpoint": "http://185.110.191.82:9615/metrics",
+  "id": "55553648-f791-423f-8bb1-a17d55287088"
+}

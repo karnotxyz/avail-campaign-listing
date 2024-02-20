@@ -1,0 +1,8 @@
+{
+  "name": "xxcode",
+  "logo": "https://r.resimlink.com/GI5zwhKHUO.jpg",
+  "rpc_url": "http://84.247.142.192:9944",
+  "explorer_url": "http://84.247.142.192:4000",
+  "metrics_endpoint": "http://84.247.142.192:9615/metrics",
+  "id": "298c2548-5a53-4373-91cf-e3427c3191eb"
+}

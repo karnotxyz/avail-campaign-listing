@@ -1,0 +1,8 @@
+{
+  "name": "kriptoqraftv",
+  "logo": "https://github.com/KriptoQraf/kriptoqraftv/blob/main/1.png",
+  "rpc_url": "http://62.113.106.173:9944",
+  "explorer_url": "http://62.113.106.173:4000",
+  "metrics_endpoint": "http://62.113.106.173:9615/metrics",
+  "id": "20d5713d-8efb-41ec-aa0c-5818b4a0e6a2"
+}

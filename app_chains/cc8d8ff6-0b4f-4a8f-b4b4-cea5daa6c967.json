@@ -1,0 +1,8 @@
+{
+  "name": "dug",
+  "logo": "https://r.resimlink.com/L1F3ZbY9.png",
+  "rpc_url": "http://172.206.251.181:9944",
+  "explorer_url": "http://172.206.251.181:4000",
+  "metrics_endpoint": "http://172.206.251.181:9615/metrics",
+  "id": "cc8d8ff6-0b4f-4a8f-b4b4-cea5daa6c967"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "iblitzc0de",
+  "logo": "https://i.ibb.co/xjrPpnk/Snapseed.jpg",
+  "rpc_url": "http://46.250.232.44:9944",
+  "explorer_url": "http://46.250.232.44:4000",
+  "metrics_endpoint": "http://46.250.232.44:9615/metrics",
+  "id": "61a10ffb-98e0-468e-a682-1b400f0a01fc"
+}

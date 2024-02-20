@@ -1,0 +1,8 @@
+{
+  "name": "weaverjam",
+  "logo": "http://43.134.104.239/logo.jpg",
+  "rpc_url": "http://43.134.104.239:9944",
+  "explorer_url": "http://43.134.104.239:4000",
+  "metrics_endpoint": "http://43.134.104.239:9615/metrics",
+  "id": "5fa0c038-6ade-487f-8cab-74a3b389c709"
+}

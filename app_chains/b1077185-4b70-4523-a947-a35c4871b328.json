@@ -1,0 +1,8 @@
+{
+  "name": "alcibiades",
+  "logo": "https://r.resimlink.com/kift6.jpg",
+  "rpc_url": "http://49.13.9.139:9944",
+  "explorer_url": "http://49.13.9.139:4000",
+  "metrics_endpoint": "http://49.13.9.139:9615/metrics",
+  "id": "b1077185-4b70-4523-a947-a35c4871b328"
+}

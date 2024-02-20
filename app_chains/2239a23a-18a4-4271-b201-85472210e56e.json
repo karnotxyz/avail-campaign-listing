@@ -1,0 +1,8 @@
+{
+  "name": "jinda",
+  "logo": "https://i.hizliresim.com/ecqbybc.png",
+  "rpc_url": "http://167.86.104.194:9944",
+  "explorer_url": "http://167.86.104.194:4000",
+  "metrics_endpoint": "http://167.86.104.194:9615/metrics",
+  "id": "2239a23a-18a4-4271-b201-85472210e56e"
+}

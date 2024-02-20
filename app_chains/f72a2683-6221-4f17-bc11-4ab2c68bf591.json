@@ -1,0 +1,8 @@
+{
+  "name": "LYL42",
+  "logo": "https://imgur.com/a/hM7OXAo.png",
+  "rpc_url": "http://37.60.239.201:9944",
+  "explorer_url": "http://37.60.239.201:4000",
+  "metrics_endpoint": "http://37.60.239.201:9615/metrics",
+  "id": "f72a2683-6221-4f17-bc11-4ab2c68bf591"
+}

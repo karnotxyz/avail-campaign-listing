@@ -1,0 +1,8 @@
+{
+  "name": "planode",
+  "logo": "https://i.ibb.co/2tZHwXh/Ekran-Resmi-2024-02-09-23-38-13.png",
+  "rpc_url": "http://146.190.130.219:9944",
+  "explorer_url": "http://146.190.130.219:4000",
+  "metrics_endpoint": "http://146.190.130.219:9615/metrics",
+  "id": "579b25f0-c141-452d-b605-b5b92debff77"
+}

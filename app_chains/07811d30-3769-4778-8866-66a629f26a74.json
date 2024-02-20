@@ -1,0 +1,8 @@
+{
+  "name": "FUNDLER",
+  "logo": "https://r.resimlink.com/q-FK_DtOhR7.jpg",
+  "rpc_url": "http://5.78.52.78:9944",
+  "explorer_url": "http://5.78.52.78:4000",
+  "metrics_endpoint": "http://5.78.52.78:9615/metrics",
+  "id": "07811d30-3769-4778-8866-66a629f26a74"
+}

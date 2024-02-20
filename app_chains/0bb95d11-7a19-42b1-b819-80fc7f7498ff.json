@@ -1,0 +1,8 @@
+{
+  "name": "nokia",
+  "logo": "https://i.ibb.co/0B8JcHW/starjk.png",
+  "rpc_url": "http://65.21.254.103:9944",
+  "explorer_url": "http://65.21.254.103:4000",
+  "metrics_endpoint": "http://65.21.254.103:9615/metrics",
+  "id": "0bb95d11-7a19-42b1-b819-80fc7f7498ff"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "foxglovean",
+  "logo": "http://43.133.26.235/logo.jpg",
+  "rpc_url": "http://43.133.26.235:9944",
+  "explorer_url": "http://43.133.26.235:4000",
+  "metrics_endpoint": "http://43.133.26.235:9615/metrics",
+  "id": "bcb02711-6b2a-4b86-810a-b8a35478d9f6"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "berk",
+  "logo": "https://imgur.com/a/ZyeGuSC",
+  "rpc_url": "http://161.97.143.116:9944",
+  "explorer_url": "http://161.97.143.116:4000",
+  "metrics_endpoint": "http://161.97.143.116:9615/metrics",
+  "id": "f64cdeac-9419-4205-8494-8ae197f2fcac"
+}

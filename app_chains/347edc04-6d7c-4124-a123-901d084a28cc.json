@@ -1,0 +1,8 @@
+{
+  "name": "luccid",
+  "logo": "https://nftevening.com/wp-content/uploads/2022/04/2-1.jpg",
+  "rpc_url": "http://43.156.170.245:9944",
+  "explorer_url": "http://43.156.170.245:4000",
+  "metrics_endpoint": "http://43.156.170.245:9615/metrics",
+  "id": "347edc04-6d7c-4124-a123-901d084a28cc"
+}

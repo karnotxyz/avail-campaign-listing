@@ -1,0 +1,8 @@
+{
+  "name": "willloh1314",
+  "logo": "https://imgur.com/a/n2gnJA0",
+  "rpc_url": "http://173.249.49.103:9944",
+  "explorer_url": "http://173.249.49.103:4000",
+  "metrics_endpoint": "http://173.249.49.103:9615/metrics",
+  "id": "eb4b3f51-a1b2-4c86-a0f9-ed93dc48f5e7"
+}

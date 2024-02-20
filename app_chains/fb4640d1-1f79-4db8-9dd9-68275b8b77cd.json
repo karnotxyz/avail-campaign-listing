@@ -1,0 +1,8 @@
+{
+  "name": "meg0302",
+  "logo": "https://cdn.pixabay.com/photo/2023/11/07/12/49/wolves-8372284_1280.jpg",
+  "rpc_url": "http://89.117.52.107:9944",
+  "explorer_url": "http://89.117.52.107:4000",
+  "metrics_endpoint": "http://89.117.52.107:9615/metrics",
+  "id": "fb4640d1-1f79-4db8-9dd9-68275b8b77cd"
+}

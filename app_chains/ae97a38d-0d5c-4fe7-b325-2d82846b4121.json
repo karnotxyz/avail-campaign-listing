@@ -1,0 +1,8 @@
+{
+  "name": "Arthazholic",
+  "logo": "https://i.ibb.co/WBt9YVd/logo-stark.png",
+  "rpc_url": "http://65.109.4.18:9944/",
+  "explorer_url": "http://65.109.4.18:4000/",
+  "metrics_endpoint": "http://65.109.4.18:9615/metrics",
+  "id": "ae97a38d-0d5c-4fe7-b325-2d82846b4121"
+}

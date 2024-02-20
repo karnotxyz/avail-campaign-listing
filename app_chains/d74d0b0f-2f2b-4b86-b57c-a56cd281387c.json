@@ -1,0 +1,8 @@
+{
+  "name": "krtl",
+  "logo": "https://ibb.co/f0pnGK9",
+  "rpc_url": "http://84.247.190.48:9944",
+  "explorer_url": "http://84.247.190.48:4000",
+  "metrics_endpoint": "http://84.247.190.48:9615/metrics",
+  "id": "d74d0b0f-2f2b-4b86-b57c-a56cd281387c"
+}

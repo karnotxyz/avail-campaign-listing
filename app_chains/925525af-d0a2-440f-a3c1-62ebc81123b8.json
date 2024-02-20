@@ -1,0 +1,8 @@
+{
+  "name": "tuananh",
+  "logo": "https://i.imgur.com/AkUzSuD.png",
+  "rpc_url": "http://209.97.149.43:9944",
+  "explorer_url": "http://209.97.149.43:4000",
+  "metrics_endpoint": "http://209.97.149.43:9615/metrics",
+  "id": "925525af-d0a2-440f-a3c1-62ebc81123b8"
+}

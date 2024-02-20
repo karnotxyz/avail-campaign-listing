@@ -1,0 +1,8 @@
+{
+  "name": "rijsel",
+  "logo": "https://i.imgur.com/awyQFJC.jpg",
+  "rpc_url": "http://146.190.226.113:9944",
+  "explorer_url": "http://146.190.226.113:4000",
+  "metrics_endpoint": "http://146.190.226.113:9615/metrics",
+  "id": "e35ad03a-3903-4e78-8d85-d38fd4a01451"
+}

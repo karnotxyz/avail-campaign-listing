@@ -1,0 +1,8 @@
+{
+  "name": "fortmatic",
+  "logo": "https://imgur.com/is11fba",
+  "rpc_url": "http://5.104.81.63:9944",
+  "explorer_url": "http://5.104.81.63:4000",
+  "metrics_endpoint": "http://5.104.81.63:9615/metrics",
+  "id": "2399a6ec-aad3-4b2e-94a4-b9999222cd57"
+}

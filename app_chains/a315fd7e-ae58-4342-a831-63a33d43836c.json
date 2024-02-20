@@ -1,0 +1,8 @@
+{
+  "name": "Acyxis",
+  "logo": "https://loveavail-1257774372.cos.na-siliconvalley.myqcloud.com/Acyxis.png",
+  "rpc_url": "http://43.130.38.57:9944",
+  "explorer_url": "http://43.130.38.57:4000",
+  "metrics_endpoint": "http://43.130.38.57:9615/metrics",
+  "id": "a315fd7e-ae58-4342-a831-63a33d43836c"
+}

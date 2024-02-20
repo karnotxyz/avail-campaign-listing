@@ -1,0 +1,8 @@
+{
+  "name": "oddsspotle",
+  "logo": "http://43.134.240.10/logo.jpg",
+  "rpc_url": "http://43.134.240.10:9944",
+  "explorer_url": "http://43.134.240.10:4000",
+  "metrics_endpoint": "http://43.134.240.10:9615/metrics",
+  "id": "27298a5e-f83b-4b0d-8a75-6792940841c6"
+}

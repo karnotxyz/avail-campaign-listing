@@ -1,0 +1,8 @@
+{
+  "name": "Prolinkmoon",
+  "logo": "https://i.im.ge/2024/02/11/ctOvOx.logo.png",
+  "rpc_url": "http://37.60.224.144:9944",
+  "explorer_url": "http://37.60.224.144:4000",
+  "metrics_endpoint": "http://37.60.224.144:9615/metrics",
+  "id": "99d32b79-4fe2-4192-92b1-86cdedd93c3c"
+}

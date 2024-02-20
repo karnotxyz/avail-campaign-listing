@@ -1,0 +1,8 @@
+{
+  "name": "alviora",
+  "logo": "https://i.imgur.com/V8qJN29.jpg",
+  "rpc_url": "http://109.123.250.135:9944",
+  "explorer_url": "http://109.123.250.135:4000",
+  "metrics_endpoint": "http://109.123.250.135:9615/metrics",
+  "id": "facbb50c-ae7d-4c99-8284-d1192a97c625"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "zhaodapaopao",
+  "logo": "http://img.hashmind.cc/static/images/20240203003405.png",
+  "rpc_url": "http://zhaodapao_avail.hashmind.cc:9944",
+  "explorer_url": "http://zhaodapao_avail.hashmind.cc:4000",
+  "metrics_endpoint": "http://zhaodapao_avail.hashmind.cc:9615/metrics",
+  "id": "7f47ca1b-1f51-410b-8aa8-de8a937f308d"
+}

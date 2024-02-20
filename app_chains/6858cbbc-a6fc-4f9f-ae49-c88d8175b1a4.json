@@ -1,0 +1,8 @@
+{
+  "name": "BlueStar",
+  "logo": "https://i.ibb.co/Vgx33N3/bluestar.png",
+  "rpc_url": "http://116.202.96.199:9944",
+  "explorer_url": "http://116.202.96.199:4000",
+  "metrics_endpoint": "http://116.202.96.199:9615/metrics",
+  "id": "6858cbbc-a6fc-4f9f-ae49-c88d8175b1a4"
+}

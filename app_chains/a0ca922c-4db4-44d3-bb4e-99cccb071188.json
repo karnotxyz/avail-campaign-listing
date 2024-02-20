@@ -1,0 +1,8 @@
+{
+  "name": "secretbey",
+  "logo": "https://r.resimlink.com/LDaCVN.png",
+  "rpc_url": "http://37.27.17.146:9944",
+  "explorer_url": "http://37.27.17.146:4000",
+  "metrics_endpoint": "http://37.27.17.146:9615/metrics",
+  "id": "a0ca922c-4db4-44d3-bb4e-99cccb071188"
+}

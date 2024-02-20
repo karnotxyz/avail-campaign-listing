@@ -1,0 +1,8 @@
+{
+  "name": "emma",
+  "logo": "https://im.ge/i/bv8a3p",
+  "rpc_url": "http://43.156.69.241:9944",
+  "explorer_url": "http://43.156.69.241:4000",
+  "metrics_endpoint": "http://43.156.69.241:9615/metrics",
+  "id": "1fb81922-ba2a-4158-876e-142897c9f06f"
+}

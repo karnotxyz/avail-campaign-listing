@@ -1,0 +1,8 @@
+{
+  "name": "peachdefi",
+  "logo": "https://r.resimlink.com/jQ2DYJHLTz.png",
+  "rpc_url": "http://167.233.5.237:9944",
+  "explorer_url": "http://167.233.5.237:4000",
+  "metrics_endpoint": "http://167.233.5.237:9615/metrics",
+  "id": "100c60b5-ecb2-4847-bd58-77375ec3bdd9"
+}

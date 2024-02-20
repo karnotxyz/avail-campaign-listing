@@ -1,0 +1,8 @@
+{
+  "name": "0xLei",
+  "logo": "https://i.imgur.com/e89tvGlb.jpg",
+  "rpc_url": "http://45.143.233.159:9944",
+  "explorer_url": "http://45.143.233.159:4000",
+  "metrics_endpoint": "http://45.143.233.159:9615/metrics",
+  "id": "b08f510e-2200-4575-a324-dbb21495597c"
+}

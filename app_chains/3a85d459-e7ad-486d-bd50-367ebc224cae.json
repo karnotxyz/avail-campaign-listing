@@ -1,0 +1,8 @@
+{
+  "name": "ati-avail1",
+  "logo": "https://r.resimlink.com/MWo2iv.jpg",
+  "rpc_url": "http://195.201.36.245:9944",
+  "explorer_url": "http://195.201.36.245:4000",
+  "metrics_endpoint": "http://195.201.36.245:9615/metrics",
+  "id": "3a85d459-e7ad-486d-bd50-367ebc224cae"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "StakingCabin",
+  "logo": "https://www.stakingcabin.com/l.png",
+  "rpc_url": "http://54.36.115.8:9944",
+  "explorer_url": "http://54.36.115.8:4000",
+  "metrics_endpoint": "http://54.36.115.8:9615/metrics",
+  "id": "26f1b4dc-becc-44b2-be2e-84de025931df"
+}

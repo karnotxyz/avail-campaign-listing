@@ -1,0 +1,8 @@
+{
+  "name": "fairstaking",
+  "logo": "https://ibb.co/g3Y1p8M",
+  "rpc_url": "http://135.181.146.133:9944",
+  "explorer_url": "http://135.181.146.133:4000",
+  "metrics_endpoint": "http://135.181.146.133:9615/metrics",
+  "id": "fb0a2d14-05dd-4bc5-b490-73332718d8ac"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bakuboapp",
+  "logo": "https://ibb.co/C0Ygkxm",
+  "rpc_url": "http://95.216.164.7:9944",
+  "explorer_url": "http://95.216.164.7:4000",
+  "metrics_endpoint": "http://95.216.164.7:9615/metrics",
+  "id": "deadbc1f-c5ab-4c58-976b-670999ea10d9"
+}

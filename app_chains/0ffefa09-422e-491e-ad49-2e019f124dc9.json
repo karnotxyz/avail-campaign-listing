@@ -1,0 +1,8 @@
+{
+  "name": "AlexFred",
+  "logo": "https://i.ibb.co/nzQ3RDy/licensed-image-1.jpg",
+  "rpc_url": "http://213.136.91.43:9944",
+  "explorer_url": "http://213.136.91.43:4000",
+  "metrics_endpoint": "http://213.136.91.43:9615",
+  "id": "0ffefa09-422e-491e-ad49-2e019f124dc9"
+}

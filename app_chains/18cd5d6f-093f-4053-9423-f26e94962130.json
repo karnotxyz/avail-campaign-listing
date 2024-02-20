@@ -1,0 +1,8 @@
+{
+  "name": "crixus",
+  "logo": "https://i.imgur.com/krQQ7dB.png",
+  "rpc_url": "http://65.109.165.207:9944",
+  "explorer_url": "http://65.109.165.207:4000",
+  "metrics_endpoint": "http://65.109.165.207:9615/metrics",
+  "id": "18cd5d6f-093f-4053-9423-f26e94962130"
+}

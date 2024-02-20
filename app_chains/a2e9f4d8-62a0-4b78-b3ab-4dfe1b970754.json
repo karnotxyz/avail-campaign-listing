@@ -1,0 +1,8 @@
+{
+  "name": "navid1",
+  "logo": "https://r.resimlink.com/x51nfy.jpg",
+  "rpc_url": "http://184.174.35.29:9944",
+  "explorer_url": "http://184.174.35.29:4000",
+  "metrics_endpoint": "http://184.174.35.29:9615/metrics",
+  "id": "a2e9f4d8-62a0-4b78-b3ab-4dfe1b970754"
+}

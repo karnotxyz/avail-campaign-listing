@@ -1,0 +1,8 @@
+{
+  "name": "sattori",
+  "logo": "https://ibb.co/mTVfCKp",
+  "rpc_url": "http://142.93.228.214:9944",
+  "explorer_url": "http://142.93.228.214:4000",
+  "metrics_endpoint": "http://142.93.228.214:9615/metrics",
+  "id": "43e7962e-83e2-49c4-af62-29b3e84c4eb1"
+}

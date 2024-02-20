@@ -1,0 +1,8 @@
+{
+  "name": "gomble",
+  "logo": "https://i.ibb.co/9q4hv0x/Rare-Bears-Teaser-9.jpg",
+  "rpc_url": "http://35.229.71.90:9944",
+  "explorer_url": "http://35.229.71.90:4000",
+  "metrics_endpoint": "http://35.229.71.90:9615/metrics",
+  "id": "e608cb52-d613-4f82-8456-4328013cb7f9"
+}

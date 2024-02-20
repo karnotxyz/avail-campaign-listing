@@ -1,0 +1,8 @@
+{
+  "name": "setin",
+  "logo": "https://r.resimlink.com/bOAC8Js3p.jpg",
+  "rpc_url": "http://46.249.98.53:9944",
+  "explorer_url": "http://46.249.98.53:4000",
+  "metrics_endpoint": "http://46.249.98.53:9615/metrics",
+  "id": "12f8f6a7-cb35-4b3d-894c-bd31435a48e7"
+}

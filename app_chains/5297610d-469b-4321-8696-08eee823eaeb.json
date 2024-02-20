@@ -1,0 +1,8 @@
+{
+  "name": "focusguy",
+  "logo": "https://i.ibb.co/z8y6Cdb/isekai.jpg",
+  "rpc_url": "http://34.125.80.97:9944",
+  "explorer_url": "http://34.125.80.97:4000",
+  "metrics_endpoint": "http://34.125.80.97:9615/metrics",
+  "id": "5297610d-469b-4321-8696-08eee823eaeb"
+}

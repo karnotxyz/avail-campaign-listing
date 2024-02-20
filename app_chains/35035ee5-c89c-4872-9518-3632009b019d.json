@@ -1,0 +1,8 @@
+{
+  "name": "cherry",
+  "logo": "https://node.magentwo.dev/images/logo.png",
+  "rpc_url": "https://madara-rpc.cherryvalidator.us",
+  "explorer_url": "https://madara-explorer.cherryvalidator.us",
+  "metrics_endpoint": "https://madara-metrics.cherryvalidator.us",
+  "id": "35035ee5-c89c-4872-9518-3632009b019d"
+}

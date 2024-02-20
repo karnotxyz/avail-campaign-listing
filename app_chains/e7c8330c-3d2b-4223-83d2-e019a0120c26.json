@@ -1,0 +1,8 @@
+{
+  "name": "Vesnet",
+  "logo": "https://r.resimlink.com/dFwyT4.jpg",
+  "rpc_url": "http://95.111.251.220:9944",
+  "explorer_url": "http://95.111.251.220:4000",
+  "metrics_endpoint": "http://95.111.251.220:9615/metrics",
+  "id": "e7c8330c-3d2b-4223-83d2-e019a0120c26"
+}

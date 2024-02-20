@@ -1,0 +1,8 @@
+{
+  "name": "bibikokk2",
+  "logo": "https://imgur.com/a/37WDbc5",
+  "rpc_url": "http://64.176.42.186:9944",
+  "explorer_url": "http://64.176.42.186:4000",
+  "metrics_endpoint": "http://64.176.42.186:9615/metrics",
+  "id": "57389c6a-b5c0-4417-b5f0-68579a6fc3ac"
+}

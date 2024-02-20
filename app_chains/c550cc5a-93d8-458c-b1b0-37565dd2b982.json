@@ -1,0 +1,8 @@
+{
+  "name": "BigDick",
+  "logo": "https://github.com/HardBrick21/MissionSoMuch/blob/master/pic.png?raw=true",
+  "rpc_url": "http://43.133.32.132:9944",
+  "explorer_url": "http://43.133.32.132:4000",
+  "metrics_endpoint": "http://43.133.32.132:9615/metrics",
+  "id": "c550cc5a-93d8-458c-b1b0-37565dd2b982"
+}

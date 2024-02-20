@@ -1,0 +1,8 @@
+{
+  "name": "easonhuag",
+  "logo": "http://43.155.133.164/logo.jpg",
+  "rpc_url": "http://43.155.133.164:9944",
+  "explorer_url": "http://43.155.133.164:4000",
+  "metrics_endpoint": "http://43.155.133.164:9615/metrics",
+  "id": "ca6b2349-c6e1-43e5-8be4-04e11fb969f9"
+}

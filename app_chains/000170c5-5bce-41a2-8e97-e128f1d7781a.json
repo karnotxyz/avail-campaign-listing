@@ -1,0 +1,8 @@
+{
+  "name": "aghamasmass",
+  "logo": "https://r.resimlink.com/ytjcFPp4N.jpg",
+  "rpc_url": "http://178.132.4.42:9944",
+  "explorer_url": "http://178.132.4.42:4000",
+  "metrics_endpoint": "http://178.132.4.42:9615/metrics",
+  "id": "000170c5-5bce-41a2-8e97-e128f1d7781a"
+}

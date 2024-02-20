@@ -1,0 +1,8 @@
+{
+  "name": "serenel",
+  "logo": "https://raw.githubusercontent.com/melihc/first/main/logo2.png",
+  "rpc_url": "http://37.60.240.190:9944",
+  "explorer_url": "http://37.60.240.190:4000",
+  "metrics_endpoint": "http://37.60.240.190:9615/metrics",
+  "id": "2a4d192b-2571-4fc6-973c-a8ddc6f453a5"
+}

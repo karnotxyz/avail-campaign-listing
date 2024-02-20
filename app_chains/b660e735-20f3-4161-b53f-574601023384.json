@@ -1,0 +1,8 @@
+{
+  "name": "donna",
+  "logo": "https://im.ge/i/c91Ovy",
+  "rpc_url": "http://128.140.125.84:9944",
+  "explorer_url": "http://128.140.125.84:4000",
+  "metrics_endpoint": "http://128.140.125.84:9615/metrics",
+  "id": "b660e735-20f3-4161-b53f-574601023384"
+}

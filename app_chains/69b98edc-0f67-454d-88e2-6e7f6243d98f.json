@@ -1,0 +1,8 @@
+{
+  "name": "sepoool",
+  "logo": "https://i.ibb.co/nLWjNPK/logo.png",
+  "rpc_url": "http://168.119.244.230:9944",
+  "explorer_url": "http://168.119.244.230:4000",
+  "metrics_endpoint": "http://168.119.244.230:9615/metrics",
+  "id": "69b98edc-0f67-454d-88e2-6e7f6243d98f"
+}

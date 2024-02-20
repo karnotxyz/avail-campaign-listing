@@ -1,0 +1,8 @@
+{
+  "name": "KOALA",
+  "logo": "https://im.ge/i/cMm2O6",
+  "rpc_url": "http://136.244.85.199:9944",
+  "explorer_url": "http://136.244.85.199:4000",
+  "metrics_endpoint": "http://136.244.85.199:9615/metrics",
+  "id": "b83da57a-6e6c-428e-8576-6ddecf1a1a55"
+}

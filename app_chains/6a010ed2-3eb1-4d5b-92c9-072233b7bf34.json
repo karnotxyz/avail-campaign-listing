@@ -1,0 +1,8 @@
+{
+  "name": "bloodisland",
+  "logo": "https://ibb.co/NF8973Y",
+  "rpc_url": "http://37.60.248.42:9944",
+  "explorer_url": "http://37.60.248.42:4000",
+  "metrics_endpoint": "http://37.60.248.42:9615/metrics",
+  "id": "6a010ed2-3eb1-4d5b-92c9-072233b7bf34"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "solstice",
+  "logo": "https://ibb.co/c12Cs4N",
+  "rpc_url": "http://144.91.98.92:9944",
+  "explorer_url": "http://144.91.98.92:4000",
+  "metrics_endpoint": "http://144.91.98.92:9615/metrics",
+  "id": "6e63d488-b0ce-46b4-9168-c416455bb353"
+}

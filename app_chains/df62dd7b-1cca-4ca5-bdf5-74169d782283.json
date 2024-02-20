@@ -1,0 +1,8 @@
+{
+  "name": "dmc",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/devilmaycry_2827710-1/logos/devilmaycry_2827710-1.png",
+  "rpc_url": "https://a1.dmcthelight.xyz",
+  "explorer_url": "https://a3.dmcthelight.xyz",
+  "metrics_endpoint": "https://a2.dmcthelight.xyz/metrics",
+  "id": "df62dd7b-1cca-4ca5-bdf5-74169d782283"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "liglowe",
+  "logo": "https://i.imgur.com/hXXgs5b.png",
+  "rpc_url": "http://49.13.67.84:9944",
+  "explorer_url": "http://49.13.67.84:4000",
+  "metrics_endpoint": "http://49.13.67.84:9615/metrics",
+  "id": "971eb82e-6624-48ca-9f91-5d687c546ee7"
+}

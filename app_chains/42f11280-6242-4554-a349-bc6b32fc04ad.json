@@ -1,0 +1,8 @@
+{
+  "name": "gintoki",
+  "logo": "https://i.ibb.co/vB7kHxj/gintoki.jpg",
+  "rpc_url": "http://185.231.204.151:9944",
+  "explorer_url": "http://185.231.204.151:4000",
+  "metrics_endpoint": "http://185.231.204.151:9615/metrics",
+  "id": "42f11280-6242-4554-a349-bc6b32fc04ad"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SWM",
+  "logo": "https://i.imgur.com/6KxJbbp.jpeg",
+  "rpc_url": "http://84.247.178.187:9944",
+  "explorer_url": "http://84.247.178.187:4000",
+  "metrics_endpoint": "http://84.247.178.187:9615/metrics",
+  "id": "7d7f88d6-b7c4-47be-aabb-e2e9a4f8ae7f"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "emrekoca",
+  "logo": "https://i.imgur.com/Tnizsm4.png",
+  "rpc_url": "http://109.123.255.148:9944",
+  "explorer_url": "http://109.123.255.148:4000",
+  "metrics_endpoint": "http://109.123.255.148:9615/metrics",
+  "id": "0b69da4b-7839-456e-8a15-9e02bafe2af0"
+}

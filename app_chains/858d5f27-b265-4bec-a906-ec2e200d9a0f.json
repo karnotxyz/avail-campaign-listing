@@ -1,0 +1,8 @@
+{
+  "name": "honeztwo",
+  "logo": "https://resimlink.com/X6gCEJ3Or",
+  "rpc_url": "http://165.22.242.50:9944",
+  "explorer_url": "http://165.22.242.50:4000",
+  "metrics_endpoint": "http://165.22.242.50:9615/metrics",
+  "id": "858d5f27-b265-4bec-a906-ec2e200d9a0f"
+}

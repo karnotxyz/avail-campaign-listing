@@ -1,0 +1,8 @@
+{
+  "name": "dangern",
+  "logo": "https://i.postimg.cc/pd88sqrP/dangern.png",
+  "rpc_url": "http://43.156.178.71:9944",
+  "explorer_url": "http://43.156.178.71:4000",
+  "metrics_endpoint": "http://43.156.178.71:9615/metrics",
+  "id": "a2db62a7-4337-4ef1-9cf7-2e827e517182"
+}

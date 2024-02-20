@@ -1,0 +1,8 @@
+{
+  "name": "herosika",
+  "logo": "https://i.ibb.co/SBtkMZQ/2023-10-22-144016.png",
+  "rpc_url": "http://194.233.85.236:9944",
+  "explorer_url": "http://194.233.85.236:4000",
+  "metrics_endpoint": "http://194.233.85.236:9615/metrics",
+  "id": "cf4ea07d-8de0-4f95-b983-dba1e82ce345"
+}

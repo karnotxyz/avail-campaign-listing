@@ -1,0 +1,8 @@
+{
+  "name": "meowmix",
+  "logo": "https://imgur.com/a/ptAOxef",
+  "rpc_url": "http://5.78.40.1:9944",
+  "explorer_url": "http://5.78.40.1:4000",
+  "metrics_endpoint": "http://5.78.40.1:9615/metrics",
+  "id": "2b1b9f04-c4a0-4e52-9182-496ccb3c2c76"
+}

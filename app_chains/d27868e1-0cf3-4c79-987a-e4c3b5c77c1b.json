@@ -1,0 +1,8 @@
+{
+  "name": "pendulum",
+  "logo": "https://i.imgur.com/X336IEW.png",
+  "rpc_url": "http://20.83.183.16:9944",
+  "explorer_url": "http://20.83.183.16:4000",
+  "metrics_endpoint": "http://20.83.183.16:9615/metrics",
+  "id": "d27868e1-0cf3-4c79-987a-e4c3b5c77c1b"
+}

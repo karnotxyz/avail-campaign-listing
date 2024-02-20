@@ -1,0 +1,8 @@
+{
+  "name": "romulusmy",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0xd774557b647330c91bf44cfeab205095f7e6c367/TVRjd056VXpNVEk1T1E9PV83NTEw.png",
+  "rpc_url": "http://43.157.113.26:9944",
+  "explorer_url": "http://43.157.113.26:4000",
+  "metrics_endpoint": "http://43.157.113.26:9615/metrics",
+  "id": "2cec6863-ac23-42cf-81a5-01210fe379c9"
+}

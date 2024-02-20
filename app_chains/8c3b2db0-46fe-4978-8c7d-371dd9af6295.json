@@ -1,0 +1,8 @@
+{
+  "name": "musa",
+  "logo": "https://i.imgur.com/txcQiK0.jpeg",
+  "rpc_url": "http://49.12.218.28:9944",
+  "explorer_url": "http://49.12.218.28:4000",
+  "metrics_endpoint": "http://49.12.218.28:9615/metrics",
+  "id": "8c3b2db0-46fe-4978-8c7d-371dd9af6295"
+}

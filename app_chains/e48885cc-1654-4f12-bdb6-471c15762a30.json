@@ -1,0 +1,8 @@
+{
+  "name": "doublelift",
+  "logo": "https://i.imgur.com/XP4pqO7.png",
+  "rpc_url": "http://91.107.199.107:9944",
+  "explorer_url": "http://91.107.199.107:4000",
+  "metrics_endpoint": "http://91.107.199.107:9615/metrics",
+  "id": "e48885cc-1654-4f12-bdb6-471c15762a30"
+}

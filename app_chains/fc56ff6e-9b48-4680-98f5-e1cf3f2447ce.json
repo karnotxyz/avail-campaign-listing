@@ -1,0 +1,8 @@
+{
+  "name": "xiaohe",
+  "logo": "http://43.133.70.219/static/logo/xh.png",
+  "rpc_url": "http://43.133.70.219:9944",
+  "explorer_url": "http://43.133.70.219:4000",
+  "metrics_endpoint": "http://43.133.70.219:9615/metrics",
+  "id": "fc56ff6e-9b48-4680-98f5-e1cf3f2447ce"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "provision",
+  "logo": "https://madara-provision-assets.blockchainrpc.com/logo.png",
+  "rpc_url": "https://madara-provision-rpc.blockchainrpc.com",
+  "explorer_url": "https://madara-provision-explorer.blockchainrpc.com",
+  "metrics_endpoint": "https://madara-provision-metrics.blockchainrpc.com",
+  "id": "18e66a0e-04a5-4e22-b9a2-68cd83c6453f"
+}

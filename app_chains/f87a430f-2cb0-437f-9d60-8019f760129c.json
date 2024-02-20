@@ -1,0 +1,8 @@
+{
+  "name": "CoinHunters",
+  "logo": "https://imgur.com/c09XXKf.png",
+  "rpc_url": "http://128.140.64.180:9944",
+  "explorer_url": "http://128.140.64.180:4000",
+  "metrics_endpoint": "http://128.140.64.180:9615/metrics",
+  "id": "f87a430f-2cb0-437f-9d60-8019f760129c"
+}

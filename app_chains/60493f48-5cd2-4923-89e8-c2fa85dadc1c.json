@@ -1,0 +1,8 @@
+{
+  "name": "nefsim",
+  "logo": "https://raw.githubusercontent.com/yunusnode/rollapp-registry/main/devnet/fetyun_5026635-1/logos/fetyun_5026635-1.png",
+  "rpc_url": "http://88.247.62.85:9944",
+  "explorer_url": "http://88.247.62.85:4000",
+  "metrics_endpoint": "http://88.247.62.85:9615/metrics",
+  "id": "60493f48-5cd2-4923-89e8-c2fa85dadc1c"
+}

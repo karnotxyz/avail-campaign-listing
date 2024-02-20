@@ -1,0 +1,8 @@
+{
+  "name": "FireAnt",
+  "logo": "https://www.shutterstock.com/image-vector/happy-ant-cartoon-260nw-432109408.jpg",
+  "rpc_url": "http://43.130.231.129:9944",
+  "explorer_url": "http://43.130.231.129:4000",
+  "metrics_endpoint": "http://43.130.231.129:9615/metrics",
+  "id": "57f623bd-b952-425d-ab17-45d8d1b076c9"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Herasoft",
+  "logo": "https://r.resimlink.com/jZ9PxXgKMEt6.png",
+  "rpc_url": "http://65.108.58.175:9944",
+  "explorer_url": "http://65.108.58.175:4000",
+  "metrics_endpoint": "http://65.108.58.175:9615/metrics",
+  "id": "f08409f0-5815-41e3-9a86-302d136feed5"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "minttea",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://158.220.119.39:9944",
+  "explorer_url": "http://158.220.119.39:4000",
+  "metrics_endpoint": "http://158.220.119.39:9615/metrics",
+  "id": "e4e5e10f-f67d-4aa5-9e07-37d83d9a43b7"
+}

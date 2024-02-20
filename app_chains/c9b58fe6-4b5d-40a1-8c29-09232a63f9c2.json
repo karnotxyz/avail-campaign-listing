@@ -1,0 +1,8 @@
+{
+  "name": "qianbi321",
+  "logo": "https://i.imgur.com/hexiXj0.jpg",
+  "rpc_url": "http://47.242.170.214:9944",
+  "explorer_url": "http://47.242.170.214:4000",
+  "metrics_endpoint": "http://47.242.170.214:9615/metrics",
+  "id": "c9b58fe6-4b5d-40a1-8c29-09232a63f9c2"
+}

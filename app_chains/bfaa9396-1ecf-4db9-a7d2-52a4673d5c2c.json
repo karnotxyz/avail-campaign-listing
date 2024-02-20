@@ -1,0 +1,8 @@
+{
+  "name": "gulceddd",
+  "logo": "https://r.resimlink.com/uUNt3K9Q1L.png",
+  "rpc_url": "http://173.249.40.104:9944",
+  "explorer_url": "http://173.249.40.104:4000",
+  "metrics_endpoint": "http://173.249.40.104:9615/metrics",
+  "id": "bfaa9396-1ecf-4db9-a7d2-52a4673d5c2c"
+}

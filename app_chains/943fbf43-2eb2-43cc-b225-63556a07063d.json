@@ -1,0 +1,8 @@
+{
+  "name": "nacres",
+  "logo": "https://r.resimlink.com/hDv5L.png",
+  "rpc_url": "http://161.35.155.68:9944",
+  "explorer_url": "http://161.35.155.68:4000",
+  "metrics_endpoint": "http://161.35.155.68:9615/metrics",
+  "id": "943fbf43-2eb2-43cc-b225-63556a07063d"
+}

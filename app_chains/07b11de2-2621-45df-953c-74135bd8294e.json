@@ -1,0 +1,8 @@
+{
+  "name": "zenginseda",
+  "logo": "",
+  "rpc_url": "http://173.212.216.48:9944",
+  "explorer_url": "http://173.212.216.48:4000",
+  "metrics_endpoint": "http://173.212.216.48:9615/metrics",
+  "id": "07b11de2-2621-45df-953c-74135bd8294e"
+}

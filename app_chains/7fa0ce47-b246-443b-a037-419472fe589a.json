@@ -1,0 +1,8 @@
+{
+  "name": "portalperfe",
+  "logo": "http://43.163.215.138/logo.jpg",
+  "rpc_url": "http://43.163.215.138:9944",
+  "explorer_url": "http://43.163.215.138:4000",
+  "metrics_endpoint": "http://43.163.215.138:9615/metrics",
+  "id": "7fa0ce47-b246-443b-a037-419472fe589a"
+}

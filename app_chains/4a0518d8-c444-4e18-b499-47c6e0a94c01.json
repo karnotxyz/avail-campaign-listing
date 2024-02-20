@@ -1,0 +1,8 @@
+{
+  "name": "alpagu",
+  "logo": "https://imgur.com/a/UOneWTs",
+  "rpc_url": "http://135.181.88.33:9944",
+  "explorer_url": "http://135.181.88.33:4000",
+  "metrics_endpoint": "http://135.181.88.33:9615/metrics",
+  "id": "4a0518d8-c444-4e18-b499-47c6e0a94c01"
+}

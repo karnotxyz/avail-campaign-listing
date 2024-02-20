@@ -1,0 +1,8 @@
+{
+  "name": "vohoangduy",
+  "logo": "https://drive.google.com/file/d/19q3Vk679zA2t-su6i-PssBknMPCgi3fq/view?usp=sharing",
+  "rpc_url": "http://37.60.248.251:9944",
+  "explorer_url": "http://37.60.248.251:4000",
+  "metrics_endpoint": "http://37.60.248.251:9615/metrics",
+  "id": "020bc61c-a2b0-4f77-ab42-aed032217b82"
+}

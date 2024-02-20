@@ -1,0 +1,8 @@
+{
+  "name": "Cryptoply_2023",
+  "logo": "https://raw.githubusercontent.com/Cryptoply-2023/MyLogo/main/Cryptoply_2023.png",
+  "rpc_url": "http://83.171.249.176:9944",
+  "explorer_url": "http://83.171.249.176:4000",
+  "metrics_endpoint": "http://83.171.249.176:9615/metrics",
+  "id": "1a4cab29-4aa8-4e4b-a153-f6271ab3d861"
+}

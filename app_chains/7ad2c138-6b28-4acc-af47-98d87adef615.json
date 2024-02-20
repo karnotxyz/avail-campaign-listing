@@ -1,0 +1,8 @@
+{
+  "name": "cameron",
+  "logo": "https://i.imgur.com/HUxpufT.jpg",
+  "rpc_url": "http://31.220.88.239:9944",
+  "explorer_url": "http://31.220.88.239:4000",
+  "metrics_endpoint": "http://31.220.88.239:9615/metrics",
+  "id": "7ad2c138-6b28-4acc-af47-98d87adef615"
+}

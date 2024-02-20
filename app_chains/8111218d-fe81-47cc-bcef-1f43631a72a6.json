@@ -1,0 +1,8 @@
+{
+  "name": "lala",
+  "logo": "https://i.imgur.com/Js2UgYI.png",
+  "rpc_url": "http://161.97.71.187:9944",
+  "explorer_url": "http://161.97.71.187:4000",
+  "metrics_endpoint": "http://161.97.71.187:9615/metrics",
+  "id": "8111218d-fe81-47cc-bcef-1f43631a72a6"
+}

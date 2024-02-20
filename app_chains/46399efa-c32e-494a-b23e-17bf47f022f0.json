@@ -1,0 +1,8 @@
+{
+  "name": "olatuyitony",
+  "logo": "https://i.ibb.co/C2TDx0H/AA.png",
+  "rpc_url": "http://207.180.250.204:9944",
+  "explorer_url": "http://207.180.250.204:4000",
+  "metrics_endpoint": "http://207.180.250.204:9615/metrics",
+  "id": "46399efa-c32e-494a-b23e-17bf47f022f0"
+}

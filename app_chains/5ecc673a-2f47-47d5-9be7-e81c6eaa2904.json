@@ -1,0 +1,8 @@
+{
+  "name": "rasengan",
+  "logo": "https://i.ibb.co/xf31Hpg/rasengan.png",
+  "rpc_url": "http://165.232.148.174:9944",
+  "explorer_url": "http://165.232.148.174:4000",
+  "metrics_endpoint": "http://165.232.148.174:9615/metrics",
+  "id": "5ecc673a-2f47-47d5-9be7-e81c6eaa2904"
+}

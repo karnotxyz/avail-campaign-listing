@@ -1,0 +1,8 @@
+{
+  "name": "cautiontap",
+  "logo": "http://43.156.19.45/logo.jpg",
+  "rpc_url": "http://43.156.19.45:9944",
+  "explorer_url": "http://43.156.19.45:4000",
+  "metrics_endpoint": "http://43.156.19.45:9615/metrics",
+  "id": "122e8a14-ecee-4266-b4a2-5cf33652919e"
+}

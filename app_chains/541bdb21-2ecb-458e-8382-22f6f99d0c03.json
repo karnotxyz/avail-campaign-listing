@@ -1,0 +1,8 @@
+{
+  "name": "specialfactor0",
+  "logo": "https://r.resimlink.com/Ufmw90c7.png",
+  "rpc_url": "http://167.233.5.229:9944",
+  "explorer_url": "http://167.233.5.229:4000",
+  "metrics_endpoint": "http://167.233.5.229:9615/metrics",
+  "id": "541bdb21-2ecb-458e-8382-22f6f99d0c03"
+}

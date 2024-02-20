@@ -1,0 +1,8 @@
+{
+  "name": "medox",
+  "logo": "https://r2.easyimg.io/0kbhvqinz/medox.png",
+  "rpc_url": "http://158.220.90.31:9944",
+  "explorer_url": "http://158.220.90.31:4000",
+  "metrics_endpoint": "http://158.220.90.31:9615/metrics",
+  "id": "6f3e1bb9-f0a5-4283-905c-365c9791256d"
+}

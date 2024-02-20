@@ -1,0 +1,8 @@
+{
+  "name": "ditsy",
+  "logo": "https://i.ibb.co/SPsTsWY/Untitled.jpg",
+  "rpc_url": "http://173.212.201.112:9944",
+  "explorer_url": "http://173.212.201.112:4000",
+  "metrics_endpoint": "http://173.212.201.112:9615/metrics",
+  "id": "b71dc619-a5f4-4501-8a09-59ab8a9b961b"
+}
