@@ -1,7 +1,7 @@
 {
   "name": "onenov",
   "logo": "https://im.ge/i/g71Fip",
-  "rpc_url": "http://i167.86.94.199:9944",
+  "rpc_url": "http://167.86.94.199:9944",
   "explorer_url": "http://167.86.94.199:4000",
   "metrics_endpoint": "http://167.86.94.199:9615/metrics",
   "id": "5e5fe3b5-853a-4063-b0b1-6b4e8ad7767f"
