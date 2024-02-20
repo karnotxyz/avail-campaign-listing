@@ -1,0 +1,8 @@
+{
+  "name": "kalamuc",
+  "logo": "https://im.ge/i/bVxLQD.jpg",
+  "rpc_url": "http://167.86.75.50:9944",
+  "explorer_url": "http://167.86.75.50:4000",
+  "metrics_endpoint": "http://167.86.75.50:9615/metrics",
+  "id": "6f6db591-42b5-4e96-a2b0-ebd24d003150"
+}
