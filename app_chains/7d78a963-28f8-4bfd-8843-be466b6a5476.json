@@ -1,0 +1,8 @@
+{
+  "name": "STNODE",
+  "logo": "https://ibb.co/syjXbwr",
+  "rpc_url": "http://109.199.102.226:9944",
+  "explorer_url": "http://109.199.102.226:4000",
+  "metrics_endpoint": "http://109.199.102.226:9615/metrics",
+  "id": "7d78a963-28f8-4bfd-8843-be466b6a5476"
+}
