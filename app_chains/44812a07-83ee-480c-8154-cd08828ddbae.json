@@ -1,0 +1,8 @@
+{
+  "name": "sylvanas2",
+  "logo": "https://r.resimlink.com/eF7jHx-.jpg",
+  "rpc_url": "http://158.220.105.225:9944",
+  "explorer_url": "http://158.220.105.225:4000",
+  "metrics_endpoint": "http://158.220.105.225:9615/metrics",
+  "id": "44812a07-83ee-480c-8154-cd08828ddbae"
+}
