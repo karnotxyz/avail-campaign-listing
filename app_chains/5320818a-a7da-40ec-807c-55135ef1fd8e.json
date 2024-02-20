@@ -1,0 +1,8 @@
+{
+  "name": "gypsyhit",
+  "logo": "http://43.153.10.171/logo.jpg",
+  "rpc_url": "http://43.153.10.171:9944",
+  "explorer_url": "http://43.153.10.171:4000",
+  "metrics_endpoint": "http://43.153.10.171:9615/metrics",
+  "id": "5320818a-a7da-40ec-807c-55135ef1fd8e"
+}
