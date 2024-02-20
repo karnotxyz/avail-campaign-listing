@@ -1,0 +1,8 @@
+{
+  "name": "tukucrypto",
+  "logo": "https://ibb.co/C6837pw",
+  "rpc_url": "http://173.249.47.74:9944",
+  "explorer_url": "http://173.249.47.74:4000",
+  "metrics_endpoint": "http://173.249.47.74:9615/metrics",
+  "id": "fa6c0f9a-f600-4756-ba00-b703592ae8eb"
+}
