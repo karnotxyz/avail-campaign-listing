@@ -1,0 +1,8 @@
+{
+  "name": "distantreso",
+  "logo": "http://43.153.15.112/logo.jpg",
+  "rpc_url": "http://43.153.15.112:9944",
+  "explorer_url": "http://43.153.15.112:4000",
+  "metrics_endpoint": "http://43.153.15.112:9615/metrics",
+  "id": "dca2a1b2-d796-4d44-a908-8a2786dd36b2"
+}
