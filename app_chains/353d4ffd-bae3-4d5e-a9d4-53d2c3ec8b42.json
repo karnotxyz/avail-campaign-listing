@@ -1,0 +1,8 @@
+{
+  "name": "Alioan",
+  "logo": "https://i.ibb.co/PxNbvQV/apple-6.png",
+  "rpc_url": "http://173.249.46.101:9944",
+  "explorer_url": "http://173.249.46.101:4000",
+  "metrics_endpoint": "http://173.249.46.101:9615/metrics",
+  "id": "353d4ffd-bae3-4d5e-a9d4-53d2c3ec8b42"
+}
