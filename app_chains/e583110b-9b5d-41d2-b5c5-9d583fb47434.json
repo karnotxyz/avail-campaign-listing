@@ -1,0 +1,8 @@
+{
+  "name": "VICNENTNODE",
+  "logo": "https://i.imgur.com/bx0X1IP.png",
+  "rpc_url": "http://144.91.77.191:9944",
+  "explorer_url": "http://144.91.77.191:4000",
+  "metrics_endpoint": "http://144.91.77.191:9615/metrics",
+  "id": "e583110b-9b5d-41d2-b5c5-9d583fb47434"
+}
