@@ -1,0 +1,8 @@
+{
+  "name": "JJUBi",
+  "logo": "https://ibb.co/020Cn9B",
+  "rpc_url": "http://167.86.102.109:9944",
+  "explorer_url": "http://167.86.102.109:4000",
+  "metrics_endpoint": "http://167.86.102.109:9615/metrics",
+  "id": "5abf784a-33b7-4fe5-9369-369dfe16df49"
+}
