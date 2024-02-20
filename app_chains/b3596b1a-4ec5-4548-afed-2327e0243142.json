@@ -1,0 +1,8 @@
+{
+  "name": "nartediz",
+  "logo": "none",
+  "rpc_url": "http://194.163.164.183:9944",
+  "explorer_url": "http://194.163.164.183:4000",
+  "metrics_endpoint": "http://194.163.164.183:9615/metrics",
+  "id": "b3596b1a-4ec5-4548-afed-2327e0243142"
+}
