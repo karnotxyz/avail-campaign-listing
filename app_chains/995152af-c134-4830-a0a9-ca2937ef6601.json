@@ -1,0 +1,8 @@
+{
+  "name": "arashel",
+  "logo": "https://i.ibb.co/7grwVFT/logo-1.png",
+  "rpc_url": "http://194.233.71.60:9944",
+  "explorer_url": "http://194.233.71.60:4000",
+  "metrics_endpoint": "http://194.233.71.60:9615/metrics",
+  "id": "995152af-c134-4830-a0a9-ca2937ef6601"
+}
