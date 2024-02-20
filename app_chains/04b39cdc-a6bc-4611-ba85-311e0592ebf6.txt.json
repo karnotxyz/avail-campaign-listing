@@ -1,0 +1,8 @@
+{
+  "name": "inceptionMadara",
+  "logo": "https://ibb.co/W3V1tRn",
+  "rpc_url": "http://178.62.233.93:9944",
+  "explorer_url": "http://178.62.233.93:4000",
+  "metrics_endpoint": "http://178.62.233.93:9615",
+  "id": "e2fdef53-7b09-4955-a568-5b7b050c537e"
+}
