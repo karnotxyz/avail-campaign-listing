@@ -1,0 +1,8 @@
+{
+  "name": "moorden",
+  "logo": "http://43.135.138.140/logo.jpg",
+  "rpc_url": "http://43.135.138.140:9944",
+  "explorer_url": "http://43.135.138.140:4000",
+  "metrics_endpoint": "http://43.135.138.140:9615/metrics",
+  "id": "78b8c646-bb8f-4664-beb4-f18f5eb7748b"
+}
