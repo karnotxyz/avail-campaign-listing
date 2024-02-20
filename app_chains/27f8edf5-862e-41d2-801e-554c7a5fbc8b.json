@@ -1,0 +1,8 @@
+{
+  "name": "arrayranch",
+  "logo": "http://43.153.20.93/logo.jpg",
+  "rpc_url": "http://43.153.20.93:9944",
+  "explorer_url": "http://43.153.20.93:4000",
+  "metrics_endpoint": "http://43.153.20.93:9615/metrics",
+  "id": "27f8edf5-862e-41d2-801e-554c7a5fbc8b"
+}
