@@ -1,0 +1,8 @@
+{
+    "name": "unique",
+    "logo": "https://r.resimlink.com/gnoA0D6jvhB.jpg",
+    "rpc_url": "http://207.180.247.18:9944",
+    "explorer_url": "http://207.180.247.18:4000",
+    "metrics_endpoint": "http://207.180.247.18:9615/metrics",
+    "id": "a5b9ae38-bc3d-4594-99b2-1ac992608389"
+  }
