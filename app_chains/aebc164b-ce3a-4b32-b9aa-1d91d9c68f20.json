@@ -1,0 +1,8 @@
+{
+  "name": "lordmurat",
+  "logo": "https://raw.githubusercontent.com/errorcx00/fatisko/main/400x400-lord-murat%20png.png",
+  "rpc_url": "http://217.76.55.82:9944",
+  "explorer_url": "http://217.76.55.82:4000",
+  "metrics_endpoint": "http://217.76.55.82:9615/metrics",
+  "id": "aebc164b-ce3a-4b32-b9aa-1d91d9c68f20"
+}
