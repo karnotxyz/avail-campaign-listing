@@ -1,7 +1,8 @@
 {
   "name": "foxstar",
-  "rpc_url": "http://38.242.217.120:9944",
-  "explorer_url": "http://38.242.217.120:4000",
-  "metrics_endpoint": "http://38.242.217.120:9615/metrics",
+  "logo": "",
+  "rpc_url": "http://https://38.242.217.120:9944",
+  "explorer_url": "http://https://38.242.217.120:4000",
+  "metrics_endpoint": "http://https://38.242.217.120:9615/metrics",
   "id": "28f5c111-7a43-4fa0-b61a-e248fbf1c16c"
 }
