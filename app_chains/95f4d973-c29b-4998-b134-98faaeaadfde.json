@@ -1,0 +1,8 @@
+{
+  "name": "scowlclatter",
+  "logo": "http://129.226.209.106/logo.jpg",
+  "rpc_url": "http://129.226.209.106:9944",
+  "explorer_url": "http://129.226.209.106:4000",
+  "metrics_endpoint": "http://129.226.209.106:9615/metrics",
+  "id": "95f4d973-c29b-4998-b134-98faaeaadfde"
+}
