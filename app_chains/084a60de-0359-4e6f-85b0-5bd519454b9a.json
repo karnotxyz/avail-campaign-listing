@@ -1,0 +1,8 @@
+{
+  "name": "Samsara",
+  "logo": "https://i.imgur.com/vL4gsfP.jpeg",
+  "rpc_url": "84.247.178.186:9944",
+  "explorer_url": "84.247.178.186:4000",
+  "metrics_endpoint": "84.247.178.186:9615",
+  "id": "084a60de-0359-4e6f-85b0-5bd519454b9a"
+}
