@@ -1,0 +1,8 @@
+{
+  "name": "deneme",
+  "logo": "https://r.resimlink.com/m8BQChgDE.png",
+  "rpc_url": "http://95.217.185.177:9944",
+  "explorer_url": "http://95.217.185.177:4000",
+  "metrics_endpoint": "http://95.217.185.177:9615/metrics",
+  "id": "7c37b27d-bcb3-47ac-a7fc-bfe448d6b7e0"
+}
