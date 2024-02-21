@@ -1,0 +1,8 @@
+{
+   "name": "furkan",
+   "logo": "https://r.resimlink.com/yPmv1.png",
+   "rpc_url": "http://161.97.136.223:9944",
+   "explorer_url": "http://161.97.136.223:4000",
+   "metrics_endpoint": "http://161.97.136.223:9615",
+   "id": "2df9cad8-80d5-4603-940a-7736edda1e39"
+}

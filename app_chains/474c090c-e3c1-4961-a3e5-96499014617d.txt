@@ -1,0 +1,8 @@
+  {
+    "name": "kubat",
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://161.97.136.223:9944",
+    "explorer_url": "http://161.97.136.223:4000",
+    "metrics_endpoint": "http://161.97.136.223/metrics",
+    "id": "474c090c-e3c1-4961-a3e5-96499014617d"
+  }
