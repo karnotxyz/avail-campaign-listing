@@ -1,0 +1,8 @@
+{
+  "name": "earem",
+  "logo": "https://imgur.com/a/qhYBt6u",
+  "rpc_url": "http://64.23.158.216:9944",
+  "explorer_url": "http://64.23.158.216:4000",
+  "metrics_endpoint": "http://64.23.158.216:9615/metrics",
+  "id": "c8c19e34-6a48-42bf-a11a-287d1c39e1ac"
+}
