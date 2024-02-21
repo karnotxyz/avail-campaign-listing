@@ -1,0 +1,8 @@
+{
+  "name": "abierezanto",
+  "logo": "https://im.ge/i/bfzQoT",
+  "rpc_url": "http://155.133.27.134:9944",
+  "explorer_url": "http://155.133.27.134:4000",
+  "metrics_endpoint": "http://155.133.27.134:9615/metrics",
+  "id": "08a32d63-b4ac-4e4f-98ef-5bfeb4c7f33a"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "selimvail",
+  "logo": "https://r.resimlink.com/noP74jwv3.png",
+  "rpc_url": "http://109.205.182.10:9944",
+  "explorer_url": "http://109.205.182.10:4000",
+  "metrics_endpoint": "http://109.205.182.10:9615/metrics",
+  "id": "98dbc2e1-eef7-49ea-8d57-5086817d448f"
+}

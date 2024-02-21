@@ -1,0 +1,8 @@
+{
+  "name": "selow",
+  "logo": "https://https://r.resimlink.com/JOQqPY.png",
+  "rpc_url": "http://46.250.233.107:9944",
+  "explorer_url": "http://46.250.233.107:4000",
+  "metrics_endpoint": "http://46.250.233.107:9615/metrics",
+  "id": "0685445b-dee4-43d1-b57a-3e0a38f39771"
+}

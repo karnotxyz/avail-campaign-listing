@@ -1,0 +1,8 @@
+{
+  "name": "nowheretyk",
+  "logo": "http://43.134.231.34/logo.jpg",
+  "rpc_url": "http://43.134.231.34:9944",
+  "explorer_url": "http://43.134.231.34:4000",
+  "metrics_endpoint": "http://43.134.231.34:9615/metrics",
+  "id": "b9b6b711-c3f6-49fb-97bf-f5b06328ccb0"
+}

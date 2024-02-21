@@ -1,0 +1,8 @@
+{
+  "name": "mistik",
+  "logo": "https://r.resimlink.com/Y8wpmgiboq.png",
+  "rpc_url": "http://31.220.102.123:9944",
+  "explorer_url": "http://31.220.102.123:4000",
+  "metrics_endpoint": "http://31.220.102.123:9615/metrics",
+  "id": "824b9153-5140-4a7e-9657-14b5f2a76aca"
+}

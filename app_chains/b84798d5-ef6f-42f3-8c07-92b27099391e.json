@@ -1,0 +1,8 @@
+{
+  "name": "Onbir",
+  "logo": "https://i.imgur.com/i0FlTl8.png",
+  "rpc_url": "http://49.13.112.139:9944",
+  "explorer_url": "http://49.13.112.139:4000",
+  "metrics_endpoint": "http://49.13.112.139:9615/metrics",
+  "id": "b84798d5-ef6f-42f3-8c07-92b27099391e"
+}

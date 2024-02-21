@@ -1,0 +1,8 @@
+{
+  "name": "solidbum",
+  "logo": "http://43.128.252.242/logo.jpg",
+  "rpc_url": "http://43.128.252.242:9944",
+  "explorer_url": "http://43.128.252.242:4000",
+  "metrics_endpoint": "http://43.128.252.242:9615/metrics",
+  "id": "211daf59-bf5c-45e6-9d4d-143fde159a98"
+}

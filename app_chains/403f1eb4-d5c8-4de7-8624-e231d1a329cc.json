@@ -1,0 +1,8 @@
+{
+  "name": "oracles",
+  "logo": "https://pbs.twimg.com/profile_images/1575688431350743046/n7HSoRTK_400x400.jpg",
+  "rpc_url": "http://37.60.244.167:9944",
+  "explorer_url": "http://37.60.244.167:4000",
+  "metrics_endpoint": "http://37.60.244.167:9615/metrics",
+  "id": "403f1eb4-d5c8-4de7-8624-e231d1a329cc"
+}

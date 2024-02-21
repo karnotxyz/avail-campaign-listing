@@ -1,0 +1,8 @@
+{
+  "name": "EnsKs",
+  "logo": "https://r.resimlink.com/GIJ42.png",
+  "rpc_url": "http://5.104.87.111:9944",
+  "explorer_url": "http://5.104.87.111:4000",
+  "metrics_endpoint": "http://5.104.87.111:9615/metrics",
+  "id": "00f4c8e2-6365-4b7e-afb8-e148a8910d19"
+}

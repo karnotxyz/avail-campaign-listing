@@ -1,0 +1,8 @@
+{
+  "name": "worrytugof",
+  "logo": "http://43.134.133.116/logo.jpg",
+  "rpc_url": "http://43.134.133.116:9944",
+  "explorer_url": "http://43.134.133.116:4000",
+  "metrics_endpoint": "http://43.134.133.116:9615/metrics",
+  "id": "dc5e88dc-2fb2-4ead-a43b-a1126c2a74e0"
+}

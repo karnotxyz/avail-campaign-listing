@@ -1,0 +1,8 @@
+{
+  "name": "jianhao",
+  "logo": "https://pbs.twimg.com/profile_images/1697299503198646273/GTnwCVUC_400x400.jpg",
+  "rpc_url": "http://45.139.227.189:9944",
+  "explorer_url": "http://45.139.227.189:4000",
+  "metrics_endpoint": "http://45.139.227.189:9615/metrics",
+  "id": "dd2f832b-0cff-46f6-909d-574ef8567e39"
+}

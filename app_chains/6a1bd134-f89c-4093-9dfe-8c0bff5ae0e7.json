@@ -1,0 +1,8 @@
+{
+  "name": "zancansonn",
+  "logo": "https://storage.googleapis.com/nftimagebucket/tokens/0xacf63e56fd08970b43401492a02f6f38b6635c91/819.png",
+  "rpc_url": "http://162.62.119.231:9944",
+  "explorer_url": "http://162.62.119.231:4000",
+  "metrics_endpoint": "http://162.62.119.231:9615/metrics",
+  "id": "6a1bd134-f89c-4093-9dfe-8c0bff5ae0e7"
+}

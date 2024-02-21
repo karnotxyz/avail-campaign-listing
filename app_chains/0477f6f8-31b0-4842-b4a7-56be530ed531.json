@@ -1,0 +1,8 @@
+{
+  "name": "edgeman",
+  "logo": "https://i.ibb.co/6t8TS27/unknown.png",
+  "rpc_url": "http://158.220.108.53:9944",
+  "explorer_url": "http://158.220.108.53:4000",
+  "metrics_endpoint": "http://158.220.108.53:9615/metrics",
+  "id": "0477f6f8-31b0-4842-b4a7-56be530ed531"
+}
