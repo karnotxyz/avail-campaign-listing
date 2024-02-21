@@ -1,0 +1,8 @@
+{
+  "name": "khangky.network",
+  "logo": "https://raw.githubusercontent.com/Xvirionz/Eigenlayer/main/400x400-khangky.png",
+  "rpc_url": "http://213.136.90.205:9944",
+  "explorer_url": "http://213.136.90.205:4000",
+  "metrics_endpoint": "http://213.136.90.205:9615/metrics",
+  "id": "1fa8810d-6b1a-4215-a3bf-056d50b6f912"
+}
