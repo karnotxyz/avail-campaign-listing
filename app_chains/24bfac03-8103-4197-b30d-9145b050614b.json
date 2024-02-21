@@ -1,0 +1,8 @@
+{
+  "name": "dante",
+  "logo": "https://i.imgur.com/W00s1pI.jpeg",
+  "rpc_url": "http://95.216.164.141:9944",
+  "explorer_url": "http://95.216.164.141:4000",
+  "metrics_endpoint": "http://95.216.164.141:9615/metrics",
+  "id": "24bfac03-8103-4197-b30d-9145b050614b"
+}
