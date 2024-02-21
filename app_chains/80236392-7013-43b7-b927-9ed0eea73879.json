@@ -1,0 +1,8 @@
+{
+  "name": "icofamily",
+  "logo": "https://r.resimlink.com/9r4JDx5Hc.jpg",
+  "rpc_url": "http://144.91.86.128:9944",
+  "explorer_url": "http://144.91.86.128:4000",
+  "metrics_endpoint": "http://144.91.86.128:9615"/metrics",
+  "id": "80236392-7013-43b7-b927-9ed0eea73879"
+}
