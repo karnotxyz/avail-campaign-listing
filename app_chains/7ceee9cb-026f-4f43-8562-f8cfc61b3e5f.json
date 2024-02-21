@@ -1,0 +1,8 @@
+{
+  "name": "mysticwho",
+  "logo": "https://cdn.decenx.io/images/logo.png",
+  "rpc_url": "https://rpc.decenx.io",
+  "explorer_url": "https://explorer.decenx.io",
+  "metrics_endpoint": "https://metrics.decenx.io",
+  "id": "7ceee9cb-026f-4f43-8562-f8cfc61b3e5f"
+}
