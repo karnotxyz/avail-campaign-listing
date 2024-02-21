@@ -1,0 +1,8 @@
+{
+  "name": "ericavios",
+  "logo": "https://i.ibb.co/JpNVcLd/ericavios-logo.jpg",
+  "rpc_url": "http://109.199.106.155:9944",
+  "explorer_url": "http://109.199.106.155:4000",
+  "metrics_endpoint": "http://109.199.106.155:9615/metrics",
+  "id": "e5ad4d59-1e71-41ef-9a1d-92a04a167c65"
+}
