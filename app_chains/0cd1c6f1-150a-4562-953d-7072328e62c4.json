@@ -1,0 +1,8 @@
+{
+  "name": "kashmir",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/epicwarzone_3603467-1/logos/epicwarzone_3603467-1.svg",
+  "rpc_url": "https://m1.kashmiribeti.xyz",
+  "explorer_url": "https://m3.kashmiribeti.xyz/",
+  "metrics_endpoint": "https://m2.kashmiribeti.xyz/metrics",
+  "id": "0cd1c6f1-150a-4562-953d-7072328e62c4"
+}
