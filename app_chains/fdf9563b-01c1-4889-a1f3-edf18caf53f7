@@ -1,0 +1,8 @@
+{
+  "name": "twopluscow",
+  "logo": "https://ibb.co/syjXbwr",
+  "rpc_url": "http://207.180.239.197:9944",
+  "explorer_url": "http://207.180.239.197:4000",
+  "metrics_endpoint": "http://207.180.239.197:9615/metrics",
+  "id": "4e3f1e48-6352-49af-996a-9553826fcec1"
+}
