@@ -1,0 +1,8 @@
+{
+  "name": "angg",
+  "logo": "https://devnet.dymension.xyz/static/media/custom-rollapp-logo.30d25b67f060d0db82e2.svg",
+  "rpc_url": "https://m1.angg619.xyz",
+  "explorer_url": "https://m3.angg619.xyz",
+  "metrics_endpoint": "https://m2.angg619.xyz/metrics",
+  "id": "c60c9239-1bc8-4997-8884-4b5f8fbf46ac"
+}
