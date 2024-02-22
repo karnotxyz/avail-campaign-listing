@@ -1,0 +1,8 @@
+{
+  "name": "sodunal",
+  "logo": "https://r.resimlink.com/GIJ42.png",
+  "rpc_url": "http://109.199.97.166:9944",
+  "explorer_url": "http://109.199.97.166:4000",
+  "metrics_endpoint": "http://109.199.97.166:9615/metrics",
+  "id": "0a1d2083-a079-431c-bc7d-d988e42b1daa"
+}
