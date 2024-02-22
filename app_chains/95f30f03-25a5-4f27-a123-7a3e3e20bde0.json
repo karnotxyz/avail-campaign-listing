@@ -1,0 +1,8 @@
+{
+  "name": "blur",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/serotonin_3433423-1/logos/serotonin_3433423-1.jpeg",
+  "rpc_url": "https://m1.blurtheunblur.xyz",
+  "explorer_url": "https://m3.blurtheunblur.xyz/",
+  "metrics_endpoint": "https://m2.blurtheunblur.xyz/metrics",
+  "id": "95f30f03-25a5-4f27-a123-7a3e3e20bde0"
+}
