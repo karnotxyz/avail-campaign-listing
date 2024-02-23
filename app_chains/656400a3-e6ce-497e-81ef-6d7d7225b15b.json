@@ -1,0 +1,8 @@
+{
+  "name": "RaphTales",
+  "logo": "https://i.ibb.co/GsPxYpF/1.png",
+  "rpc_url": "http://217.76.61.242:9944",
+  "explorer_url": "http://217.76.61.242:4000",
+  "metrics_endpoint": "http://217.76.61.242:9615/metrics",
+  "id": "656400a3-e6ce-497e-81ef-6d7d7225b15b"
+}
