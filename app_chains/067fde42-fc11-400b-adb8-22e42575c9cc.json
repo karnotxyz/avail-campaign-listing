@@ -1,0 +1,8 @@
+{
+  "name": "hanamaari",
+  "logo": "https://r.resimlink.com/JlzO3.png",
+  "rpc_url": "http://193.203.15.244:9944",
+  "explorer_url": "http://193.203.15.244:4000",
+  "metrics_endpoint": "http://193.203.15.244:9615/metrics",
+  "id": "067fde42-fc11-400b-adb8-22e42575c9cc"
+}
