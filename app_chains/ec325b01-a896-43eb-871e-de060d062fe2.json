@@ -1,0 +1,15 @@
+{
+
+  "name": "topshen",
+
+  "logo": "https://ibb.co/MRtjPRS",
+
+  "rpc_url": "http://109.199.115.224:9944",
+
+  "explorer_url": "http://109.199.115.224:4000",
+
+  "metrics_endpoint": "http://109.199.115.224:9615/metrics",
+
+  "id": "ec325b01-a896-43eb-871e-de060d062fe2"
+
+}
