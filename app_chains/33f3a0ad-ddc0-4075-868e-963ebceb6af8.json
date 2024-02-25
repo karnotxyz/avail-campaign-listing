@@ -1,0 +1,8 @@
+{
+  "name": "aynalineo",
+  "logo": "https://r.resimlink.com/UtKxj_0d68.png",
+  "rpc_url": "http://95.217.21.37:9944",
+  "explorer_url": "http://95.217.21.37:4000",
+  "metrics_endpoint": "http://95.217.21.37:9615/metrics",
+  "id": "33f3a0ad-ddc0-4075-868e-963ebceb6af8"
+}
