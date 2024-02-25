@@ -1,0 +1,8 @@
+{
+  "name": "turboavavil",
+  "logo": "https://r.resimlink.com/qV0NIO.png",
+  "rpc_url": "http://37.60.229.76:9944",
+  "explorer_url": "http://37.60.229.76:4000",
+  "metrics_endpoint": "http://37.60.229.76:9615/metrics",
+  "id": "83259cc4-2c69-4ab1-bf4a-0af126968df7"
+}
