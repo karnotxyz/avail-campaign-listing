@@ -1,0 +1,8 @@
+{
+  "name": "JJJaden",
+  "logo": "https://via.placeholder.com/150",
+  "rpc_url": "http://158.220.87.187:9944",
+  "explorer_url": "http://158.220.87.187:4000",
+  "metrics_endpoint": "http://158.220.87.187:9615/metrics",
+  "id": "fb51eebd-d883-4cbf-89a4-5e940506b5aa"
+}
