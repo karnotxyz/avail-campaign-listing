@@ -1,0 +1,8 @@
+{
+  "name": "jogi_95",
+  "logo": "https://iili.io/JGv07LP.th.png",
+  "rpc_url": "http://89.70.141.21:9944",
+  "explorer_url": "http://89.70.141.21:9944",
+  "metrics_endpoint": "http://89.70.141.21:9615/metrics",
+  "id": "b8ce8d27-8a14-4b91-8e14-54e74d553864"
+}
