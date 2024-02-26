@@ -1,0 +1,8 @@
+{
+  "name": "dais46",
+  "logo": "https://i.ibb.co/s1ywfCm/LOGO-DAIS.png",
+  "rpc_url": "http://165.232.101.43:9944",
+  "explorer_url": "http://165.232.101.43:4000",
+  "metrics_endpoint": "http://165.232.101.43:9165/metrics",
+  "id": "84758c09-7f10-40f6-aec7-8dcfa1b7f9e2"
+}
