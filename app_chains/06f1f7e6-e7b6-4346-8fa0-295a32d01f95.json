@@ -1,0 +1,8 @@
+{
+  "name": "shentop",
+  "logo": "https://ibb.co/MRtjPRS",
+  "rpc_url": "http://109.199.115.224:9944",
+  "explorer_url": "http://109.199.115.224:4000",
+  "metrics_endpoint": "http://109.199.115.224:9615/metrics",
+  "id": "06f1f7e6-e7b6-4346-8fa0-295a32d01f95"
+}
