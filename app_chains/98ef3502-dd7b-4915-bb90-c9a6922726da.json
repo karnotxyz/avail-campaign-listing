@@ -1,0 +1,8 @@
+{
+  "name": "jogi_95",
+  "logo": "https://ibb.co/FJ7f3rY",
+  "rpc_url": "http://89.70.141.21:9944",
+  "explorer_url": "http://89.70.141.21:9944",
+  "metrics_endpoint": "http://89.70.141.21:9615/metrics",
+  "id": "98ef3502-dd7b-4915-bb90-c9a6922726da"
+}
