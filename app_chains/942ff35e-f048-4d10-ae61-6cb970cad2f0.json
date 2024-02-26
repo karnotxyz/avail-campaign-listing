@@ -1,8 +1,8 @@
 {
-  "name": "lmao",
-  "logo": "https://ibb.co/tp7v6W9",
-  "rpc_url": "http://43.133.215.71:9944",
-  "explorer_url": "http://43.133.215.71:4000",
-  "metrics_endpoint": "http://43.133.215.71:9615/metrics",
+  "name": "btchope",
+  "logo": "https://i.postimg.cc/MKgPhJnF/logo-nahai-copy.png",
+  "rpc_url": "http://168.119.130.202:9944",
+  "explorer_url": "https://168.119.130.202:4000",
+  "metrics_endpoint": "https://168.119.130.202:9615/metrics",
   "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
 }
