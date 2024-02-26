@@ -1,0 +1,8 @@
+{
+  "name": "stra",
+  "logo": "https://ibb.co/JcQ4CCM",
+  "rpc_url": "http://5.189.145.195:9944",
+  "explorer_url": "http://5.189.145.195:4000",
+  "metrics_endpoint": "http://5.189.145.195:9615/metrics",
+  "id": "49e83e70-374d-422f-bf79-f66220631d5c"
+}
