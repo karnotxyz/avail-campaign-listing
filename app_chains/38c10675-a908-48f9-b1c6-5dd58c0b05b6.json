@@ -1,0 +1,8 @@
+{
+  "name": "offfwh_madara",
+  "logo": "https://ibb.co/250SHP9",
+  "rpc_url": "http://173.249.49.207:9944",
+  "explorer_url": "173.249.49.207:4000",
+  "metrics_endpoint": "http://173.249.49.207:9615/metrics",
+  "id": "38c10675-a908-48f9-b1c6-5dd58c0b05b6"
+}
