@@ -1,0 +1,8 @@
+{
+  "name": "thubao",
+  "logo": "https://i.im.ge/2024/02/15/ck0Edq.coder.png",
+  "rpc_url": "http://185.215.180.174:9944",
+  "explorer_url": "http://185.215.180.174:4000",
+  "metrics_endpoint": "http://185.215.180.174:9615/metrics",
+  "id": "f857b222-7e40-471a-8119-752b533059ba"
+}
