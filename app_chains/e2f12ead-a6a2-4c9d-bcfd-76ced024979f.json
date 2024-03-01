@@ -1,0 +1,8 @@
+{
+  "name": "avail",
+  "logo": "https://r.resimlink.com/HUX0ndp_NBu.jpg",
+  "rpc_url": "http://65.108.218.168:9944",
+  "explorer_url": "http://65.108.218.168:4000",
+  "metrics_endpoint": "http://65.108.218.168:9615",
+  "id": "e2f12ead-a6a2-4c9d-bcfd-76ced024979f"
+}
