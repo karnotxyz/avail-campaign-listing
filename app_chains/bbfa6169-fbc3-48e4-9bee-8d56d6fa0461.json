@@ -1,0 +1,8 @@
+{
+  "name": "ardni",
+  "logo": "https://i.ibb.co/mvQpdyd/cry.png",
+  "rpc_url": "https://173.212.212.76:9944",
+  "explorer_url": "https://173.212.212.76:4000",
+  "metrics_endpoint": "https://173.212.212.76:9615/metrics",
+  "id": "bbfa6169-fbc3-48e4-9bee-8d56d6fa0461"
+}
