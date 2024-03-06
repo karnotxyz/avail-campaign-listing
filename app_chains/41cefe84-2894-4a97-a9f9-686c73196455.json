@@ -1,0 +1,8 @@
+{
+  "name": "harabaci",
+  "logo": "https://imgur.com/a/98Zv4oo",
+  "rpc_url": "http://167.71.4.188:9944",
+  "explorer_url": "http://167.71.4.188:4000",
+  "metrics_endpoint": "http://167.71.4.188:9615/metrics",
+  "id": "41cefe84-2894-4a97-a9f9-686c73196455"
+}
