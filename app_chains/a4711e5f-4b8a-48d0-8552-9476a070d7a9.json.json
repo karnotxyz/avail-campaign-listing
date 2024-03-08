@@ -1,0 +1,8 @@
+{
+  "name": "Edward-1m",
+  "logo": "https://ibb.co/5x2vXn5",
+  "rpc_url": "http://173.212.197.99:9944",
+  "explorer_url": "http://173.212.197.99:4000",
+  "metrics_endpoint": "http://173.212.197.99:9615/metrics",
+  "id": "a4711e5f-4b8a-48d0-8552-9476a070d7a9"
+}
