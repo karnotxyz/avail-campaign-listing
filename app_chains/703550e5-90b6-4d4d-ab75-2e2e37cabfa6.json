@@ -1,0 +1,15 @@
+{
+
+  "name": "apdulali",
+
+  "logo": "https://ibb.co/c8hghZq",
+
+  "rpc_url": "http://173.212.199.182:9944",
+
+  "explorer_url": "http://173.212.199.182:4000",
+
+  "metrics_endpoint": "http://173.212.199.182:9615/metrics",
+
+  "id": "703550e5-90b6-4d4d-ab75-2e2e37cabfa6"
+
+}
