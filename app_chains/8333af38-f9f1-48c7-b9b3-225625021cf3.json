@@ -1,0 +1,8 @@
+{
+  "name": "moner",
+  "logo": "https://i.ibb.co/Kwn7hK8/CARV.png",
+  "rpc_url": "http://37.60.244.156:9944",
+  "explorer_url": "http://37.60.244.156:4000",
+  "metrics_endpoint": "http://37.60.244.156:9615/metrics",
+  "id": "8333af38-f9f1-48c7-b9b3-225625021cf3"
+}
