@@ -1,0 +1,8 @@
+{
+  "name": "yasaraydin",
+  "logo": "https://imgur.com/a/p7NEpnK",
+  "rpc_url": "http://65.21.182.138:9944",
+  "explorer_url": "http://65.21.182.138:4000",
+  "metrics_endpoint": "http://65.21.182.138:9615/metrics",
+  "id": "4f2ad33d-fbc8-43e6-b947-763e082ee2b8"
+}
