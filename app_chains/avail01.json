@@ -1,8 +1,0 @@
-{
-    "name": "vanzohan",
-    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/94825332/313824661-2db99670-a2c6-4cda-bdee-be29d5ed760f.png",
-    "rpc_url": "https://173.249.28.212:9944",
-    "explorer_url": "https://173.249.28.212:4000",
-    "metrics_endpoint": "https://173.249.28.212:9615/metrics",
-    "id": "4d4b037d-bf9e-426c-9559-811df3641ba1"
-  }
