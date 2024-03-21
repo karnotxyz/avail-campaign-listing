@@ -1,0 +1,8 @@
+{
+    "name": "adrian",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/70527194/314945151-322ca888-757e-416b-92db-3212c292f95f.png",
+    "rpc_url": "http://5.189.183.43:9944",
+    "explorer_url": "http://5.189.183.43:4000",
+    "metrics_endpoint": "http://5.189.183.43:9615/metrics",
+    "id": "2b875f4e-2b49-4044-947e-2dd2a56a053a"
+  }
