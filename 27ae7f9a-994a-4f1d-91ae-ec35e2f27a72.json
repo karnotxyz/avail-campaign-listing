@@ -1,8 +1,0 @@
-{
-    "name": "vanzohan",
-    "logo": "https://i.im.ge/2024/03/21/RVjK8M.Vancouver-2.png",
-    "rpc_url": "http://173.249.28.212:9944",
-    "explorer_url": "http://173.249.28.212:4000",
-    "metrics_endpoint": "http://173.249.28.212:9615/metrics",
-    "id": "27ae7f9a-994a-4f1d-91ae-ec35e2f27a72"
-  }
