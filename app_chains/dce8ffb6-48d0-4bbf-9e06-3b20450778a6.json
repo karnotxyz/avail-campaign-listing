@@ -1,0 +1,8 @@
+{
+  "name": "Afagh",
+  "logo": "https://i.im.ge/2024/03/24/WMLzzJ.Sydney-Opera-House-Bennelong-Point-Port-Jackson.png",
+  "rpc_url": "http://173.249.31.109:9944",
+  "explorer_url": "http://173.249.31.109:4000",
+  "metrics_endpoint": "http://173.249.31.109:9615/metrics",
+  "id": "dce8ffb6-48d0-4bbf-9e06-3b20450778a6"
+}
