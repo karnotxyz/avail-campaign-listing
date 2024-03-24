@@ -1,0 +1,8 @@
+{
+    "name": "amirav",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/116229906/304942308-efa7f75a-77f5-482f-9fa9-6aeb841043b9.png",
+    "rpc_url": "http://167.233.5.245:9944",
+    "explorer_url": "http://167.233.5.245:4000",
+    "metrics_endpoint": "http://167.233.5.245:9615",
+    "id": "2db0c9b3-5693-4983-b789-ea580f96d713"
+  } 
