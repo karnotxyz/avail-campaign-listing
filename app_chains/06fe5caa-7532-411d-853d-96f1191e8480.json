@@ -1,0 +1,8 @@
+{
+  "name": "bate",
+  "logo": "https://r.resimlink.com/t7_H3Avr8.png",
+  "rpc_url": "http://165.232.89.48:9944",
+  "explorer_url": "http://165.232.89.48:4000",
+  "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+  "id": "06fe5caa-7532-411d-853d-96f1191e8480"
+}
