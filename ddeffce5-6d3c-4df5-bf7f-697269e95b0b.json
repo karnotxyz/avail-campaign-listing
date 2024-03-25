@@ -1,8 +1,8 @@
 {
-  "name": "bate",
-  "logo": "http://165.232.89.48/logo.jpg",
-  "rpc_url": "http://165.232.89.48:9944",
-  "explorer_url": "http://165.232.89.48:4000",
-  "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+  "name": "bate"
+  "logo": "http://165.232.89.48/logo.jpg"
+  "rpc_url": "http://165.232.89.48:9944"
+  "explorer_url": "http://165.232.89.48:4000"
+  "metrics_endpoint": "http://165.232.89.48:9615/metrics"
   "id": "ddeffce5-6d3c-4df5-bf7f-697269e95b0b"
-}
+  }
