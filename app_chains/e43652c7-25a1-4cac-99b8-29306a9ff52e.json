@@ -1,0 +1,8 @@
+{
+  "name": "defensed",
+  "logo": "http://124.156.201.189/logo.jpg",
+  "rpc_url": "http://124.156.201.189:9944",
+  "explorer_url": "http://124.156.201.189:4000",
+  "metrics_endpoint": "http://124.156.201.189:9615/metrics",
+  "id": "e43652c7-25a1-4cac-99b8-29306a9ff52e"
+}
