@@ -1,0 +1,8 @@
+{
+  "name": "bate",
+  "logo": "http://165.232.89.48/logo.jpg",
+  "rpc_url": "http://165.232.89.48:9944",
+  "explorer_url": "http://165.232.89.48:4000",
+  "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+  "id": "48f1f823-ddf9-445e-8f88-7a44c5c16199"
+}
