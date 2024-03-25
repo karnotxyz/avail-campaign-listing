@@ -1,0 +1,8 @@
+{
+  "name": "bate",
+  "logo": "https://i.im.ge/2024/03/24/WMLzzJ.Sydney-Opera-House-Bennelong-Point-Port-Jackson.png",
+  "rpc_url": "http://165.232.89.48:9944",
+  "explorer_url": "http://165.232.89.48:4000",
+  "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+  "id": "a7e41321-0f3d-426b-8f2f-b73cb05014b2"
+}
