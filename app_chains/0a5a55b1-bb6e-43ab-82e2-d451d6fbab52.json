@@ -1,0 +1,8 @@
+{
+    "name": "bate",
+    "logo": "https://im.ge/i/avatar.WlmnSS",
+    "rpc_url": "http://165.232.89.48:9944",
+    "explorer_url": "http://165.232.89.48:4000",
+    "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+    "id": "0a5a55b1-bb6e-43ab-82e2-d451d6fbab52"
+  }
