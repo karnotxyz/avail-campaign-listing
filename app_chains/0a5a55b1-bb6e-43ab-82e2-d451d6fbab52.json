@@ -1,6 +1,6 @@
 {
     "name": "bate",
-    "logo": "https://im.ge/i/avatar.WlmnSS",
+    "logo": "",
     "rpc_url": "http://165.232.89.48:9944",
     "explorer_url": "http://165.232.89.48:4000",
     "metrics_endpoint": "http://165.232.89.48:9615/metrics",
