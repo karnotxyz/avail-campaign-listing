@@ -1,0 +1,8 @@
+{
+  "name": "bate",
+  "logo": "https://ibb.co/250SHP9",
+  "rpc_url": "http://165.232.89.48:9944",
+  "explorer_url": "http://165.232.89.48:4000",
+  "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+  "id": "aa81af85-f79e-4b42-8f6d-2960971461ce"
+}

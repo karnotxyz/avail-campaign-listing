@@ -1,0 +1,8 @@
+{
+  "name": "bate",
+  "logo": "https://im.ge/i/ff.WlPHR6",
+  "rpc_url": "http://165.232.89.48:9944",
+  "explorer_url": "http://165.232.89.48:4000",
+  "metrics_endpoint": "http://165.232.89.48:9615/metrics",
+  "id": "02d7854c-5c22-458a-88a3-b772342e236a"
+}
