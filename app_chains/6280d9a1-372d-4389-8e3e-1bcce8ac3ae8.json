@@ -1,0 +1,8 @@
+{
+  "name": "peaky",
+  "logo": "https://r.resimlink.com/ukxzM8D5EWvF.jpeg",
+  "rpc_url": "http://109.199.97.185:9944",
+  "explorer_url": "http://109.199.97.185:4000",
+  "metrics_endpoint": "http://109.199.97.185:9615/metrics",
+  "id": "6280d9a1-372d-4389-8e3e-1bcce8ac3ae8"
+}
