@@ -1,8 +1,8 @@
 {
   "name": "OneBlue",
   "logo": "https://im.ge/i/bVhOOp",
-  "rpc_url": "http://34.125.151.17:9944",
-  "explorer_url": "http://34.125.151.17:4000",
-  "metrics_endpoint": "http://34.125.151.17:9615/metrics",
+  "rpc_url": "http://oneblue.mooncoins.vip:9944",
+  "explorer_url": "http://oneblue.mooncoins.vip:4000",
+  "metrics_endpoint": "http://oneblue.mooncoins.vip:9615/metrics",
   "id": "980466f6-865f-4eb2-abe1-7d61e402591d"
 }
