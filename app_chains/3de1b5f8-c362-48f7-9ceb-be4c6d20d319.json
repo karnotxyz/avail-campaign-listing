@@ -1,0 +1,8 @@
+{
+  "name": "ALTOSBIONODE2",
+  "logo": "https://ibb.co/Xx2nyK0",
+  "rpc_url": "http://149.102.147.96:9944",
+  "explorer_url": "http://149.102.147.96:4000",
+  "metrics_endpoint": "http://149.102.147.96:9615/metrics",
+  "id": "3de1b5f8-c362-48f7-9ceb-be4c6d20d319"
+}
