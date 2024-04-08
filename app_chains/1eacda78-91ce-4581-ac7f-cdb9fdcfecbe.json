@@ -1,0 +1,8 @@
+{
+  "name": "Robinhood",
+  "logo": "https://i.im.ge/2024/02/13/cgiJwT.robinhood.png",
+  "rpc_url": "http://194.59.207.14:9944",
+  "explorer_url": "http://194.59.207.14:4000",
+  "metrics_endpoint": "http://194.59.207.14:9615/metrics",
+  "id": "1eacda78-91ce-4581-ac7f-cdb9fdcfecbe"
+}
