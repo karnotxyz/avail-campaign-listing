@@ -1,0 +1,8 @@
+{
+  "name": "0xyuvi",
+  "logo": "https://ibb.co/Lt7D62V",
+  "rpc_url": "http://194.116.173.107:9944",
+  "explorer_url": "http://194.116.173.107:4000",
+  "metrics_endpoint": "http://194.116.173.107:9615/metrics",
+  "id": "b57859fe-4782-4e37-8b7d-71e459a5c3db"
+}
