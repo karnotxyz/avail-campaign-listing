@@ -1,0 +1,8 @@
+{
+  "name": "bhunywte",
+  "logo": "https://r.resimlink.com/P9NkHay.jpg",
+  "rpc_url": "http://95.217.167.185:9944",
+  "explorer_url": "http://95.217.167.185:4000",
+  "metrics_endpoint": "http://95.217.167.185:9615/metrics",
+  "id": "4627e8d2-fef6-4aae-9de0-35b73a5d7ecf"
+}
