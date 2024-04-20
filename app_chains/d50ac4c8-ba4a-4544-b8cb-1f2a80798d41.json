@@ -1,0 +1,8 @@
+{
+  "name": "0xvijay",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://194.116.173.108:9944",
+  "explorer_url": "http://194.116.173.108:4000",
+  "metrics_endpoint": "http://194.116.173.108:9615/metrics",
+  "id": "d50ac4c8-ba4a-4544-b8cb-1f2a80798d41"
+}
