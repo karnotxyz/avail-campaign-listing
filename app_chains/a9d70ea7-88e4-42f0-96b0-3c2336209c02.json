@@ -1,0 +1,8 @@
+{
+  "name": "distinctpro",
+  "logo": "http://43.134.111.246/logo.jpg",
+  "rpc_url": "http://43.134.111.246:9944",
+  "explorer_url": "http://43.134.111.246:4000",
+  "metrics_endpoint": "http://43.134.111.246:9615/metrics",
+  "id": "a9d70ea7-88e4-42f0-96b0-3c2336209c02"
+}
