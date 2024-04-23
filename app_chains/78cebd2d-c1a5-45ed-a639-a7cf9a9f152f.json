@@ -1,0 +1,8 @@
+{
+  "name": "0xcadabra",
+  "logo": "https://r.resimlink.com/qkPWGUVwSd1T.webp",
+  "rpc_url": "http://34.136.148.129:9944",
+  "explorer_url": "http://34.136.148.129:4000",
+  "metrics_endpoint": "http://34.136.148.129:9615/metrics",
+  "id": "78cebd2d-c1a5-45ed-a639-a7cf9a9f152f"
+}
