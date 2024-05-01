@@ -1,0 +1,8 @@
+{
+  "name": "MojtabaH",
+  "logo": "https://ibb.co/3NDtcRj",
+  "rpc_url": "http://65.108.86.135:9944",
+  "explorer_url": "http://65.108.86.135:4000",
+  "metrics_endpoint": "http://65.108.86.135:9615/metrics",
+  "id": "76432fe2-004f-4c11-af6b-432e73ebc946"
+}
