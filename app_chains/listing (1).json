@@ -1,0 +1,8 @@
+{
+    "name": "saminft",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/130612573/302940739-e18dbedb-c499-4385-8521-bf9baba2fbfc.png",
+    "rpc_url": "https://89.208.103.116:9944",
+    "explorer_url": "https://89.208.103.116:4000",
+    "metrics_endpoint": "https://89.208.103.116:9615",
+    "id": "85638d63-f06c-4276-a748-594d3c96e883"
+  }
