@@ -1,0 +1,8 @@
+{
+  "name": "ttkklei001",
+  "logo": "https://i.ibb.co/S5p7xNC/ttkklei.png",
+  "rpc_url": "http://194.163.153.194:9944",
+  "explorer_url": "http://194.163.153.194:4000",
+  "metrics_endpoint": "http://194.163.153.194:9615/metrics",
+  "id": "7fc1f0e3-7413-4367-acd5-58e6821f715e"
+}
