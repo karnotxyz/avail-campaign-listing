@@ -1,0 +1,8 @@
+{
+  "name": "calypso",
+  "logo": "",
+  "rpc_url": "http://89.117.21.187:9944",
+  "explorer_url": "http://89.117.21.187:4000",
+  "metrics_endpoint": "http://89.117.21.187:9615/metrics",
+  "id": "b3abfb0c-9b5f-4f57-934d-29e59298b815"
+}
