@@ -1,0 +1,8 @@
+{
+  "name": "FstChain",
+  "logo": "https://i.ibb.co/tmpH5Qn/image.jpg",
+  "rpc_url": "http://161.97.120.29:9944",
+  "explorer_url": "http://161.97.120.29:4000",
+  "metrics_endpoint": "http://161.97.120.29:9615/metrics",
+  "id": "b9b626a5-b689-439f-8ac7-b0d523fdd4f3"
+}
