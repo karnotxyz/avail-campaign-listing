@@ -1,0 +1,8 @@
+{
+    "name": "onepice",
+    "logo": "https://r.resimlink.com/8tiJsafhpZbS",
+    "rpc_url": "http://http://154.91.170.43/:9944",
+    "explorer_url": "http://http://154.91.170.43/:4000",
+    "metrics_endpoint": "http://http://154.91.170.43:9615/metrics",
+    "id": "209ae532-6c0b-41cc-a864-0088a42be8e5"
+  }
