@@ -1,0 +1,8 @@
+{
+  "name": "balance",
+  "logo": "https://r.resimlink.com/ytjcFPp4N.jpg",
+  "rpc_url": "http://173.212.215.150:9944",
+  "explorer_url": "http://173.212.215.150:4000",
+  "metrics_endpoint": "http://173.212.215.150:9615/metrics",
+  "id": "000170c5-5bce-41a2-8e97-e128f1d7781a"
+}
