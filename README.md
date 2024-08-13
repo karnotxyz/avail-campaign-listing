@@ -1,6 +1,6 @@
 > The Karnot x Avail campaign has been paused until further notice. This means we won't be merging new PRs at the moment. However, if your PR has already been merged, you can continue to run your node. You can follow us [here](https://twitter.com/karnotxyz) to get future updates 
 
-# Avail Clash of Nodes Listing
+# Avail Clash of Nodes 
 
 This is the official repo for the Karnot CLI and the Avail Clash of Nodes campaign. If you want your app chain
 to be listed and ranked for the campaign, please create a PR on this repo which adds a JSON in the following
@@ -13,7 +13,7 @@ format to listing.json.
   "rpc_url": "https://rpc.myappchain.xyz",
   "explorer_url": "https://explorer.myappchain.xyz",
   "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "id": "-f048-4d10-ae61-6cb970cad2f0"
 }
 ```
 
