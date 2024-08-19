@@ -1,0 +1,8 @@
+{
+  "name": "bitbigcat",
+  "logo": "https://i.ibb.co/bztgvSg/bitbigcat.png",
+  "rpc_url": "http://141.164.39.216:4000",
+  "explorer_url": "http://141.164.39.216:9944",
+  "metrics_endpoint": "http://141.164.39.216:9615/metrics",
+  "id": "91336937-e52a-46eb-b193-c6c593699889"
+}
