@@ -1,0 +1,8 @@
+{
+  "name": "Omeiza",
+  "logo": "https://i.ibb.co/DkZMz94/robert-larsson-Tkwz-P-frzl4-unsplash.jpg",
+  "rpc_url": "http://167.88.172.85:4000",
+  "explorer_url": "http://167.88.172.85:4000",
+  "metrics_endpoint": "http://167.88.172.85:4000",
+  "id": "01da69a1-4461-44b5-90e7-7fb8da73e373"
+}
