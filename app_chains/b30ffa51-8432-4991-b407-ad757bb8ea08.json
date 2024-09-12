@@ -1,0 +1,8 @@
+{
+  "name": "kallenni",
+  "logo": "https://i.imgur.com/9z5Evx9.png",
+  "rpc_url": "http://20.46.229.117:9944",
+  "explorer_url": "http://20.46.229.117:4000",
+  "metrics_endpoint": "http://20.46.229.117:9615/metrics",
+  "id": "b30ffa51-8432-4991-b407-ad757bb8ea08"
+}
