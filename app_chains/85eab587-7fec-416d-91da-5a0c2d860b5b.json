@@ -1,0 +1,8 @@
+{
+  "name": "logycate",
+  "logo": "https://r.resimlink.com/fUBHo9mQ-YCt.jpg",
+  "rpc_url": "http://46.226.160.158:9944",
+  "explorer_url": "http://46.226.160.158:4000",
+  "metrics_endpoint": "http://46.226.160.158:9615/metrics",
+  "id": "85eab587-7fec-416d-91da-5a0c2d860b5b"
+}
