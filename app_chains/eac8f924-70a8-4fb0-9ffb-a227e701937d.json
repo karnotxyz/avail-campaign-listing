@@ -1,0 +1,8 @@
+{
+  "name": "mgcnb666",
+  "logo": "https://gw.alicdn.com/imgextra/i1/710600684/O1CN01OwjnvQ1GvJkcNOcpb_!!710600684.jpg_Q75.jpg",
+  "rpc_url": "http://45.143.197.93:9944",
+  "explorer_url": "http://45.143.197.93:4000",
+  "metrics_endpoint": "http://45.143.197.93/metrics",
+  "id": "eac8f924-70a8-4fb0-9ffb-a227e701937d"
+}
