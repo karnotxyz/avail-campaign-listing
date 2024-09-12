@@ -1,0 +1,9 @@
+
+{
+  "name": “STUI”,
+  "logo": "file:///Users/yz/Desktop/E37A5278DD1068B9F052B2CC04524ABD.png",
+  "rpc_url": "http://VPS/109.199.103.83:9944",
+  "explorer_url": "http://VPS/109.199.103.83:4000",
+  "metrics_endpoint": "http://VPS/109.199.103.83:9615/metrics",
+  "id": "290b989b-fde2-4c19-9ec4-1243c6b633ff"
+}
