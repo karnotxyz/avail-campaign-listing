@@ -1,0 +1,10 @@
+[
+{
+  "name": "okinawa",
+  "logo": "https://imgur.com/0AKdr2r.png",
+  "rpc_url": "https://128.199.160.147:9944",
+  "explorer_url": "https://128.199.160.147:4000",
+  "metrics_endpoint": "https://128.199.160.147:9615/metrics",
+  "id": "96039789-59be-4129-9b48-16c27dd9bd91"
+}
+]
