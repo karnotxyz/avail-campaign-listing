@@ -1,0 +1,8 @@
+  {
+    "name": "insomnia",
+    "logo": "https://raw.githubusercontent.com/Insomnia34/opside/main/rainbow.png",
+    "rpc_url": "http://168.119.176.134:9944",
+    "explorer_url": "http://168.119.176.134:4000",
+    "metrics_endpoint": "http://168.119.176.134:9615/metrics",
+    "id": "35a11929-e4af-41f3-8a5f-bb15a45026a9"
+  }
