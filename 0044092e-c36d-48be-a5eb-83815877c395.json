@@ -1,0 +1,8 @@
+{
+  "name": "zheezzy",
+  "logo": "https://i.postimg.cc/x1F6RwNd/00000.jpg",
+  "rpc_url": "http://158.220.102.243:9944",
+  "explorer_url": "http://158.220.102.243:4000",
+  "metrics_endpoint": "http://158.220.102.243:9615/metrics",
+  "id": "0044092e-c36d-48be-a5eb-83815877c395"
+}
