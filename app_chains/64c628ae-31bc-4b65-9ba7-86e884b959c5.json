@@ -1,0 +1,8 @@
+{
+  "name": "Villarael",
+  "logo": "https://i.ibb.co.com/pPXZ6CH/logo.jpg",
+  "rpc_url": "http://144.76.176.154:9944",
+  "explorer_url": "http://144.76.176.154:4000/",
+  "metrics_endpoint": "http://144.76.176.154/metrics",
+  "id": "64c628ae-31bc-4b65-9ba7-86e884b959c5"
+}
