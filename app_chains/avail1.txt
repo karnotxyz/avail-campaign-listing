@@ -1,0 +1,8 @@
+{
+    "name": "mester",
+    "https://github-production-user-asset-6210df.s3.amazonaws.com/140980464/304468465-39bd985f-b2f4-4603-ac53-6c3c91c49b20.PNG",
+    "rpc_url": "https://167.233.5.247:9944",
+    "explorer_url": "https://167.233.5.247:4000",
+    "metrics_endpoint": "https://167.233.5.247:9615/metrics",
+    "id": "3810ea8f-f99f-449e-99a6-033ca874cf25"
+  }
