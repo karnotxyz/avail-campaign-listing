@@ -1,0 +1,8 @@
+{
+    "name": "artcoder",
+    "logo": "https://placehold.co/400x400",
+    "rpc_url": "http://46.250.235.47:9944",
+    "explorer_url": "http://46.250.235.47:4000",
+    "metrics_endpoint": "http://46.250.235.47:9615/metrics",
+    "id": "86e18ddf-e1eb-4668-8eb4-a8dfcbbe6b6d"
+  }
