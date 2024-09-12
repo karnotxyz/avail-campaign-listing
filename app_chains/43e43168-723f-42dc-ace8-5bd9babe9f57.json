@@ -1,0 +1,8 @@
+{
+  "name": "rickeyco",
+  "logo": "https://ibb.co/q05CBLD",
+  "rpc_url": "http://43.133.181.110:9944",
+  "explorer_url": "http://43.133.181.110:4000",
+  "metrics_endpoint": "http://43.133.181.110:9615/metrics",
+  "id": "43e43168-723f-42dc-ace8-5bd9babe9f57"
+}
