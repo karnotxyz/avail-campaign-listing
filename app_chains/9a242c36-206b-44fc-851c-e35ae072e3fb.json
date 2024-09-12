@@ -1,0 +1,8 @@
+{
+  "name": "vlknavail",
+  "logo": "https://r.resimlink.com/rZUCF.jpg",
+  "rpc_url": "http://167.86.106.99:9944",
+  "explorer_url": "http://167.86.106.99:4000",
+  "metrics_endpoint": "http://167.86.106.99:9615/metrics",
+  "id": "9a242c36-206b-44fc-851c-e35ae072e3fb"
+}
