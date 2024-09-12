@@ -1,0 +1,8 @@
+{
+  "name": "xabbasx",
+  "logo": "https://r.resimlink.com/w9iO_IpRnM.png",
+  "rpc_url": "http://49.12.60.44:9944",
+  "explorer_url": "http://49.12.60.44:4000",
+  "metrics_endpoint": "http://49.12.60.44:9615/metrics",
+  "id": "2a5a129b-0aff-4ddf-bd39-1b606d6cfe98"
+}
