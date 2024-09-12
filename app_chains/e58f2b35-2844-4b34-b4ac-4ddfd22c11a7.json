@@ -1,0 +1,8 @@
+{
+  "name": "avail69",
+  "logo": "https://i.imgur.com/WUtsRM9.png",
+  "rpc_url": "http://186.123.163.50:9944",
+  "explorer_url": "http://186.123.163.50:4000",
+  "metrics_endpoint": "http://186.123.163.50:9615/metrics",
+  "id": "e58f2b35-2844-4b34-b4ac-4ddfd22c11a7"
+}
