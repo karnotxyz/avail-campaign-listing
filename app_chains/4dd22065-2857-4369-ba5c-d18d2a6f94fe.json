@@ -1,0 +1,8 @@
+{
+  "name": "marcus",
+  "logo": "https://drive.google.com/uc?export=download&id=1sMzH_sRrUdQfpwpmgZXeJRKf83LYMiOr",
+  "rpc_url": "http://185.110.191.192:9944",
+  "explorer_url": "http://185.110.191.192:4000",
+  "metrics_endpoint": "http://185.110.191.192:9615/metrics",
+  "id": "4dd22065-2857-4369-ba5c-d18d2a6f94fe"
+}
