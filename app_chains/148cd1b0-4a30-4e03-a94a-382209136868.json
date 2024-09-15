@@ -1,0 +1,8 @@
+{
+  "name": "rugcoin",
+  "logo": "https://i.imgur.com/2Bnvs17.png",
+  "rpc_url": "http://20.220.140.43:9944",
+  "explorer_url": "http://20.220.140.43:4000",
+  "metrics_endpoint": "http://20.220.140.43:9615/metrics",
+  "id": "148cd1b0-4a30-4e03-a94a-382209136868"
+}
