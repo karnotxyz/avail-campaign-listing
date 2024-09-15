@@ -1,0 +1,8 @@
+{
+  "name": "akita066",
+  "logo": "https://r.resimlink.com/NJUAKeDWm3.png",
+  "rpc_url": "http://38.242.197.132:9944",
+  "explorer_url": "http://38.242.197.132:4000",
+  "metrics_endpoint": "http://38.242.197.132:9615/metrics",
+  "id": "de570910-d17f-41dd-9ece-0a884959fc02"
+}
