@@ -1,0 +1,8 @@
+{
+  "name": "anggurbulat",
+  "logo": "https://i.ibb.co/tL46HVF/madara-mihardjo.png",
+  "rpc_url": "http://64.23.147.15:9944",
+  "explorer_url": "http://64.23.147.15:4000",
+  "metrics_endpoint": "http://64.23.147.15:9615/metrics",
+  "id": "86342e80-76a9-482f-8ba3-d2d698a8f17e"
+}
