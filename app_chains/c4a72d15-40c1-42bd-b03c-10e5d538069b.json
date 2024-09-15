@@ -1,0 +1,8 @@
+{
+  "name": "serdar",
+  "logo": "https://i.imgur.com/mSOYGgC.png",
+  "rpc_url": "http://34.66.214.228:9944",
+  "explorer_url": "http://34.66.214.228:4000",
+  "metrics_endpoint": "http://34.66.214.228:9615/metrics",
+  "id": "c4a72d15-40c1-42bd-b03c-10e5d538069b"
+}
