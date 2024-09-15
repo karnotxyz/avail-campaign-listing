@@ -1,0 +1,8 @@
+{
+  "name": "kriptofinans",
+  "logo": "https://r.resimlink.com/xCqvm.png",
+  "rpc_url": "http://144.91.123.158	:9944",
+  "explorer_url": "http://144.91.123.158:4000",
+  "metrics_endpoint": "http://144.91.123.158:9615/metrics",
+  "id": "6bdcd716-950a-4bde-8053-fe597bd315f7"
+}
