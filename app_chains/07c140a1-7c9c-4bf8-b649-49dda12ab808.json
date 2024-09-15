@@ -1,0 +1,8 @@
+{
+    "name": "Audi",
+    "logo": "https://lh3.googleusercontent.com/-5kSghHH4eXjdHB7y9ClpTBowaoP2Ej_fewUp4z9iHufqnvgzUSz-4eg764ZK9bQ46oUefK6gJ5n3vb63YeAxMOFaawXHEGMdEI",
+    "rpc_url": "http://89.117.123.97:9944",
+    "explorer_url": "http://89.117.123.97:4000",
+    "metrics_endpoint": "http://89.117.123.97:9615/metrics",
+    "id": "07c140a1-7c9c-4bf8-b649-49dda12ab808"
+}
