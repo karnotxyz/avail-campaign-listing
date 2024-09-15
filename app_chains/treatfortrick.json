@@ -1,0 +1,8 @@
+{
+  "name": "treatfortrick",
+  "logo": "https://ibb.co/ftjw6XV",
+  "rpc_url": "https://207.180.249.146:9944",
+  "explorer_url": "https://207.180.249.146:4000",
+  "metrics_endpoint": "https://207.180.249.146:9615/metrics",
+  "id": "e749476e-e9c2-4e30-8079-f7c986b033b7"
+}
