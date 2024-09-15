@@ -1,0 +1,8 @@
+{
+  "name": "LEONorth",
+  "logo": "https://i.ibb.co/gRgGXPH/Safeimagekit-resized-img.png",
+  "rpc_url": "http://185.187.169.230:9944",
+  "explorer_url": "http://185.187.169.230:4000",
+  "metrics_endpoint": "http://185.187.169.230:9615/metrics",
+  "id": "19c2b8e6-9aa2-40d6-b06e-30f9b485874f"
+}
