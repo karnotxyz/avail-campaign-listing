@@ -1,0 +1,8 @@
+{
+  "name": "kadara",
+  "logo": "https://r.resimlink.com/UdOY_.png",
+  "rpc_url": "http://89.117.51.7:9944",
+  "explorer_url": "http://89.117.51.7:4000",
+  "metrics_endpoint": "http://89.117.51.7:9615/metrics", 
+  "id": "eeeece07-304b-4718-ae86-0cd3dc8df1bb"
+}
