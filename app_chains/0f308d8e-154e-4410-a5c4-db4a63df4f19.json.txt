@@ -1,0 +1,8 @@
+  {
+    "name": "sermadara",
+    "logo": "https://r.resimlink.com/yrCZXznY.jpg",
+    "rpc_url": "http://65.109.231.61:9944",
+    "explorer_url": "http://65.109.231.61:4000",
+    "metrics_endpoint": "http://65.109.231.61:9615/metrics", 
+    "id": "0f308d8e-154e-4410-a5c4-db4a63df4f19"
+  }
