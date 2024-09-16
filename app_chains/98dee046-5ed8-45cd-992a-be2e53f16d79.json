@@ -1,0 +1,8 @@
+{
+  "name": "mad",
+  "logo": "https://r.resimlink.com/idVBSp.png", 
+  "rpc_url": "http://65.21.3.254:9944",
+  "explorer_url": "http://65.21.3.254:4000",
+  "metrics_endpoint": "http://65.21.3.254:9615",
+  "id": "98dee046-5ed8-45cd-992a-be2e53f16d79"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "yekane1",
+  "logo": "https://r.resimlink.com/xQDb1GS.png",
+  "rpc_url": "http://129.159.135.114:9944",
+  "explorer_url": "http://129.159.135.114:4000",
+  "metrics_endpoint": "http://129.159.135.114:9615/metrics",
+  "id": "a32992fd-ee0b-43cc-9c51-191332334af4"
+}
