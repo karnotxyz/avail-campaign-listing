@@ -1,0 +1,8 @@
+{
+  "name": "nhttg",
+  "logo": "https://im.ge/i/gSrCe4",
+  "rpc_url": "http://95.214.177.27:9944",
+  "explorer_url": "http://95.214.177.27:4000",
+  "metrics_endpoint": "http://95.214.177.27:9615/metrics",
+  "id": "cf2a80d0-0f18-41ad-bdff-e77f76cc91b1"
+}
