@@ -1,0 +1,8 @@
+{
+  "name": "snowflake",
+  "logo": "https://r.resimlink.com/B9d8NrcsC.png",
+  "rpc_url": "http://217.76.63.253:9944",
+  "explorer_url": "http://217.76.63.253:4000",
+  "metrics_endpoint": "http://217.76.63.253:9615/metrics",
+  "id": "7d292f7d-67fc-477b-a639-74e1b37345ed"
+}
