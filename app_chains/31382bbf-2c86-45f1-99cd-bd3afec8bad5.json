@@ -1,0 +1,8 @@
+{
+  "name": "everest",
+  "logo": "https://i.ibb.co.com/tYtr9zT/everest.jpg",
+  "rpc_url": "http://23.88.74.54:9944",
+  "explorer_url": "http://23.88.74.54:4000/",
+  "metrics_endpoint": "http://23.88.74.54:9615/metrics",
+  "id": "31382bbf-2c86-45f1-99cd-bd3afec8bad5"
+}
