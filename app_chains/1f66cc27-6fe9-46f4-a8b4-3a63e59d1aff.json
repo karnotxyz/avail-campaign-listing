@@ -1,0 +1,8 @@
+{
+  "name": "Neuler",
+  "logo": "https://www.neuler.xyz/img/Neuler_icon.png”",
+  "rpc_url": "http://51.38.55.95:9944",
+  "explorer_url": "http://51.38.55.95:4000",
+  "metrics_endpoint": "http://51.38.55.95:9615/metrics",
+  "id": "1f66cc27-6fe9-46f4-a8b4-3a63e59d1aff"
+}
