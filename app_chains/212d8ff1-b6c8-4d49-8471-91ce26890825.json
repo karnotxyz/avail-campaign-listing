@@ -1,0 +1,8 @@
+{
+  "name": "zkbooster",
+  "logo": "https://i.imgur.com/tt1Zs69.jpg",
+  "rpc_url": "http://195.201.146.127:9944/",
+  "explorer_url": "http://195.201.146.127:4000/",
+  "metrics_endpoint": "http://195.201.0.127:9615/metrics",
+  "id": "212d8ff1-b6c8-4d49-8471-91ce26890825"
+}
