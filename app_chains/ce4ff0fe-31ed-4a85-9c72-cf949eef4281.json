@@ -1,0 +1,8 @@
+{
+  "name": "somina",
+  "logo": "https://ibb.co/VYK2wC7",
+  "rpc_url": "http://173.249.36.127:4000/",
+  "explorer_url": "http://173.249.36.127:4000/",
+  "metrics_endpoint": "http://173.249.36.127:4000/metrics",
+  "id": "ce4ff0fe-31ed-4a85-9c72-cf949eef4281"
+}
