@@ -1,0 +1,8 @@
+{
+  "name": "basam",
+  "logo": "https://r.resimlink.com/qkPWGUVwSd1T.webp",
+  "rpc_url": "http://206.189.8.43:9944",
+  "explorer_url": "http://206.189.8.43:4000",
+  "metrics_endpoint": "http://206.189.8.43:9615/metrics",
+  "id": "34786794-5fc4-4471-ab46-418182d019e3"
+}
