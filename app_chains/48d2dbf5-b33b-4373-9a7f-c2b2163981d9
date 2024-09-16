@@ -1,0 +1,8 @@
+{
+  "name": "isha2221",
+  "logo": "https://i.postimg.cc/52gcxLx0/isha2221.png",
+  "rpc_url": "http://43.159.55.136:9944",
+  "explorer_url": "http://43.159.55.136:4000",
+  "metrics_endpoint": "http://43.159.55.136:9615/metrics",
+  "id": "48d2dbf5-b33b-4373-9a7f-c2b2163981d9"
+}
