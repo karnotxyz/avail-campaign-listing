@@ -1,0 +1,8 @@
+{
+  "name": "jge100",
+  "logo": "https://th.bing.com/th/id/OIP.xZbtd0vPrVr9UO1ZJp_sqgAAAA?rs=1&pid=ImgDetMain",
+  "rpc_url": "http://103.166.228.182:9944",
+  "explorer_url": "http://103.166.228.182:4000",
+  "metrics_endpoint": "http://103.166.228.182:9615/metrics",
+  "id": "6c5abb74-d647-4efa-88de-c2748b7ca0e9"
+}
