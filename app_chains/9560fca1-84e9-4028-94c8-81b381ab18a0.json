@@ -1,0 +1,8 @@
+{
+  "name": "luxx",
+  "logo": "https://ibb.co/t3Z8X64",
+  "rpc_url": "http://92.119.126.149:9944",
+  "explorer_url": "http://92.119.126.149:4000",
+  "metrics_endpoint": "http://92.119.126.149:9615/metrics",
+  "id": "9560fca1-84e9-4028-94c8-81b381ab18a0"
+}
