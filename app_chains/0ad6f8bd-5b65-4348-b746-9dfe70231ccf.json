@@ -1,0 +1,8 @@
+{
+  "name": "boduremre",
+  "logo": "https://raw.githubusercontent.com/YukiN94/Testnet-X1/main/sebatian.svg",
+  "rpc_url": "http://188.166.22.36:9944",
+  "explorer_url": "http://188.166.22.36:4000",
+  "metrics_endpoint": "http://188.166.22.36:9615/metrics",
+  "id": "0ad6f8bd-5b65-4348-b746-9dfe70231ccf"
+}
