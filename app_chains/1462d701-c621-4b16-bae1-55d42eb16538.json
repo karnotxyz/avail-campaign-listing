@@ -1,0 +1,8 @@
+{
+  "name": "luster",
+  "logo": "https://i.ibb.co/Q6xJw1d/32-321703-400-400-png-transparent-png.png",
+  "rpc_url": "http://213.136.89.147:9944",
+  "explorer_url": "http://213.136.89.147:4000",
+  "metrics_endpoint": "http://213.136.89.147:9615/metrics",
+  "id": "1462d701-c621-4b16-bae1-55d42eb16538"
+}
