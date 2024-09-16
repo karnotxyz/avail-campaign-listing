@@ -1,0 +1,8 @@
+{
+  "name": "madamamba",
+  "logo": "https://ibb.co/tpGGWqc",
+  "rpc_url": "http://34.107.23.157:9944",
+  "explorer_url": "http://34.107.23.157:4000",
+  "metrics_endpoint": "http://34.107.23.157:9615/metrics",
+  "id": "1628b3a1-c357-4609-bc02-06bb728d615c"
+}
