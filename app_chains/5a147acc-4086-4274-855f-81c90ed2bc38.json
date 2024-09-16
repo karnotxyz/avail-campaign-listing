@@ -1,0 +1,8 @@
+{
+  "name": "bandale",
+  "logo": "https://www.shutterstock.com/image-vector/number-400-icon-design-black-260nw-1727355949.jpg",
+  "rpc_url": "https://149.102.152.212:9944",
+  "explorer_url": "http://149.102.152.212:4000",
+  "metrics_endpoint": "http://149.102.152.212:9615/metrics",
+  "id": "5a147acc-4086-4274-855f-81c90ed2bc38"
+}
