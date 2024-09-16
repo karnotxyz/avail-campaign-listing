@@ -1,0 +1,8 @@
+{
+  "name": "snow",
+  "logo": "https://i.imgur.com/CNpuXhw.png",
+  "rpc_url": "https://rpc.madara.snowtigersoft.com",
+  "explorer_url": "https://explorer.madara.snowtigersoft.com",
+  "metrics_endpoint": "https://metrics.madara.snowtigersoft.com",
+  "id": "0a1df829-69fd-4076-954b-facce354819c"
+}
