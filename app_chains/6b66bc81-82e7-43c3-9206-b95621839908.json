@@ -1,0 +1,8 @@
+{
+  "name": "saberroam",
+  "logo": "https://ibb.co/fqk5K7L",
+  "rpc_url": "http://164.92.73.97:9944",
+  "explorer_url": "http://164.92.73.97:4000",
+  "metrics_endpoint": "http://164.92.73.97:9615/metrics",
+  "id": "6b66bc81-82e7-43c3-9206-b95621839908"
+}
