@@ -1,0 +1,8 @@
+{
+    "name": "takeshi",
+    "logo": "https://i.im.ge/2024/02/17/gM4RAf.301608000033.jpg",
+    "rpc_url": "http://5.104.82.173:9944/",
+    "explorer_url": "http://5.104.82.173:4000/",
+    "metrics_endpoint": "http://5.104.82.173:9615/metrics",
+    "id": "d8681303-95e0-47c7-9b3b-106d602abeda"
+}
