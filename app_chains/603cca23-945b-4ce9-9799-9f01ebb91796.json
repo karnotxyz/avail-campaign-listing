@@ -1,0 +1,8 @@
+{
+  "name": "worteloren",
+  "logo": "https://i.ibb.co/4ZGTk8H/madara-siswojo.png",
+  "rpc_url": "http://139.59.124.235:9944",
+  "explorer_url": "http://139.59.124.235:4000",
+  "metrics_endpoint": "http://139.59.124.235:9615/metrics",
+  "id": "603cca23-945b-4ce9-9799-9f01ebb91796"
+}
