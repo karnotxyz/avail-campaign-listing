@@ -1,0 +1,8 @@
+{ 
+ "name": "sea", 
+ "logo": "https://i.imgur.com/V7fzztr.png", 
+ "rpc_url": "http://38.242.196.73:9944", 
+ "explorer_url": "http://38.242.196.73:4000", 
+ "metrics_endpoint": "http://38.242.196.73:9615/metrics", 
+ "id": "72bd4daf-f893-4f93-9f53-7595cbc4f887" 
+}
