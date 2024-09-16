@@ -1,0 +1,8 @@
+{
+  "name": "MrBTC",
+  "logo": "https://i.ibb.co/x8YqwCZ/logo.png",
+  "rpc_url": "http://167.235.60.212:9944",
+  "explorer_url": "http://167.235.60.212:4000",
+  "metrics_endpoint": "http://167.235.60.212:9615/metrics",
+  "id": "acb93240-fea3-43f0-93cd-490e74822b9a"
+}
