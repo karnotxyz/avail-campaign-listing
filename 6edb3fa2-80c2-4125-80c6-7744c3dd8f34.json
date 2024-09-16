@@ -1,0 +1,8 @@
+{
+  "name": "kaanrun",
+  "logo": "https://r.resimlink.com/m3ahKLwrPx.png",
+  "rpc_url": "http://65.109.227.116:9944",
+  "explorer_url": "http://65.109.227.116:4000",
+  "metrics_endpoint": "http://65.109.227.116:9615/metrics",
+  "id": "6edb3fa2-80c2-4125-80c6-7744c3dd8f34"
+}
