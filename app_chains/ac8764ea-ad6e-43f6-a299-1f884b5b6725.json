@@ -1,0 +1,8 @@
+{
+  "name": "nelson",
+  "logo": "https://r.resimlink.com/r-oCk.png",
+  "rpc_url": "http://38.242.144.148:9944",
+  "explorer_url": "http://38.242.144.148:4000",
+  "metrics_endpoint": "http://38.242.144.148:9615/metrics",
+  "id": "ac8764ea-ad6e-43f6-a299-1f884b5b6725"
+}
