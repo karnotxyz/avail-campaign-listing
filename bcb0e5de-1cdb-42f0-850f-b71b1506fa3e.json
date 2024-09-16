@@ -1,0 +1,8 @@
+{
+  "name": "Emrah01",
+  "logo": "",
+  "rpc_url": "http://164.92.157.135:9944",
+  "explorer_url": "http://164.92.157.135:4000",
+  "metrics_endpoint": "http://164.92.157.135:9615/metrics",
+  "id": "ea9dcd7b-eb1d-40f4-9da6-a261085dbfb4"
+}
