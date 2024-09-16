@@ -1,0 +1,8 @@
+{
+  "name": "kufri",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/trongnam_6581383-1/logos/trongnam_6581383-1.png",
+  "rpc_url": "https://m1.kufriji.xyz",
+  "explorer_url": "https://m3.kufriji.xyz/",
+  "metrics_endpoint": "https://m2.kufriji.xyz/metrics",
+  "id": "42a9cf59-d0ea-4156-beed-01e8cac84cc1"
+}
