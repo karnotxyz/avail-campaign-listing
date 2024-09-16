@@ -1,0 +1,8 @@
+{
+  "name": "gokcimeneren",
+  "logo": "https://r.resimlink.com/YWO58.png",
+  "rpc_url": "http://147.182.245.24:9944",
+  "explorer_url": "http://147.182.245.24:4000",
+  "metrics_endpoint": "http://147.182.245.24:9615/metrics",
+  "id": "56945f17-8c5e-414f-85ef-b4b1650dd281"
+}
