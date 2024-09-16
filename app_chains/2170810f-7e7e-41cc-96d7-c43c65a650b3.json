@@ -1,0 +1,8 @@
+{
+  "name": "reza",
+  "logo": "http://r.resimlink.com/2jEsv6o.png",
+  "rpc_url": "http://38.242.134.15:9944",
+  "explorer_url": "http://38.242.134.15:4000",
+  "metrics_endpoint": "http://38.242.134.15:9615/metrics",
+  "id": "2170810f-7e7e-41cc-96d7-c43c65a650b3"
+}
