@@ -1,0 +1,8 @@
+{
+    "name": "romeji",
+    "logo": "https://placehold.co/400x400",
+    "rpc_url": "http://167.86.120.199:9944/",
+    "explorer_url": "http://167.86.120.199:4000/",
+    "metrics_endpoint": "http://167.86.120.199:9615/",
+    "id": "916b96cc-d0ac-443a-bc7e-cb0595e71b16"
+  }
