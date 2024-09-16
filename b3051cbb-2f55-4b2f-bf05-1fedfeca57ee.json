@@ -1,0 +1,8 @@
+{
+  "name": "shebtee",
+  "logo": "https://i.ibb.co/VwWmP42/shebtee.png",
+  "rpc_url": "https://185.192.97.198:9944",
+  "explorer_url": "https://185.192.97.198:4000",
+  "metrics_endpoint": "https://185.192.97.198:9615/metrics",
+  "id": "b3051cbb-2f55-4b2f-bf05-1fedfeca57ee"
+}
