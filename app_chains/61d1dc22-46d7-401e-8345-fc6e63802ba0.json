@@ -1,0 +1,8 @@
+  {
+    "name": "DegenDemon",
+    "logo": "https://i.ibb.co/j48ngwH/degentubcat.png",
+    "rpc_url": "http://194.233.87.103:9944",
+    "explorer_url": "http://194.233.87.103:4000",
+    "metrics_endpoint": "http://194.233.87.103:9615/metrics", 
+    "id": "61d1dc22-46d7-401e-8345-fc6e63802ba0"
+  }
