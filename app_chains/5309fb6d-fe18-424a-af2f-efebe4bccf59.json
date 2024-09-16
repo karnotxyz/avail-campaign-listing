@@ -1,0 +1,7 @@
+{
+  "name": "aldokuz",
+  "logo": "https://r.resimlink.com/PpfFzY5oM.png", 
+  "rpc_url": "http://84.247.133.30:9944",
+  "explorer_url": "http://84.247.133.30:4000",
+  "metrics_endpoint": "http://84.247.133.30:9615",
+  "id": "5309fb6d-fe18-424a-af2f-efebe4bccf59" 
