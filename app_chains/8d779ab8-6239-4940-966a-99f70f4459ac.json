@@ -1,0 +1,8 @@
+{
+  "name": "soqoman",
+  "logo": "https://placehold.co/400x400.png?text=soqoman",
+  "rpc_url": "http://158.220.96.218:9944",
+  "explorer_url": "http://158.220.96.218:4000",
+  "metrics_endpoint": "http://158.220.96.218:9615/metrics",
+  "id": "8d779ab8-6239-4940-966a-99f70f4459ac"
+}
