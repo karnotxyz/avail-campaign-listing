@@ -1,0 +1,8 @@
+{
+  "name": "0xjono",
+  "logo": "https://im.ge/i/cg9HpM",
+  "rpc_url": "http://165.22.121.238:9944",
+  "explorer_url": "http://165.22.121.238:4000",
+  "metrics_endpoint": "http://165.22.121.238:9615/metrics",
+  "id": "17d6cac8-516d-4b3a-80af-e5ae700f074e"
+}
