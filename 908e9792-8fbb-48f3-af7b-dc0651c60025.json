@@ -1,0 +1,8 @@
+{
+  "name": "unclechain",
+  "logo": "https://i.ibb.co/fNWkSL5/unclechain.png",
+  "rpc_url": "http://206.189.107.184:9944",
+  "explorer_url": "http://206.189.107.184:4000",
+  "metrics_endpoint": "http://206.189.107.184:9615/metrics",
+  "id": "908e9792-8fbb-48f3-af7b-dc0651c60025"
+}
