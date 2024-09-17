@@ -1,0 +1,8 @@
+{
+  "name": "mostm",
+  "logo": "https://i.imgur.com/KOr5Xvb.png",
+  "rpc_url": "http://89.116.25.34:9944",
+  "explorer_url": "http://89.116.25.34:4000",
+  "metrics_endpoint": "http://89.116.25.34:9615/metrics",
+  "id": "6b59dd1b-2856-4500-b223-db48d3164111"
+}
