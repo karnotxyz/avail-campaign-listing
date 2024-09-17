@@ -1,0 +1,8 @@
+{
+  "name": "NemethShau7175",
+  "logo": "https://i.ibb.co/hKB48L3/5f0d1a22b69b82e496dcc8ef40c5834b.jpg",
+  "rpc_url": "http://146.190.147.59:9944",
+  "explorer_url": "http://146.190.147.59:4000",
+  "metrics_endpoint": "http://146.190.147.59:9615/metrics",
+  "id": "dd534cc1-0d1c-4627-9cf2-d25f0419295a"
+}
