@@ -1,0 +1,8 @@
+{
+  "name": "rids",
+  "logo": "https://r.resimlink.com/oUBXf.png",
+  "rpc_url": "http://62.171.174.205:9944",
+  "explorer_url": "http://62.171.174.205:4000",
+  "metrics_endpoint": "http://62.171.174.205:9615/metrics",
+  "id": "70579b27-c8ac-421c-9559-b0ada7f96609"
+}
