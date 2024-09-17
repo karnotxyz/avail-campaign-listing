@@ -1,0 +1,8 @@
+{
+  "name": "biawak",
+  "logo": "https://i.imgur.com/HSYJflW.jpeg",
+  "rpc_url": "http://170.64.135.54:9944",
+  "explorer_url": "170.64.135.54:4000",
+  "metrics_endpoint": "170.64.135.54:9615/metrics",
+  "id": "ada4dcbf-668e-45d8-8327-e50821929ffd"
+}
