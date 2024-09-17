@@ -1,0 +1,8 @@
+{
+  "name": "Hoodrun",
+  "logo": "https://ibb.co/PzXmV6C",
+  "rpc_url": "http://162.43.8.161:9944",
+  "explorer_url": "http://162.43.8.161:4000",
+  "metrics_endpoint": "http://162.43.8.161:9615/metrics",
+  "id": "81803961-33c6-4a71-a8cb-68fe3842d085"
+}
