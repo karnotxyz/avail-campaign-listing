@@ -1,0 +1,8 @@
+{
+  "name": "avasrhn",
+  "logo": "https://ibb.co/s5wpDd9",
+  "rpc_url": "91.107.237.69:9944",
+  "explorer_url": "91.107.237.69:4000",
+  "metrics_endpoint": "91.107.237.69:9615/metrics",
+  "id": "f08c182f-e765-4d53-9834-4f3e624443ac"
+}
