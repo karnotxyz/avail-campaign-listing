@@ -1,0 +1,8 @@
+  {
+  "name": "coskun",
+  "logo": "https://r.resimlink.com/a_GCdzjv0V.png",
+  "rpc_url": "http://65.21.176.70:9944",
+  "explorer_url": "http://65.21.176.70:4000",
+  "metrics_endpoint": "http://65.21.176.70:9615",
+  "id": "391adfc4-e56a-4b5a-b08f-f4e34acc6f08" 
+  }
