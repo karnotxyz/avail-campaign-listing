@@ -1,0 +1,8 @@
+{
+  "name": "himmetpro",
+  "logo": "https://r.resimlink.com/B-HNJTR8.png",
+  "rpc_url": "http://5.189.169.167:9944",
+  "explorer_url": "http://5.189.169.167:4000",
+  "metrics_endpoint": "http://5.189.169.167:9615",
+  "id": "35e1141d-5978-4259-b517-7b71ea65cf59"
+}
