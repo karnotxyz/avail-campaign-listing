@@ -1,0 +1,8 @@
+{
+  "name": "dilenci",
+  "logo": "https://r.resimlink.com/FQ9cGE01_onS.jpg",
+  "rpc_url": "http://62.171.132.195:9944",
+  "explorer_url": "http://62.171.132.195:4000",
+  "metrics_endpoint": "http://62.171.132.195:9615/metrics",
+  "id": "b9526f23-a8b1-4d32-b42e-fa66fff627f8"
+}

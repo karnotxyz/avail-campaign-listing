@@ -1,0 +1,8 @@
+{
+  "name": "hood",
+  "logo": "https://r.resimlink.com/FQ9cGE01_onS.jpg",
+  "rpc_url": "http://65.108.211.231:9944",
+  "explorer_url": "http://65.108.211.231:4000",
+  "metrics_endpoint": "http://65.108.211.231:9615/metrics",
+  "id": "1c6b8f53-879d-437d-b3e5-7bc47bb15b84"
+}
