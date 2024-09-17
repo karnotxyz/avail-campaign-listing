@@ -1,0 +1,8 @@
+{
+  "name": "joelapinga",
+  "logo": "",
+  "rpc_url": "http://144.91.103.225:9944",
+  "explorer_url": "http://144.91.103.225:4000",
+  "metrics_endpoint": "http://144.91.103.225:9615/metrics",
+  "id": "7b6e6044-ba8c-4f09-bedf-335921954d2f"
+}
