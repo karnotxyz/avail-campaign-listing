@@ -1,0 +1,8 @@
+{
+  "name": "madara",
+  "logo": "https://i.ibb.co/WFfV14c/Airdrop-hunterz.jpg",
+  "rpc_url": "http://62.171.154.228:9944",
+  "explorer_url": "http://62.171.154.228:4000",
+  "metrics_endpoint": "http://62.171.154.228:9615/metrics",
+  "id": "c6a85d58-582e-49f5-9529-e5addfe7db79"
+}
