@@ -1,0 +1,8 @@
+{
+  "name": "AkaS",
+  "logo": "https://r.resimlink.com/xy93lhpGWo.jpg",
+  "rpc_url": "http://144.91.74.17:9944",
+  "explorer_url": "http://144.91.74.17:4000",
+  "metrics_endpoint": "http://144.91.74.17:9615/metrics",
+  "id": "0791d928-a367-4e8a-b179-830134e79dc6"
+}
