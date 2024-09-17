@@ -1,0 +1,8 @@
+{
+  "name": "candan13",
+  "logo": "https://r.resimlink.com/SgWcREpQbM.jpg",  
+  "rpc_url": "http://64.23.153.113:9944",
+  "explorer_url": "http://64.23.153.113:4000",
+  "metrics_endpoint": "http://64.23.153.113:9615",
+  "id": "b915ab93-9635-4458-a7ec-dcf9ab6f1488"
+}
