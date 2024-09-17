@@ -1,0 +1,8 @@
+{
+  "name": "avail",
+  "logo": "https://r.resimlink.com/3Ytvc.jpg",
+  "rpc_url": "http://37.27.3.144",
+  "explorer_url": "http://37.27.3.144:4000",
+  "metrics_endpoint": "http://37.27.3.144:9615",
+  "id": "e8bcc04f-02c8-4253-b91d-862a5388b562"
+}
