@@ -1,0 +1,8 @@
+{
+  "name": "Bahadir",
+  "logo": "https://i.imgur.com/zRMvl8O.png",
+  "rpc_url": "http://144.91.85.253:9944",
+  "explorer_url": "http://144.91.85.253:4000",
+  "metrics_endpoint": "http://144.91.85.253:9615/metrics",
+  "id": "4431cb2c-3978-4a72-933f-eb78122b3153"
+}
