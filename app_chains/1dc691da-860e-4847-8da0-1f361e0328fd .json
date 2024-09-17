@@ -1,0 +1,8 @@
+{
+  "name": "arturavail",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://38.242.213.28:9944",
+  "explorer_url": "38.242.213.28:4000",
+  "metrics_endpoint": "38.242.213.28:9615/metrics",
+  "id": "1dc691da-860e-4847-8da0-1f361e0328fd"
+}
