@@ -1,0 +1,8 @@
+{
+  "name": "ahmet-madara",
+  "logo": "https://r.resimlink.com/j6OZ4EMRnA2.png",
+  "rpc_url": "http://159.65.194.203:9944",
+  "explorer_url": "http://159.65.194.203:4000",
+  "metrics_endpoint": "http://159.65.194.203:9615/metrics",
+  "id":"cb675b64-c479-4f7e-8e6e-1f4d64fa520f"
+}
