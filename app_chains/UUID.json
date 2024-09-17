@@ -1,0 +1,8 @@
+{
+  "name": "grandsun",
+  "logo": "https://ibb.co/FKLpt3J",
+  "rpc_url": "https://212.227.166.207:8443",
+  "explorer_url": "https://212.227.166.207:8443",
+  "metrics_endpoint": "https://212.227.166.207:8443",
+  "id": "f25686fd-2272-4214-8deb-31d65bd2344c"
+}
