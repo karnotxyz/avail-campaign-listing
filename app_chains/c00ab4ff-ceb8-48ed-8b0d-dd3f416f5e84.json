@@ -1,0 +1,8 @@
+{
+  "name": "loong",
+  "logo": "https://i.ibb.co/4N0NDLR/7476e951-6df5-4a94-814c-714b78b96a6c.png",
+  "rpc_url": "http://161.97.134.150:9944",
+  "explorer_url": "http://161.97.134.150:4000",
+  "metrics_endpoint": "http://161.97.134.150:9615/metrics",
+  "id": "c00ab4ff-ceb8-48ed-8b0d-dd3f416f5e84"
+}
