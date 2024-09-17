@@ -1,0 +1,8 @@
+{
+  "name": "Rexapin",
+  "logo": "https://r.resimlink.com/ivG1TzqJMX.png",
+  "rpc_url": "http://137.184.183.201:9944",
+  "explorer_url": "http://137.184.183.201:4000",
+  "metrics_endpoint": "http://137.184.183.201:9615",
+  "id": "a15e077c-e767-499e-aaa9-af313bcc03ab"
+}
