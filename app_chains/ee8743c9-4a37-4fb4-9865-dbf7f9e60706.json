@@ -1,0 +1,8 @@
+{
+  "name": "mahdikt",
+  "logo": "https://r.resimlink.com/tUTx0HqDN.jpg",
+  "rpc_url": "http://49.12.60.55:9944/",
+  "explorer_url": "http://49.12.60.55:4000",
+  "metrics_endpoint": "http://49.12.60.55:9615/metrics",
+  "id": "ee8743c9-4a37-4fb4-9865-dbf7f9e60706"
+}
