@@ -1,0 +1,8 @@
+{
+  "name": "jugadu",
+  "logo": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/main/devnet/nodevalidatorvn_1267255-1/logos/nodevalidatorvn_1267255-1.png",
+  "rpc_url": "https://m1.jugadu.xyz",
+  "explorer_url": "https://m3.jugadu.xyz",
+  "metrics_endpoint": "https://m2.jugadu.xyz/metrics",
+  "id": "fb6e6316-0290-46f0-952c-42b663227c84"
+}
