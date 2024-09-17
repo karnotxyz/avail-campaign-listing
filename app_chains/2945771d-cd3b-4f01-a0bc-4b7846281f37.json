@@ -1,0 +1,8 @@
+{
+  "name": "AppOne",
+  "logo": "https://w7.pngwing.com/pngs/315/623/png-transparent-smiley-icon-smiley-miscellaneous-face-emoticon-thumbnail.png",
+  "rpc_url": "http://31.220.85.88:9944",
+  "explorer_url": "http://31.220.85.88:4000",
+  "metrics_endpoint": "http://31.220.85.88:9615/metrics",
+  "id": "2945771d-cd3b-4f01-a0bc-4b7846281f37"
+}
