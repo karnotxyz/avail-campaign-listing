@@ -1,0 +1,8 @@
+{
+  "name": "chaghal",
+  "logo": "https://r.resimlink.com/yQtp_SNM2.png",
+  "rpc_url": "http://5.75.202.13:9944",
+  "explorer_url": "http://5.75.202.13:4000",
+  "metrics_endpoint": "http://5.75.202.13:9615/metrics",
+  "id": "64461609-ceec-47b3-a698-20c8718ab2d9"
+}
