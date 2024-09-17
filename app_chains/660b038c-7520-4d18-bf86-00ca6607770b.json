@@ -1,0 +1,8 @@
+{
+  "name": "Cryptofishernode",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://95.217.179.134:9944/",
+  "explorer_url": "https://95.217.179.134:4000/",
+  "metrics_endpoint": "https://95.217.179.134:9615/metrics",
+  "id": "660b038c-7520-4d18-bf86-00ca6607770b"
+}
