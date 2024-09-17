@@ -1,0 +1,8 @@
+{
+  "name": "Availemir",
+  "logo": "https://r.resimlink.com/-gj6bEsPO7fv.png",
+  "rpc_url": "http://164.92.160.112:9944",
+  "explorer_url": "http://164.92.160.112:4000",
+  "metrics_endpoint": "http://164.92.160.112:9615",
+  "id": "02074013-f25b-4b99-a389-a39206476019"
+}
