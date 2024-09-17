@@ -1,0 +1,8 @@
+  {
+    "name": "testnetkemal",
+    "logo": "https://r.resimlink.com/Fnpux7iT.jpg", 
+    "rpc_url": "http://135.181.199.1:9944",
+    "explorer_url": "http://135.181.199.1:4000",
+    "metrics_endpoint": "http://135.181.199.1:9615/metrics", 
+    "id": "2adc70da-c9ce-42db-8187-ce060e83da0e"
+  }
