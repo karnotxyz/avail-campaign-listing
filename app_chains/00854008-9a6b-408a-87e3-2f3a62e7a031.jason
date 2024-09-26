@@ -1,0 +1,11 @@
+./target/release/madara explorer --host=95.111.246.172
+
+{
+  "name": "mbarto",
+  "logo": "https://https://r.resimlink.com/-RQ_J8b.png",
+  "rpc_url": "http://95.111.246.172:9944",
+  "explorer_url": "http://95.111.246.172:4000",
+  "metrics_endpoint": "http://95.111.246.172:9615",
+  "id": "00854008-9a6b-408a-87e3-2f3a62e7a031"
+}
+
