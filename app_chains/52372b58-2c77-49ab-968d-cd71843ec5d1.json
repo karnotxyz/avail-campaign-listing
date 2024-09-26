@@ -1,0 +1,8 @@
+{
+  "name": "magnacarta",
+  "logo": "",
+  "rpc_url": "http://89.117.21.186:9944",
+  "explorer_url": "http://89.117.21.186:4000",
+  "metrics_endpoint": "http://89.117.21.186:9615/metrics",
+  "id": "52372b58-2c77-49ab-968d-cd71843ec5d1"
+}
