@@ -1,0 +1,8 @@
+{
+  "name": "bcr155",
+  "logo": "https://i.ibb.co/DLN52J8/bcr155.png",
+  "rpc_url": "185.137.122.134:9944",
+  "explorer_url": "185.137.122.134:4000",
+  "metrics_endpoint": "185.137.122.134:9615/metrics",
+  "id": "82ce23ab-b197-4a18-914f-91fffb81ebca"
+}
