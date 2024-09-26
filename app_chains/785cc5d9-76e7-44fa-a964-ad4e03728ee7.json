@@ -1,0 +1,8 @@
+{
+  "name": "flyne",
+  "logo": "https://im.ge/i/cehNA1",
+  "rpc_url": "http://89.117.59.25:9944",
+  "explorer_url": "http://89.117.59.25:4000",
+  "metrics_endpoint": "http://89.117.59.25:9615/metrics",
+  "id": "785cc5d9-76e7-44fa-a964-ad4e03728ee7"
+}
