@@ -1,0 +1,8 @@
+{
+  "name": "glmsr",
+  "logo": "glmsr_2383808-1.png.jpg",
+  "rpc_url": "http://62.171.176.118:9944",
+  "explorer_url": "62.171.176.118:4000",
+  "metrics_endpoint": "62.171.176.118:9615/metrics",
+  "id": "f307fbcd-cb5d-4221-9330-4b3933b4b919"
+}
