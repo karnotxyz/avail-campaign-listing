@@ -1,0 +1,8 @@
+{
+  "name": "himmetabi",
+  "logo": "https://r.resimlink.com/W9oS0YndlP5.png",
+  "rpc_url": "http://5.189.169.167:9944",
+  "explorer_url": "http://5.189.169.167:4000",
+  "metrics_endpoint": "http://5.189.169.167:9615",
+  "id": "24b9187d-07e7-4148-82c6-fee48aa5f923"
+}
