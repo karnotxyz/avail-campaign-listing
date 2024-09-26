@@ -1,0 +1,8 @@
+{
+  "name": "ceren",
+  "logo": "https://r.resimlink.com/X7ifQtVw9vBI.png",
+  "rpc_url": "http://38.242.201.41:9944",
+  "explorer_url": "http://38.242.201.41:4000",
+  "metrics_endpoint": "http://38.242.201.41:9615/metrics",
+  "id": "f6d99c46-2212-48d8-aad6-3d5f3a67c373"
+}
