@@ -1,0 +1,8 @@
+{
+  "name": "Kobzar",
+  "logo": "https://s3-goods.ozstatic.by/1000/654/811/10/10811654_0.jpg",
+  "rpc_url": "http://161.97.181.89:9944",
+  "explorer_url": "http://161.97.181.89:4000",
+  "metrics_endpoint": "http://161.97.181.89:9615/metrics",
+  "id": "23f649e1-7a0f-4bbc-ae11-b44227f433da"
+}
