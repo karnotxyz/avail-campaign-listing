@@ -1,0 +1,8 @@
+{
+  "name": "ALFAN",
+  "logo": "https://i.imgur.com/wkrBEIK.png",
+  "rpc_url": "http://173.249.16.40",
+  "explorer_url": "http://173.249.16.40:4000",
+  "metrics_endpoint": "http://173.249.16.40/metrics",
+  "id": "2b0f4e98-bcc0-4414-94fb-226ef13c67a2"
+}
