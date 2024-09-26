@@ -1,0 +1,8 @@
+{
+  "name": "oasis",
+  "logo": "https://r.resimlink.com/OWJ8cmjy.jpeg",
+  "rpc_url": "http://135.181.201.74:9944",
+  "explorer_url": "http://135.181.201.74:4000",
+  "metrics_endpoint": "http://135.181.201.74:9615/metrics",
+  "id": "f13eab7c-f62c-485d-b475-0898083a6ca3"
+}
