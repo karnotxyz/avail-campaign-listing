@@ -1,0 +1,8 @@
+{
+  "name": "copthatboy",
+  "logo": "https://placehold.co/600x400",
+  "rpc_url": "https://172.16.5.4:9944",
+  "explorer_url": "https://172.16.5.4:4000",
+  "metrics_endpoint": "https://172.16.5.4:9615",
+  "id": "942ff35e-f048-4d10-ae61-6cb970c"
+}
