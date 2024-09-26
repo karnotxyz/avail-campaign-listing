@@ -1,0 +1,8 @@
+{
+  "name": "Soheila09naz",
+  "logo": "https://r.resimlink.com/yQtp_SNM2.png",
+  "rpc_url": "http://91.107.133.104:9944",
+  "explorer_url": "http://91.107.133.104:4000",
+  "metrics_endpoint": "http://91.107.133.104:9615/metrics",
+  "id": "d128a71f-f51b-4a71-8fdb-8711849a3d85"
+}
