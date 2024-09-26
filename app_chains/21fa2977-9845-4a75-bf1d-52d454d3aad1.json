@@ -1,0 +1,8 @@
+{
+  "name": "zianlin",
+  "logo": "https://i.ibb.co/cC3xzP7/paimon1.png",
+  "rpc_url": "http://202.157.186.96:9944",
+  "explorer_url": "http://202.157.186.96:4000",
+  "metrics_endpoint": "http://202.157.186.96:9615/metrics",
+  "id": "21fa2977-9845-4a75-bf1d-52d454d3aad1"
+}
