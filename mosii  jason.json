@@ -1,0 +1,8 @@
+{
+    "name": "mosii",
+    "logo": "https://i.imgur.com/kk2b4AT.png",
+    "rpc_url": "http://46.249.100.39:9944",
+    "explorer_url": "http://46.249.100.39:4000",
+    "metrics_endpoint": "http://46.249.100.39:9615/metrics",
+    "id": "e8897930-72ff-4fc2-8e61-0f9ca7cb1f73"
+  }
