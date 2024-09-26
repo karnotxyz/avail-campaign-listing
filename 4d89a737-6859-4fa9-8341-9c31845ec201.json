@@ -1,0 +1,8 @@
+{
+  "name": "alisan22",
+  "logo": "https://r.resimlink.com/a_gyZYV.png",
+  "rpc_url": "https://167.233.5.235:9944/",
+  "explorer_url": "https://167.233.5.235:4000",
+  "metrics_endpoint": "https://167.233.5.235:9615/metrics",
+  "id": "4d89a737-6859-4fa9-8341-9c31845ec201"
+}
