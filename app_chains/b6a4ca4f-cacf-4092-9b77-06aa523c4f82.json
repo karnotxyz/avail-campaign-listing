@@ -1,0 +1,8 @@
+{
+  "name": "singgih",
+  "logo": "https://postimg.cc/4KW8g9LM",
+  "rpc_url": "http://164.90.155.39:9944",
+  "explorer_url": "http://164.90.155.39:4000",
+  "metrics_endpoint": "http://164.90.155.39:9615/metrics",
+  "id": "b6a4ca4f-cacf-4092-9b77-06aa523c4f82"
+}
