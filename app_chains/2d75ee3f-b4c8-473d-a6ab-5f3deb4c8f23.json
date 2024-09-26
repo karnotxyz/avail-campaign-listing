@@ -1,0 +1,8 @@
+{
+    "name": "zerowave",
+    "logo": "https://ibb.co/BfYmCBw",
+    "rpc_url": "http://api.zerowave.my.id/avail",
+    "explorer_url": "http://avail.zerowave.my.id",
+    "metrics_endpoint": "http://api.zerowave.my.id/avail/metrics",
+    "id": "2d75ee3f-b4c8-473d-a6ab-5f3deb4c8f23"
+  }
