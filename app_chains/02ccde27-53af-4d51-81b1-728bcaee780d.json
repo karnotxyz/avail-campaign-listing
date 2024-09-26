@@ -1,0 +1,8 @@
+{
+  "name": "Zem",
+  "logo": "https://ibb.co/QpDSP1M",
+  "rpc_url": "https://46.250.243.106:9944",
+  "explorer_url": "https://46.250.243.106:4000",
+  "metrics_endpoint": "https://46.250.243.106:9615/metrics",
+  "id": "bc101b45-21b9-4886-acc4-6fe681f2e6c5"
+}
