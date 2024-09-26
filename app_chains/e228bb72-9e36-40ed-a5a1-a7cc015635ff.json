@@ -1,0 +1,8 @@
+{
+  "name": "casbolat",
+  "logo": "https://r.resimlink.com/fhpivaH.jpg",
+  "rpc_url": "http://65.109.3.252:9944",
+  "explorer_url": "http://65.109.3.252:4000",
+  "metrics_endpoint": "http://65.109.3.252:9615/metrics",
+  "id": "e228bb72-9e36-40ed-a5a1-a7cc015635ff"
+}
