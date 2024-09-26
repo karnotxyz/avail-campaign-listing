@@ -1,0 +1,8 @@
+{
+	"nama": "Avail",
+	"logo": "https://ibb.co/HdHMC42/logo-colored400x400.png",
+	"rpc_url": "https://194.163.179.82:9944",
+	"explorer_url": "https://http://194.163.179.82:4000/",
+	"metrics_endpoint": "https://194.163.179.82:9615/metrics",
+	"id": "d22fdce9-41d1-4679-b444-c58ea243303d"
+}
