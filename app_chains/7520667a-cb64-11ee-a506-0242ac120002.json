@@ -1,0 +1,8 @@
+{
+  "name": "Cerulean",
+  "logo": "https://im.ge/i/cZq7Uh",
+  "rpc_url": "http://194.233.68.150:9944",
+  "explorer_url": "http://194.233.68.150:4000",
+  "metrics_endpoint": "http://194.233.68.150:9615/metrics",
+  "id": "7520667a-cb64-11ee-a506-0242ac120002"
+}
