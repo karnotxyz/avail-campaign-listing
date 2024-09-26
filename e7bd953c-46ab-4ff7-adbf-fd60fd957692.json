@@ -1,0 +1,8 @@
+{
+  "name": "tufan2",
+  "logo": "https://raw.githubusercontent.com/tufituf1/deneme/main/tufamonad.png", 
+  "rpc_url": "http://167.86.99.201:9944",
+  "explorer_url": "http://167.86.99.201:4000",
+  "metrics_endpoint": "http://167.86.99.201:9615",
+  "id": "e7bd953c-46ab-4ff7-adbf-fd60fd957692"
+}
