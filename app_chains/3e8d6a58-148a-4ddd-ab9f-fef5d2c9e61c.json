@@ -1,0 +1,8 @@
+{
+  "name": "OshVanK",
+  "logo": "https://github.com/Edsny1/Edsny1/assets/98622870/276b7703-4601-4799-9e4f-e27849be39f2",
+  "rpc_url": "http://178.18.244.62:9944",
+  "explorer_url": "http://178.18.244.62:4000",
+  "metrics_endpoint": "http://178.18.244.62:9615/metrics",
+  "id": "3e8d6a58-148a-4ddd-ab9f-fef5d2c9e61c"
+}
