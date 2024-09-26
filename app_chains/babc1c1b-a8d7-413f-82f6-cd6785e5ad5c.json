@@ -1,0 +1,8 @@
+{
+  "name": "mahcubyanchain",
+  "logo": "https://r.resimlink.com/JM3I6LBWu.png",
+  "rpc_url": "http://65.21.56.172:9944",
+  "explorer_url": "http://65.21.56.172:4000",
+  "metrics_endpoint": "http://65.21.56.172:9615/metrics",
+  "id": "babc1c1b-a8d7-413f-82f6-cd6785e5ad5c"
+}
