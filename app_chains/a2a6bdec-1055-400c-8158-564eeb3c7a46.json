@@ -1,0 +1,8 @@
+ {
+  "name": "tecnodes",
+  "logo": "https://www.tecnodes.network/src/images/logo.png",
+  "rpc_url": "https://rpc.madara.tecnodes.network",
+  "explorer_url": "http://65.21.88.86:4000",
+  "metrics_endpoint": "https://metrics.madara.tecnodes.network/metrics",
+  "id": "a2a6bdec-1055-400c-8158-564eeb3c7a46"
+}
