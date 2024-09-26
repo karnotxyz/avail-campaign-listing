@@ -1,0 +1,8 @@
+{
+  "name": "AvailSwap",
+  "logo": "https://i.ibb.co/N7kjYM4/availswap.png",
+  "rpc_url": "http://65.109.158.97:9944/",
+  "explorer_url": "https://65.109.158.97:4000/",
+  "metrics_endpoint": "http://65.109.158.97:9615/metrics",
+  "id": "80cc534b-43e2-46ae-a570-4d0c9b630b07"
+}
