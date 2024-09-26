@@ -1,0 +1,8 @@
+{
+  "name": "mozaik",
+  "logo": "https://r.resimlink.com/ydPOS1ZWJo.jpg",
+  "rpc_url": "http://184.174.38.166:9944",
+  "explorer_url": "http://184.174.38.166:4000",
+  "metrics_endpoint": "http://184.174.38.166:9615",
+  "id": "90020e2c-9264-4073-9f41-7332564d3a99"
+}
