@@ -1,0 +1,8 @@
+{
+  "name": "elrond",
+  "logo": "https://i.imgur.com/j8i5aiP.png",
+  "rpc_url": "http://65.109.13.124:9944",
+  "explorer_url": "http://65.109.13.124:4000",
+  "metrics_endpoint": "http://65.109.13.124:9615/metrics",
+  "4e6f0d07-917a-4295-ad17-71782199cb10"
+}
