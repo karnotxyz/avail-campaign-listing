@@ -1,0 +1,9 @@
+{
+    "name": "madarafaik",
+    "logo": "https://r.resimlink.com/pKty4kmw.jpg",
+    "rpc_url": "http://173.249.48.74:9944",
+    "explorer_url": "http://173.249.48.74:4000",
+    "metrics_endpoint": "http://173.249.48.74/metrics",
+    "id": "781c0839-4c08-4d3e-9b3c-445e730f5cea"
+  }
+  
