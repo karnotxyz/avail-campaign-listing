@@ -1,0 +1,8 @@
+{
+  "name": "kobzar22",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJMaxlZJmgTGOBZrpE6r6g3x40O0E0MLAUQ&usqp=CAU",
+  "rpc_url": "http://38.242.194.30:9944",
+  "explorer_url": "http://38.242.194.30:4000",
+  "metrics_endpoint": "http://38.242.194.30:9615/metrics",
+  "id": "a40b7d35-c71e-419c-932f-de76476a6932"
+}
