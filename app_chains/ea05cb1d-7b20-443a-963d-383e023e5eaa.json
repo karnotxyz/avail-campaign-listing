@@ -1,0 +1,8 @@
+{
+  "name": "yjglshq",
+  "logo": "https://r.resimlink.com/xzLDi-KGn.jpg",
+  "rpc_url": "http://147.45.71.203:9944",
+  "explorer_url": "http://147.45.71.203:4000",
+  "metrics_endpoint": "http://147.45.71.203:9615/metrics",
+  "id": "ea05cb1d-7b20-443a-963d-383e023e5eaa"
+}
