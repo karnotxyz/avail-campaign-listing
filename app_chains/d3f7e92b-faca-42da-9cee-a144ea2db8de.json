@@ -1,0 +1,8 @@
+{
+  "name": "doskey",
+  "logo": "https://i.ibb.co/9qd7P0F/1706380254022.png",
+  "rpc_url": "http://167.86.102.225:9944",
+  "explorer_url": "http://167.86.102.225:4000",
+  "metrics_endpoint": "http://167.86.102.225:9615/metrics",
+  "id": "d3f7e92b-faca-42da-9cee-a144ea2db8de"
+}
