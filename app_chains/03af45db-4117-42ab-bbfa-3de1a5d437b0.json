@@ -1,0 +1,8 @@
+{
+  "name": "phatbm",
+  "logo": "https://github.com/toanbm85/profile/blob/main/phatbm.jpg",
+  "rpc_url": "http://31.220.72.131:9944",
+  "explorer_url": "http://31.220.72.131:4000",
+  "metrics_endpoint": "http://31.220.72.131:9615/metrics",
+  "id": "03af45db-4117-42ab-bbfa-3de1a5d437b0"
+}
