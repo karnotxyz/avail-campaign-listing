@@ -1,0 +1,8 @@
+{
+  "name": "murat",
+  "logo": "https://r.resimlink.com/6glK0Dnub.jpg",
+  "rpc_url": "http://95.217.15.200:9944",
+  "explorer_url": "http://95.217.15.200:4000",
+  "metrics_endpoint": "http://95.217.15.200:9615",
+  "id": "2cf9600c-fe6f-4c10-b59f-1f3cfa745cb4"
+}
