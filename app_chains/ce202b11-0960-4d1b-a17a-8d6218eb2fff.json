@@ -1,0 +1,8 @@
+{
+  "name": "zeroknowledge",
+  "logo": "https://i.ibb.co.com/7v3rSXg/zk.png",
+  "rpc_url": "http://157.90.128.250:9944",
+  "explorer_url": "http://157.90.128.250:4000/",
+  "metrics_endpoint": "http://157.90.128.250:9615/metrics",
+  "id": "ce202b11-0960-4d1b-a17a-8d6218eb2fff"
+}
