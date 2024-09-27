@@ -1,0 +1,8 @@
+{
+  "name": "stjunior",
+  "logo": "https://i.ibb.co.com/8xQjTdH/logo.jpg",
+  "rpc_url": "http://95.217.58.189:9944",
+  "explorer_url": "http://95.217.58.189:4000/",
+  "metrics_endpoint": "http://95.217.58.189:9615/metrics",
+  "id": "7434d93a-c8a8-475c-9830-5cc03de42c34"
+}
