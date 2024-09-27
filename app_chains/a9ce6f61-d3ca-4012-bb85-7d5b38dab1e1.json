@@ -1,0 +1,8 @@
+{
+  "name": "unablecente",
+  "logo": "http://43.130.3.150/logo.jpg",
+  "rpc_url": "http://43.130.3.150:9944",
+  "explorer_url": "http://43.130.3.150:4000",
+  "metrics_endpoint": "http://43.130.3.150:9615/metrics",
+  "id": "a9ce6f61-d3ca-4012-bb85-7d5b38dab1e1"
+}
