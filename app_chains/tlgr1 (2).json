@@ -1,0 +1,8 @@
+{
+  "name": "rzatb",
+  "logo": "https://github.com/rezatb68/EigenlayerNodeOperator-/blob/main/11em.png",
+  "rpc_url": "http://92.246.136.153:9944",
+  "explorer_url": "http://92.246.136.153:4000",
+  "metrics_endpoint": "http://92.246.136.153:9615",
+  "id": "1e140456-6666-48c3-9acf-82d3bf694c81"
+}
