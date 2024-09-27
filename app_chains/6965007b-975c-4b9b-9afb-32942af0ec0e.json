@@ -1,0 +1,8 @@
+{
+  "name": "dasrio",
+  "logo": "https://imgur.com/gallery/YYJR09u",
+  "rpc_url": "http://109.199.96.28:9944",
+  "explorer_url": "http://109.199.96.28:4000",
+  "metrics_endpoint": "http://109.199.96.28:9615/metrics",
+  "id": "6965007b-975c-4b9b-9afb-32942af0ec0e"
+}
