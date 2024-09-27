@@ -1,0 +1,8 @@
+{
+  "name": "ozgurgul",
+  "logo": "https://resimlink.com/eq4mx9oMG",
+  "rpc_url": "http://158.220.96.8:9944",
+  "explorer_url": "http://158.220.96.8:4000",
+  "metrics_endpoint": "http://158.220.96.8:9615/metrics",
+  "id": "e21a74fb-1534-4c60-9e21-a9cc8cfd26f9"
+}
