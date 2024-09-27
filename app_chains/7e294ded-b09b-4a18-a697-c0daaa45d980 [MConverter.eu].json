@@ -1,0 +1,8 @@
+{
+  "name": "mofficexia",
+  "logo": "https://r.resimlink.com/p1763NSEQ.png",
+  "rpc_url": "http://164.68.107.7:9944",
+  "explorer_url": "http://164.68.107.7:4000",
+  "metrics_endpoint": "http://164.68.107.7:9615",
+  "id": "7e294ded-b09b-4a18-a697-c0daaa45d980"
+}
