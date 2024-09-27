@@ -1,0 +1,8 @@
+{
+  "name": "ozgun",
+  "logo": "https://r.resimlink.com/n-53VwUIhm.png",
+  "rpc_url": "http://64.23.160.54:9944",
+  "explorer_url": "http://64.23.160.54:4000",
+  "metrics_endpoint": "http://64.23.160.54:9615",
+  "id": "02697132-fbf9-47af-9e3a-066d2f3720f4"
+}
