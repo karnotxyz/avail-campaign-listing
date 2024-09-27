@@ -1,0 +1,8 @@
+{
+  "name": "luna_9669",
+  "logo": "https://i.ibb.co.com/2FqtmCX/luna.jpg",
+  "rpc_url": "http://135.181.183.93:9944",
+  "explorer_url": "http://135.181.183.93:4000/",
+  "metrics_endpoint": "http://135.181.183.93:9615/metrics",
+  "id": "2a10f8c5-b038-4c76-aec3-ea098ef0c131"
+}
