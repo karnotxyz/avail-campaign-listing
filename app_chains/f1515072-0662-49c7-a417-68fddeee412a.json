@@ -1,0 +1,8 @@
+{
+  "name": "chaosen",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "http://172.210.176.229:9944",
+  "explorer_url": "http://172.210.176.229:4000",
+  "metrics_endpoint": "http://172.210.176.229:9615/metrics",
+  "id": "f1515072-0662-49c7-a417-68fddeee412a"
+}
