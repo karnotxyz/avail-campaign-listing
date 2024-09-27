@@ -1,0 +1,8 @@
+{
+  "name": "suat3",
+  "logo": "https://r.resimlink.com/IwWtAh.jpg",
+  "rpc_url": "http://207.180.203.248:9944",
+  "explorer_url": "http://207.180.203.248:4000",
+  "metrics_endpoint": "http://207.180.203.248:9615",
+  "id": "dc58c7fb-9fac-4739-85b7-2427257bd798"
+}
