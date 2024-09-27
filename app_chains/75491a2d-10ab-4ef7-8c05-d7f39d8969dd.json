@@ -1,0 +1,8 @@
+  {
+    "name": "alihan1907",
+    "logo": "https://i.imgur.com/Y1VJncy.png",
+    "rpc_url": "http://207.180.241.146:9944",
+    "explorer_url": "http://207.180.241.146:4000",
+    "metrics_endpoint": "http://207.180.241.146:9615/metrics",
+    "id": "75491a2d-10ab-4ef7-8c05-d7f39d8969dd"
+  }
