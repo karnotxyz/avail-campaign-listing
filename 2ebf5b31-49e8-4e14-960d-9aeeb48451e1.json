@@ -1,0 +1,8 @@
+{
+  "name": "MinhChain",
+  "logo": "https://raw.githubusercontent.com/securitycoder/Yonancy1804/ecce9e18075e24af9931969cc5ccf1ffa9e620e8/MinhChainLogo.png",
+  "rpc_url": "https://rpc.madara.validator.today",
+  "explorer_url": "https://explorer.madara.validator.today",
+  "metrics_endpoint": "https://metrics.madara.validator.today",
+  "id": "2ebf5b31-49e8-4e14-960d-9aeeb48451e1"
+}
