@@ -1,0 +1,8 @@
+{
+  "name": "valxnode",
+  "logo": "https://i.ibb.co/B236PWt/logo-color.png",
+  "rpc_url": "http://108.175.0.150:9944",
+  "explorer_url": "http://108.175.0.150:4000",
+  "metrics_endpoint": "http://108.175.0.150:9615/metrics",
+  "id": "6d2a9b92-004c-4cca-a900-c3f014629ada"
+}
