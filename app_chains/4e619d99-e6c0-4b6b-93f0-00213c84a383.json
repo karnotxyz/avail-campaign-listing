@@ -1,0 +1,8 @@
+{
+  "name": "kurukafa",
+  "logo": "https://r.resimlink.com/5VCav.png",
+  "rpc_url": "http://167.86.69.247:9944",
+  "explorer_url": "http://167.86.69.247:4000",
+  "metrics_endpoint": "http://167.86.69.247:9615/metrics",
+  "id": "4e619d99-e6c0-4b6b-93f0-00213c84a383"
+}
