@@ -1,0 +1,8 @@
+{
+  "name": "MADARA",
+  "logo": "https://i.ibb.co/2FHQB12/imresizer-1708247633758.png",
+  "rpc_url": "http://63.142.255.96:9944",
+  "explorer_url": "http://63.142.255.96:4000",
+  "metrics_endpoint": "http://63.142.255.96:9615/metrics",
+  "id": "55e80b9d-9699-4d52-a97a-57b7c23f62a4"
+}
