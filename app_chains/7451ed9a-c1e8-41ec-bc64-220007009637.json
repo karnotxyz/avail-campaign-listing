@@ -1,0 +1,8 @@
+{
+  "name": "vegancrac",
+  "logo": "http://129.226.157.248/logo.jpg",
+  "rpc_url": "http://129.226.157.248:9944",
+  "explorer_url": "http://129.226.157.248:4000",
+  "metrics_endpoint": "http://129.226.157.248:9615/metrics",
+  "id": "7451ed9a-c1e8-41ec-bc64-220007009637"
+}
