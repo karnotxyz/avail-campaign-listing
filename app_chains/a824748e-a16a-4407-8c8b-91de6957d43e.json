@@ -1,0 +1,8 @@
+{
+  "name": "avail",
+  "logo": "https://r.resimlink.com/WPVmN6JE9.jpg",
+  "rpc_url": "http://49.13.86.113:9944",
+  "explorer_url": "http://49.13.86.113:4000",
+  "metrics_endpoint": "http://49.13.86.113:9615",
+  "id": "a824748e-a16a-4407-8c8b-91de6957d43e"
+}
