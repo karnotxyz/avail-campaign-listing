@@ -1,0 +1,8 @@
+{
+  "name": "ahmet",
+  "logo": "https://r.resimlink.com/6qCf1GkHBJP.jpg", 
+  "rpc_url": "http://37.60.243.184:9944",
+  "explorer_url": "37.60.243.184:4000",
+  "metrics_endpoint": "http://37.60.243.184:9615/metrics",
+  "id": "149aebc2-9fc8-4b17-bb78-2ac5e86f6d47"
+} 
