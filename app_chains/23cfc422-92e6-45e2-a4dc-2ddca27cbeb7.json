@@ -1,0 +1,8 @@
+ {
+    "name": "tartar",
+   "logo": "https://ibb.co/34qc86d",
+   "rpc_url": "http:http://167.86.97.224///:9944",
+   "explorer_url": "http://http://167.86.97.224/:4000",
+   "metrics_endpoint": "http://167.86.97.224:9615/metrics",
+   "id": "23cfc422-92e6-45e2-a4dc-2ddca27cbeb7”
+   }
