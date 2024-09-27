@@ -1,0 +1,8 @@
+{
+  "name": "jhpineapple",
+  "logo": "https://i.ibb.co/LZWkYVK/Kakao-Talk-20240124-231221198.png",
+  "rpc_url": "https:/34.39.12.146:9944",
+  "explorer_url": "https://34.39.12.146:4000",
+  "metrics_endpoint": "https://34.39.12.146:9615/metrics",
+  "id": "1b129e9b-c126-4fb7-a285-10286ddb97bd"
+}
