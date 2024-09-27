@@ -1,0 +1,8 @@
+{
+  "name": "nigoin2",
+  "logo": "https://r.resimlink.com/Cu1mEYTaRgX.png", 
+  "rpc_url": "http://154.38.161.135:9944",
+  "explorer_url": "http://154.38.161.135:4000",
+  "metrics_endpoint": "http://154.38.161.135:9615",
+  "id": "05e59aab-c6b8-4a84-b8a4-b807867eeded" 
+}
