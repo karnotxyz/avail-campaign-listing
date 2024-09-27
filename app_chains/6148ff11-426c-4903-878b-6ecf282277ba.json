@@ -1,0 +1,7 @@
+{
+  "name": "minivipers",
+  "logo": "https://keybase.io/minivipers",
+  "rpc_url": "http://158.220.126.51:9944",
+  "explorer_url": "http://158.220.126.51:4000",
+  "metrics_endpoint": "http://158.220.126.51:9615",
+  "id": "6148ff11-426c-4903-878b-6ecf282277ba"
