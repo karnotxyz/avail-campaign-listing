@@ -40,7 +40,15 @@ Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pu
 
 ## FAQs
 
-### How to fix prettier?
+### How to fix prettier? dajf
+fefaojf\
+fjegghg
+fiekig
+ojgwgps
+griggjphr
+grogjrjpgg]
+gogjsr
+g
 
 Install npx and run `npx prettier@latest --write .` on the repo root.
 
