@@ -1,0 +1,8 @@
+  {
+    "name": "Jix0n",
+    "logo": "https://r.resimlink.com/IWnC1xP.jpg", 
+    "rpc_url": "http://135.181.104.97:9944",
+    "explorer_url": "http://135.181.104.97:4000",
+    "metrics_endpoint": "http://135.181.104.97:9615/metrics", 
+    "id": "0d11a48c-ac13-41ee-8bd4-4d1a4b44d6fb"
+  }
