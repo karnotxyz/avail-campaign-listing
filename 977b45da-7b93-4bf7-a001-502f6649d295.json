@@ -1,0 +1,8 @@
+{
+  "name": "carotnode",
+  "logo": "https://i.postimg.cc/d0ZGncd6/images.jpg",
+  "rpc_url": "http://173.212.212.53:9944",
+  "explorer_url": "http://173.212.212.53:4000",
+  "metrics_endpoint": "http://173.212.212.53:9615/metrics",
+  "id": "977b45da-7b93-4bf7-a001-502f6649d295"
+}
