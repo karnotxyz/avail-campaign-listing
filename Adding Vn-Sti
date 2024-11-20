@@ -1,0 +1,8 @@
+{
+  "name": "Vn-Sti",
+  "logo": "https://ibb.co/MsFzyGQ",
+  "rpc_url": "http://118.68.248.253:9944",
+  "explorer_url": "http://118.68.248.253:4000",
+  "metrics_endpoint": "http://118.68.248.253:9615/metrics",
+  "id": "fbe6cffd-0931-4877-92c5-f0c7fdb1ef96"
+}
