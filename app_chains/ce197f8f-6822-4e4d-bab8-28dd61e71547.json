@@ -1,0 +1,8 @@
+  {
+    "name": "ghasem",
+    "logo": "https://r.resimlink.com/g6xP-AoG_.png",
+    "rpc_url": "http://193.107.109.52:9944",
+    "explorer_url": "http://193.107.109.52:4000",
+    "metrics_endpoint": "http://193.107.109.52:9615/metrics", 
+    "id": "ce197f8f-6822-4e4d-bab8-28dd61e71547"
+  }
