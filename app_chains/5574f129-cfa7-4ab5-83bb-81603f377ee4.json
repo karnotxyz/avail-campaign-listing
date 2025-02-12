@@ -1,0 +1,8 @@
+{
+  "name": "iltaconbe",
+  "logo": "https://gravatar.com/avatar/fd15ba49ef9def3af54502fd084fc9b7?s=400&d=robohash&r=x",
+  "rpc_url": "http://43.134.98.177:9944",
+  "explorer_url": "http://43.134.98.177:4000",
+  "metrics_endpoint": "http://43.134.98.177:9615/metrics",
+  "id": "5574f129-cfa7-4ab5-83bb-81603f377ee4"
+}
