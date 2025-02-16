@@ -1,0 +1,8 @@
+{
+  "name": "brad",
+  "logo": "https://i.ibb.co/9wKynnF/image-93.png",
+  "rpc_url": "http://185.188.249.231:9944",
+  "explorer_url": "http://185.188.249.231:4000",
+  "metrics_endpoint": "http://185.188.249.231:9615/metrics",
+  "id": "13f24ff0-9a0e-43f9-8a47-a77732baf325"
+}
