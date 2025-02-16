@@ -1,0 +1,8 @@
+{
+  "name": "bahar",
+  "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/159613542/305175142-1cd351b0-2994-4ac9-83fd-c7dec15c4d70.png",
+  "rpc_url": "http://159.69.239.27:9944",
+  "explorer_url": "http://159.69.239.27:4000",
+  "metrics_endpoint": "http://159.69.239.27:9615/metrics",
+  "id": "22041e5e-033a-4d07-b1e0-5ff66299e473"
+}
