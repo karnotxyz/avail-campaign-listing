@@ -1,0 +1,8 @@
+{
+  "name": "smart",
+  "logo": "https://i.imgur.com/FJ6mPlw.jpeg",
+  "rpc_url": "http://43.163.208.170:9944",
+  "explorer_url": "http://43.163.208.170:4000",
+  "metrics_endpoint": "http://43.163.208.170:9615/metrics",
+  "id": "92eebbae-4837-4b34-97de-138ac68d45ec"
+}
