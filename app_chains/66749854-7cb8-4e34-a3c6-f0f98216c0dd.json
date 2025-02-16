@@ -1,0 +1,8 @@
+{
+  "name": "akfu",
+  "logo": "https://r.resimlink.com/1hSUovZ.png",
+  "rpc_url": "http://37.60.253.133:9944",
+  "explorer_url": "http://37.60.253.133:4000",
+  "metrics_endpoint": "http://37.60.253.133:9615/metrics",
+  "id": "66749854-7cb8-4e34-a3c6-f0f98216c0dd"
+}
