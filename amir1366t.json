@@ -1,0 +1,8 @@
+  {
+    "name": "amir1366t",
+    "logo": "https://r.resimlink.com/CfwrE4qDW.png",
+    "rpc_url": "http://154.91.170.16:9944",
+    "explorer_url": "http://154.91.170.16:4000",
+    "metrics_endpoint": "http://154.91.170.16:9615/metrics", 
+    "id": "5bcbc6f0-8396-487f-97bf-f0d130f780a9"
+  }
