@@ -1,0 +1,8 @@
+{
+  "name": "johnygel",
+  "logo": "https://i.ibb.co.com/QnYBfgs/shark.jpg",
+  "rpc_url": "http://65.108.65.36:9944",
+  "explorer_url": "http://65.108.65.36:4000/",
+  "metrics_endpoint": "http://65.108.65.36/metrics",
+  "id": "e12f2429-f57d-4aad-92b1-e29897bc10f6"
+}
