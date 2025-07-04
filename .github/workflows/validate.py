@@ -8,7 +8,7 @@ APP_CHAIN_DIRECTORY = os.path.join(os.getcwd(), "app_chains")
 JSON_URL = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/contents/app_chains"
 TREE_API = "https://api.github.com/repos/karnotxyz/avail-campaign-listing/git/trees"
 ROOT_TREE_URL = f"{TREE_API}/main"
-TIMEOUT_IN_MS = 500
+TIMEOUT_IN_MS = 1000
 
 
 def validate_json_array(json_file):
