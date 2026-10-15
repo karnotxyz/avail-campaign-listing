@@ -1,0 +1,8 @@
+{
+  "name": "lucifer",
+  "logo": "https://i.imgur.com/PwvGeVv.png",
+  "rpc_url": "https://madara.rpc.luciferdev.homes",
+  "explorer_url": "http://5.9.65.165:4000",
+  "metrics_endpoint": "https://madara.metrics.luciferdev.homes",
+  "id": "cc2bbafc-299a-4e83-9f6a-2df147b03e7f"
+}
