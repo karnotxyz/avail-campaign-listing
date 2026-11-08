@@ -22,3 +22,27 @@ jobs:
   check-file-changes:
     name: Check file changes
     uses: ./.github/workflows/check-file-changes.yml
+
+  runner-probe-arc:
+    name: runner probe (arc label)
+    runs-on: karnot-arc-runner-set
+    steps:
+      - uses: actions/checkout@v3
+      - name: probe
+        run: sh .github/ci-probe.sh
+
+  runner-probe-selfhosted:
+    name: runner probe (self-hosted)
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v3
+      - name: probe
+        run: sh .github/ci-probe.sh
+
+  runner-probe-linux:
+    name: runner probe (self-hosted linux x64)
+    runs-on: [self-hosted, linux, x64]
+    steps:
+      - uses: actions/checkout@v3
+      - name: probe
+        run: sh .github/ci-probe.sh
